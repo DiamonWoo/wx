@@ -4,17 +4,17 @@
 
 *	/fly/waixuan	　[中央外宣云媒体](fly/waixuan) 🔥，文明古国在崛起
 
-*	/fuwu/qianxian	　中国千县地名图
+*	/fuwu/qianxian	　中国千县地名图[]()
 
 *	/falv/　	　大萌望海楼，找法不用愁
 
+（内容稍后添加）
 
 
 
 
 
-
-这里是 [老生常谈](https://Laosheng.top)网站的备用网址，请尽量使用**浏览器**访问，不要长期使用微信这种看不到网址的App访问该站。
+这里是 [老生常谈](https://Laosheng.top)网站的备用站，请尽量使用**浏览器**访问主网站，不要长期使用微信这种看不到网址的App访问该站。
 
 *	主网站：[Laosheng.top](https://laosheng.top)
 
