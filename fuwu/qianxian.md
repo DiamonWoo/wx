@@ -58,7 +58,7 @@
 	例如：北京市房山区。
 
 
-<h3 id="11">11 <a href="http://www.beijing.gov.cn/renwen/bjgk/" title="110000 中华人民共和国首都">北京市</a>　京　<a href="https://map.tianditu.gov.cn/share/172b04c38ae8445fa8611090e751e107">地图测试</a></h3>
+<h3 id="11">11 <a href="http://www.beijing.gov.cn/renwen/bjgk/" title="110000 中华人民共和国首都">北京市</a>　京　<a href="https://beijing.tianditu.gov.cn/bzdt/img/homeimg/c6q2020_25w_1.jpg">地图测试</a></h3>
 110101 [东城区](http://www.bjdch.gov.cn/n4659/ )⠀
 110102 [西城区](http://www.bjxch.gov.cn/rwxc.html )⠀
 110105 [朝阳区](http://www.bjchy.gov.cn/chaoyang/ '北京朝阳,长春市有同名区')⠀
@@ -76,7 +76,7 @@
 110118 [密云区](http://www.bjmy.gov.cn )⠀
 110119 [延庆区](http://www.bjyq.gov.cn )⠀
 
-<h3 id="12">12 <a href="http://www.tj.gov.cn/sq/" title="120000 设16个区">天津市</a>　津　<a href="https://map.tianditu.gov.cn/share/06fa88160ab74c4bbef8d88d18ab88be">地图测试</a></h3>
+<h3 id="12">12 <a href="http://www.tj.gov.cn/sq/" title="120000 设16个区">天津市</a>　津　<a href="https://ghhzrzy.tj.gov.cn/bsfw_143/bzdt/202012/W020201205758547583225.jpg">地图测试</a></h3>
 120101 [和平区](http://www.tjhp.gov.cn '天津和平,沈阳市有同名区')⠀
 120102 [河东区](http://www.tjhd.gov.cn '天津河东,临沂市有同名区')⠀
 120103 [河西区](http://www.tjhx.gov.cn )⠀
@@ -95,7 +95,7 @@
 120118 [静海区](http://www.tjjh.gov.cn )⠀
 120119 [蓟州区](http://www.tjjz.gov.cn )⠀
 
-<h3 id="13">13 <a href="http://www.hebei.gov.cn/hebei/14462058/14462085/" title="130000 ">河北省</a>　冀　<a href="https://map.tianditu.gov.cn/share/9fa0c87f5abb479ab7afdf0f9f205ec6">地图测试</a></h3>
+<h3 id="13">13 <a href="http://www.hebei.gov.cn/hebei/14462058/14462085/" title="130000 ">河北省</a>　冀　<a href="https://cn.bing.com/maps?q=河北省">地图测试</a></h3>
 
 130100 <b>[石家庄市](http://www.sjz.gov.cn/col/1596004092567/index.html )</b>　  
 130102 [长安区](http://www.sjzca.gov.cn '石家庄长安,西安市有同名区')⠀
@@ -103,7 +103,7 @@
 130105 [新华区](http://www.xhqsjz.gov.cn '新华区石家庄，有同名区3个')⠀
 130107 [井陉矿区](http://www.sjzkq.gov.cn )⠀
 130108 [裕华区](http://www.yuhuaqu.gov.cn )⠀
-130109 [藁城区](http://www.gc.gov.cn )⠀
+130109 [藁城区](http://www.gc.gov.cn '藁 gǎo，草本植物名')⠀
 130110 [鹿泉区](http://www.sjzlq.gov.cn )⠀
 130111 [栾城区](http://www.luancheng.gov.cn )⠀
 130121 [井陉县](http://www.sjzjx.gov.cn )⠀
@@ -269,7 +269,7 @@
 131024 [香河县](http://www.xianghe.gov.cn )⠀
 131025 [大城县](http://www.dacheng.gov.cn )⠀
 131026 [文安县](http://www.wenan.gov.cn )⠀
-131028 [大厂回族自治县](http://www.lfdc.gov.cn )⠀
+131028 [大厂回族自治县](http://www.lfdc.gov.cn '河北省在京津之间的飞地')⠀
 131081 [霸州市](http://www.bazhou.gov.cn )⠀
 131082 [三河市](http://www.san-he.gov.cn )⠀
 
@@ -286,7 +286,7 @@
 131128 [阜城县](http://www.hbfcx.gov.cn )⠀
 131182 [深州市](http://www.shenzhou.gov.cn )⠀
 
-<h3 id="14">14 <a href="http://www.shanxi.gov.cn/sq/" title="140000 ">山西省</a>　晋　<a href="https://map.tianditu.gov.cn/share/2ab5459359d24393a0ac767af8a86550">地图测试</a></h3>
+<h3 id="14">14 <a href="http://www.shanxi.gov.cn/sq/" title="140000 ">山西省</a>　晋　<a href="https://cn.bing.com/maps?q=山西省">地图测试</a></h3>
 
 140100 <b>[太原市](http://www.taiyuan.gov.cn/zjty/ )</b>　  
 140105 [小店区](http://www.tyxd.gov.cn )⠀
@@ -427,7 +427,7 @@
 141181 [孝义市](http://www.xiaoyi.gov.cn )⠀
 141182 [汾阳市](http://www.fenyang.gov.cn )⠀
 
-<h3 id="15">15 <a href="https://www.nmg.gov.cn" title="150000 ">内蒙古自治区</a>　蒙　<a href="https://map.tianditu.gov.cn/share/443e420f0f07484d8d5b090b86f97401">地图测试</a></h3>
+<h3 id="15">15 <a href="https://www.nmg.gov.cn" title="150000 ">内蒙古自治区</a>　蒙　<a href="https://cn.bing.com/maps?q=内蒙古">地图测试</a></h3>
 
 150100 <b>[呼和浩特市](http://www.huhhot.gov.cn/2022_zjqc/ '青城，中国乳都')</b>　  
 150102 [新城区](http://www.xinchengqu.gov.cn '呼和浩特市,西安市有同名区')⠀
@@ -556,7 +556,7 @@
 152922 [阿拉善右旗](http://www.alsyq.gov.cn )⠀
 152923 [额济纳旗](http://www.ejnq.gov.cn )⠀
 
-<h3 id="21">21 <a href="http://www.ln.gov.cn" title="210000 ">辽宁省</a>　辽　<a href="https://map.tianditu.gov.cn/share/6325f8e6614a41669aa0c0fca7d7e1b9">地图测试</a></h3>
+<h3 id="21">21 <a href="http://www.ln.gov.cn" title="210000 ">辽宁省</a>　辽　<a href="https://cn.bing.com/maps?q=辽宁省">地图测试</a></h3>
 
 210100 <b>[沈阳市](http://www.shenyang.gov.cn )</b>F⠀  
 210102 [和平区](http://www.syhp.gov.cn '有同名区')⠀
@@ -591,7 +591,7 @@
 210304 [立山区](http://www.lishan.gov.cn )⠀
 210311 [千山区](http://www.qianshan.gov.cn )⠀
 210321 [台安县](http://www.lntaian.gov.cn )⠀
-210323 [岫岩满族自治县](http://www.xiuyan.gov.cn )⠀
+210323 [岫岩满族自治县](http://www.xiuyan.gov.cn '岫 xiù，有穴的山')⠀
 210381 [海城市](http://www.haicheng.gov.cn )⠀
 
 210400 <b>[抚顺市](http://www.fushun.gov.cn )</b>　  
@@ -605,7 +605,7 @@
 
 210500 <b>[本溪市](http://www.benxi.gov.cn/sq )</b>　  
 210502 [平山区](http://www.pingshan.gov.cn )⠀
-210503 [溪湖区](https://xh.benxi.gov.cn/bnxh '网站速度极慢')⠀
+210503 [溪湖区](https://xh.benxi.gov.cn/bnxh '曾经网站速度极慢')⠀
 210504 [明山区](http://www.mingshan.gov.cn/zjms )⠀
 210505 [南芬区](http://www.nanfen.gov.cn )⠀
 210521 [本溪满族自治县](http://www.bx.gov.cn )⠀
@@ -686,7 +686,7 @@
 211422 [建昌县](http://www.jianchang.gov.cn )⠀
 211481 [兴城市](http://www.zg-xc.gov.cn )⠀
 
-<h3 id="22">22 <a href="http://www.jl.gov.cn" title="220000 ">吉林省</a>　吉　<a href="https://map.tianditu.gov.cn/share/4ac9da3f8f244987ba558114f8f7e672">地图测试</a></h3>
+<h3 id="22">22 <a href="http://www.jl.gov.cn" title="220000 ">吉林省</a>　吉　<a href="https://cn.bing.com/maps?q=吉林省">地图测试</a></h3>
 
 220100 <b>[长春市](http://www.changchun.gov.cn )</b>F⠀  
 220102 [南关区](http://www.nanguan.gov.cn )⠀
@@ -766,7 +766,7 @@
 222424 [汪清县](http://www.wangqing.gov.cn )⠀
 222426 [安图县](http://www.antu.gov.cn )⠀
 
-<h3 id="23">23 <a href="http://www.hlj.gov.cn" title="230000 ">黑龙江省</a>　黑　<a href="https://map.tianditu.gov.cn/share/7c095f5e40a5492ba5a1e2f0a41cb32b">地图测试</a></h3>
+<h3 id="23">23 <a href="http://www.hlj.gov.cn" title="230000 ">黑龙江省</a>　黑　<a href="https://cn.bing.com/maps?q=黑龙江">地图测试</a></h3>
 
 230100 <b>[哈尔滨市](http://www.harbin.gov.cn )</b>F⠀  
 230102 [道里区](http://www.hrbdl.gov.cn )⠀
@@ -915,7 +915,7 @@
 232721 [呼玛县](http://www.huma.gov.cn )⠀
 232722 [塔河县](http://www.dxalth.gov.cn )⠀
 
-<h3 id="31">31 <a href="http://www.shanghai.gov.cn/nw2318/" title="310000 设16个区">上海市</a>　沪　<a href="https://map.tianditu.gov.cn/share/4497acd4154740e685c050d2ffd3da35">地图测试</a></h3>
+<h3 id="31">31 <a href="http://www.shanghai.gov.cn/nw2318/" title="310000 设16个区">上海市</a>　沪　<a href="http://shanghai.tianditu.gov.cn/map/data/standardMap/上海市标准地图/5-上海市政区简图（有邻省）.jpg">地图测试</a></h3>
 310101 [黄浦区](http://www.shhuangpu.gov.cn '上海金融法院所在地')⠀
 310104 [徐汇区](http://www.xuhui.gov.cn )⠀
 310105 [长宁区](http://WWW.SHCN.GOV.CN '第一中级法院所在地')⠀
@@ -2031,7 +2031,7 @@
 429006 [天门市](http://www.tianmen.gov.cn '省直辖县，车牌：鄂R，区号0728')⠀
 429021 [神农架林区](http://www.snj.gov.cn '省直辖县，车牌：鄂P，区号0719')⠀
 
-<h3 id="43">43 <a href="http://www.hunan.gov.cn" title="430000 ">湖南省</a>　湘　<a href="https://map.tianditu.gov.cn/share/b9e1b4743658468980ef053cb271de43">地图测试</a></h3>
+<h3 id="43">43 <a href="http://www.hunan.gov.cn" title="430000 ">湖南省</a>　湘　<a href="https://cn.bing.com/maps?osid=b0721e10-a46c-4ebd-bd61-68ddd3d6787f&cp=npjyr1tdfrxm&lvl=5&v=2&sV=2&form=S00027">地图测试</a></h3>
 
 430100 <b>[长沙市](http://www.changsha.gov.cn )</b>　  
 430102 [芙蓉区](http://www.furong.gov.cn )⠀
@@ -2183,7 +2183,7 @@
 433127 [永顺县](http://www.ysx.gov.cn )⠀
 433130 [龙山县](http://www.xxls.gov.cn )⠀
 
-<h3 id="44">44 <a href="http://www.gd.gov.cn/zjgd/" title="440000 ">广东省</a>　粤　<a href="https://map.tianditu.gov.cn/share/5e230bf141e14739aaf1b39241b92b35">地图测试</a></h3>
+<h3 id="44">44 <a href="http://www.gd.gov.cn/zjgd/" title="440000 ">广东省</a>　粤　<a href="https://cn.bing.com/maps?osid=bb2ddd2a-6712-43a0-af2f-629ec8943e71&cp=mvnr7ztf4zrh&lvl=5&v=2&sV=2&form=S00027">地图测试</a></h3>
 
 440100 <b>[广州市](http://www.gz.gov.cn )</b>F⠀  
 440103 [荔湾区](http://www.lw.gov.cn )⠀
@@ -2525,7 +2525,7 @@
 469029 [保亭黎族苗族自治县](https://baoting.hainan.gov.cn/zjbt/ '省直辖县')⠀
 469030 [琼中黎族苗族自治县](http://qiongzhong.hainan.gov.cn/qzly/ '省直辖县')⠀
 
-<h3 id="50">50 <a href="http://www.cq.gov.cn/zjcq/" title="500000 设26个区12个县，另设两江新区(三北地带)">重庆市</a>　渝　<a href="https://map.tianditu.gov.cn/share/5391ebd61c63426e841ff29956c6091f">地图测试</a></h3>
+<h3 id="50">50 <a href="http://www.cq.gov.cn/zjcq/" title="500000 设26个区12个县，另设两江新区(三北地带)">重庆市</a>　渝　<a href="http://ghzrzyj.cq.gov.cn/dt/foot.html">地图测试</a></h3>
 500101 [万州区](http://www.wz.gov.cn )⠀
 500102 [涪陵区](http://www.fl.gov.cn )⠀
 500103 [渝中区](http://www.cqyz.gov.cn )⠀
@@ -3673,9 +3673,9 @@
 收录进度
 --------
 
-+	202208　各省增加‘天地图’连接。
++	202208　各省增加‘地图测试’连接。
 +	202208　政府网址收官。
-+	202208　补充各省简称、部分地市、县区的缩略名（长度大于七个字）
++	202208　补充各省简称、部分地市、县区的缩略名
 +	202204　已收录全国3212个县级以上地方政府网址（个别网址正在补全）
 +	202105　已收录全国3212个县级以上行政区划代码与地名（省、地、县）
 
@@ -3687,7 +3687,7 @@
 	老生常谈 © 2019-2022 大萌 CC BY-NC-ND
 	知识共享3.0	可转载-需署名-非营利
 	https://laosheng.top/fuwu/qianxian
-	中国千县地名图	v0.5.4	202208
+	中国千县地名图	v0.5.5	202208
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
