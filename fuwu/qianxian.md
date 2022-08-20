@@ -1,13 +1,14 @@
 老生常谈 > [有关部门](.){:target="_self"}_🕘<base target="_blank">
 
-中国千县地名图 2022
-===================
-大萌	2021~2022
+中国千县地名图
+==============
+大萌 2021~2022
 
 		建设全国统一大市场是构建新发展格局的基础支撑和内在要求。——202203 中共中央 国务院
 
 　　本页面提供中国3212个省、市、县的地名、区划代码、人民政府网址。其中省级单位35个，地市级地名336个，县区级地名2841个，区划数据截至2021年底，网址数据更新于2022年8月。  
-　　由于种种原因，目前尚有以下5个地方政府网址未收入，分别是：福建省泉州市金门县，海南省三亚市海棠区、三沙市西沙区、南沙区，台湾省。
+　　由于种种原因，目前尚有以下5个地方政府网址未收入，分别是：福建省泉州市金门县，海南省三亚市海棠区、三沙市西沙区、南沙区，台湾省。  
+　　当前正在测试各省地图。由于国内在线地图对手机浏览器用户不友好，选择赏心悦目的地图有较大难度。
 
 
 35个省级单位索引
@@ -556,7 +557,7 @@
 152922 [阿拉善右旗](http://www.alsyq.gov.cn )⠀
 152923 [额济纳旗](http://www.ejnq.gov.cn )⠀
 
-<h3 id="21">21 <a href="http://www.ln.gov.cn" title="210000 ">辽宁省</a>　辽　<a href="https://cn.bing.com/maps?q=辽宁省">地图测试</a></h3>
+<h3 id="21">21 <a href="http://www.ln.gov.cn" title="210000 ">辽宁省</a>　辽　<a href="https://map.baidu.com/search/辽宁省/@?querytype=s&wd=辽宁地图">地图测试</a></h3>
 
 210100 <b>[沈阳市](http://www.shenyang.gov.cn )</b>F⠀  
 210102 [和平区](http://www.syhp.gov.cn '有同名区')⠀
@@ -686,7 +687,7 @@
 211422 [建昌县](http://www.jianchang.gov.cn )⠀
 211481 [兴城市](http://www.zg-xc.gov.cn )⠀
 
-<h3 id="22">22 <a href="http://www.jl.gov.cn" title="220000 ">吉林省</a>　吉　<a href="https://cn.bing.com/maps?q=吉林省">地图测试</a></h3>
+<h3 id="22">22 <a href="http://www.jl.gov.cn" title="220000 ">吉林省</a>　吉　<a href="https://map.baidu.com/search/吉林省/@?querytype=s&wd=吉林地图">地图测试</a></h3>
 
 220100 <b>[长春市](http://www.changchun.gov.cn )</b>F⠀  
 220102 [南关区](http://www.nanguan.gov.cn )⠀
@@ -766,7 +767,7 @@
 222424 [汪清县](http://www.wangqing.gov.cn )⠀
 222426 [安图县](http://www.antu.gov.cn )⠀
 
-<h3 id="23">23 <a href="http://www.hlj.gov.cn" title="230000 ">黑龙江省</a>　黑　<a href="https://cn.bing.com/maps?q=黑龙江">地图测试</a></h3>
+<h3 id="23">23 <a href="http://www.hlj.gov.cn" title="230000 ">黑龙江省</a>　黑　<a href="https://map.baidu.com/search/黑龙江省/@?querytype=s&wd=黑龙江地图">地图测试</a></h3>
 
 230100 <b>[哈尔滨市](http://www.harbin.gov.cn )</b>F⠀  
 230102 [道里区](http://www.hrbdl.gov.cn )⠀
@@ -1171,7 +1172,7 @@
 331127 [景宁畲族自治县](http://www.jingning.gov.cn )⠀
 331181 [龙泉市](http://www.longquan.gov.cn )⠀
 
-<h3 id="34">34 <a href="https://www.ah.gov.cn/hfwy/" title="340000 ">安徽省</a>　皖　<a href="https://anhui.tianditu.gov.cn">地图测试</a></h3>
+<h3 id="34">34 <a href="https://www.ah.gov.cn/hfwy/" title="340000 ">安徽省</a>　皖　<a href="https://anhui.tianditu.gov.cn/map/">地图测试</a></h3>
 
 340100 <b>[合肥市](http://www.hefei.gov.cn )</b>　  
 340102 [瑶海区](http://www.hfyaohai.gov.cn )⠀
@@ -2031,7 +2032,7 @@
 429006 [天门市](http://www.tianmen.gov.cn '省直辖县，车牌：鄂R，区号0728')⠀
 429021 [神农架林区](http://www.snj.gov.cn '省直辖县，车牌：鄂P，区号0719')⠀
 
-<h3 id="43">43 <a href="http://www.hunan.gov.cn" title="430000 ">湖南省</a>　湘　<a href="https://cn.bing.com/maps?osid=b0721e10-a46c-4ebd-bd61-68ddd3d6787f&cp=npjyr1tdfrxm&lvl=5&v=2&sV=2&form=S00027">地图测试</a></h3>
+<h3 id="43">43 <a href="http://www.hunan.gov.cn" title="430000 ">湖南省</a>　湘　<a href="https://hunan.tianditu.gov.cn/pic/bzdt/2020/dt/600w1.jpg">地图测试</a></h3>
 
 430100 <b>[长沙市](http://www.changsha.gov.cn )</b>　  
 430102 [芙蓉区](http://www.furong.gov.cn )⠀
@@ -2183,7 +2184,7 @@
 433127 [永顺县](http://www.ysx.gov.cn )⠀
 433130 [龙山县](http://www.xxls.gov.cn )⠀
 
-<h3 id="44">44 <a href="http://www.gd.gov.cn/zjgd/" title="440000 ">广东省</a>　粤　<a href="https://cn.bing.com/maps?osid=bb2ddd2a-6712-43a0-af2f-629ec8943e71&cp=mvnr7ztf4zrh&lvl=5&v=2&sV=2&form=S00027">地图测试</a></h3>
+<h3 id="44">44 <a href="http://www.gd.gov.cn/zjgd/" title="440000 ">广东省</a>　粤　<a href="http://nr.gd.gov.cn/map/bzdt/map_place.html?img_id=广东省系列标准地图/成果图切片/广东省地图（地势版）132603335209204540/16开广东省地图（地势版）有邻区">地图测试</a></h3>
 
 440100 <b>[广州市](http://www.gz.gov.cn )</b>F⠀  
 440103 [荔湾区](http://www.lw.gov.cn )⠀
@@ -2349,7 +2350,7 @@
 445322 [郁南县](http://www.gdyunan.gov.cn )⠀
 445381 [罗定市](http://www.luoding.gov.cn )⠀
 
-<h3 id="45">45 <a href="http://www.gxzf.gov.cn/mlgxi/" title="450000 ">广西壮族自治区</a>　桂　<a href="https://map.tianditu.gov.cn/share/67f5e02724a94310a3bdce23c0a00eb2">地图测试</a></h3>
+<h3 id="45">45 <a href="http://www.gxzf.gov.cn/mlgxi/" title="450000 ">广西壮族自治区</a>　桂　<a href="https://map.baidu.com/search/广西壮族自治区/@?querytype=s&wd=广西地图">地图测试</a></h3>
 
 450100 <b>[南宁市](http://www.nanning.gov.cn )</b>　  
 450102 [兴宁区](http://www.nnxn.gov.cn )⠀
@@ -2525,7 +2526,7 @@
 469029 [保亭黎族苗族自治县](https://baoting.hainan.gov.cn/zjbt/ '省直辖县')⠀
 469030 [琼中黎族苗族自治县](http://qiongzhong.hainan.gov.cn/qzly/ '省直辖县')⠀
 
-<h3 id="50">50 <a href="http://www.cq.gov.cn/zjcq/" title="500000 设26个区12个县，另设两江新区(三北地带)">重庆市</a>　渝　<a href="http://ghzrzyj.cq.gov.cn/dt/foot.html">地图测试</a></h3>
+<h3 id="50">50 <a href="http://www.cq.gov.cn/zjcq/" title="500000 设26个区12个县，另设两江新区(三北地带)">重庆市</a>　渝　<a href="http://ghzrzyj.cq.gov.cn/dt/index.html?Name=重庆市地图(行政区划1)">地图测试</a></h3>
 500101 [万州区](http://www.wz.gov.cn )⠀
 500102 [涪陵区](http://www.fl.gov.cn )⠀
 500103 [渝中区](http://www.cqyz.gov.cn )⠀
@@ -3063,7 +3064,7 @@
 533422 [德钦县](http://deqin.diqing.gov.cn )⠀
 533423 [维西傈僳族自治县](http://weixi.diqing.gov.cn/mlwx/wxgk.html )⠀
 
-<h3 id="54">54 <a href="http://www.xizang.gov.cn" title="540000 ">西藏自治区</a>　藏　<a href="https://map.tianditu.gov.cn/share/4784583d88a34fabb1539ac0c09f0f2a">地图测试</a></h3>
+<h3 id="54">54 <a href="http://www.xizang.gov.cn" title="540000 ">西藏自治区</a>　藏　<a href="https://ditu.amap.com/search?query=西藏西藏&src=toutiaosearch_poi">地图测试</a></h3>
 
 540100 <b>[拉萨市](http://www.lasa.gov.cn )</b>　  
 540102 [城关区](http://www.cgq.gov.cn '有同名区')⠀
@@ -3153,7 +3154,7 @@
 542526 [改则县](http://gz.al.gov.cn/gzgk.htm )⠀
 542527 [措勤县](http://cq.al.gov.cn )⠀
 
-<h3 id="61">61 <a href="http://www.shaanxi.gov.cn/sq/" title="610000 ">陕西省</a>　陕/秦　<a href="https://map.tianditu.gov.cn/share/4017a1e40ebf4151ae4715fa5f17bf23">地图测试</a></h3>
+<h3 id="61">61 <a href="http://www.shaanxi.gov.cn/sq/" title="610000 ">陕西省</a>　陕/秦　<a href="https://ditu.amap.com/search?query=陕西">地图测试</a></h3>
 
 610100 <b>[西安市](http://www.xa.gov.cn )</b>F⠀  
 610102 [新城区](http://www.xincheng.gov.cn '有同名区')⠀
@@ -3282,7 +3283,7 @@
 611025 [镇安县](http://www.zazf.gov.cn )⠀
 611026 [柞水县](http://www.snzs.gov.cn )⠀
 
-<h3 id="62">62 <a href="http://www.gansu.gov.cn" title="620000 ">甘肃省</a>　甘/陇　<a href="https://map.tianditu.gov.cn/share/6b5da4fcd6e04a759f833d8693bc36e4">地图测试</a></h3>
+<h3 id="62">62 <a href="http://www.gansu.gov.cn" title="620000 ">甘肃省</a>　甘/陇　<a href="https://ditu.amap.com/search?query=甘肃">地图测试</a></h3>
 
 620100 <b>[兰州市](http://www.lanzhou.gov.cn )</b>　  
 620102 [城关区](http://www.lzcgq.gov.cn '兰州城关区,拉萨有同名区')⠀
@@ -3398,7 +3399,7 @@
 623026 [碌曲县](http://www.luqu.gov.cn )⠀
 623027 [夏河县](http://www.xiahe.gov.cn )⠀
 
-<h3 id="63">63 <a href="http://www.qinghai.gov.cn" title="630000 ">青海省</a>　青　<a href="https://map.tianditu.gov.cn/share/fb2678780ef5462687135a6ac21086bd">地图测试</a></h3>
+<h3 id="63">63 <a href="http://www.qinghai.gov.cn" title="630000 ">青海省</a>　青　<a href="https://ditu.amap.com/search?query=青海">地图测试</a></h3>
 
 630100 <b>[西宁市](http://www.xining.gov.cn )</b>　  
 630102 [城东区](http://www.xncd.gov.cn )⠀
@@ -3622,7 +3623,7 @@
 
 <h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
 
-<h3 id="6590">6590 <a href="http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml" title="659000 非行政区划的省级单位，不设人大与政协">新疆生产建设兵团</a>　兵团　[测地图](https://map.tianditu.gov.cn/share/25fc5dbf920b4242acd4a8a9153ab922)</h3>
+<h3 id="6590">6590 <a href="http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml" title="659000 非行政区划的省级单位，不设人大与政协">新疆生产建设兵团</a>　兵团　<a href="https://map.tianditu.gov.cn/share/25fc5dbf920b4242acd4a8a9153ab922">地图测试</a></h3>
 659001 [石河子市／第八师](http://www.shz.gov.cn/mlsc/topic.html '电信区号0993独立')⠀
 659002 [阿拉尔市／第一师](http://www.ale.gov.cn )⠀
 659003 [图木舒克市／第三师](http://www.xjbtnss.gov.cn )⠀
@@ -3635,7 +3636,7 @@
 659010 [胡杨河市／第七师](http://www.nqs.gov.cn )⠀
 659011 [新星市／第十三师](http://www.btnsss.gov.cn '2021年设立')⠀
 
-<h3 id="71">71 <a href="" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>　台　[天地图](https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4)</h3>
+<h3 id="71">71 <a href="" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>　台　d<a href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">地图测试</a></h3>
 710101 <b>[台北市](https://www.gov.taipei '预设区划代码,待定')</b>  
 台湾现在的行政区划主要根据以前中华民国相关法律规定，设为——  
 6个直辖市：台北市、新北市、桃园市、
@@ -3645,13 +3646,13 @@
 11个省辖县：宜兰县、新竹县、苗栗县、彰化县、南投县、云林县、嘉义县、屏东县、花莲县、台东县、
 	<a title='外婆的澎湖湾' href='https://www.penghu.gov.tw/'>澎湖县</a>。  
 
-<h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a>　港　[测地图](https://map.tianditu.gov.cn/share/5a295a20c00147ecb0de465fc4f48122)</h3>
+<h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a>　港　d<a href="https://map.tianditu.gov.cn/share/5a295a20c00147ecb0de465fc4f48122">地图测试</a></h3>
 香港各行政部门的区划并不统一，通常采用区议会的18个选区（俗称18区）。  
 香港岛：	中西区、湾仔区、东区、南区  
 九龙：  	油尖旺区、深水埗区、九龙城区、黄大仙区、观塘区  
 新界：  	荃湾区、屯门区、元朗区、北区、大埔区、西贡区、沙田区、葵青区、离岛区  
 
-<h3 id="82">82 <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门特别行政区</a>　澳　[测地图](https://map.tianditu.gov.cn/share/fa2a18f071ad4ef5938d5deb1de47db9)</h3>
+<h3 id="82">82 <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门特别行政区</a>　澳　d<a href="https://map.tianditu.gov.cn/share/fa2a18f071ad4ef5938d5deb1de47db9">地图测试</a></h3>
 澳门以天主教“堂区”为行政区划单位，现有七个堂区，后两个位于离岛。  
 澳门半岛：	花地玛堂区、圣安多尼堂区（花王堂区）、大堂区（主教座堂堂区）、望德堂区、风顺堂区（圣老楞佐堂区）  
 氹仔：	嘉模堂区	（氹读dàng，也作“凼”）  
@@ -3687,7 +3688,7 @@
 	老生常谈 © 2019-2022 大萌 CC BY-NC-ND
 	知识共享3.0	可转载-需署名-非营利
 	https://laosheng.top/fuwu/qianxian
-	中国千县地名图	v0.5.5	202208
+	中国千县地名图	v0.5.6	202208
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
