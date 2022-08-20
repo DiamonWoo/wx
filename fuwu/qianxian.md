@@ -51,12 +51,12 @@
 91-国外入籍身份证号
 
 
-*	注1：地名F 表示该城市的行政级别为副省级，但其行政区划仍然是地市级。
+*	注1：部分政府网址收录的是其地方介绍页面，或者网站地图页面。
+	例如：北京市 110111 房山区。
+*	注2：地名F 表示该城市的行政级别为副省级，但其行政区划仍然是地市级。
 	例如：天津市滨海新区F。
-*	注2：少数地名有批注，鼠标悬停可见，正在逐步添加。
-	例如：北京市批注‘中华人民共和国首都’。
-*	注3：部分政府网址收录的是其地方介绍页面，或者网站地图页面。
-	例如：北京市房山区。
+*	注3：少数地名有批注，鼠标悬停可见，正在逐步添加。
+	例如：河北省 130109 藁城区 批注‘藁 gǎo，草本植物名’。
 
 
 <h3 id="11">11 <a href="http://www.beijing.gov.cn/renwen/bjgk/" title="110000 中华人民共和国首都">北京市</a>　京<sub>　<a href="https://beijing.tianditu.gov.cn/bzdt/img/homeimg/c6q2020_25w_1.jpg">标准地图</a></sub></h3>
@@ -3646,13 +3646,13 @@
 11个省辖县：宜兰县、新竹县、苗栗县、彰化县、南投县、云林县、嘉义县、屏东县、花莲县、台东县、
 	<a title='外婆的澎湖湾' href='https://www.penghu.gov.tw/'>澎湖县</a>。  
 
-<h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a>　港　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/5a295a20c00147ecb0de465fc4f48122">地图2</a></h3>
+<h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a>　港<sub>　<a href="https://ditu.amap.com/search?query=香港特别行政区香港特别行政区&src=toutiaosearch_poi">amap头条搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/5a295a20c00147ecb0de465fc4f48122">地图2</a></sub></h3>
 香港各行政部门的区划并不统一，通常采用区议会的18个选区（俗称18区）。  
 香港岛：	中西区、湾仔区、东区、南区  
 九龙：  	油尖旺区、深水埗区、九龙城区、黄大仙区、观塘区  
 新界：  	荃湾区、屯门区、元朗区、北区、大埔区、西贡区、沙田区、葵青区、离岛区  
 
-<h3 id="82">82 <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门特别行政区</a>　澳　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/fa2a18f071ad4ef5938d5deb1de47db9">地图2</a></h3>
+<h3 id="82">82 <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门特别行政区</a>　澳<sub>　<a href="https://ditu.amap.com/search?query=澳门澳门&src=toutiaosearch_poi">amap头条搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/fa2a18f071ad4ef5938d5deb1de47db9">地图2</a></sub></h3>
 澳门以天主教“堂区”为行政区划单位，现有七个堂区，后两个位于离岛。  
 澳门半岛：	花地玛堂区、圣安多尼堂区（花王堂区）、大堂区（主教座堂堂区）、望德堂区、风顺堂区（圣老楞佐堂区）  
 氹仔：	嘉模堂区	（氹读dàng，也作“凼”）  
@@ -3703,7 +3703,7 @@
 	老生常谈 © 2019-2022 大萌 CC BY-NC-ND
 	知识共享3.0	可转载-需署名-非营利
 	https://laosheng.top/fuwu/qianxian
-	中国千县地名图	v0.5.7	202208
+	中国千县地名图	v0.5.8	202208
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
