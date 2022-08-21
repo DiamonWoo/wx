@@ -6,9 +6,9 @@
 
 		建设全国统一大市场是构建新发展格局的基础支撑和内在要求。——202203 中共中央 国务院
 
-　　本页面提供中国3212个省、市、县的地名、区划代码、人民政府网址。其中省级单位35个，地市级地名336个，县区级地名2841个，区划数据截至2021年底，网址数据更新于2022年8月。  
-　　由于种种原因，目前尚有以下5个地方政府网址未收入，分别是：福建省泉州市金门县，海南省三亚市海棠区、三沙市西沙区、南沙区，台湾省。  
-　　各省地图已基本测试完毕，大萌从十余种在线地图中，选取对手机浏览器兼容性较好的地图，以官方地图为主，商用地图为辅。各参选地图见页面底部。
+　　**千县图**提供中国3212个省、市、县的地名、区划代码、政府网站连接，其中省级35个，地市级336个，县区级2841个。区划数据截至2021年底，网址数据更新于2022年8月。  
+　　由于种种原因，目前尚有5个地方未能收录人民政府网址，分别是：福建省泉州市金门县，海南省三亚市海棠区、三沙市西沙区、南沙区，台湾省。  
+　　各省地图已选录完成。大萌从十余种在线地图中，选取能够兼顾：政区识别度较高、手机浏览器兼容性较好者，以官方地图为主，商用地图为辅。各参选地图见页面底部。
 
 
 35个省级单位索引
@@ -935,7 +935,7 @@
 310120 [奉贤区](http://www.fengxian.gov.cn )⠀
 310151 [崇明区](http://www.shcm.gov.cn )⠀
 
-<h3 id="32">32 <a href="http://www.jiangsu.gov.cn/col/col31358/" title="320000 ">江苏省</a>　苏<sub>　<a href="http://jiangsu.tianditu.gov.cn/map/mapjs/share?shareid=320000276421&level=6">天地图省map</a></sub></h3>
+<h3 id="32">32 <a href="http://www.jiangsu.gov.cn/col/col31358/" title="320000 ">江苏省</a>　苏<sub>　<a href="http://jiangsu.tianditu.gov.cn/map/mapjs/share?shareid=320000276421&level=6">天地图省map分享</a></sub></h3>
 
 320100 <b>[南京市](https://www.nanjing.gov.cn )</b>F⠀  
 320102 [玄武区](http://www.xwzf.gov.cn )⠀
@@ -3154,7 +3154,7 @@
 542526 [改则县](http://gz.al.gov.cn/gzgk.htm )⠀
 542527 [措勤县](http://cq.al.gov.cn )⠀
 
-<h3 id="61">61 <a href="http://www.shaanxi.gov.cn/sq/" title="610000 ">陕西省</a>　陕/秦<sub>　<a href="https://ditu.amap.com/search?query=陕西陕西&src=toutiaosearch_poi&innersrc=uriapi">amap头条入口</a></sub></h3>
+<h3 id="61">61 <a href="http://www.shaanxi.gov.cn/sq/" title="610000 ">陕西省</a>　陕/秦<sub>　<a href="https://m.amap.com/search/mapview/poiid=B001D0W82S">amap移动分享码</a></sub></h3>
 
 610100 <b>[西安市](http://www.xa.gov.cn )</b>F⠀  
 610102 [新城区](http://www.xincheng.gov.cn '有同名区')⠀
@@ -3283,7 +3283,7 @@
 611025 [镇安县](http://www.zazf.gov.cn )⠀
 611026 [柞水县](http://www.snzs.gov.cn )⠀
 
-<h3 id="62">62 <a href="http://www.gansu.gov.cn" title="620000 ">甘肃省</a>　甘/陇<sub>　<a href="https://ditu.amap.com/search?query=甘肃甘肃&src=toutiaosearch_poi&innersrc=uriapi">amap头条入口</a></sub></h3>
+<h3 id="62">62 <a href="http://www.gansu.gov.cn" title="620000 ">甘肃省</a>　甘/陇<sub>　<a href="https://m.amap.com/search/mapview/poiid=B0FFF9JHC2&keywords=甘肃省">amap移动分享码</a></sub></h3>
 
 620100 <b>[兰州市](http://www.lanzhou.gov.cn )</b>　  
 620102 [城关区](http://www.lzcgq.gov.cn '兰州城关区,拉萨有同名区')⠀
@@ -3621,7 +3621,7 @@
 654325 [青河县](http://www.xjqh.gov.cn )⠀
 654326 [吉木乃县](http://www.jmn.gov.cn/013/listPage.html )⠀
 
-<h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
+<h4 align="right"><a href="#35个省级单位索引" target="_top">↑ Top</a></h4>
 
 <h3 id="6590">6590 <a href="http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml" title="659000 非行政区划的省级单位，不设人大与政协">新疆生产建设兵团</a>　兵团<sub>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/25fc5dbf920b4242acd4a8a9153ab922">天地图分享链</a></sub></h3>
 659001 [石河子市／第八师](http://www.shz.gov.cn/mlsc/topic.html '电信区号0993独立')⠀
@@ -3635,8 +3635,10 @@
 659009 [昆玉市／第十四师](http://www.btdsss.gov.cn )⠀
 659010 [胡杨河市／第七师](http://www.nqs.gov.cn )⠀
 659011 [新星市／第十三师](http://www.btnsss.gov.cn '2021年设立')⠀
+兵团14个师中尚有3个师(9/11/12)未完成‘师市合一’改革。
 
-<h3 id="71">71 <a href="" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>　台<sub>　<a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">地图2</a></sub></h3>
+
+<h3 id="71">71 <a href="" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>　台<sub>　<a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">桌面地图</a></sub></h3>
 710101 <b>[台北市](https://www.gov.taipei '预设区划代码,待定')</b>  
 台湾现在的行政区划主要根据以前中华民国相关法律规定，设为——  
 6个直辖市：台北市、新北市、桃园市、
@@ -3646,28 +3648,29 @@
 11个省辖县：宜兰县、新竹县、苗栗县、彰化县、南投县、云林县、嘉义县、屏东县、花莲县、台东县、
 	<a title='外婆的澎湖湾' href='https://www.penghu.gov.tw/'>澎湖县</a>。  
 
-<h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a>　港<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073C0R40I">amap移动搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/5a295a20c00147ecb0de465fc4f48122">地图2</a></sub></h3>
+<h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a>　港<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073C0R40I">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/5a295a20c00147ecb0de465fc4f48122">桌面地图</a></sub></h3>
 香港各行政部门的区划并不统一，通常采用区议会的18个选区（俗称18区）。  
 香港岛：	中西区、湾仔区、东区、南区  
 九龙：  	油尖旺区、深水埗区、九龙城区、黄大仙区、观塘区  
 新界：  	荃湾区、屯门区、元朗区、北区、大埔区、西贡区、沙田区、葵青区、离岛区  
 
-<h3 id="82">82 <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门特别行政区</a>　澳<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073D0M5MC">amap移动搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/fa2a18f071ad4ef5938d5deb1de47db9">地图2</a></sub></h3>
+<h3 id="82">82 <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门特别行政区</a>　澳<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073D0M5MC">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/fa2a18f071ad4ef5938d5deb1de47db9">桌面地图</a></sub></h3>
 澳门以天主教“堂区”为行政区划单位，现有七个堂区，后两个位于离岛。  
 澳门半岛：	花地玛堂区、圣安多尼堂区（花王堂区）、大堂区（主教座堂堂区）、望德堂区、风顺堂区（圣老楞佐堂区）  
 氹仔：	嘉模堂区	（氹读dàng，也作“凼”）  
 路环：	圣方济各堂区  
 
 
-*	注4：d地图 表示该链接 限制在桌面(desktop)模式下阅读
-	例如：澳门　d地图2。
-*	注5：
+*	注4：d桌面地图 表示该链接限制在桌面模式下阅读(desktop)。
+	例如：6590　兵团　d天地图分享链。
+*	注5：国内在线地图对手机浏览器用户友好的不多，而且阻碍策略随时变化。
+	如果发现某省地图连接失效或错误，请<a title='留言板，无需注册' href='https://xoyondo.com/ap/HPr7pBG7mOPIUGZ'>向大萌报告</a>，感谢！❀
 
 <h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
 
 
 2021年行政区划变更
-==================
+------------------
 
 　　据民政部数据，2021年全国县以上区划有二十余次变更，本页已全部吸收。  
 　　有4个因撤销而消失的地名： 福建三明市的 梅列区 350402，河南洛阳市的 吉利区 410306，浙江杭州市的 下城区 330103、江干区 330104。  
@@ -3687,7 +3690,7 @@
 *	天地图主站分享页。自然资源部主办的国家地理信息公共服务平台
 *	天地图省节点/在线map。由各省自然资源部门主办。
 *	amap，高德地图/移动版
-*	amap，今日头条入口
+*	amap，头条入口/分享码
 *	必应地图分享页/搜索页
 *	百度地图分享页/搜索页
 *	搜狗地图/腾讯地图
@@ -3697,20 +3700,20 @@
 收录进度
 --------
 
-+	202208　增加各省地图。
++	202208　选录各省在线地图。
 +	202208　政府网址收官，补充各省简称、部分地市、县区的缩略名
-+	202204　已收录全国3212个县级以上地方政府网址（个别网址正在补全）
-+	202105　已收录全国3212个县级以上行政区划代码与地名（省、地、县）
++	202204　已收录全国3212个县级以上地方政府网址（少量网址正在补全）
++	202105　已收录全国3213个县级以上行政区划代码与地名（省、地、县）
 
 　　节约您的搜寻时间，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
 
-　　本页面由 <a title='Laosheng.top衍生项目' href='https://diamonwoo.github.io/LSIP'>LSIP 大规模集成网页</a> 提供理论支持。
+　　本页面由 <a title='Laosheng.top 衍生项目' href='https://diamonwoo.github.io/LSIP'>LSIP 大规模集成网页</a> 提供理论支持。
 
 ```
 	老生常谈 © 2019-2022 大萌 CC BY-NC-ND
 	知识共享3.0	可转载-需署名-非营利
 	https://laosheng.top/fuwu/qianxian
-	中国千县地名图	v0.5.9	202208
+	中国千县地名图	v0.6.0	202208
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
