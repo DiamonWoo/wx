@@ -15,12 +15,12 @@
 各大洲索引
 -----------
 
-<a href="#yz" target="_top">1-亚洲</a>　<sub>中国、蒙古、马来西亚、沙特……</sub><br>
+<a href="#yz" target="_top">1-亚洲</a>🌏　<sub>中国、蒙古、马来西亚、沙特……</sub><br>
 <a href="#oz" target="_top">2-欧洲</a>　<sub>俄罗斯、法国、英国、德国……</sub><br>
-<a href="#fz" target="_top">3-非洲</a>　<sub>埃及、埃塞俄比亚、坦桑尼亚、南非……</sub><br>
+<a href="#fz" target="_top">3-非洲</a>🌍　<sub>埃及、埃塞俄比亚、坦桑尼亚、南非……</sub><br>
 <a href="#dyz" target="_top">4-大洋洲</a>　<sub>澳大利亚、汤加、新西兰……</sub><br>
-<a href="#bmz" target="_top">5-北美洲</a>　<sub>美国、加拿大、墨西哥、古巴……</sub><br>
-<a href="#nmz" target="_top">6-南美洲</a>　<sub>阿根廷、巴西、委内瑞拉……</sub><br>
+<a href="#bmz" target="_top">5-北美洲</a>🌎　<sub>美国、加拿大、墨西哥、古巴……</sub><br>
+<a href="#nmz" target="_top">6-拉丁美洲</a>　<sub>阿根廷、巴西、委内瑞拉……</sub><br>
 <a href="#njz" target="_top">7-南极洲</a>　<sub> 布韦岛…</sub><br>
 <a href="#代码说明" target="_top">0-代码说明</a>　<sub> 收录进度…</sub>  
 
@@ -34,11 +34,10 @@
 +	🏛　最高行政机构网站（中央政府/联邦政府/总统府 等）
 +	💱货币名　查询该货币兑换人民币的当前汇率
 
-<h2 id="yz">亚洲 Asia</h2>
+<h2 id="yz">yà zhōu 亚洲 Asia　[🌏](https://cn.bing.com/maps?&cp=p35v3cq48s20&lvl=4)</h2>
 
-CN⠀五常⠀<big>	[中国](https://www.gov.cn/guoqing/)⠀China	</big>	⠀自贸区[🏵️](http://fta.mofcom.gov.cn/)	⠀外交部⠀[🛡](https://www.mfa.gov.cn/web/wjdt_674879/)	⠀[wb](https://weibo.com/wjxlt  中国外交部微博，粉丝800万)	⠀<sup>首都：北京</sup>	⠀[🏛](https://www.gov.cn)	⠀¥CNY<sup>[人民币](https://cn.bing.com/search?q=人民币汇率)</sup>	  
-
-AF⠀+⠀	[阿富汗](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676207/1206x0_676209/)⠀Afghanistan		⠀[🏵](http://AF.mofcom.gov.cn)	⠀[⚜️](http://AF.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：喀布尔/Kabul</sup>	⠀-	⠀-	⠀<sup>[阿富汗尼](https://cn.bing.com/search?q=AFN兑CNY)</sup>	⠀<sup>www.beijing.mfa.af 故障</sup>  
+CN⠀五常⠀<big>	[中国](https://www.gov.cn/guoqing/)⠀China	</big>	⠀自贸区[🏵️](http://fta.mofcom.gov.cn/)	⠀<sup>首都：北京</sup>	⠀外交部⠀[🛡](https://www.mfa.gov.cn/web/wjdt_674879/)	⠀[wb](https://weibo.com/wjxlt  中国外交部微博，粉丝800万)	⠀[🏛](https://www.gov.cn)	⠀¥CNY<sup>[人民币](https://cn.bing.com/search?q=人民币汇率)</sup>	  
+AF⠀+⠀	[阿富汗](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676207/1206x0_676209/)⠀Afghanistan		⠀[🏵](http://AF.mofcom.gov.cn)	⠀[⚜️](http://AF.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：喀布尔/Kabul</sup>	⠀-	⠀-	⠀<sup>[阿富汗尼](https://cn.bing.com/search?q=AFN兑CNY)</sup>	⠀<sup>www.beijing.mfa.af 限制访问</sup>  
 AE⠀+⠀	[阿联酋](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676234/1206x0_676236/)⠀UAE		⠀[🏵](http://AE.mofcom.gov.cn)	⠀[⚜️](http://AE.china-embassy.gov.cn)	⠀[🔱](https://www.mofaic.gov.ae/zh-cn/missions/beijing)	⠀[wb](https://weibo.com/6969158398)	⠀<sup>首都：阿布扎比/Abu Dhabi</sup>	⠀[🛡](https://www.moec.gov.ae/en/home)	⠀[🏛](https://u.ae/en)	⠀د.إ<sup>[阿联酋迪拉姆](https://cn.bing.com/search?q=AED兑CNY)</sup>	  
 OM⠀+⠀	[阿曼](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676259/)⠀Oman		⠀[🏵](http://OM.mofcom.gov.cn)	⠀[⚜️](http://OM.china-embassy.gov.cn)	⠀[🔱](https://fm.gov.om/beijing/)	⠀-	⠀<sup>首都：马斯开特</sup>	⠀[🛡](https://fm.gov.om/)	⠀[🏛](http://www.omanet.om)	⠀ر.ع.<sup>[阿曼里亚尔](https://cn.bing.com/search?q=OMR兑CNY)</sup>	  
 AZ⠀+⠀	[阿塞拜疆](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676284/)⠀Azerbaijan		⠀[🏵](http://AZ.mofcom.gov.cn)	⠀[⚜️](http://AZ.china-embassy.gov.cn)	⠀[🔱](https://beijing.mfa.gov.az/en)	⠀-	⠀<sup>首都：巴库</sup>	⠀-	⠀[🏛](https://azerbaijan.az/en)	⠀<sup>[阿塞拜疆马纳特](https://cn.bing.com/search?q=AZN兑CNY)</sup>	⠀<sup>[总统府](http://www.president.az)</sup>  
@@ -48,7 +47,7 @@ BT⠀+⠀	[不丹](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1
 KP⠀+⠀	[朝鲜](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676404/1206x0_676406/)⠀North Korea		⠀[🏵](http://KP.mofcom.gov.cn)	⠀[⚜️](http://KP.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：平壤（Pyongyang）</sup>	⠀-	⠀[🏛](http://naenara.com.kp/main/index/ch/first)	⠀₩<sup>[朝鲜圆](https://cn.bing.com/search?q=KPW兑CNY)</sup>	  
 KR⠀+⠀	[韩国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676524/1206x0_676526/)⠀South Korea		⠀[🏵](http://KR.mofcom.gov.cn)	⠀[⚜️](http://KR.china-embassy.gov.cn)	⠀[🔱](https://overseas.mofa.go.kr/cn-zh/index.do)	⠀[wb](https://weibo.com/embassykr)	⠀<sup>首都：首尔（Seoul）</sup>	⠀[🛡](https://www.mofa.go.kr/eng/index.do)	⠀[🏛](https://www.president.go.kr)	⠀₩<sup>[韩圆](https://cn.bing.com/search?q=KRW兑CNY)</sup>	  
 TL⠀+⠀	[东帝汶](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676428/)⠀Timor-Leste		⠀[🏵](http://TL.mofcom.gov.cn)	⠀[⚜️](http://TL.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：帝力</sup>	⠀-	⠀[🏛](http://www.timor-leste.gov.tl)	⠀$<sup>[美元](https://cn.bing.com/search?q=USD兑CNY)</sup>	  
-PH⠀+⠀	[菲律宾](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676452/)⠀Philippines		⠀[🏵](http://PH.mofcom.gov.cn)	⠀[⚜️](http://PH.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：马尼拉</sup>	⠀[🛡](https://dfa.gov.ph/)	⠀[🏛](http://www.gov.ph)	⠀₱<sup>[菲律宾比索](https://cn.bing.com/search?q=PHP兑CNY)</sup>	  
+PH⠀+⠀	[菲律宾](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676452/)⠀Philippines		⠀[🏵](http://PH.mofcom.gov.cn)	⠀[⚜️](http://PH.china-embassy.gov.cn)	⠀[🔱](https://beijingpe.dfa.gov.ph/)	⠀-	⠀<sup>首都：马尼拉</sup>	⠀[🛡](https://dfa.gov.ph/)	⠀[🏛](https://www.gov.ph/)	⠀₱<sup>[菲律宾比索](https://cn.bing.com/search?q=PHP兑CNY)</sup>	⠀<sup>[旅游局wb](https://weibo.com/dotshanghai)</sup>  
 GE⠀+⠀	[格鲁吉亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676476/)⠀Georgia		⠀[🏵](http://GE.mofcom.gov.cn)	⠀[⚜️](http://GE.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：第比利斯</sup>	⠀-	⠀[🏛](http://www.georgia.gov)	⠀<sup>[格鲁吉亚拉里](https://cn.bing.com/search?q=GEL兑CNY)</sup>	  
 KZ⠀+⠀<big>	[哈萨克斯坦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676500/)⠀Kazakhstan	</big>	⠀[🏵](http://KZ.mofcom.gov.cn)	⠀[⚜️](http://KZ.china-embassy.gov.cn)	⠀[🔱](https://www.gov.kz/memleket/entities/mfa-beijing?lang=zh)	⠀[wb](https://weibo.com/kazembassy)	⠀<sup>首都：努尔苏丹</sup>	⠀[🛡](https://www.gov.kz/memleket/entities/mfa?lang=en)	⠀[🏛](https://www.gov.kz/)	⠀<sup>[哈萨克斯坦坚戈](https://cn.bing.com/search?q=KZT兑CNY)</sup>	  
 KG⠀+⠀	[吉尔吉斯斯坦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676548/)⠀Kyrgyzstan		⠀[🏵](http://KG.mofcom.gov.cn)	⠀[⚜️](http://KG.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：比什凯克</sup>	⠀-	⠀[🏛](http://www.gov.kg)	⠀с<sup>[吉尔吉斯斯坦索姆](https://cn.bing.com/search?q=KGS兑CNY)</sup>	  
@@ -60,7 +59,7 @@ MV⠀+⠀<sub>	[马尔代夫](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/
 MY⠀+⠀	[马来西亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676716/)⠀Malaysia		⠀[🏵](http://MY.mofcom.gov.cn)	⠀[⚜️](http://MY.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：吉隆坡</sup>	⠀[🛡](https://www.kln.gov.my/)	⠀[🏛](https://www.malaysia.gov.my/)	⠀RM<sup>[马来西亚令吉](https://cn.bing.com/search?q=MYR兑CNY)</sup>	  
 MN⠀+⠀<big>	[蒙古](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676740/)⠀Mongolia	</big>	⠀[🏵](http://MN.mofcom.gov.cn)	⠀[⚜️](http://MN.china-embassy.gov.cn)	⠀[🔱](https://beijing.embassy.mn/chn/)	⠀-	⠀<sup>首都：乌兰巴托</sup>	⠀[🛡](https://mfa.gov.mn/en/)	⠀[🏛](http://www.pmis.gov.mn)	⠀₮<sup>[蒙古图格里克](https://cn.bing.com/search?q=MNT兑CNY)</sup>	  
 BD⠀+⠀	[孟加拉国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676764/)⠀Bangladesh		⠀[🏵](http://BD.mofcom.gov.cn)	⠀[⚜️](http://BD.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：达卡</sup>	⠀-	⠀[🏛](http://www.bangladeshgov.org)	⠀<sup>[孟加拉塔卡](https://cn.bing.com/search?q=BDT兑CNY)</sup>	  
-MM⠀+⠀	[缅甸](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676788/)⠀Myanmar		⠀[🏵](http://MM.mofcom.gov.cn)	⠀[⚜️](http://mm.china-embassy.gov.cn/chn/)	⠀[🔱](http://www.myanmarembassy.com/Ch_index.html)	⠀-	⠀<sup>首都：内比都</sup>	⠀-	⠀[🏛](http://www.myanmar.gov.mm)	⠀Ks<sup>[缅元](https://cn.bing.com/search?q=MMK兑CNY)</sup>	⠀<sup>[驻缅使馆wb](https://weibo.com/chinaembinmyanmar)</sup>  
+MM⠀+⠀	[缅甸](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676788/)⠀Myanmar		⠀[🏵](http://MM.mofcom.gov.cn)	⠀[⚜️](http://MM.china-embassy.gov.cn)	⠀[🔱](http://www.myanmarembassy.com/Ch_index.html)	⠀-	⠀<sup>首都：内比都</sup>	⠀-	⠀[🏛](http://www.myanmar.gov.mm)	⠀Ks<sup>[缅元](https://cn.bing.com/search?q=MMK兑CNY)</sup>	⠀<sup>[驻缅使馆wb](https://weibo.com/chinaembinmyanmar)</sup>  
 NP⠀+⠀	[尼泊尔](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676812/)⠀Nepal		⠀[🏵](http://NP.mofcom.gov.cn)	⠀[⚜️](http://NP.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：加德满都</sup>	⠀-	⠀[🏛](http://www.nepalgov.gov.np)	⠀रू<sup>[尼泊尔卢比](https://cn.bing.com/search?q=NPR兑CNY)</sup>	  
 QA⠀+⠀	[卡塔尔](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676596/)⠀Qatar		⠀[🏵](http://QA.mofcom.gov.cn)	⠀[⚜️](http://QA.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：多哈</sup>	⠀[🛡](https://www.mofa.gov.qa/en/)	⠀[🏛](http://www.gov.qa)	⠀ر.ق<sup>[卡塔尔里亚尔](https://cn.bing.com/search?q=QAR兑CNY)</sup>	  
 JP⠀+⠀	[日本](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676836/)⠀Japan		⠀[🏵](http://JP.mofcom.gov.cn)	⠀[⚜️](http://JP.china-embassy.gov.cn)	⠀-	⠀[wb](https://weibo.com/japanembassy)	⠀<sup>首都：东京</sup>	⠀[🛡](https://www.mofa.go.jp/)	⠀[🏛](http://www.kantei.go.jp)	⠀¥<sup>[日元](https://cn.bing.com/search?q=JPY兑CNY)</sup>	  
@@ -86,11 +85,11 @@ VN⠀+⠀	[越南](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1
 PS　%　<small>	[巴勒斯坦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676332/)⠀Palestine	</small>	⠀-	⠀[⚜️](http://ps.china-office.gov.cn)	⠀-	⠀[wb](https://weibo.com/palembassy)	⠀<sup>首都：耶路撒冷</sup>	⠀-	⠀[🏛](http://www.gcc.gov.ps)	⠀د.ا<sup>[约旦第纳尔](https://cn.bing.com/search?q=JOD兑CNY)</sup>	⠀<sup>wb于2012年停更</sup>  
 CC　　<small>	[科科斯群岛](https://shire.cc/en/)⠀Cocos Islands	</small>	⠀-	⠀-	⠀-	⠀-	⠀<sup>首都：西岛</sup>	⠀-	⠀-	⠀-	  
 CX　　<small>	圣诞岛⠀Christmas Island	</small>	⠀-	⠀-	⠀-	⠀-	⠀<sup>首都：飞鱼湾</sup>	⠀-	⠀-	⠀-	  
-TW　　<small>	台湾⠀Taiwan	</small>	⠀-	⠀-	⠀-	⠀-	⠀<sup>首都：台北</sup>	⠀-	⠀[🏛](https://www.gov.taipei)	⠀$<sup>[新台币](https://cn.bing.com/search?q=TWD兑CNY)</sup>	  
+TW　　<small>	台湾⠀Taiwan	</small>	⠀-	⠀-	⠀-	⠀-	⠀-	⠀-	⠀[🏛](https://www.gov.taipei)	⠀$<sup>[新台币](https://cn.bing.com/search?q=TWD兑CNY)</sup>	  
 HK　　<small>	香港⠀Hong Kong	</small>	⠀[🏵](http://HK.mofcom.gov.cn)	⠀-	⠀-	⠀[wb](https://weibo.com/newsgovhk)	⠀-	⠀-	⠀[🏛](https://www.gov.hk/sc)	⠀$<sup>[港元](https://cn.bing.com/search?q=HKD兑CNY)</sup>	  
 MO　　<small>	澳门⠀Macao	</small>	⠀[🏵](http://MO.mofcom.gov.cn)	⠀-	⠀-	⠀[wb](https://weibo.com/6190786689)	⠀-	⠀-	⠀[🏛](https://www.gov.mo/zh-hant)	⠀P<sup>[澳门币](https://cn.bing.com/search?q=MOP兑CNY)</sup>	  
 
-<h2 id="oz">欧洲 Europe</h2>
+<h2 id="oz">ōu zhōu 欧洲 Europe　[🌍](https://cn.bing.com/maps?cp=s0n2z3h5pkfb&lvl=5&v=2)</h2>
 
 RU⠀五常⠀<big>	[俄罗斯](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679110/1206x0_679112/)⠀Russia	</big>	⠀[🏵](http://RU.mofcom.gov.cn)	⠀[⚜️](http://RU.china-embassy.gov.cn)	⠀[🔱](http://www.russchinatrade.ru)	⠀[wb](https://weibo.com/ezhuhua)	⠀<sup>首都：莫斯科（Москва）</sup>	⠀[🛡](https://mid.ru/cn/)	⠀[🏛](http://government.ru)	⠀₽RUB<sup>[俄罗斯卢布](https://cn.bing.com/search?q=RUB兑CNY)</sup>	  
 FR⠀五常⠀<big>	[法国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679134/1206x0_679136/)⠀France	</big>	⠀[🏵](http://FR.mofcom.gov.cn)	⠀[⚜️](http://FR.china-embassy.gov.cn)	⠀[🔱](https://cn.ambafrance.org/-中文-)	⠀[wb](https://weibo.com/ambassadefrance)	⠀<sup>首都：巴黎（Paris）</sup>	⠀[🛡](https://www.diplomatie.gouv.fr/en/)	⠀[🏛](https://www.service-public.fr)	⠀€EUR<sup>[欧元](https://cn.bing.com/search?q=EUR兑CNY)</sup>	  
@@ -116,8 +115,8 @@ CZ⠀+⠀	[捷克](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1
 HR⠀+⠀	[克罗地亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679306/)⠀Croatia		⠀[🏵](http://HR.mofcom.gov.cn)	⠀[⚜️](http://HR.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：萨格勒布</sup>	⠀-	⠀[🏛](http://www.vlada.hr)	⠀<sup>[克罗地亚库纳](https://cn.bing.com/search?q=HRK兑CNY)</sup>	  
 LV⠀+⠀	[拉脱维亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679330/)⠀Latvia		⠀[🏵](http://LV.mofcom.gov.cn)	⠀[⚜️](http://LV.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：里加</sup>	⠀-	⠀[🏛](http://www.latvia.gov.lb)	⠀€<sup>[欧元](https://cn.bing.com/search?q=EUR兑CNY)</sup>	  
 LT⠀+⠀	[立陶宛](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679354/)⠀Lithuania		⠀[🏵](http://LT.mofcom.gov.cn)	⠀[⚜️](http://LT.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：维尔纽斯</sup>	⠀-	⠀[🏛](http://www.urm.lt)	⠀€<sup>[欧元](https://cn.bing.com/search?q=EUR兑CNY)</sup>	  
-LI⠀+⠀<sub>	[列支敦士登](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679378/)⠀Liechtenstein	</sub>	⠀-	⠀[⚜️](http://LI.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：瓦杜兹</sup>	⠀-	⠀[🏛](http://www.liechtenstein.li)	⠀Fr<sup>[瑞士法郎](https://cn.bing.com/search?q=CHF兑CNY)</sup>	  
-LU⠀+⠀<sub>	[卢森堡](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679402/)⠀Luxembourg	</sub>	⠀[🏵](http://LU.mofcom.gov.cn)	⠀[⚜️](http://LU.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：卢森堡市</sup>	⠀-	⠀[🏛](http://www.gouvernement.lu)	⠀€<sup>[欧元](https://cn.bing.com/search?q=EUR兑CNY)</sup>	  
+LI⠀+⠀<sub>	[列支敦士登](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679378/)⠀Liechtenstein	</sub>	⠀-	⠀-	⠀-	⠀-	⠀<sup>首都：瓦杜兹</sup>	⠀[🛡](https://www.llv.li/inhalt/11842/amtsstellen/amt-fur-auswartige-angelegenheiten)	⠀[🏛](https://www.liechtenstein.li/)	⠀Fr<sup>[瑞士法郎](https://cn.bing.com/search?q=CHF兑CNY)</sup>	  
+LU⠀+⠀<sub>	[卢森堡](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679402/)⠀Luxembourg	</sub>	⠀-	⠀[⚜️](http://LU.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：卢森堡市</sup>	⠀-	⠀[🏛](http://www.gouvernement.lu)	⠀€<sup>[欧元](https://cn.bing.com/search?q=EUR兑CNY)</sup>	  
 RO⠀+⠀	[罗马尼亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679426/)⠀Romania		⠀[🏵](http://RO.mofcom.gov.cn)	⠀[⚜️](http://RO.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：布加勒斯特</sup>	⠀-	⠀[🏛](http://www.guv.ro)	⠀lei<sup>[罗马尼亚列伊](https://cn.bing.com/search?q=RON兑CNY)</sup>	  
 MT⠀+⠀<sub>	[马耳他](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679450/)⠀Malta	</sub>	⠀[🏵](http://MT.mofcom.gov.cn)	⠀[⚜️](http://MT.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：瓦莱塔</sup>	⠀-	⠀-	⠀€<sup>[欧元](https://cn.bing.com/search?q=EUR兑CNY)</sup>	  
 MD⠀+⠀	[摩尔多瓦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679498/)⠀Republic of Moldova		⠀[🏵](http://MD.mofcom.gov.cn)	⠀[⚜️](http://MD.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：基希讷乌</sup>	⠀-	⠀[🏛](http://www.moldova.md)	⠀L<sup>[摩尔多瓦列伊](https://cn.bing.com/search?q=MDL兑CNY)</sup>	  
@@ -145,7 +144,7 @@ JE　　<small>	泽西岛⠀Jersey	</small>	⠀-	⠀-	⠀-	⠀-	⠀<sup>首都�
 GI　　<small>	直布罗陀⠀Gibraltar	</small>	⠀-	⠀-	⠀-	⠀-	⠀<sup>首都：直布罗陀</sup>	⠀-	⠀[🏛](http://www.gibraltar.gov.gi)	⠀£<sup>[直布罗陀镑](https://cn.bing.com/search?q=GIP兑CNY)</sup>	  
 AX　　<small>	奥兰群岛⠀Aland Islands	</small>	⠀-	⠀-	⠀-	⠀-	⠀<sup>首都：玛丽港</sup>	⠀-	⠀-	⠀-	  
 
-<h2 id="fz">非洲 Africa</h2>
+<h2 id="fz">fēi zhōu 非洲 Africa　[🌍](https://cn.bing.com/maps?cp=hqgwpcjjz3sy&lvl=4)</h2>
 
 DZ⠀+⠀<big>	[阿尔及利亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677318/1206x0_677320/)⠀Algeria	</big>	⠀[🏵](http://DZ.mofcom.gov.cn)	⠀[⚜️](http://DZ.china-embassy.gov.cn)	⠀[🔱](http://www.algeriaembassychina.net/)	⠀[wb](https://weibo.com/7488112198)	⠀<sup>首都：阿尔及尔（Algiers）</sup>	⠀[🛡](http://www.mae.gov.dz/default_en.aspx)	⠀[🏛](https://premier-ministre.gov.dz/ar)	⠀<sup>[阿尔及利亚第纳尔](https://cn.bing.com/search?q=DZD兑CNY)</sup>	⠀<sup>[总统](https://www.el-mouradia.dz/)</sup>  
 EG⠀+⠀	[埃及](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677342/1206x0_677344/)⠀Egypt		⠀[🏵](http://EG.mofcom.gov.cn)	⠀[⚜️](http://EG.china-embassy.gov.cn)	⠀-	⠀[wb](https://weibo.com/etab)	⠀<sup>首都：开罗（Cairo）</sup>	⠀-	⠀[🏛](http://www.egypt.gov.eg)	⠀£<sup>[埃及镑](https://cn.bing.com/search?q=EGP兑CNY)</sup>	  
@@ -207,7 +206,7 @@ SH　　<small>	圣赫勒拿三岛 (英国)⠀Saint Helena and Dependencies	</sm
 EH　　<small>	西撒哈拉⠀Western Sahara	</small>	⠀-	⠀-	⠀-	⠀-	⠀<sup>首都：阿尤恩</sup>	⠀-	⠀-	⠀-	  
 IO　　<small>	英属印度洋领地⠀British Indian Ocean Territory	</small>	⠀-	⠀-	⠀-	⠀-	⠀-	⠀-	⠀-	⠀$<sup>[美元](https://cn.bing.com/search?q=USD兑CNY)</sup>	  
 
-<h2 id="dyz">大洋洲 Ocean</h2>
+<h2 id="dyz">dà yáng zhōu 大洋洲 Ocean　[🌏](https://cn.bing.com/maps?&cp=j7j1xpthdt5b&lvl=3)</h2>
 
 AU⠀+⠀<big>	[澳大利亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681242/1206x0_681244/)⠀Australia	</big>	⠀[🏵](http://AU.mofcom.gov.cn)	⠀[⚜️](http://AU.china-embassy.gov.cn)	⠀[🔱](https://china.embassy.gov.au/bjngchinese/home.html)	⠀[wb](https://weibo.com/imagineaustralia)	⠀<sup>首都：堪培拉（Canberra）</sup>	⠀[🛡](https://www.dfat.gov.au/)	⠀[🏛](https://www.australia.gov.au/)	⠀$<sup>[澳元](https://cn.bing.com/search?q=AUD兑CNY)</sup>	⠀<sup>[中国驻澳wb](https://weibo.com/aozhoufeihong)</sup>  
 PG⠀+⠀	[巴布亚新几内亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681266/)⠀Papua New Guinea		⠀[🏵](http://PG.mofcom.gov.cn)	⠀[⚜️](http://PG.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：莫尔斯比港</sup>	⠀-	⠀[🏛](http://www.pm.gov.pg)	⠀K<sup>[巴布亚新几内亚基那](https://cn.bing.com/search?q=PGK兑CNY)</sup>	⠀<sup>海洋专属经济区面积310万平方公里</sup>  
@@ -236,7 +235,7 @@ TK　　<small>	托克劳群岛⠀Tokelau	</small>	⠀-	⠀-	⠀-	⠀-	⠀-	⠀-
 WF　　<small>	瓦利斯和富图纳⠀Wallis and Futuna	</small>	⠀-	⠀-	⠀-	⠀-	⠀-	⠀-	⠀-	⠀₣<sup>[太平洋法郎](https://cn.bing.com/search?q=XPF兑CNY)</sup>	  
 NC　　<small>	新喀里多尼亚⠀New Caledonia	</small>	⠀-	⠀-	⠀-	⠀-	⠀<sup>首都：努美阿</sup>	⠀-	⠀[🏛](http://www.gouv.nc)	⠀₣<sup>[太平洋法郎](https://cn.bing.com/search?q=XPF兑CNY)</sup>	  
 
-<h2 id="bmz">北美洲</h2>
+<h2 id="bmz">běi měi zhōu 北美洲　[🌎](https://cn.bing.com/maps?&cp=rnvxpq41tcwf&lvl=3)</h2>
 
 US⠀五常⠀<big>	[美国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680528/1206x0_680530/)⠀America	</big>	⠀[🏵](http://US.mofcom.gov.cn)	⠀[⚜️](http://US.china-embassy.gov.cn)	⠀[🔱](https://china.usembassy-china.org.cn/zh/)	⠀[wb](https://weibo.com/usembassy)	⠀<sup>首都：华盛顿哥伦比亚特区</sup>	⠀[🛡](https://www.state.gov)	⠀[🏛](https://www.usa.gov)	⠀$USD<sup>[美元](https://cn.bing.com/search?q=USD兑CNY)</sup>	⠀<sup>（Washington D. C.）</sup>  
 AG⠀+⠀<sub>	[安提瓜和巴布达](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680008/)⠀安巴	</sub>	⠀[🏵](http://AG.mofcom.gov.cn)	⠀[⚜️](http://AG.china-embassy.gov.cn)	⠀-	⠀-	⠀<sup>首都：圣约翰斯</sup>	⠀-	⠀[🏛](http://www.ab.gov.ag)	⠀$<sup>[汤加勒比元](https://cn.bing.com/search?q=XCD兑CNY)</sup>	  
@@ -280,7 +279,7 @@ PM　　<small>	圣皮埃尔和密克隆 (法国)⠀Saint Pierre and Miquelon	</
 TC　　<small>	特克斯和凯科斯群岛 (英国)⠀Turks and Caicos Islands	</small>	⠀-	⠀-	⠀-	⠀-	⠀<sup>首都：科伯恩城</sup>	⠀-	⠀-	⠀$<sup>[美元](https://cn.bing.com/search?q=USD兑CNY)</sup>	  
 VG　　<small>	英属维尔京群岛⠀Virgin Islands (British)	</small>	⠀-	⠀-	⠀-	⠀-	⠀<sup>首都：罗德城</sup>	⠀-	⠀[🏛](http://www.bvi.gov.vg)	⠀$<sup>[美元](https://cn.bing.com/search?q=USD兑CNY)</sup>	  
 
-<h2 id="nmz">南美洲</h2>
+<h2 id="nmz">lā dīng měi zhōu 拉丁美洲 Latin America　[🌎](https://cn.bing.com/maps?&cp=j3tcj483mtvw&lvl=5)</h2>
 
 AR⠀+⠀<big>	[阿根廷](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_680926/1206x0_680928/)⠀Argentina	</big>	⠀[🏵](http://AR.mofcom.gov.cn)	⠀[⚜️](http://AR.china-embassy.gov.cn)	⠀[🔱](https://echin.cancilleria.gob.ar/zh-hans)	⠀[wb](https://weibo.com/6333588348)	⠀<sup>首都：布宜诺斯艾利斯</sup>	⠀[🛡](https://www.cancilleria.gob.ar/en)	⠀[🏛](https://www.argentina.gob.ar/)	⠀$<sup>[阿根廷比索](https://cn.bing.com/search?q=ARS兑CNY)</sup>	⠀<sup>（Buenos Aires）</sup>  
 PY⠀+⠀	[巴拉圭](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_680950/)⠀Paraguay		⠀-	⠀-	⠀-	⠀-	⠀<sup>首都：亚松森</sup>	⠀-	⠀[🏛](http://www.presidencia.gov.py)	⠀₲<sup>[巴拉圭瓜拉尼](https://cn.bing.com/search?q=PYG兑CNY)</sup>	  
@@ -297,8 +296,9 @@ CL⠀+⠀	[智利](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/
 GF　　<small>	法属圭亚那⠀French Guiana	</small>	⠀-	⠀-	⠀-	⠀-	⠀<sup>首都：卡宴</sup>	⠀-	⠀-	⠀-	  
 FK　　<small>	福克兰群岛 (英国)⠀Falkland Islands / Malvinas	</small>	⠀-	⠀-	⠀-	⠀-	⠀<sup>首都：斯坦利港</sup>	⠀-	⠀[🏛](http://www.falklands.gov.fk)	⠀£<sup>[福克兰群岛镑](https://cn.bing.com/search?q=FKP兑CNY)</sup>	  
 
-<h2 id="njz">AQ⠀南极洲 Antarctica</h2>
+<h2 id="njz">nán jí zhōu⠀南极洲 Antarctica</h2>
 
+AQ　　<small>	南极洲 Antarctica	</small>  
 BV　　<small>	布韦岛 (挪威)⠀Bouvet Island	</small>	⠀-	  
 GS　　<small>	乔桑群岛 (英国)⠀SGSSI	</small>	⠀-	  
 HM　　<small>	赫麦群岛 (澳大利亚)⠀HIMI	</small>	⠀-	  
@@ -348,7 +348,7 @@ ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[🏛️](# "政府"
 	老生常谈 © 2019-2022 大萌 CC BY-NC-ND
 	知识共享3.0	可转载-需署名-非营利
 	https://laosheng.top/ydyl/nations
-	世界国别代码表	v0.4.1	202209
+	世界国别代码表	v0.4.2	202209
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
