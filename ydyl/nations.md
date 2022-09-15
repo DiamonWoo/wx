@@ -22,7 +22,8 @@
 <a href="#bmz" target="_top">5-北美洲</a>🌎　<sub>美国、加拿大、墨西哥、古巴……</sub><br>
 <a href="#nmz" target="_top">6-南美洲</a>　<sub>阿根廷、巴西、委内瑞拉……</sub><br>
 <a href="#njz" target="_top">7-南极洲</a>　<sub> 布韦岛…</sub><br>
-<a href="#代码说明" target="_top">0-代码说明</a>　<sub> 收录进度…</sub>  
+<a href="#代码说明" target="_top">8-代码说明</a>　<sub> 收录进度…</sub><br>
+<a href="#鸣谢" target="_top">9-中国一带一路官方网址</a>　<sub>B&R官网、外交部、商务部…</sub>  
 
 图例
 ----
@@ -36,23 +37,22 @@
 
 全球地图
 --------
- 	天地图
- 	<a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a> /
- 	<a title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
-	d<a title="天地图欧洲区域，限桌面访问" href="https://map.tianditu.gov.cn/share/3ab5d295b5d04152b51e6c54d4e358c5/">欧洲</a>、
-	<a title="微软必应的地图网站，全球中文地图" href="https://cn.bing.com/maps">必应地图</a>、
-	d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com/@12340000,4001000,6z">百度地图</a>、
-	<a title="地球在线，包含谷歌地图的卫星地图" href="https://www.earthol.com">地球在线</a>、
-	<a title="俄罗斯地图，en" href="https://yandex.com/maps/?ll=90.000000%2C25.000000&amp;z=3">Yandex</a>、
-	#<a title="最牛地图！网址定位经纬度" href="https://www.google.com/maps/@27,100,3z">Google地图</a>/星球/街景、
-	#Waze、
-	<a title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景  
+
+天地图
+<a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a> /
+<a title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
+d<a title="天地图欧洲区域，限桌面访问" href="https://map.tianditu.gov.cn/share/3ab5d295b5d04152b51e6c54d4e358c5/">欧洲</a>、
+<a title="微软必应的地图网站，全球中文地图" href="https://cn.bing.com/maps">必应地图</a>、
+d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com/@12340000,4001000,6z">百度地图</a>、
+<a title="地球在线，包含谷歌地图的卫星地图" href="https://www.earthol.com">地球在线</a>、
+<a title="俄罗斯地图，en" href="https://yandex.com/maps/?ll=90.000000%2C25.000000&amp;z=3">Yandex</a>、
+#<a title="最牛地图！网址定位经纬度" href="https://www.google.com/maps/@27,100,3z">Google地图</a>/星球/街景、
+#Waze、
+<a title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景  
 
 **代理地图**  
 　　目前缺少手机浏览器上能访问的、对中文用户友好的在线地图，原因复杂，无能为力。有一些民间网站采用了曲线救国的方法，存之备用。
  	[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
-
-
 
 
 <h2 id="yz" title="yà zhōu">亚洲 Asia　d<a href="https://cn.bing.com/maps?&cp=p35v3cq48s20&lvl=4" title="限桌面模式">🌏</a></h2>
@@ -351,6 +351,26 @@ ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[🏛️](# "政府"
 鸣谢
 ----
 　　本站指向的国家概况页由[中国外交部网站](https://www.mfa.gov.cn/web/gjhdq_676201/)提供；本站指向的国别指南与经贸新闻页由中国商务部[“走出去”公共服务平台](http://fec.mofcom.gov.cn/article/gbdqzn/)提供；本站提供的各国货币兑换人民币的即时汇率，由[微软必应搜索引擎](https://cn.bing.com)提供。
+
+
+中国一带一路官方网址
+--------------------
+
+　　全球已有 <a title="截至2022年8月，一带一路官网数据" href="https://www.yidaiyilu.gov.cn/xwzx/roll/77298.htm"><b>149个国家</b></a> 签订‘共建一带一路合作文件’，本页已全部收录；
+	亚投行<a title="亚洲基础设施投资银行" href="https://www.aiib.org/">AIIB</a>已有超过100个成员国。
+<br>
+　　<a title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a>：
+<a title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>（
+<a href="https://www.yidaiyilu.gov.cn/yw.htm" title="一带一路 > 要闻">一带一路官网</a>）🌞　
+<a title="首页>外交动态>领导人活动 " href="https://www.mfa.gov.cn/web/wjdt_674879/">外交部</a>
+（<a title="首页>国家和组织>国际和地区组织" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/">国际组织</a> /
+<a title="+86-10-12308 全球领事保护与服务应急热线" href="http://cs.mfa.gov.cn">12308</a>）、
+<a title="商务部>公共服务资源平台，进出口统计数据" href="http://opendata.mofcom.gov.cn/front/data/?t=1">商务部</a>
+（<a title="中国自由贸易区服务网" href="http://fta.mofcom.gov.cn/">RCEP</a> /
+<a title="+86-10-12335 中国外经贸企业服务网" href="http://12335.mofcom.gov.cn">12335</a>）、
+海关总署（<a title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>）……
+<!-- <a title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">国家移民管理局</a>（12367 ）-->
+更多<a title="有关部门服务大全" href="../fuwu">有关部门</a>
 
 
 收录进度
