@@ -22,8 +22,8 @@
 <a href="#bmz" target="_top">5-北美洲</a>🌎　<sub>美国、加拿大、墨西哥、古巴……</sub><br>
 <a href="#nmz" target="_top">6-南美洲</a>　<sub>阿根廷、巴西、委内瑞拉……</sub><br>
 <a href="#njz" target="_top">7-南极洲</a>　<sub> 布韦岛…</sub><br>
-<a href="#代码说明" target="_top">8-代码说明</a>　<sub> 收录进度…</sub><br>
-<a href="#鸣谢" target="_top">9-中国一带一路官方网址</a>　<sub>发改委、商务部…</sub>  
+<a href="#代码说明" target="_top">8 代码说明</a>　<sub> 收录进度…</sub><br>
+<a href="#鸣谢" target="_top">9 一带一路官方连接</a>　<sub>发改委、商务部…</sub>  
 
 图例
 ----
@@ -55,8 +55,7 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 
 <h2 id="yz" title="yà zhōu">亚洲 Asia　d<a href="https://cn.bing.com/maps?&cp=p35v3cq48s20&lvl=4" title="限桌面模式">🌏</a></h2>
 
-CN⠀五常⠀	<big><big><b>	[中国](https://www.gov.cn/guoqing/)⠀China	</b></big></big>	⠀自贸区[🏵️](http://fta.mofcom.gov.cn/)	⠀<sup>首都：北京</sup>	⠀外交部⠀[🛡](https://www.mfa.gov.cn/web/wjdt_674879/)	⠀[wb](https://weibo.com/wjxlt  中国外交部微博，粉丝800万)	⠀[🏛](https://www.gov.cn)	⠀¥CNY<sup>[人民币](https://cn.bing.com/search?q=人民币汇率)</sup>	  
-CN⠀五常⠀	<big><big><b>	[中国](https://www.gov.cn/guoqing/)⠀China	</b></big></big>	⠀[🏵](http://CN.mofcom.gov.cn)	⠀[⚜️](http://CN.china-embassy.gov.cn)	⠀-	⠀[wb](https://weibo.com/wjxlt)	⠀0086	⠀<sup>首都：北京</sup>	⠀[🛡](https://www.mfa.gov.cn/web/wjdt_674879/)	⠀[🏛](https://www.gov.cn)	⠀¥<sup>[人民币](https://cn.bing.com/search?q=CNY兑CNY)</sup>CNY	  
+CN⠀五常⠀	<big><big><b>	[中国](https://www.gov.cn/guoqing/)⠀China	</b></big></big>	⠀自贸区[🏵️](http://fta.mofcom.gov.cn/)	⠀0086	<sup>首都：北京</sup>	⠀外交部⠀[🛡](https://www.mfa.gov.cn/web/wjdt_674879/)	⠀[wb](https://weibo.com/wjxlt  中国外交部微博，粉丝800万)	⠀[🏛](https://www.gov.cn)	⠀¥<sup>[人民币](https://cn.bing.com/search?q=人民币汇率)</sup>CNY  
 MN⠀+⠀	<big>	[蒙古](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676740/)⠀Mongolia	</big>	⠀[🏵](http://MN.mofcom.gov.cn)	⠀[⚜️](http://MN.china-embassy.gov.cn)	⠀[🔱](https://beijing.embassy.mn/chn/)	⠀-	⠀00976	⠀<sup>首都：乌兰巴托</sup>	⠀[🛡](https://mfa.gov.mn/en/)	⠀[🏛](http://www.pmis.gov.mn)	⠀₮<sup>[蒙古图格里克](https://cn.bing.com/search?q=MNT兑CNY)</sup>	  
 KZ⠀+⠀	<big>	[哈萨克斯坦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676500/)⠀Kazakhstan	</big>	⠀[🏵](http://KZ.mofcom.gov.cn)	⠀[⚜️](http://KZ.china-embassy.gov.cn)	⠀[🔱](https://www.gov.kz/memleket/entities/mfa-beijing?lang=zh)	⠀[wb](https://weibo.com/kazembassy)	⠀0076／00997	⠀<sup>首都：努尔苏丹</sup>	⠀[🛡](https://www.gov.kz/memleket/entities/mfa?lang=en)	⠀[🏛](https://www.gov.kz/)	⠀<sup>[哈萨克斯坦坚戈](https://cn.bing.com/search?q=KZT兑CNY)</sup>	  
 KG⠀+⠀		[吉尔吉斯斯坦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676548/)⠀Kyrgyzstan		⠀[🏵](http://KG.mofcom.gov.cn)	⠀[⚜️](http://KG.china-embassy.gov.cn)	⠀-	⠀-	⠀00996	⠀<sup>首都：比什凯克</sup>	⠀-	⠀[🏛](http://www.gov.kg)	⠀с<sup>[吉尔吉斯斯坦索姆](https://cn.bing.com/search?q=KGS兑CNY)</sup>	  
@@ -229,16 +228,16 @@ IO⠀　⠀	<small>	英属印度洋领地⠀British Indian Ocean Territory	</sma
 <h2 id="dyz" title="dà yáng zhōu">大洋洲 Ocean　d<a href="https://cn.bing.com/maps?&cp=j7j1xpthdt5b&lvl=3" title="限桌面模式">🌏</a></h2>
 
 AU⠀+⠀	<big><big>	[澳大利亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681242/1206x0_681244/)⠀Australia	</big></big>	⠀[🏵](http://AU.mofcom.gov.cn)	⠀[⚜️](http://AU.china-embassy.gov.cn)	⠀[🔱](https://china.embassy.gov.au/bjngchinese/home.html)	⠀[wb](https://weibo.com/imagineaustralia)	⠀0061	⠀<sup>首都：堪培拉（Canberra）</sup>	⠀[🛡](https://www.dfat.gov.au/)	⠀[🏛](https://www.australia.gov.au/)	⠀$<sup>[澳元](https://cn.bing.com/search?q=AUD兑CNY)</sup>	⠀<sup>[中国驻澳wb](https://weibo.com/aozhoufeihong)</sup>  
-PG⠀+⠀		[巴布亚新几内亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681266/)⠀Papua New Guinea		⠀[🏵](http://PG.mofcom.gov.cn)	⠀[⚜️](http://PG.china-embassy.gov.cn)	⠀-	⠀-	⠀00675	⠀<sup>首都：莫尔斯比港</sup>	⠀-	⠀[🏛](http://www.pm.gov.pg)	⠀K<sup>[巴布亚新几内亚基那](https://cn.bing.com/search?q=PGK兑CNY)</sup>	⠀<sup>海洋专属经济区面积310万平方公里</sup>  
+PG⠀+⠀		[巴布亚新几内亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681266/)⠀Papua New Guinea		⠀[🏵](http://PG.mofcom.gov.cn)	⠀[⚜️](http://PG.china-embassy.gov.cn)	⠀-	⠀-	⠀00675	⠀<sup>首都：莫尔斯比港</sup>	⠀-	⠀[🏛](http://www.pm.gov.pg)	⠀K<sup>[巴布亚新几内亚基那](https://cn.bing.com/search?q=PGK兑CNY)</sup>	⠀<sup>海洋专属经济区310万平方公里</sup>  
 FJ⠀+⠀	<small>	[斐济](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681342/)⠀Fiji	</small>	⠀[🏵](http://FJ.mofcom.gov.cn)	⠀[⚜️](http://FJ.china-embassy.gov.cn)	⠀-	⠀-	⠀00679	⠀<sup>首都：苏瓦</sup>	⠀-	⠀[🏛](http://www.fiji.gov.fj)	⠀$<sup>[斐济元](https://cn.bing.com/search?q=FJD兑CNY)</sup>	  
-KI⠀+⠀	<sub>	[基里巴斯](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681418/)⠀Kiribati	</sub>	⠀-	⠀[⚜️](http://KI.china-embassy.gov.cn)	⠀-	⠀-	⠀00686	⠀<sup>首都：南塔拉瓦</sup>	⠀-	⠀-	⠀$<sup>[基里巴斯元](https://cn.bing.com/search?q=KID兑CNY)</sup>	⠀<sup>海洋专属经济区面积350万平方公里</sup>  
+KI⠀+⠀	<sub>	[基里巴斯](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681418/)⠀Kiribati	</sub>	⠀-	⠀[⚜️](http://KI.china-embassy.gov.cn)	⠀-	⠀-	⠀00686	⠀<sup>首都：南塔拉瓦</sup>	⠀-	⠀-	⠀$<sup>[基里巴斯元](https://cn.bing.com/search?q=KID兑CNY)</sup>	⠀<sup>海洋专属经济区350万平方公里</sup>  
 MH⠀+⠀	<sub>	[马绍尔群岛](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681492/1206x0_681494/)⠀Marshall Islands	</sub>	⠀-	⠀-	⠀-	⠀-	⠀00692	⠀<sup>首都：马朱罗（Majuro）</sup>	⠀-	⠀[🏛](http://www.rmiembassyus.org)	⠀$<sup>[美元](https://cn.bing.com/search?q=USD兑CNY)</sup>	  
-FM⠀+⠀	<sub>	[密克罗尼西亚联邦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681568/)⠀Micronesia	</sub>	⠀-	⠀[⚜️](http://FM.china-embassy.gov.cn)	⠀-	⠀-	⠀00691	⠀<sup>首都：帕利基尔</sup>	⠀-	⠀[🏛](http://www.fsmgov.org)	⠀$<sup>[美元](https://cn.bing.com/search?q=USD兑CNY)</sup>	⠀<sup>海洋专属经济区面积约298万平方公里</sup>  
+FM⠀+⠀	<sub>	[密克罗尼西亚联邦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681568/)⠀Micronesia	</sub>	⠀-	⠀[⚜️](http://FM.china-embassy.gov.cn)	⠀-	⠀-	⠀00691	⠀<sup>首都：帕利基尔</sup>	⠀-	⠀[🏛](http://www.fsmgov.org)	⠀$<sup>[美元](https://cn.bing.com/search?q=USD兑CNY)</sup>	⠀<sup>海洋专属经济区约298万平方公里</sup>  
 NR⠀+⠀	<sub>	[瑙鲁](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681592/)⠀Nauru	</sub>	⠀-	⠀-	⠀-	⠀-	⠀00674	⠀<sup>首都：亚伦</sup>	⠀-	⠀-	⠀$<sup>[澳元](https://cn.bing.com/search?q=AUD兑CNY)</sup>	  
-PW⠀+⠀	<sub>	[帕劳](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681666/)⠀Palau	</sub>	⠀-	⠀-	⠀-	⠀-	⠀00680	⠀<sup>首都：恩吉鲁穆德</sup>	⠀-	⠀[🏛](http://www.palaugov.net)	⠀$<sup>[美元](https://cn.bing.com/search?q=USD兑CNY)</sup>	⠀<sup>海洋专属经济区面积约63万平方公里</sup>  
+PW⠀+⠀	<sub>	[帕劳](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681666/)⠀Palau	</sub>	⠀-	⠀-	⠀-	⠀-	⠀00680	⠀<sup>首都：恩吉鲁穆德</sup>	⠀-	⠀[🏛](http://www.palaugov.net)	⠀$<sup>[美元](https://cn.bing.com/search?q=USD兑CNY)</sup>	⠀<sup>海洋专属经济区约63万平方公里</sup>  
 WS⠀+⠀	<sub>	[萨摩亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681716/)⠀Samoa	</sub>	⠀-	⠀[⚜️](http://WS.china-embassy.gov.cn)	⠀-	⠀-	⠀00685	⠀<sup>首都：阿皮亚</sup>	⠀-	⠀[🏛](http://www.govt.ws)	⠀T<sup>[萨摩亚塔拉](https://cn.bing.com/search?q=WST兑CNY)</sup>	  
 SB⠀+⠀	<small>	[所罗门群岛](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681766/)⠀Solomon Islands	</small>	⠀-	⠀[⚜️](http://SB.china-embassy.gov.cn)	⠀-	⠀-	⠀00677	⠀<sup>首都：霍尼亚拉</sup>	⠀-	⠀[🏛](http://www.commerce.gov.sb)	⠀$<sup>[所罗门群岛元](https://cn.bing.com/search?q=SBD兑CNY)</sup>	  
-TO⠀+⠀	<sub>	[汤加](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681790/1206x0_681792/)⠀Tonga	</sub>	⠀[🏵](http://TO.mofcom.gov.cn)	⠀[⚜️](http://TO.china-embassy.gov.cn)	⠀[🔱](http://www.tongaembassycn.gov.to/zh/)	⠀-	⠀00676	⠀<sup>首都：努库阿洛法（Nuku’alofa）</sup>	⠀-	⠀[🏛](http://www.pmo.gov.to)	⠀T$<sup>[汤加潘加](https://cn.bing.com/search?q=TOP兑CNY)</sup>	⠀<sup>海洋专属经济区面积70万平方公里</sup>  
+TO⠀+⠀	<sub>	[汤加](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681790/1206x0_681792/)⠀Tonga	</sub>	⠀[🏵](http://TO.mofcom.gov.cn)	⠀[⚜️](http://TO.china-embassy.gov.cn)	⠀[🔱](http://www.tongaembassycn.gov.to/zh/)	⠀-	⠀00676	⠀<sup>首都：努库阿洛法（Nuku’alofa）</sup>	⠀-	⠀[🏛](http://www.pmo.gov.to)	⠀T$<sup>[汤加潘加](https://cn.bing.com/search?q=TOP兑CNY)</sup>	⠀<sup>海洋专属经济区70万平方公里</sup>  
 TV⠀+⠀	<sub>	[图瓦卢](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681814/)⠀Tuvalu	</sub>	⠀-	⠀-	⠀-	⠀-	⠀00688	⠀<sup>首都：福纳佛提</sup>	⠀-	⠀[🏛](http://www.tuvaluislands.com)	⠀$<sup>[图瓦卢元](https://cn.bing.com/search?q=TVD兑CNY)</sup>	  
 VU⠀+⠀	<small>	[瓦努阿图](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681890/)⠀Vanuatu	</small>	⠀[🏵](http://VU.mofcom.gov.cn)	⠀[⚜️](http://VU.china-embassy.gov.cn)	⠀-	⠀-	⠀00678	⠀<sup>首都：维拉港</sup>	⠀-	⠀[🏛](http://www.vanuatugovernment.gov.vu)	⠀Vt<sup>[瓦努阿图瓦图](https://cn.bing.com/search?q=VUV兑CNY)</sup>	  
 NZ⠀+⠀		[新西兰](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681940/1206x0_681942/)⠀New Zealand		⠀[🏵](http://NZ.mofcom.gov.cn)	⠀[⚜️](http://NZ.china-embassy.gov.cn)	⠀[🔱](https://www.immigration.govt.nz/)	⠀[wb](https://weibo.com/nzembassy)	⠀0064	⠀<sup>首都：惠灵顿（Wellington）</sup>	⠀-	⠀[🏛](http://newzealand.govt.nz)	⠀$<sup>[新西兰元](https://cn.bing.com/search?q=NZD兑CNY)</sup>	  
@@ -352,8 +351,8 @@ ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[🏛️](# "政府"
 　　本站指向的国家概况页由[中国外交部网站](https://www.mfa.gov.cn/web/gjhdq_676201/)提供；本站指向的国别指南与经贸新闻页由中国商务部[“走出去”公共服务平台](http://fec.mofcom.gov.cn/article/gbdqzn/)提供；本站提供的各国货币兑换人民币的即时汇率，由[微软必应搜索引擎](https://cn.bing.com)提供。
 
 
-中国一带一路官方网址
---------------------
+一带一路官方链接
+----------------
 
 　　全球已有 <a title="截至2022年8月，一带一路官网数据" href="https://www.yidaiyilu.gov.cn/xwzx/roll/77298.htm"><b>149个国家</b></a> 签订‘共建一带一路合作文件’，本页已全部收录；
 	亚投行<a title="亚洲基础设施投资银行" href="https://www.aiib.org/">AIIB</a>已有超过100个成员国。
@@ -375,7 +374,7 @@ ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[🏛️](# "政府"
 收录进度
 --------
 
-+	202209　增加商务部《国别指南》，正在补充各国政府网址
++	202209　增加商务部《国别指南》，增加国际长途区号，正在补充各国使馆网址
 +	202209　已收录215个国家货币符号，增加查询汇率连接，上线公开测试
 +	202208　收录249个ISO代码及其国家，正在测试版式
 
