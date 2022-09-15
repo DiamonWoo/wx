@@ -6,9 +6,9 @@
 
 		文明因交流而多彩，文明因互鉴而丰富。——习近平 20140327 于 UNESCO
 
-　　**国别表**收录国家和地区的代码与网址，包括：ISO国别代码、ISO货币代码、国际电话区号、国别顶级域名；中英文名称、国别指南与经贸新闻🏵、⚜️中外使领馆网址🔱、外交机构网址🛡、中央或联邦政府网址🏛……等。  
-　　收录口径为 [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 国别代码249个，包含以下全集：联合国全体会员国（193个）、中国建交国（181个）、一带一路签约国（149个，截至202208），代码说明见[页面底部](#代码说明){:target="_top"}。2022年俄乌冲突爆发后，顿涅茨克、卢甘斯克 获得少数国家(俄罗斯/叙利亚/朝鲜…)承认，但还没有获得ISO分配的国别代码，故不在本页收录范围。  
-　　**国别表**收录内容按各大洲分段落、按加权因素排版、排序。加权因素包括：联合国席位、国土面积、丝绸之路行进路线、国别名称的拼音字母顺序。  
+　　**国别表**收录全球国家和地区的代码与网址，包括：ISO国别代码、ISO货币代码、国际电话区号📠、国别顶级域名；中英文名称、国别指南与经贸新闻🏵、⚜️中外使领馆网址🔱、外交机构网址🛡、中央或联邦政府网址🏛……等。  
+　　收录口径为 [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 国别代码249个，包含以下全集：联合国全体会员国（193个）、中国建交国（181个）、一带一路签约国（149个，截至202208），代码说明见[页面底部](#代码说明){:target="_top"}。2022年俄乌冲突爆发后，顿涅茨克、卢甘斯克 获得少数国家(RU/SY/KP…)承认，但还没有获得ISO分配的国别代码，故不在本页收录范围。  
+　　**国别表**收录内容按各大洲分段落、按加权因素排版、排序。加权因素包括：国土面积与接壤、联合国席位、丝绸之路行进路线、国别名的拼音字母顺序。  
 　　工作仍在进行，欢迎提交意见，收录进度见页面底部。  
 
 
@@ -20,7 +20,7 @@
 <a href="#fz" target="_top">3-非洲</a>🌍　<sub>埃及、埃塞俄比亚、坦桑尼亚、南非……</sub><br>
 <a href="#dyz" target="_top">4-大洋洲</a>　<sub>澳大利亚、汤加、新西兰……</sub><br>
 <a href="#bmz" target="_top">5-北美洲</a>🌎　<sub>美国、加拿大、墨西哥、古巴……</sub><br>
-<a href="#nmz" target="_top">6-拉丁美洲</a>　<sub>阿根廷、巴西、委内瑞拉……</sub><br>
+<a href="#nmz" target="_top">6-南美洲</a>　<sub>阿根廷、巴西、委内瑞拉……</sub><br>
 <a href="#njz" target="_top">7-南极洲</a>　<sub> 布韦岛…</sub><br>
 <a href="#代码说明" target="_top">0-代码说明</a>　<sub> 收录进度…</sub>  
 
@@ -33,6 +33,27 @@
 +	🔱/wb/🛡/　驻华使馆/微博/外交部门
 +	🏛　最高行政机构网站（中央政府/联邦政府/总统府 等）
 +	💱货币名　查询该货币兑换人民币的当前汇率
+
+全球地图
+--------
+ 	天地图
+ 	<a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a> /
+ 	<a title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
+	d<a title="天地图欧洲区域，限桌面访问" href="https://map.tianditu.gov.cn/share/3ab5d295b5d04152b51e6c54d4e358c5/">欧洲</a>、
+	<a title="微软必应的地图网站，全球中文地图" href="https://cn.bing.com/maps">必应地图</a>、
+	d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com/@12340000,4001000,6z">百度地图</a>、
+	<a title="地球在线，包含谷歌地图的卫星地图" href="https://www.earthol.com">地球在线</a>、
+	<a title="俄罗斯地图，en" href="https://yandex.com/maps/?ll=90.000000%2C25.000000&amp;z=3">Yandex</a>、
+	#<a title="最牛地图！网址定位经纬度" href="https://www.google.com/maps/@27,100,3z">Google地图</a>/星球/街景、
+	#Waze、
+	<a title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景  
+
+**代理地图**  
+　　目前缺少手机浏览器上能访问的、对中文用户友好的在线地图，原因复杂，无能为力。有一些民间网站采用了曲线救国的方法，存之备用。
+ 	[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
+
+
+
 
 <h2 id="yz" title="yà zhōu">亚洲 Asia　d<a href="https://cn.bing.com/maps?&cp=p35v3cq48s20&lvl=4" title="限桌面模式">🌏</a></h2>
 
@@ -318,14 +339,6 @@ ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[🏛️](# "政府"
 *	🇬🇧/🇪🇺/🇺🇸	英国/欧盟/美国
 
 
-**候选地图**  
-　　目前缺少手机浏览器上能访问的、对中文用户友好的在线地图，原因复杂，无能为力。有一些民间网站采用了曲线救国的方法，存之备用。
-
-*	[天地图欧洲](https://map.tianditu.gov.cn/share/3ab5d295b5d04152b51e6c54d4e358c5)
-*	[智图在线](http://maps.bimw.cn/geoq/)
-*	[谷地图](http://www.gditu.net/)
-
-
 代码说明
 --------
 　　[ISO](https://www.iso.org/popular-standards.html)是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。ISO为**国家和地区**制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/obp/ui/#search/code/)》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states)保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
@@ -358,7 +371,7 @@ ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[🏛️](# "政府"
 	老生常谈 © 2019-2022 大萌 CC BY-NC-ND
 	知识共享3.0	可转载-需署名-非营利
 	https://laosheng.top/ydyl/nations
-	世界国别代码表	v0.4.4	202209
+	世界国别代码表	v0.4.5	202209
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
