@@ -21,9 +21,7 @@
 主网站
 ------
 
-　　推荐使用**浏览器**访问主网站：
-
-*	老生常谈：[Laosheng.top](https://laosheng.top)
+　　推荐使用**浏览器**访问主网站：	老生常谈：[Laosheng.top](https://laosheng.top)
 
 　　主站还有下列页面：
 
