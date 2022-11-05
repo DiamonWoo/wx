@@ -6,7 +6,7 @@
 ------
 
 *	/falv/  	　☸️[大萌望海楼](falv/fahai)，找法不用愁
-*	/fuwu/qianxian	　[中国千县地名图](fuwu/qianxian)📑， 2022年最新行政区划
+*	/fuwu/zhongyang	　[中国有关部门集](fuwu/zhongyang)🕰， 言出法随一盘棋
 *	/fly/waixuan	　🔥[中央外宣云媒体](fly/waixuan)，文明古国在崛起
 *	/ydyl/nations	　[世界国别代码表](ydyl/nations)🗺， ISO及中国国标代码
 
@@ -21,7 +21,9 @@
 主网站
 ------
 
-　　推荐使用**浏览器**访问主网站：	老生常谈：[Laosheng.top](https://laosheng.top)
+　　推荐使用**浏览器**访问主网站：
+
+*	老生常谈：[Laosheng.top](https://laosheng.top)
 
 　　主站还有下列页面：
 
