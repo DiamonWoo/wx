@@ -1,6 +1,8 @@
+<header>
 <base target="_blank">
 <title>中央有关部门集，言出法随一盘棋 🕰</title>
 <meta name="description" content="中央有关部门大全，全国统一投诉电话、咨询网站。12345，有事找政府">
+</header>
 
 中央有关部门集 🕰
 ================
