@@ -1,8 +1,10 @@
-<header>
 <base target="_blank">
-<title>中央有关部门集，言出法随一盘棋 🕰</title>
-<meta name="description" content="中央有关部门大全，全国统一投诉电话、咨询网站。12345，有事找政府">
-</header>
+<meta property="og:type" content="website" /><!-- article -->
+<meta property="og:site_name" content="老生常谈">
+<meta property="og:title" content="中央有关部门集，政通全国一盘棋 🕰">
+<meta property="og:description" content="中央有关部门大全，全国统一投诉电话、咨询网站。12345，有事找政府">
+<meta property="og:image" content="https://diamonwoo.github.io/wx/fuwu/CPPCC-64-16.png">
+
 
 中央有关部门集 🕰
 ================
@@ -770,6 +772,9 @@
 
 *搞错银行网址非同小可，请仔细核对是否官方网站。*
 
+<div align="right"><a href="#" target="_self">↑Top</a></div>
+<hr>
+
 
 编制依据
 --------
@@ -782,9 +787,6 @@
 * 中央编办[全国党政机关事业单位互联网网站标识管理服务平台](http://bszs.conac.cn)
 * 民政部[中国社会组织公共服务平台](http://www.chinanpo.gov.cn)
 * 维基百科【机关报】条目、【人民团体】条目
-
-<div align="right"><a href="#" target="_self">↑Top</a></div>
-<hr>
 
 　　由于编者的水平有限，页面中难免有错误和不足，恳请读者批评指正。
 
