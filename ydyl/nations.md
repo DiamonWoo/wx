@@ -15,7 +15,7 @@
 目录
 ----
 
-人民币汇率 与 图例  
+　人民币汇率 与 图例  
 <a href="#yz" target="_top">1-亚洲</a>🌏　<sub>中国、蒙古、马来西亚、沙特……</sub><br>
 <a href="#oz" target="_top">2-欧洲</a>　<sub>俄罗斯、法国、英国、德国……</sub><br>
 <a href="#fz" target="_top">3-非洲</a>🌍　<sub>埃及、埃塞俄比亚、坦桑尼亚、南非……</sub><br>
@@ -332,12 +332,16 @@ TF⠀　⠀	<small>	法属南部领地⠀French Southern Territories	</small>	�
 <h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
 
 <table align="right" border="1" style="" id="必应地图" title="地图可拖动和缩放">
-<caption>微软必应嵌入地图，可拖动，可缩放，d<a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=rmx47fhyfj9m&amp;sty=r&amp;lvl=5&amp;FORM=MBEDLD">桌面新窗口</a>
-</caption>	<!-- 查看放大的地图 -->
+<!-- <caption>微软必应嵌入地图，可拖动，可缩放，d<a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=rmx47fhyfj9m&amp;sty=r&amp;lvl=5&amp;FORM=MBEDLD">桌面新窗口</a>
+</caption> -->
 <tbody><tr><td ><!-- 宽度原为500 -->
 	<iframe width="800" height="400" frameborder="0" 
 	src="https://cn.bing.com/maps/embed?h=400&w=800&cp=rmx47fhyfj9m&lvl=5&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
 	</iframe>
+<div style="white-space: nowrap; text-align: center; width: 800px; padding: 6px 0;">
+	微软必应嵌入地图，可拖动，可缩放，d
+        <a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=rmx47fhyfj9m&amp;sty=r&amp;lvl=5&amp;FORM=MBEDLD">查看放大的地图</a>
+    </div>
 </td></tr></tbody>
 </table><!-- embed?h=460&w=680&cp=47.65079497672418~16.79013254886261&lvl=5 -->
 
