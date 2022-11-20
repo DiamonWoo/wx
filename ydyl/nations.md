@@ -6,7 +6,7 @@
 
 		文明因交流而多彩，文明因互鉴而丰富。——习近平 20140327 于 UNESCO
 
-　　**国别表**收录全球国家和地区的代码与网址，包括：ISO国别代码、ISO货币代码(汇率查询)、国际电话区号📠、国别顶级域；中英文名称、国别指南与经贸新闻🏵、⚜️中外使馆网址🔱、外交部门网址🛡、中央或联邦政府网址🏛……等。  
+　　**国别表**收录全球国家和地区的代码与网址，包括：ISO国别代码、ISO货币代码 / 汇率查询💱、国际电话区号📠、国别顶级域；中英文名称、国别指南与经贸新闻🏵、⚜️中外使馆网址🔱、外交部门网址🛡、中央或联邦政府网址🏛……等。  
 　　收录口径为 [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 国别代码249个，包含以下全集：联合国全体会员国（193个）、中国建交国（181个）、一带一路签约国（149个，截至202208），代码来源见页面底部。　2022年俄乌冲突爆发后，顿涅茨克、卢甘斯克 获得少数国家(RU/SY/KP…)承认，但还没有获得ISO分配的国别代码，故不在本页收录范围。  
 　　**国别表**收录内容按各大洲分段落、按加权因素排序、排版。加权因素包括：联合国席位、国土面积与接壤、丝绸之路行进路线、国别名的拼音字母顺序。  
 　　工作仍在进行，欢迎提交意见，收录进度见[页面底部](#9){:target="_top"}。  
@@ -30,15 +30,15 @@
 人民币汇率中间价
 --------------
 
-　　根据中国人民银行授权，[中国外汇交易中心](https://www.chinamoney.com.cn/chinese/bkccpr/)(上海)负责发布**人民币汇率中间价**。  
+　　根据中国人民银行授权，**[中国外汇交易中心](https://www.chinamoney.com.cn/chinese/bkccpr/)**(上海)负责发布“人民币汇率中间价”。  
 　　六大国有银行外汇牌价：  
 　　[中国银行](https://www.boc.cn/sourcedb/whpj/)、
 [中国工商银行](https://www.icbc.com.cn/column/1438058341489590354.html)、
-[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)、
+**[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)**、
 [中国农业银行](https://ewealth.abchina.com/ForeignExchange/)、
 [中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
-[中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)  
-　　参考：上海黄金交易所[上海金基准价](https://www.sge.com.cn/sjzx/jzj)
+[中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。  
+　　参考黄金人民币价格：上海黄金交易所 发布的[上海金基准价](https://www.sge.com.cn/sjzx/jzj)。
 
 
 图例
