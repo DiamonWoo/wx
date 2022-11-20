@@ -338,7 +338,7 @@ TF⠀　⠀	<small>	法属南部领地⠀French Southern Territories	</small>	�
 	<iframe width="800" height="400" frameborder="0" 
 	src="https://cn.bing.com/maps/embed?h=400&w=800&cp=rmx47fhyfj9m&lvl=5&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
 	</iframe>
-<div style="white-space: nowrap; text-align: center; width: 800px; padding: 6px 0;">
+<div style="white-space: nowrap; text-align: center; width: 800px; ">
 	微软必应嵌入地图，可拖动，可缩放，d
         <a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=rmx47fhyfj9m&amp;sty=r&amp;lvl=5&amp;FORM=MBEDLD">查看放大的地图</a>
     </div>
