@@ -31,14 +31,15 @@
 --------------
 
 　　根据中国人民银行授权，[中国外汇交易中心](https://www.chinamoney.com.cn/chinese/bkccpr/)(上海)负责发布**人民币汇率中间价**。  
-　　六大国有银行外汇牌价：
-[中国银行](https://www.boc.cn/sourcedb/whpj/)、
+　　六大国有银行外汇牌价：  
+　　[中国银行](https://www.boc.cn/sourcedb/whpj/)、
 [中国工商银行](https://www.icbc.com.cn/column/1438058341489590354.html)、
 [中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)、
 [中国农业银行](https://ewealth.abchina.com/ForeignExchange/)、
 [中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
 [中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)  
 　　参考：上海黄金交易所[上海金基准价](https://www.sge.com.cn/sjzx/jzj)
+
 
 图例
 ----
