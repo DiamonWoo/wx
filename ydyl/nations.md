@@ -46,10 +46,10 @@
 +	CN / 0086　ISO国别代码2位字母 / 国际长途电话区号 📠
 +	+/&　　🇺🇳联合国的会员国 / 一带一路签约国
 　	（五常 为5个安理会常任理事国，% 为2个观察员国）
-+	国别名/Nation　国家(地区)概况，字号大小根据国土面积分5档
++	国别名/Nations　国家(地区)概况，字号大小根据国土面积分5档
 +	🏵/⚜️　商务部国别指南 / 中国使馆
-+	🔱/wb/🛡　驻华使馆 /微博/ 外交部
-+	🏛　最高行政机构网站（中央政府/内阁/议会 等）
++	🔱/wb　驻华使馆 /微博
++	🏛/🛡　外交部 / 最高行政机构（中央政府/内阁/议会 等）
 +	🏞　一带一路官网的〖国别美图〗
 +	💱货币名　查询外币兑换人民币的当前汇率
 
@@ -338,8 +338,7 @@ TF⠀　⠀	<small>	法属南部领地⠀French Southern Territories	</small>	�
 	<iframe width="800" height="400" frameborder="0" 
 	src="https://cn.bing.com/maps/embed?h=400&w=800&cp=rmx47fhyfj9m&lvl=5&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
 	</iframe>
-<div style="white-space: nowrap; text-align: center; width: 800px; ">
-	微软必应嵌入地图，可拖动，可缩放，d
+<div style="white-space: nowrap; width: 800px; ">微软必应嵌入地图，可拖动，可缩放，d
         <a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=rmx47fhyfj9m&amp;sty=r&amp;lvl=5&amp;FORM=MBEDLD">查看放大的地图</a>
     </div>
 </td></tr></tbody>
@@ -381,7 +380,7 @@ TF⠀　⠀	<small>	法属南部领地⠀French Southern Territories	</small>	�
 	老生常谈 © 2019-2022 大萌 CC BY-NC-ND
 	知识共享3.0	可转载-需署名-非营利
 	https://laosheng.top/ydyl/nations
-	世界国别代码表	v0.5.9	202211
+	世界国别代码表	v0.6.0	202211
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
