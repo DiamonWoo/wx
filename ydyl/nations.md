@@ -6,7 +6,7 @@
 
 		文明因交流而多彩，文明因互鉴而丰富。——习近平 20140327 于 UNESCO
 
-　　**国别表**收录全球国家和地区的代码与网址，包括：ISO国别代码、ISO货币代码、国际电话区号📠、国别顶级域；中英文名称、国别指南与经贸新闻🏵、⚜️中外使馆网址🔱、外交部门网址🛡、中央或联邦政府网址🏛……等。  
+　　**国别表**收录全球国家和地区的代码与网址，包括：ISO国别代码、ISO货币代码(汇率查询)、国际电话区号📠、国别顶级域；中英文名称、国别指南与经贸新闻🏵、⚜️中外使馆网址🔱、外交部门网址🛡、中央或联邦政府网址🏛……等。  
 　　收录口径为 [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 国别代码249个，包含以下全集：联合国全体会员国（193个）、中国建交国（181个）、一带一路签约国（149个，截至202208），代码来源见页面底部。　2022年俄乌冲突爆发后，顿涅茨克、卢甘斯克 获得少数国家(RU/SY/KP…)承认，但还没有获得ISO分配的国别代码，故不在本页收录范围。  
 　　**国别表**收录内容按各大洲分段落、按加权因素排序、排版。加权因素包括：联合国席位、国土面积与接壤、丝绸之路行进路线、国别名的拼音字母顺序。  
 　　工作仍在进行，欢迎提交意见，收录进度见[页面底部](#9){:target="_top"}。  
@@ -15,6 +15,7 @@
 目录
 ----
 
+人民币汇率 与 图例  
 <a href="#yz" target="_top">1-亚洲</a>🌏　<sub>中国、蒙古、马来西亚、沙特……</sub><br>
 <a href="#oz" target="_top">2-欧洲</a>　<sub>俄罗斯、法国、英国、德国……</sub><br>
 <a href="#fz" target="_top">3-非洲</a>🌍　<sub>埃及、埃塞俄比亚、坦桑尼亚、南非……</sub><br>
@@ -26,6 +27,19 @@
 9 <a href="#9" target="_top">代码来源</a>
 
 
+人民币汇率中间价
+--------------
+
+　　根据中国人民银行授权，[中国外汇交易中心](https://www.chinamoney.com.cn/chinese/bkccpr/)(上海)负责发布**人民币汇率中间价**。  
+　　六大国有银行外汇牌价：
+[中国银行](https://www.boc.cn/sourcedb/whpj/)、
+[中国工商银行](https://www.icbc.com.cn/column/1438058341489590354.html)、
+[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)、
+[中国农业银行](https://ewealth.abchina.com/ForeignExchange/)、
+[中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
+[中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)  
+　　参考：上海黄金交易所[上海金基准价](https://www.sge.com.cn/sjzx/jzj)
+
 图例
 ----
 +	CN / 0086　ISO国别代码2位字母 / 国际长途电话区号 📠
@@ -36,7 +50,7 @@
 +	🔱/wb/🛡　驻华使馆 /微博/ 外交部
 +	🏛　最高行政机构网站（中央政府/内阁/议会 等）
 +	🏞　一带一路官网的〖国别美图〗
-+	💱货币名　查询该货币兑换人民币的当前汇率
++	💱货币名　查询外币兑换人民币的当前汇率
 
 
 <h2 id="yz" title="yà zhōu">亚洲 Asia　d<a href="https://cn.bing.com/maps?&cp=p35v3cq48s20&lvl=4" title="限桌面模式">🌏</a></h2>
@@ -338,6 +352,8 @@ TF⠀　⠀	<small>	法属南部领地⠀French Southern Territories	</small>	�
 
 　　以上两点因素导致中文用户在了解世界的时候，出现了一个模糊的基础。　大萌编纂的此份《[世界国别代码表](https://Laosheng.top/ydyl/nations)》以ISO国家代码为基础，结合了中国国家标准、中国外交部官方表述，并充分考虑了中文语言习惯，为中文用户了解世界的普遍需求提供一份基础网页。
 
+　　本页面由 <a title='Laosheng.top 衍生项目' href='https://diamonwoo.github.io/LSIP'>LSIP 大规模集成网页</a> 提供理论支持。
+
 
 收录进度
 --------
@@ -355,13 +371,12 @@ TF⠀　⠀	<small>	法属南部领地⠀French Southern Territories	</small>	�
 
 　　节约您的搜寻时间，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
 
-　　本页面由 <a title='Laosheng.top 衍生项目' href='https://diamonwoo.github.io/LSIP'>LSIP 大规模集成网页</a> 提供理论支持。
 
 ```
 	老生常谈 © 2019-2022 大萌 CC BY-NC-ND
 	知识共享3.0	可转载-需署名-非营利
 	https://laosheng.top/ydyl/nations
-	世界国别代码表	v0.5.8	202211
+	世界国别代码表	v0.5.9	202211
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
