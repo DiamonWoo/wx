@@ -1,4 +1,4 @@
-老生常谈 > [有关部门](.){:target="_self"}_
+老生常谈 > [有关部门](.){:target="_self"}_ > 交易所
 <base target="_blank">
 <meta property="og:type" content="website" /><!-- article -->
 <meta property="og:site_name" content="老生常谈">
@@ -6,12 +6,11 @@
 <meta property="og:description" content="中央有关部门大全，全国统一投诉电话、咨询网站。12345，有事找政府">
 <meta property="og:image" content="https://diamonwoo.github.io/wx/fuwu/CPPCC-64-16.png">
 
-中国主要交易所 
+中国金融交易所 💱
 ================
 大萌	2022
 
 		防范金融风险还须解决许多重大问题——二十大报告
-
 
 监管机构
 -------
@@ -22,15 +21,14 @@
   * [财政部](http://www.mof.gov.cn/) / [商务部](http://www.mofcom.gov.cn/)
   * 中国人民银行-[国家外汇管理局](https://www.safe.gov.cn)
   * [其他有关部门](zhongyang)：工信部 / 税务总局 / 海关总署 / 市场监管总局 / 国家统计局 / 中国贸促会
+* 中共中央[财经委员会](https://www.12371.cn/special/cjw/)
+* 全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml)
 
 
-法定信息披露媒体
----------------
+中国金融四大支柱
+------------------
 
-*	[中国日报](https://www.chinadaily.com.cn) / [证券日报](https://www.zqrb.cn)
-*	[中国证券报](https://www.cs.com.cn) / [上海证券报](https://www.cnstock.com)
-* 	[金融时报](https://www.financialnews.com.cn) / [证券时报](https://www.stcn.com)
-*	$[经济参考报](http://www.jjckb.cn)
+　　银行、保险、证券、信托
 
 
 
@@ -113,7 +111,8 @@ Top25
 
 　　受疫情影响，2021年全球交易所总市值回到2017年水平。上交所超越日本，跻身第三。
 
-[世界交易所联合会](https://www.world-exchanges.org)
+[世界交易所联合会](https://www.world-exchanges.org) 
+[成员名单](https://www.world-exchanges.org/membership-events)
 
 *	美国 [纽约证券交易所](https://www.nyse.com)
 *	美国 纽约[纳斯达克](https://www.nasdaq.com)
@@ -151,6 +150,16 @@ Top25
 道琼斯工业指数、
 
 
+法定信息披露媒体
+---------------
+7家
+
+*	[中国日报](https://www.chinadaily.com.cn) / $[证券日报](http://www.zqrb.cn)
+*	[中国证券报](https://www.cs.com.cn) / [上海证券报](https://www.cnstock.com)
+* 	[金融时报](https://www.financialnews.com.cn) / [证券时报](https://www.stcn.com)
+*	$[经济参考报](http://www.jjckb.cn)
+
+
 
 　　对老生常谈“服务系列网页” [发表意见](https://xoyondo.com/mb/1pCcfaaGsziZ5el )。
 
@@ -158,7 +167,7 @@ Top25
 	老生常谈© 2019-2022 大萌   知识共享许可
 	CC BY-SA 3.0 可转载-可演绎-相同方式共享
 	https://laosheng.top/fuwu/jiaoyisuo
-	中国主要交易所	alpha	　202211
+	中国主要交易所	Beta2	　202211
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
