@@ -1,10 +1,10 @@
-老生常谈 > [有关部门](.){:target="_self"}_ > 交易所
+老生常谈 > [有关部门](.){:target="_self"}
 <base target="_blank">
 <meta property="og:type" content="website" /><!-- article -->
 <meta property="og:site_name" content="老生常谈">
-<meta property="og:title" content="中央有关部门集，政通全国一盘棋 🕰">
-<meta property="og:description" content="中央有关部门大全，全国统一投诉电话、咨询网站。12345，有事找政府">
-<meta property="og:image" content="https://diamonwoo.github.io/wx/fuwu/CPPCC-64-16.png">
+<meta property="og:title" content="中国金融交易所，改革开放出成果 💱">
+<meta property="og:description" content="证券股市交易、黄金期货交易、外汇、保险、信托">
+<meta property="og:image" content="📈">
 
 中国金融交易所 💱
 ================
@@ -12,23 +12,25 @@
 
 		防范金融风险还须解决许多重大问题——二十大报告
 
-监管机构
--------
+　　国务院有三个负责金融监管的直属机构，俗称‘一行两会’：人行、证监会、银保监会。其中银保监会于2018年由银监会与保监会合并而成，旧称‘一行三会’。　中国金融有四大支柱行业：银行、保险、证券(期货)、信托，其中银行业的总市值超过后面三者之和。
 
-* 国务院
-  * [发改委](https://www.ndrc.gov.cn/) / [国资委](http://www.sasac.gov.cn/)
-  * [证监会](http://www.csrc.gov.cn/) / [银保监会](http://www.cbirc.gov.cn/)
-  * [财政部](http://www.mof.gov.cn/) / [商务部](http://www.mofcom.gov.cn/)
-  * 中国人民银行-[国家外汇管理局](https://www.safe.gov.cn)
-  * [其他有关部门](zhongyang)：工信部 / 税务总局 / 海关总署 / 市场监管总局 / 国家统计局 / 中国贸促会
-* 中共中央[财经委员会](https://www.12371.cn/special/cjw/)
-* 全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml)
-
-
-中国金融四大支柱
-------------------
-
-　　银行、保险、证券、信托
+* [中国人民银行](http://www.pbc.gov.cn/)　PBC 人行，黄金/外汇
+  * 上海黄金交易所 发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)
+  - [国家外汇管理局](https://www.safe.gov.cn/) 　Safe 外汇局
+    * 中国外汇交易中心(上海) 发布 [人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)
+* [中国证券监督管理委员会](http://www.csrc.gov.cn/)　CSRC 证监会，证券/期货
+  * [上海证券交易所](http://www.sse.com.cn) 上交所 上证指数
+  * [深圳证券交易所](https://www.szse.cn/) 深交所 深证成指
+  * [北京证券交易所](http://www.bse.cn) 北交所 全国中小企业股份转让系统
+  * [中国金融期货交易所](http://www.cffex.com.cn) 中金所
+  * [大连商品交易所](http://www.dce.com.cn) 
+  * [上海期货交易所](https://www.shfe.com.cn)
+  * [郑州商品交易所](http://www.czce.com.cn)
+  * ……
+* [中国银行保险监督管理委员会](http://www.cbirc.gov.cn/)　CBIRC 银保监会，银行/保险/信托
+  - 4000多家银行，总资产超240万亿
+  -  100多家保险，总资产约20万亿
+  -   68家信托机构，总资产约30万亿
 
 
 
@@ -105,6 +107,17 @@
     财团法人中华民国证券柜台买卖中心（OTC）
 
 
+更多监管机构
+-----------
+
+* 国务院
+  * [发改委](https://www.ndrc.gov.cn/) / [国资委](http://www.sasac.gov.cn/)
+  * [财政部](http://www.mof.gov.cn/) / [商务部](http://www.mofcom.gov.cn/)
+  * [国务院其他部门](zhongyang)：工信部 / 税务总局 / 海关总署 / 市场监管总局 / 国家统计局 / 中国贸促会
+* 中共中央[财经委员会](https://www.12371.cn/special/cjw/)
+* 全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 
+
+
 全球交易所市值排行榜2021
 ----------------------
 Top25
@@ -167,7 +180,7 @@ Top25
 	老生常谈© 2019-2022 大萌   知识共享许可
 	CC BY-SA 3.0 可转载-可演绎-相同方式共享
 	https://laosheng.top/fuwu/jiaoyisuo
-	中国主要交易所	Beta2	　202211
+	中国主要交易所	Beta3	　202211
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
