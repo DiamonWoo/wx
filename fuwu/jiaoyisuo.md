@@ -22,9 +22,9 @@
 
 * [中国人民银行](http://www.pbc.gov.cn/)　PBC 人行  
 	国家中央银行，主管：外汇/黄金/货币政策
-  - [国家外汇管理局](https://www.safe.gov.cn/) 　Safe 外汇局
+  - [国家外汇管理局](https://www.safe.gov.cn/) 　Safe 外汇局　外汇储备约$3万亿美元。
     * 中国外汇交易中心(上海) 发布 [人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)
-  * 上海黄金交易所 发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)
+  * 上海黄金交易所 发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)　黄金储备近2000吨，约￥0.8万亿。
 
 * [中国银行保险监督管理委员会](http://www.cbirc.gov.cn/)　CBIRC 银保监会  
 	**银行**(储蓄/理财/贷款)/保险/信托，查询最新[银行业金融机构法人名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)
@@ -38,22 +38,22 @@
 
 * [中国证券监督管理委员会](http://www.csrc.gov.cn/)　CSRC 证监会  
 	**股票**/基金/期货/债券 / 上市公司
-  * A股(人民币普通股票)上市公司超过5000家（2022年11月数据）
-  
-  -  沪市 [上海证券交易所](http://www.sse.com.cn) 上证综指
-  -  深市 [深圳证券交易所](https://www.szse.cn/) 深证成指
-  -  北交所 [北京证券交易所](http://www.bse.cn) 全国中小企业股份转让系统
-  -  [上海期货交易所](https://www.shfe.com.cn)
-  -  [郑州商品交易所](http://www.czce.com.cn)
-  -  [大连商品交易所](http://www.dce.com.cn) 
-  -  [中国金融期货交易所](http://www.cffex.com.cn) **中金所**
-  -  [广州期货交易所](http://www.gfex.com.cn)
+  - A股(人民币普通股票)，至2022年11月，上市公司超过5000家，总市值近80万亿。
+    *  沪市 [上海证券交易所](http://www.sse.com.cn) 上市公司超2100家　上证综指
+    *  深市 [深圳证券交易所](https://www.szse.cn/) 上市公司超2700家　深证成指
+    *  北交所 [北京证券交易所](http://www.bse.cn) 上市公司超120家　全国中小企业股份转让系统
+  * [上海期货交易所](https://www.shfe.com.cn)
+  * [郑州商品交易所](http://www.czce.com.cn)
+  * [大连商品交易所](http://www.dce.com.cn) 
+  * [中国金融期货交易所](http://www.cffex.com.cn) **中金所**
+  * [广州期货交易所](http://www.gfex.com.cn)
 
-  * 150家期货公司　查询最新[期货公司名录](http://www.csrc.gov.cn/csrc/c101920/c1039268/content.shtml)
-  * ……（待续）
+  - 150家期货公司　查询最新[期货公司名录](http://www.csrc.gov.cn/csrc/c101920/c1039268/content.shtml)
+  - 基金/债券……（还没搞明白）
 
-全国68家信托公司，67家场外金融资产交易场所(金交所等)、近五千家银行
-金交所成立依据《金融企业国有资产转让管理办法》(财政部令第54号)
+
+	全国68家信托公司，67家场外金融资产交易场所(金交所等)、近五千家银行
+	金交所成立依据《金融企业国有资产转让管理办法》(财政部令第54号)
 
 
 其他交易所 Exchange
@@ -169,6 +169,16 @@
 * 全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 
 
 
+法定信息披露媒体
+---------------
+7家
+
+*	[中国日报](https://www.chinadaily.com.cn) / $[证券日报](http://www.zqrb.cn)
+*	[中国证券报](https://www.cs.com.cn) / [上海证券报](https://www.cnstock.com)
+* 	[金融时报](https://www.financialnews.com.cn) / [证券时报](https://www.stcn.com)
+*	$[经济参考报](http://www.jjckb.cn)
+
+
 全球交易所市值排行榜2021
 ----------------------
 Top25
@@ -214,15 +224,6 @@ Top25
 道琼斯工业指数、
 
 
-法定信息披露媒体
----------------
-7家
-
-*	[中国日报](https://www.chinadaily.com.cn) / $[证券日报](http://www.zqrb.cn)
-*	[中国证券报](https://www.cs.com.cn) / [上海证券报](https://www.cnstock.com)
-* 	[金融时报](https://www.financialnews.com.cn) / [证券时报](https://www.stcn.com)
-*	$[经济参考报](http://www.jjckb.cn)
-
 
 
 　　对老生常谈“服务系列网页” [发表意见](https://xoyondo.com/mb/1pCcfaaGsziZ5el )。
@@ -231,7 +232,7 @@ Top25
 	老生常谈 © 2019-2022 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/fuwu/jiaoyisuo
-	中国金融交易所	v0.3.0 	202211
+	中国金融交易所	v0.3.1 	202211
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
