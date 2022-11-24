@@ -1,4 +1,4 @@
-老生常谈 > [有关部门](){:target="_self"}
+老生常谈 > 有关部门[](){:target="_self"}
 <base target="_blank">
 <meta property="og:type" content="website" /><!-- article -->
 <meta property="og:site_name" content="老生常谈">
@@ -50,19 +50,31 @@
   * [广州期货交易所](http://www.gfex.com.cn)
 
   - 150家期货公司　查询最新[期货公司名录](http://www.csrc.gov.cn/csrc/c101920/c1039268/content.shtml)
-  - 基金
+  - 基金　　2022年6月，公募基金超10000支，规模超26万亿。
+    * 中国证券投资基金业协会 [公务基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
     * 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支、
 	深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
 
-  - 债券
+  - 债券　　
     * 上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券、
 	深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)/十几种债券……、
 	北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）
 
-```
-	全国68家信托公司，67家场外金融资产交易场所(金交所等)、近五千家银行
-	金交所成立依据《金融企业国有资产转让管理办法》(财政部令第54号)
-```
+
+港澳台交易所
+-----------
+
+*	[香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)　港交所/香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。
+*	恒生银行 1964年创立 反映香港股票市场表现的 [恒生指数](https://www.hsi.com.hk/)
+
+*	澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
+
+*	[台湾证券交易所](https://www.twse.com.tw/zh/)　台交所/台证所/证交所
+　编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
+*	[台湾期货交易所](https://www.taifex.com.tw/cht/index)
+*	[柜买中心](https://www.tpex.org.tw/)　财团法人中华民国证券柜台买卖中心（OTC）
+
+
 
 其他交易所 Exchange
 ------------------
@@ -71,9 +83,9 @@
 
 股权交易机构
 
-    全国中小企业股份转让系统（全国OTC）
-    天津股权交易所（区域OTC）
-    天津滨海柜台交易市场（区域OTC）
+*	[全国中小企业股份转让系统](http://www.neeq.com.cn)（全国OTC）
+*	天津股权交易所（区域OTC）
+*	天津滨海柜台交易市场（区域OTC）
 
 金融资产交易所	金交所
 
@@ -99,23 +111,6 @@
 	天津矿业权交易所
 	天津文化艺术品交易所
 
-
-香港
-
-	香港交易及结算所有限公司（HKEX）
-	香港商品交易所（简称HKMEx）（已结业）
-	香港联合交易所（联交所）
-	香港期货交易所（期交所）
-
-澳门
-
-	中华（澳门）金融资产交易股份有限公司（MOX）
-
-台湾
-
-	台湾证券交易所
-	台湾期货交易所
-	财团法人中华民国证券柜台买卖中心（OTC）
 
 
 更多监管机构
@@ -181,9 +176,6 @@
 
 相关条目	中华人民共和国存款保险制度 央行金融机构评级
 
-200多家财务公司，总资产约8万亿
-
-
 
 全球交易所市值排行榜2021
 ----------------------
@@ -197,13 +189,13 @@ Top25
 *	美国 [纽约证券交易所](https://www.nyse.com)
 *	美国 纽约[纳斯达克](https://www.nasdaq.com)
 *	中国 上海证券交易所
-*	欧洲联盟 [泛欧交易所](https://www.euronext.com/zh/)
+*	欧盟 [泛欧交易所](https://www.euronext.com/zh/)
 *	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)
 *	中国 香港交易所
 *	中国 深圳证券交易所
 *	英国 [伦敦证券交易所](https://www.londonstockexchange.com)
-*	印度 印度国家证券交易所
-*	加拿大 多伦多证券交易所
+*	印度 印度国家证券交易所	#http://www.nse-india.com
+*	加拿大 [多伦多证券交易所](https://www.tsx.com)
 
 *	印度 孟买证券交易所
 *	德国 德意志交易所
@@ -211,23 +203,26 @@ Top25
 *	大韩民国 韩国交易所
 *	欧洲联盟 纳斯达克OMX北欧交易所
 *	澳大利亚 澳洲证券交易所
-*	台湾地区 [台湾证券交易所]()
+*	台湾地区 台湾证券交易所
 *	巴西 巴西证券交易所
-*	南非 南非证券交易所
-*	西班牙 西班牙证券市场公司
+*	南非 [南非证券交易所](https://www.jse.co.za)
+*	西班牙 [西班牙证券市场公司](https://www.bolsasymercados.es/)
 
 *	新加坡 新加坡交易所
-*	俄罗斯 莫斯科证券交易所
-*	泰国 泰国证券交易所
+*	俄罗斯 [莫斯科证券交易所](https://www.moex.com/en/)
+*	泰国 [泰国证券交易所](https://classic.set.or.th/)
 *	印度尼西亚 印尼证券交易所
 *	马来西亚 马来西亚证券交易所
 
 
-跨交易所指数
+待考
 -----------
 
 	道琼斯工业指数
 
+	全国68家信托公司，67家场外金融资产交易场所(金交所等)、近五千家银行
+	金交所?成立依据《金融企业国有资产转让管理办法》(财政部令第54号)
+	200多家财务公司，总资产约8万亿
 
 
 
@@ -237,7 +232,7 @@ Top25
 	老生常谈 © 2019-2022 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/fuwu/jiaoyisuo
-	中国金融交易所	v0.3.2 	202211
+	中国金融交易所	v0.3.3 	202211
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
