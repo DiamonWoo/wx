@@ -37,28 +37,29 @@
   -  400多家其他非银行金融机构（资管公司、财务公司、租赁公司……）
 
 * [中国证券监督管理委员会](http://www.csrc.gov.cn/)　CSRC 证监会  
-	**股票**/基金/期货/债券 / 上市公司
+	**股票**/基金/债券/期货 / 上市公司
   - A股(人民币普通股票)，至2022年11月，上市公司超过5000家，总市值近80万亿。
     *  沪市 [上海证券交易所](http://www.sse.com.cn) 上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)　[上证指数](http://www.sse.com.cn/market/price/trends/)
     *  深市 [深圳证券交易所](https://www.szse.cn/) 上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
 
     *  北交所 [北京证券交易所](http://www.bse.cn) 上市公司超120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)　全国中小企业股份转让系统
-  * [上海期货交易所](https://www.shfe.com.cn)
-  * [郑州商品交易所](http://www.czce.com.cn)
-  * [大连商品交易所](http://www.dce.com.cn) 
-  * [中国金融期货交易所](http://www.cffex.com.cn) **中金所**
-  * [广州期货交易所](http://www.gfex.com.cn)
-
-  - 150家期货公司　查询最新[期货公司名录](http://www.csrc.gov.cn/csrc/c101920/c1039268/content.shtml)
+  
   - 基金　　2022年6月，公募基金超10000支，规模超26万亿。
     * 中国证券投资基金业协会 [公务基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
-    * 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支、
-	深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
+    * 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
+    *	深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
 
   - 债券　　
-    * 上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券、
-	深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)/十几种债券……、
-	北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）
+    * 上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
+    * 深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)/十几种债券……
+    *	北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）
+
+  - 期货 Futures 150家期货公司　查询最新[期货公司名录](http://www.csrc.gov.cn/csrc/c101920/c1039268/content.shtml)
+    * [中国金融期货交易所](http://www.cffex.com.cn) **中金所**
+    * [上海期货交易所](https://www.shfe.com.cn)
+    * [郑州商品交易所](http://www.czce.com.cn)
+    * [大连商品交易所](http://www.dce.com.cn) 
+    * [广州期货交易所](http://www.gfex.com.cn)
 
 
 港澳台交易所
@@ -134,6 +135,50 @@
 *	$[经济参考报](http://www.jjckb.cn)
 
 
+财经类云媒体
+------------
+
+东方财富、新浪财经、第一财经、财新网……
+
+
+
+全球交易所市值排行榜2021
+----------------------
+Top25
+
+　　受疫情影响，2021年全球交易所总市值回到2017年水平。上交所超越日本，跻身第三。
+
+[世界交易所联合会](https://www.world-exchanges.org) 
+[成员名单](https://www.world-exchanges.org/membership-events)
+
+*	美国 [纽约证券交易所](https://www.nyse.com)
+*	美国 [纳斯达克](https://www.nasdaq.com)（纽约）
+*	中国 上海证券交易所
+*	欧盟 [泛欧交易所](https://www.euronext.com/zh/)
+*	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)
+*	中国 香港交易所
+*	中国 深圳证券交易所
+*	英国 [伦敦证券交易所](https://www.londonstockexchange.com)
+*	印度 印度国家证券交易所	#http://www.nse-india.com
+*	加拿大 [多伦多证券交易所](https://www.tsx.com)
+
+*	印度 孟买证券交易所
+*	德国 德意志交易所
+*	瑞士 瑞士证券交易所
+*	大韩民国 韩国交易所
+*	欧洲联盟 纳斯达克OMX北欧交易所
+*	澳大利亚 澳洲证券交易所
+*	台湾地区 台湾证券交易所
+*	巴西 巴西证券交易所
+*	南非 [南非证券交易所](https://www.jse.co.za)
+*	西班牙 [西班牙证券市场公司](https://www.bolsasymercados.es/)
+
+*	新加坡 新加坡交易所
+*	俄罗斯 [莫斯科证券交易所](https://www.moex.com/en/)
+*	泰国 [泰国证券交易所](https://classic.set.or.th/)
+*	印度尼西亚 印尼证券交易所
+*	马来西亚 马来西亚证券交易所
+
 
 中国银行业金融机构
 -----------------
@@ -177,44 +222,6 @@
 相关条目	中华人民共和国存款保险制度 央行金融机构评级
 
 
-全球交易所市值排行榜2021
-----------------------
-Top25
-
-　　受疫情影响，2021年全球交易所总市值回到2017年水平。上交所超越日本，跻身第三。
-
-[世界交易所联合会](https://www.world-exchanges.org) 
-[成员名单](https://www.world-exchanges.org/membership-events)
-
-*	美国 [纽约证券交易所](https://www.nyse.com)
-*	美国 纽约[纳斯达克](https://www.nasdaq.com)
-*	中国 上海证券交易所
-*	欧盟 [泛欧交易所](https://www.euronext.com/zh/)
-*	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)
-*	中国 香港交易所
-*	中国 深圳证券交易所
-*	英国 [伦敦证券交易所](https://www.londonstockexchange.com)
-*	印度 印度国家证券交易所	#http://www.nse-india.com
-*	加拿大 [多伦多证券交易所](https://www.tsx.com)
-
-*	印度 孟买证券交易所
-*	德国 德意志交易所
-*	瑞士 瑞士证券交易所
-*	大韩民国 韩国交易所
-*	欧洲联盟 纳斯达克OMX北欧交易所
-*	澳大利亚 澳洲证券交易所
-*	台湾地区 台湾证券交易所
-*	巴西 巴西证券交易所
-*	南非 [南非证券交易所](https://www.jse.co.za)
-*	西班牙 [西班牙证券市场公司](https://www.bolsasymercados.es/)
-
-*	新加坡 新加坡交易所
-*	俄罗斯 [莫斯科证券交易所](https://www.moex.com/en/)
-*	泰国 [泰国证券交易所](https://classic.set.or.th/)
-*	印度尼西亚 印尼证券交易所
-*	马来西亚 马来西亚证券交易所
-
-
 待考
 -----------
 
@@ -232,7 +239,7 @@ Top25
 	老生常谈 © 2019-2022 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/fuwu/jiaoyisuo
-	中国金融交易所	v0.3.3 	202211
+	中国金融交易所	v0.3.4 	202211
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
