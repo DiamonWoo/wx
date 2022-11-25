@@ -39,82 +39,66 @@ Finance
 
 * [中国证券监督管理委员会](http://www.csrc.gov.cn/)　CSRC 证监会  
 	股票/基金/债券/期货 / 上市公司
-  - **股票**　Stock　A股(人民币普通股票)，至2022年11月，上市公司超过5000家，总市值近80万亿。
-    *  沪市 [上海证券交易所](http://www.sse.com.cn) 上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)　[上证指数](http://www.sse.com.cn/market/price/trends/)
-    *  深市 [深圳证券交易所](https://www.szse.cn/) 上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
+  - **股票**　Stock　A股(人民币普通股票)至2022年11月，上市公司超过5000家，总市值近80万亿。
+    *  沪市　【[上海证券交易所](http://www.sse.com.cn)】 上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)　[上证指数](http://www.sse.com.cn/market/price/trends/)
+    *  深市　【[深圳证券交易所](https://www.szse.cn/)】 上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
+    * 北交所　【[北京证券交易所](http://www.bse.cn)】 上市公司超120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)　全国中小企业股份转让系统
 
-    * 北交所 [北京证券交易所](http://www.bse.cn) 上市公司超120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)　全国中小企业股份转让系统
+  - 债券　Bond　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
+    * 上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
+    * 深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）十几种债券
+    *	北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）
   
   - 基金　Fund　2022年6月，公募基金超10000支，规模超26万亿。
-    * 中国证券投资基金业协会 [公务基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
+    * 中国证券投资基金业协会 [公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
     * 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
     *	深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
 
-  - 债券　Bond　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
-	含：国债、地方债、金融债、公司信用债……
-    * 上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
-    * 深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)/十几种债券……
-    *	北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）
-
-  - 期货 Futures 150家期货公司　查询最新[期货公司名录](http://www.csrc.gov.cn/csrc/c101920/c1039268/content.shtml)
-    * [中国金融期货交易所](http://www.cffex.com.cn) **中金所**
-    * [上海期货交易所](https://www.shfe.com.cn)
-    * [郑州商品交易所](http://www.czce.com.cn)
-    * [大连商品交易所](http://www.dce.com.cn) 
-    * [广州期货交易所](http://www.gfex.com.cn)
+  - 期货 Futures　中国期货品种约100种，期货公司150家，资金总量2021年底达1.2万亿。  
+	证监会公布最新[期货公司名录](http://www.csrc.gov.cn/csrc/c101920/c1039268/content.shtml)，其他角色成员可看[中国期货业协会](http://www.cfachina.org/informationpublicity/hygs/)的会员公告。
+    * 【[上海期货交易所](https://www.shfe.com.cn)】　上期所
+      * 上海国际能源交易中心
+    * 【[郑州商品交易所](http://www.czce.com.cn)】　郑商所
+    * 【[大连商品交易所](http://www.dce.com.cn)】 　大商所
+    * 【[广州期货交易所](http://www.gfex.com.cn)】　广期所
+    * 【[中国金融期货交易所](http://www.cffex.com.cn)】　**中金所**
 
 
-港澳台交易所
------------
-Exchange
+港澳台证券交易所
+---------------
+stock exchanges
 
+*	[香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
 *	[香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)　港交所/香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。
-*	恒生银行 1964年创立 反映香港股票市场表现的 [恒生指数](https://www.hsi.com.hk/)
+  *	恒生银行 1964年创立 反映香港股票市场表现的 [恒生指数](https://www.hsi.com.hk/)
 
 *	澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
-
 *	[台湾证券交易所](https://www.twse.com.tw/zh/)　台交所/台证所/证交所
 　编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
 *	[台湾期货交易所](https://www.taifex.com.tw/cht/index)
 *	[柜买中心](https://www.tpex.org.tw/)　财团法人中华民国证券柜台买卖中心（OTC）
 
 
-
 其他交易所 Exchange
 ------------------
 
-【世界证券交易所列表】条目中的中国部分
+*	[北京金融资产交易所](https://www.cfae.cn)　2010年　[北金所]
+*	[全国中小企业股份转让系统](http://www.neeq.com.cn)　（全国OTC）
+*	[北京绿色交易所](https://cbeex.com.cn)　2020年由环境交易所改名
 
-股权交易机构
+*	天津金融资产交易所　2010年　[天金所](https://www.tjfae.com)　（区域OTC）
+*	[天津产权交易中心](https://www.tpre.cn)
+*	[天津滨海柜台交易市场](https://tjotc.cn)　（区域OTC）
+*	[天津国际矿业权交易所](http://www.cmextj.com)
+*	(天津)[渤海商品交易所](https://www.boce.cn/)
+*	[天津文化艺术品交易所](http://www.tjcae.com)
+	[天津排放权交易所](https://www.chinatcx.com.cn)
 
-*	[全国中小企业股份转让系统](http://www.neeq.com.cn)（全国OTC）
-*	天津股权交易所（区域OTC）
-*	天津滨海柜台交易市场（区域OTC）
+*	[上海钻石交易所](https://www.cnsde.com/)
+*	[上海环境能源交易所](https://www.cneeex.com)
 
-金融资产交易所	金交所
-
-	天津金融资产交易所	2010年
-	北京金融资产交易所	2010年
-
-贵金属交易所
-
-	上海金属交易所
-	天津贵金属交易所
-	广东省贵金属交易所
-	北京大宗商品交易所
-
-碳交易所
-
-	北京环境交易所
-	天津排放权交易所
-	上海环境能源交易所
-
-其他商品交易所
-
-	渤海商品交易所
-	天津矿业权交易所
-	天津文化艺术品交易所
-
+疑似已关闭交易所：  
+	~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
 
 
 更多金融业有关部门
@@ -236,14 +220,13 @@ Top25
 	200多家财务公司，总资产约8万亿
 
 
-
 　　对老生常谈“服务系列网页” [发表意见](https://xoyondo.com/mb/1pCcfaaGsziZ5el )。
 
 ```
 	老生常谈 © 2019-2022 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/fuwu/jiaoyisuo
-	中国金融交易所	v0.3.5 	202211
+	中国金融交易所	v0.3.6 	202211
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
