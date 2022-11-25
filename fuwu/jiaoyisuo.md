@@ -56,24 +56,24 @@ Finance
 
   - 期货 Futures　中国期货品种约100种，期货公司150家，资金总量2021年底达1.2万亿。  
 	证监会公布最新[期货公司名录](http://www.csrc.gov.cn/csrc/c101920/c1039268/content.shtml)，其他角色成员可看[中国期货业协会](http://www.cfachina.org/informationpublicity/hygs/)的会员公告。
-    * 【[上海期货交易所](https://www.shfe.com.cn)】　上期所
+    * 〖[上海期货交易所](https://www.shfe.com.cn)〗 上期所
       * 上海国际能源交易中心
-    * 【[郑州商品交易所](http://www.czce.com.cn)】　郑商所
-    * 【[大连商品交易所](http://www.dce.com.cn)】 　大商所
-    * 【[广州期货交易所](http://www.gfex.com.cn)】　广期所
-    * 【[中国金融期货交易所](http://www.cffex.com.cn)】　**中金所**
+    * 〖[郑州商品交易所](http://www.czce.com.cn)〗 郑商所
+    * 〖[大连商品交易所](http://www.dce.com.cn)〗 大商所
+    * 〖[广州期货交易所](http://www.gfex.com.cn)〗 广期所
+    * 〖[中国金融期货交易所](http://www.cffex.com.cn)〗　**中金所**
 
 
-港澳台证券交易所
+港澳台金融交易所
 ---------------
 stock exchanges
 
 *	[香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
-*	[香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)　港交所/香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。
+*	【[香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　港交所/香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。
   *	恒生银行 1964年创立 反映香港股票市场表现的 [恒生指数](https://www.hsi.com.hk/)
 
 *	澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
-*	[台湾证券交易所](https://www.twse.com.tw/zh/)　台交所/台证所/证交所
+*	【[台湾证券交易所](https://www.twse.com.tw/zh/)】　台交所/台证所/证交所
 　编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
 *	[台湾期货交易所](https://www.taifex.com.tw/cht/index)
 *	[柜买中心](https://www.tpex.org.tw/)　财团法人中华民国证券柜台买卖中心（OTC）
@@ -143,7 +143,7 @@ Top25
 *	美国 [纳斯达克](https://www.nasdaq.com)（纽约）
 *	中国 上海证券交易所
 *	欧盟 [泛欧交易所](https://www.euronext.com/zh/)
-*	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)
+*	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)📍
 *	中国 香港交易所
 *	中国 深圳证券交易所
 *	英国 [伦敦证券交易所](https://www.londonstockexchange.com)
@@ -151,21 +151,21 @@ Top25
 *	加拿大 [多伦多证券交易所](https://www.tsx.com)
 
 *	印度 孟买证券交易所
-*	德国 德意志交易所
-*	瑞士 瑞士证券交易所
-*	大韩民国 韩国交易所
-*	欧洲联盟 纳斯达克OMX北欧交易所
-*	澳大利亚 澳洲证券交易所
+*	德国 [德意志交易所](https://deutsche-boerse.com/)
+*	[瑞士证券交易所](https://www.six-group.com/en)
+*	大韩民国 [韩国交易所](http://global.krx.co.kr/cn/)📍
+*	欧洲联盟 [纳斯达克OMX北欧交易所](https://www.nasdaqomxnordic.com/)
+*	澳大利亚 [澳洲证券交易所](https://www2.asx.com.au)
 *	台湾地区 台湾证券交易所
 *	巴西 巴西证券交易所
 *	南非 [南非证券交易所](https://www.jse.co.za)
 *	西班牙 [西班牙证券市场公司](https://www.bolsasymercados.es/)
 
-*	新加坡 新加坡交易所
+*	新加坡 [新加坡交易所](https://www.sgx.com)　新交所
 *	俄罗斯 [莫斯科证券交易所](https://www.moex.com/en/)
 *	泰国 [泰国证券交易所](https://classic.set.or.th/)
-*	印度尼西亚 印尼证券交易所
-*	马来西亚 马来西亚证券交易所
+*	印度尼西亚 [印尼证券交易所]()
+*	[马来西亚证券交易所](https://www.bursamalaysia.com)
 
 
 中国银行业金融机构
@@ -218,6 +218,7 @@ Top25
 	全国68家信托公司，67家场外金融资产交易场所(金交所等)、近五千家银行
 	金交所?成立依据《金融企业国有资产转让管理办法》(财政部令第54号)
 	200多家财务公司，总资产约8万亿
+
 
 
 　　对老生常谈“服务系列网页” [发表意见](https://xoyondo.com/mb/1pCcfaaGsziZ5el )。
