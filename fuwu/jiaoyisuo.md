@@ -19,6 +19,7 @@
 
 中国金融业体系架构
 ----------------
+Finance
 
 * [中国人民银行](http://www.pbc.gov.cn/)　PBC 人行  
 	国家中央银行，主管：外汇/黄金/货币政策
@@ -27,29 +28,30 @@
   * 上海黄金交易所 发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)　黄金储备近2000吨，约￥0.8万亿。
 
 * [中国银行保险监督管理委员会](http://www.cbirc.gov.cn/)　CBIRC 银保监会  
-	**银行**(储蓄/理财/贷款)/保险/信托，查询最新[银行业金融机构法人名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)
-  - 超4000家银行，总资产超360万亿
+	银行(储蓄/理财/贷款) /保险/信托，查询最新[银行业金融机构法人名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)
+  - **银行**  Bank  超4000家，总资产超360万亿
     -  3家政策性银行（国开/农发/进出口）、**6家国有商业银行**（工/建/中/农/交/邮）
     - 12家全国股份制银行（招商、浦发……）、17家民营银行（网商、微众……）
     - 约3800家地方银行（城商行/农商行/村镇银行……）、100多家外资银行或外国银行的中国分行……
-  -  200多家保险机构，总资产约20万亿（财险/寿险）
-  -   68家信托机构，总资产约30万亿。　[全体名单](http://xtxh.net/xtxh/memberslist/index.htm)
-  -  400多家其他非银行金融机构（资管公司、财务公司、租赁公司……）
+  - 保险机构 Insurance 200多家，总资产约20万亿（财险/寿险）
+  - 信托机构 Fiduciary  68家，总资产约30万亿。　[全体名单](http://xtxh.net/xtxh/memberslist/index.htm)
+  - 其他非银行金融机构 400多家（资管公司、财务公司、租赁公司……）
 
 * [中国证券监督管理委员会](http://www.csrc.gov.cn/)　CSRC 证监会  
-	**股票**/基金/债券/期货 / 上市公司
-  - A股(人民币普通股票)，至2022年11月，上市公司超过5000家，总市值近80万亿。
+	股票/基金/债券/期货 / 上市公司
+  - **股票**　Stock　A股(人民币普通股票)，至2022年11月，上市公司超过5000家，总市值近80万亿。
     *  沪市 [上海证券交易所](http://www.sse.com.cn) 上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)　[上证指数](http://www.sse.com.cn/market/price/trends/)
     *  深市 [深圳证券交易所](https://www.szse.cn/) 上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
 
-    *  北交所 [北京证券交易所](http://www.bse.cn) 上市公司超120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)　全国中小企业股份转让系统
+    * 北交所 [北京证券交易所](http://www.bse.cn) 上市公司超120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)　全国中小企业股份转让系统
   
-  - 基金　　2022年6月，公募基金超10000支，规模超26万亿。
+  - 基金　Fund　2022年6月，公募基金超10000支，规模超26万亿。
     * 中国证券投资基金业协会 [公务基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
     * 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
     *	深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
 
-  - 债券　　
+  - 债券　Bond　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
+	含：国债、地方债、金融债、公司信用债……
     * 上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
     * 深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)/十几种债券……
     *	北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）
@@ -64,6 +66,7 @@
 
 港澳台交易所
 -----------
+Exchange
 
 *	[香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)　港交所/香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。
 *	恒生银行 1964年创立 反映香港股票市场表现的 [恒生指数](https://www.hsi.com.hk/)
@@ -114,8 +117,9 @@
 
 
 
-更多监管机构
------------
+更多金融业有关部门
+--------------------
+Relevant Departments
 
 * 国务院
   * [发改委](https://www.ndrc.gov.cn/) / [国资委](http://www.sasac.gov.cn/)
@@ -125,9 +129,9 @@
 * 全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 
 
 
-证券业法定信息披露媒体
---------------------
-7家
+证券业法定信息披露媒体 7家
+--------------------------
+Statutory Disclosure Media
 
 *	[中国日报](https://www.chinadaily.com.cn) / $[证券日报](http://www.zqrb.cn)
 *	[中国证券报](https://www.cs.com.cn) / [上海证券报](https://www.cnstock.com)
@@ -239,7 +243,7 @@ Top25
 	老生常谈 © 2019-2022 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/fuwu/jiaoyisuo
-	中国金融交易所	v0.3.4 	202211
+	中国金融交易所	v0.3.5 	202211
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
