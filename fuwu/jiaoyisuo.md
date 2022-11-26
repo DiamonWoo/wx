@@ -72,10 +72,10 @@ stock exchanges
 
 *	[香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
 *	【[香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　港交所/香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。
-  *	恒生银行 1964年创立 反映香港股票市场表现的 [恒生指数](https://www.hsi.com.hk/)
-  * 港交所2012年收购(英国)伦敦金属交易所
-
+	* 恒生银行 1964年创立 反映香港股票市场表现的 [恒生指数](https://www.hsi.com.hk/)
+	* 港交所2012年收购(英国)伦敦金属交易所
 *	澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
+
 *	【[台湾证券交易所](https://www.twse.com.tw/zh/)】　台交所/台证所/证交所
 　编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
 *	[台湾期货交易所](https://www.taifex.com.tw/cht/index)
@@ -101,7 +101,7 @@ stock exchanges
 *	[上海环境能源交易所](https://www.cneeex.com)
 
 疑似已关闭交易所：  
-	~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
+　　~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
 
 
 全球交易所市值排行榜2021
@@ -123,7 +123,7 @@ Top25
 
 *	印度 [孟买证券交易所](https://www.bseindia.com/)?
 *	德国 [德意志交易所](https://deutsche-boerse.com/dbg-en/)🍴
-  * 法兰克福证券交易所
+	* 法兰克福证券交易所
 *	[瑞士证券交易所](https://www.six-group.com/en)🍴
 *	大韩民国 [韩国交易所](http://global.krx.co.kr/cn/)📍
 *	欧洲联盟 [纳斯达克OMX北欧交易所](https://www.nasdaqomxnordic.com/)
@@ -134,14 +134,14 @@ Top25
 *	[西班牙证券市场公司](https://www.bolsasymercados.es/ing/Home)🍴
 
 *	[新加坡交易所](https://www.sgx.com/zh-hans/)📍　新交所
-  * 波罗的海交易所
+	* 2016年收购 波罗的海交易所
 *	俄罗斯 [莫斯科证券交易所](https://www.moex.com/en/)
 *	[泰国证券交易所](https://classic.set.or.th/)🍴
 *	印度尼西亚 [印尼证券交易所](https://www.idx.co.id/en)🍴
 *	[马来西亚证券交易所](https://www.bursamalaysia.com/cn/)📍
 
 
-[世界交易所联合会](https://www.world-exchanges.org) 
+更多交易所可参考：[世界交易所联合会](https://www.world-exchanges.org) 
 [成员名单](https://www.world-exchanges.org/membership-events)
 
 + [瑞士证券交易所](https://www.six-group.com/en/)🍴
@@ -170,7 +170,7 @@ Statutory Disclosure Media
 
 * [中国日报](https://www.chinadaily.com.cn) / $[证券日报](http://www.zqrb.cn)
 * [中国证券报](https://www.cs.com.cn) / [上海证券报](https://www.cnstock.com)
-*   [金融时报](https://www.financialnews.com.cn) / [证券时报](https://www.stcn.com)
+* [金融时报](https://www.financialnews.com.cn) / [证券时报](https://www.stcn.com)
 * $[经济参考报](http://www.jjckb.cn)
 
 
@@ -236,7 +236,6 @@ Statutory Disclosure Media
 	全国68家信托公司，67家场外金融资产交易场所(金交所等)、近五千家银行
 	金交所?成立依据《金融企业国有资产转让管理办法》(财政部令第54号)
 	200多家财务公司，总资产约8万亿
-
 
 
 　　对老生常谈“服务系列网页” [发表意见](https://xoyondo.com/mb/1pCcfaaGsziZ5el )。
