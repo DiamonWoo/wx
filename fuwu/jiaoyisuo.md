@@ -1,3 +1,7 @@
+中国金融交易所 💱
+================
+大萌	2022-11
+
 老生常谈 > 有关部门[](){:target="_self"}
 <base target="_blank">
 <meta property="og:type" content="website" /><!-- article -->
@@ -6,15 +10,12 @@
 <meta property="og:description" content="证券股市交易、黄金期货交易、外汇、保险、信托">
 <meta property="og:image" content="📈">
 
-中国金融交易所 💱
-================
-大萌	2022-11
 
 		防范金融风险还须解决许多重大问题——二十大报告
 
-　　中国的金融业实行‘分业经营、分业监管’架构，日常监管工作由国务院三个直属机构负责，俗称‘一行两会’：人行、证监会、银保监会。其中银保监会于2018年由*银监会*与*保监会*合并而成，旧称‘一行三会’。　这些监管部门覆盖了金融业几乎所有方面，包括中国金融的四大支柱行业：银行业、保险业、证券业(股/基/债/期)、信托业，其中银行业的总市值超过后面三者之和。　近年兴起的互联网金融有‘混业经营’态势，对分业监管体系提出了挑战。
+　　中国的金融业实行‘[分业经营、分业监管](http://www.gov.cn/xinwen/2020-09/14/content_5543303.htm)’架构，日常监管工作由国务院三个直属机构负责，俗称‘一行两会’：人行、证监会、银保监会。其中银保监会于2018年由*银监会*与*保监会*合并而成，旧称‘一行三会’。　这些监管部门覆盖了金融业几乎所有方面，包括中国金融的四大支柱行业：银行业、保险业、证券业(股/基/债/期)、信托业，其中银行业的总市值超过后面三者之和。
 
-　　本**交易所**网页以监管部门为纲，概述中国金融体系，并重点介绍证监会负责的各种金融交易所。默认货币单位为￥人民币元。
+　　本**交易所**网页以监管部门为纲，概述中国金融体系，并重点介绍证监会负责的各种金融交易所。默认货币单位为￥人民币元。　近年兴起的互联网金融有‘混业经营’态势，对分业监管体系提出了挑战。
 
 
 中国金融业体系架构
@@ -31,24 +32,25 @@ Finance
 	银行(储蓄/理财/贷款) /保险/信托，查询最新[银行业金融机构法人名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)
   - **银行**  Bank  超4000家，总资产超360万亿
     -  3家政策性银行（国开/农发/进出口）、**6家国有商业银行**（工/建/中/农/交/邮）
-    - 12家全国股份制银行（招商、浦发……）、17家民营银行（网商、微众……）
+    - 12家全国股份制银行（招商/浦发……）、17家民营银行（网商/微众……）
     - 约3800家地方银行（城商行/农商行/村镇银行……）、100多家外资银行或外国银行的中国分行……
   - 保险机构 Insurance 200多家，总资产约20万亿（财险/寿险）
   - 信托机构 Fiduciary  68家，总资产约30万亿。　[全体名单](http://xtxh.net/xtxh/memberslist/index.htm)
   - 其他非银行金融机构 400多家（资管公司、财务公司、租赁公司……）
 
 * [中国证券监督管理委员会](http://www.csrc.gov.cn/)　CSRC 证监会  
-	股票/基金/债券/期货 / 上市公司
-  - **股票**　Stock　A股(人民币普通股票)至2022年11月，上市公司超过5000家，总市值近80万亿。
-    *  沪市　【[上海证券交易所](http://www.sse.com.cn)】 上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)　[上证指数](http://www.sse.com.cn/market/price/trends/)
-    *  深市　【[深圳证券交易所](https://www.szse.cn/)】 上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
-    * 北交所　【[北京证券交易所](http://www.bse.cn)】 上市公司超120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)　全国中小企业股份转让系统
+	债券/股票/基金/期货 / 上市公司
 
   - 债券　Bond　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
-    * 上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
-    * 深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）十几种债券
-    *	北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）
+    * 【[上海证券交易所](http://www.sse.com.cn)】 　上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
+    * 【[深圳证券交易所](https://www.szse.cn/)】　深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）十几种债券
+    * 【[北京证券交易所](http://www.bse.cn)】　北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）
   
+  - **股票　Stock**　A股(人民币普通股票)至2022年11月，上市公司超过5000家，总市值近80万亿。
+    * 上交所　沪市　上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)　[上证指数](http://www.sse.com.cn/market/price/trends/)
+    * 深交所　深市　上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
+    * 北交所　　　上市公司超120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)　全国中小企业股份转让系统
+
   - 基金　Fund　2022年6月，公募基金超10000支，规模超26万亿。
     * 中国证券投资基金业协会 [公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
     * 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
@@ -71,12 +73,13 @@ stock exchanges
 *	[香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
 *	【[香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　港交所/香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。
   *	恒生银行 1964年创立 反映香港股票市场表现的 [恒生指数](https://www.hsi.com.hk/)
+  * 港交所2012年收购(英国)伦敦金属交易所
 
 *	澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
 *	【[台湾证券交易所](https://www.twse.com.tw/zh/)】　台交所/台证所/证交所
 　编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
 *	[台湾期货交易所](https://www.taifex.com.tw/cht/index)
-*	[柜买中心](https://www.tpex.org.tw/)　财团法人中华民国证券柜台买卖中心（OTC）
+*	[柜买中心](https://www.tpex.org.tw/)　台北交易所/财团法人中华民国证券柜台买卖中心（OTC）
 
 
 其他交易所 Exchange
@@ -101,6 +104,54 @@ stock exchanges
 	~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
 
 
+全球交易所市值排行榜2021
+----------------------
+Top25
+
+　　受疫情影响，2021年全球交易所总市值回到2017年水平。上交所超越日本，跻身第三。
+
+*	美国 [纽约证券交易所](https://www.nyse.com)
+*	美国 [纳斯达克](https://www.nasdaq.com)（纽约）
+*	中国 上海证券交易所
+*	欧盟 [泛欧交易所](https://www.euronext.com/zh/)🍴
+*	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)📍
+*	中国 香港交易所
+*	中国 深圳证券交易所
+*	英国 [伦敦证券交易所](https://www.londonstockexchange.com)
+*	[印度国家证券交易所](http://www.nse-india.com)#
+*	加拿大 [多伦多证券交易所](https://www.tsx.com)
+
+*	印度 [孟买证券交易所](https://www.bseindia.com/)?
+*	德国 [德意志交易所](https://deutsche-boerse.com/dbg-en/)🍴
+  * 法兰克福证券交易所
+*	[瑞士证券交易所](https://www.six-group.com/en)🍴
+*	大韩民国 [韩国交易所](http://global.krx.co.kr/cn/)📍
+*	欧洲联盟 [纳斯达克OMX北欧交易所](https://www.nasdaqomxnordic.com/)
+*	澳大利亚 [澳洲证券交易所](https://www2.asx.com.au)
+*	台湾地区 台湾证券交易所
+*	[巴西证券交易所](https://www.b3.com.br/en_us/)🍴
+*	[南非证券交易所](https://www.jse.co.za)
+*	[西班牙证券市场公司](https://www.bolsasymercados.es/ing/Home)🍴
+
+*	[新加坡交易所](https://www.sgx.com/zh-hans/)📍　新交所
+  * 波罗的海交易所
+*	俄罗斯 [莫斯科证券交易所](https://www.moex.com/en/)
+*	[泰国证券交易所](https://classic.set.or.th/)🍴
+*	印度尼西亚 [印尼证券交易所](https://www.idx.co.id/en)🍴
+*	[马来西亚证券交易所](https://www.bursamalaysia.com/cn/)📍
+
+
+[世界交易所联合会](https://www.world-exchanges.org) 
+[成员名单](https://www.world-exchanges.org/membership-events)
+
++ [瑞士证券交易所](https://www.six-group.com/en/)🍴
++ [哈萨克斯坦证券交易所](https://kase.kz/en/)🍴
++ 越南[胡志明市证券交易所](https://www.hsx.vn/)
++ [尼日利亚交易所集团](https://ngxgroup.com/)🍴
++ [菲律宾证券交易所](https://www.pse.com.ph/)
++ []()
+
+
 更多金融业有关部门
 --------------------
 Relevant Departments
@@ -117,10 +168,10 @@ Relevant Departments
 --------------------------
 Statutory Disclosure Media
 
-*	[中国日报](https://www.chinadaily.com.cn) / $[证券日报](http://www.zqrb.cn)
-*	[中国证券报](https://www.cs.com.cn) / [上海证券报](https://www.cnstock.com)
-* 	[金融时报](https://www.financialnews.com.cn) / [证券时报](https://www.stcn.com)
-*	$[经济参考报](http://www.jjckb.cn)
+* [中国日报](https://www.chinadaily.com.cn) / $[证券日报](http://www.zqrb.cn)
+* [中国证券报](https://www.cs.com.cn) / [上海证券报](https://www.cnstock.com)
+*   [金融时报](https://www.financialnews.com.cn) / [证券时报](https://www.stcn.com)
+* $[经济参考报](http://www.jjckb.cn)
 
 
 财经类云媒体
@@ -129,43 +180,10 @@ Statutory Disclosure Media
 东方财富、新浪财经、第一财经、财新网……
 
 
+金融业基础术语
+-------------
 
-全球交易所市值排行榜2021
-----------------------
-Top25
-
-　　受疫情影响，2021年全球交易所总市值回到2017年水平。上交所超越日本，跻身第三。
-
-[世界交易所联合会](https://www.world-exchanges.org) 
-[成员名单](https://www.world-exchanges.org/membership-events)
-
-*	美国 [纽约证券交易所](https://www.nyse.com)
-*	美国 [纳斯达克](https://www.nasdaq.com)（纽约）
-*	中国 上海证券交易所
-*	欧盟 [泛欧交易所](https://www.euronext.com/zh/)
-*	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)📍
-*	中国 香港交易所
-*	中国 深圳证券交易所
-*	英国 [伦敦证券交易所](https://www.londonstockexchange.com)
-*	印度 印度国家证券交易所	#http://www.nse-india.com
-*	加拿大 [多伦多证券交易所](https://www.tsx.com)
-
-*	印度 孟买证券交易所
-*	德国 [德意志交易所](https://deutsche-boerse.com/)
-*	[瑞士证券交易所](https://www.six-group.com/en)
-*	大韩民国 [韩国交易所](http://global.krx.co.kr/cn/)📍
-*	欧洲联盟 [纳斯达克OMX北欧交易所](https://www.nasdaqomxnordic.com/)
-*	澳大利亚 [澳洲证券交易所](https://www2.asx.com.au)
-*	台湾地区 台湾证券交易所
-*	巴西 巴西证券交易所
-*	南非 [南非证券交易所](https://www.jse.co.za)
-*	西班牙 [西班牙证券市场公司](https://www.bolsasymercados.es/)
-
-*	新加坡 [新加坡交易所](https://www.sgx.com)　新交所
-*	俄罗斯 [莫斯科证券交易所](https://www.moex.com/en/)
-*	泰国 [泰国证券交易所](https://classic.set.or.th/)
-*	印度尼西亚 [印尼证券交易所]()
-*	[马来西亚证券交易所](https://www.bursamalaysia.com)
+一级市场、二级市场、衍生性金融商品
 
 
 中国银行业金融机构
@@ -227,7 +245,7 @@ Top25
 	老生常谈 © 2019-2022 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/fuwu/jiaoyisuo
-	中国金融交易所	v0.3.7 	202211
+	中国金融交易所	v0.3.8 	202211
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
