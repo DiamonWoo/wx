@@ -4,41 +4,21 @@
 
 		文明因交流而多彩，文明因互鉴而丰富。——习近平 20140327 于 UNESCO
 
-　　**国别表**收录全球国家和地区的代码与网址，包括：ISO国别代码、中英文名称、ISO货币代码 / 汇率查询💱、国际电话区号📠、国别顶级域；经济商务指南💮️、🏪中外使馆网址🏘、外交部网址🤵、中央或联邦政府网址🏛……等。  
-　　收录口径为 [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 国别代码249个，包含以下全集：联合国全体会员国（193个）、中国建交国（181个）、一带一路签约国（149个，截至202208），代码来源见页面底部。　2022年俄乌冲突爆发后，顿涅茨克、卢甘斯克 获得少数国家(RU/SY/KP…)承认，但还没有获得ISO分配的国别代码，故不在本页收录范围。  
-　　**国别表**收录内容按各大洲分段落、按加权因素排序、排版。加权因素包括：联合国席位、国土面积与接壤、丝绸之路行进路线、国别名的拼音字母顺序。  
-　　工作仍在进行，欢迎提交意见，收录进度见[页面底部](#9){:target="_top"}。  
+　　国际上最通用的国别代码是 ISO 3166-1 标准的二位字母代码，但是ISO的工作语言(en/fr/ru)不包括中文，所以该标准内没有中文国别名；对应此标准的中国国标翻译了国家或地区名称，但是“由于涉及版权保护问题”，在[国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=988573B0B98BAD89B995D4DD63CD525F)上“暂不提供”。这两个原因造成中国网民在互联网上找不到清晰、权威的中文国别代码表。
+
+　　大萌因此编纂了一份《国别代码速查表》，以ISO代码表为基础，结合了中国国标与外交部的官方表述，审定了全表249个国家和地区的中文译名，以‘[大规模集成网页](https://diamonwoo.github.io/LSIP/)’形式公布在老生常谈网站，为中文用户了解世界的普遍需求提供一个便捷服务。
+
+　　**国别表**不仅收录国别的代码、名称和旗帜，还收录了外交、经贸方面的权威信息，包括：联合国席位、外交部的国家概况页、一带一路的图片页🏔️、商务部的经贸指南页💮，🏪双方大使馆网址🏘️、外交部🤵与政府网址🏛、该国首都、国际长途区号、与北京时间的时差、主权货币与人民币汇率查询💱。详细图例与收录口径见页面底部。
+
+　　**国别表**按各大洲分段，按加权因素排序。加权因素包括：联合国席位、国土面积与接壤、丝绸之路行进路线、国别名的拼音字母顺序。  
 
 <div align="right">
-	当前位置：老生常谈
-/	<a href="https://Laosheng.top/ydyl" target="_top">【一带一路】</a>💃
+	⏩老生常谈
+/	<a href="https://Laosheng.top/ydyl" target="_top">【一带一路】</a>
 /	国别代码速查表
 </div>
 
-2022卡塔尔世界杯 🇶🇦⚽
---------------------
-
-*	上抖音看世界杯： [douyin.com/fifaworldcup](https://www.douyin.com/fifaworldcup)，浏览器直接观看，手机浏览器请模拟桌面模式。  
-	此外提供赛事转播权的渠道还有：CCTV1，有线电视的CCTV-5、CCTV-16，手机客户端‘央视频’。  
-	本届世界杯32支参赛球队中，有一支不属于主权国家：[威尔士队](https://worldcup.cctv.com/2022/team/44907/)，旗帜是绿色地面上一条红色飞龙，已止步16强。其属于英国的威尔士公国，ISO没有为其分配代码。
-
-
-人民币汇率中间价 💱
-------------------
-
-　　根据中国人民银行授权，**[中国外汇交易中心](https://www.chinamoney.com.cn/chinese/bkccpr/)**(上海)负责发布“人民币汇率中间价”。  
-　　六大国有银行外汇牌价：  
-　　[中国银行](https://www.boc.cn/sourcedb/whpj/)、
-[中国工商银行](https://www.icbc.com.cn/column/1438058341489590354.html)、
-**[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)**、
-[中国农业银行](https://ewealth.abchina.com/ForeignExchange/)、
-[中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
-[中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。  
-　　参考黄金人民币价格：上海黄金交易所 发布的[上海金基准价](https://www.sge.com.cn/sjzx/jzj)。
-
-
-<h2 id="mulu" title="世界国别代码表">目录</h2>
-
+<h2 id="0" title="世界国别代码表">目录</h2>
 　世界杯 与 人民币  
 <a href="#yz" target="_top">1-亚洲</a>🌏　<sub>中国、马来西亚、沙特、卡塔尔……</sub><br>
 <a href="#oz" target="_top">2-欧洲</a>　<sub>俄罗斯、法国、英国、葡萄牙……</sub><br>
@@ -48,8 +28,25 @@
 <a href="#nmz" target="_top">6-南美洲</a>　<sub>阿根廷、巴西、委内瑞拉……</sub><br>
 <a href="#njz" target="_top">7-南极洲</a>　<sub> 布韦岛…</sub><br>
 8 <a href="#8" target="_top">图例 与 世界地图</a>　<sub>微软必应提供的世界地图</sub><br>
-9 <a href="#9" target="_top">代码来源</a>
+9 <a href="#9" target="_top">收录口径与进度</a>
 
+2022卡塔尔世界杯 🇶🇦⚽
+--------------------
+*	上抖音看世界杯： [douyin.com/fifaworldcup](https://www.douyin.com/fifaworldcup)，浏览器直接观看，手机浏览器请模拟桌面模式。  
+	此外提供赛事转播权的渠道还有：CCTV1，有线电视的CCTV-5、CCTV-16，手机客户端‘央视频’。  
+	本届世界杯32支参赛球队中，有一支不属于主权国家：[威尔士队](https://worldcup.cctv.com/2022/team/44907/)，旗帜是绿色地面上一条红色飞龙，已止步16强。其属于英国的威尔士公国，ISO没有为其分配代码。
+
+人民币汇率中间价 💱
+------------------
+　　根据中国人民银行授权，**[中国外汇交易中心](https://www.chinamoney.com.cn/chinese/bkccpr/)**(上海)负责发布“人民币汇率中间价”。  
+　　六大国有银行外汇牌价：  
+　　[中国银行](https://www.boc.cn/sourcedb/whpj/)、
+[中国工商银行](https://www.icbc.com.cn/column/1438058341489590354.html)、
+**[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)**、
+[中国农业银行](https://ewealth.abchina.com/ForeignExchange/)、
+[中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
+[中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。  
+　　参考黄金人民币价格：上海黄金交易所 发布的[上海金基准价](https://www.sge.com.cn/sjzx/jzj)。
 
 <h2 id="yz" title="yà zhōu">亚洲 Asia　d<a href="https://cn.bing.com/maps?&cp=p35v3cq48s20&lvl=4" title="限桌面模式">🌏</a></h2>
 
@@ -323,8 +320,8 @@
 🇬🇸	⠀ ⠀	GS⠀	<small>	乔桑群岛 (英国) SGSSI	</small>	⠀-	 -	 -	⠀00500	 -	 -	⠀-	 -	 -	 -	⠀-		  
 🇹🇫	⠀ ⠀	TF⠀	<small>	法属南部领地 French Southern Territories	</small>	⠀-	 -	 -	⠀00262	 -	 -	⠀-	 -	 -	 -	⠀-		  
 
-
 <h4 align="right"><a href="#0" target="_top">↑ Top</a></h4>
+
 图例
 ----
 +	🇨🇳/ CN 　国旗或地区旗帜emoji符号/ISO国别代码2位字母
@@ -335,13 +332,14 @@
 +	🏘️wb/🤵/🏛　　驻华使馆 微博 / 该国外交部 / 最高行政机构（中央政府/内阁/议会 等）
 +	💱货币名　可查询兑换人民币的当前汇率
 
+　　每个国别的第一列就是国旗，由emoji字符显示，如果你的设备不支持较高版本的emoji字体，则可能看不见国旗图案，只能看见两个字母，比如中国只看见CN。
+
 *	🏔️/💮/🏪/🏘️/🤵/🏛　
 *	💷/💶/💵	英镑/欧元/美元
 *	🇬🇧 /🇪🇺 /🇺🇸	英国/欧盟/美国
 
-
 <h2 id="8" title="微软必应提供的世界地图">必应世界地图</h2>
-<h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
+<h4 align="right"><a href="#0" target="_top">↑ Top</a></h4>
 
 <table align="right" border="1" style="" id="必应地图" title="地图可拖动和缩放">
 <!-- <caption>微软必应嵌入地图，可拖动，可缩放，d<a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=rmx47fhyfj9m&amp;sty=r&amp;lvl=5&amp;FORM=MBEDLD">桌面新窗口</a>
@@ -357,20 +355,11 @@
 </table><!-- embed?h=460&w=680&cp=47.65079497672418~16.79013254886261&lvl=5 -->
 
 
-<h2 id="9" title="各种代码的来源">代码来源</h2>
+<h2 id="9" title="各种代码的来源">收录口径与进度</h2>
+
 　　[ISO](https://www.iso.org/popular-standards.html) 是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。　ISO为**国家和地区**制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/obp/ui/#search/code/) 》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states) 保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
 
-　　由于ISO的工作语言(en/fr/ru)不包括中文😐，故ISO 3166中各国家的中文名需要中国自己译定。中国现在由‘国家标准委’参加该组织活动，与ISO 3166-1对应的国家推荐标准为《GB/T 2659-2000  世界各国和地区名称代码》。　由于该国标参照了ISO和IEC标准，出于版权限制🤔，目前国家标准委的[服务平台](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=988573B0B98BAD89B995D4DD63CD525F) 没有提供全文下载。
-
-　　以上两点因素导致中文用户在了解世界的时候，出现了一个模糊的基础。　大萌编纂的此份《[世界国别代码表](https://Laosheng.top/ydyl/nations)》以ISO国家代码为基础，结合了中国国家标准、中国外交部官方表述，并充分考虑了中文语言习惯，为中文用户了解世界的普遍需求提供一份基础网页。
-
-　　本页面由 <a title='Laosheng.top 衍生项目' href='https://diamonwoo.github.io/LSIP'>LSIP 大规模集成网页</a> 提供理论支持。
-
-<h4 align="right"><a href="#0" target="_top">↑ Top</a></h4>
-
-
-收录进度
---------
+　　**国别表**收录口径为 [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 国别代码249个，包含以下全集：联合国全体会员国（193个）、中国建交国（181个）、一带一路签约国（149个，截至202208），代码来源见页面底部。　2022年俄乌冲突爆发后，顿涅茨克、卢甘斯克 获得少数国家(RU/SY/KP…)承认，但还没有获得ISO分配的国别代码，故不在本页收录范围。
 
 +	2022	部分国家政府网址过期，待检查。
 +	202212　收录全部249个国家和地区的emoji旗帜符号；标记2022世界杯32-1支球队所在国⚽。
@@ -378,18 +367,19 @@
 +	202209　已收录215个国家货币符号，增加查询汇率连接，上线公开测试
 +	202208　收录249个ISO代码及其国家，正在测试版式
 
+<h4 align="right"><a href="#0" target="_top">↑ Top</a></h4>
+
 鸣谢
 ----
-　　本站指向的国家概况页从[中国外交部网站](https://www.mfa.gov.cn/web/gjhdq_676201/)获取；本站指向的国别美图🏔️从中国[‘一带一路’官网](https://www.yidaiyilu.gov.cn/info/iList.jsp?cat_id=10038)获取；本站指向的经济商务新闻⚜️由中国商务部[“走出去”公共服务平台](http://fec.mofcom.gov.cn/article/gbdqzn/)各驻外经济商务处提供；本站提供的各国货币兑换人民币的即时汇率，由[微软必应搜索引擎](https://cn.bing.com)提供。
+　　本站指向的国家概况页从[中国外交部网站](https://www.mfa.gov.cn/web/gjhdq_676201/)获取；本站指向的国别美图🏔️从中国[‘一带一路’官网](https://www.yidaiyilu.gov.cn/info/iList.jsp?cat_id=10038)获取；本站指向的经贸指南页💮由中国商务部[“走出去”公共服务平台](http://fec.mofcom.gov.cn/article/gbdqzn/)各驻外经济商务处提供；本站提供的各国货币兑换人民币的即时汇率，由[微软必应搜索引擎](https://cn.bing.com)提供。
 
 　　节约您的搜寻时间，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
-
 
 ```
 	老生常谈 © 2019-2022 大萌 知识共享3.0
 	CC BY-NC-ND	可转载-需署名-非营利
 	https://laosheng.top/ydyl/nations
-	世界国别代码表	v0.6.5	202212
+	国别代码速查表	v0.6.6	202212
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
@@ -401,4 +391,4 @@ https://Laosheng.top
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
 💐⚜️🔱💮🏵🛡🏛🏠🏘🏚🏡💒🏢🏦🏨🏩🏬🏪🏥🏤🏣🏫🏰  
-⛰️🏔️🏕️🚩🖍️✏️✍️📝🔸&🤵😐🤔🏵🛡⛰🏔
+⛰️🏔️🏕️🚩🖍️✏️✍️📝🔸&🕴️🤵😐🤔🎭👥🏵🛡⛰🏔🕊️
