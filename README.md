@@ -8,7 +8,7 @@
 *	/falv/  	　☸️[大萌望海楼](falv/fahai)，找法不用愁
 *	/fuwu/zhongyang	　[中央有关部门集](fuwu/zhongyang)🕰， 言出法随一盘棋
 *	/fly/waixuan	　🔥[中央外宣云媒体](fly/waixuan)，文明古国在崛起
-*	/ydyl/nations	　[世界国别代码表](ydyl/nations)🗺， ISO及中国国标代码
+*	/ydyl/nations	　[国别代码速查表](ydyl/nations)🗺， 世界各国的代码与国情速查
 
 　　这里是 [老生常谈](https://Laosheng.top)的镜像页，请尽量使用**浏览器**访问主网站，不要长期使用微信这种看不到网址的App访问该站。
 
