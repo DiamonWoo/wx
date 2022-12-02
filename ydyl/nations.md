@@ -352,7 +352,7 @@
 
 　　注1：每行的第一列是国旗(地区旗帜)，只有在支持较高版本emoji字体的软件上(安卓6、iOS9、微信7)，才能显示图案；Win10默认情况看不见旗帜图案，只能看见两个字母，比如中国🇨🇳只看见CN。  
 　　注2：部分货币符号没有收录，主要是阿拉伯文或者难以辨认的符号。  
-　　注3：部分国家政府网址过期，欢迎[向大萌指正](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)！
+　　注3：部分国家政府网址过期，等待更新，欢迎[向大萌指正](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)！
 
 *	🏔️/💮/🏪 / 🏛/👥/🏢　
 *	💷/💶/💵	英镑/欧元/美元
@@ -362,9 +362,11 @@
 <div align="right"><a href="#0" target="_top">↑ Top</a></div>
 <h2 id="10" title="各种代码的来源">收录口径与进度</h2>
 
-　　[ISO](https://www.iso.org/popular-standards.html) 是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。　ISO为**国家和地区**制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/obp/ui/#search/code/) 》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states) 保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
+　　[ISO](https://www.iso.org/popular-standards.html) 是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。　ISO为国家和地区制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states) 保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
 
-　　**国别表**收录口径为 [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 国别代码249个，包含以下全集：联合国全体会员国（193个）、中国建交国（181个）、一带一路签约国（149个，截至202208），代码来源见页面底部。　2022年俄乌冲突爆发后，顿涅茨克、卢甘斯克 获得少数国家(RU/SY/KP…)承认，但还没有获得ISO分配的国别代码，故不在本页收录范围。
+　　**国别表**收录口径为ISO全部国别249个，包含以下全集：联合国全体会员国（193个）、中国建交国（181个）、一带一路签约国（149个，截至202208）。　2022年俄乌冲突爆发后，顿涅茨克、卢甘斯克 获得少数国家(RU/SY/KP…)承认，但还没有获得ISO分配的国别代码，故不在本页收录范围。
+
+　　ISO官网为国别代码提供五种数据：英文短名、法文短名、2字母、3字母、3位数字，以中国为例：China、Chine (la)、CN、CHN、156。　本页只收录最常用的2字母代码，如果需要其他代码，请往[ISO国别代码](https://www.iso.org/obp/ui/#search/code/)官网查询。
 
 +	202212　收录全部249个国家和地区的emoji旗帜符号；标记2022世界杯32-1支球队所在国⚽。
 +	202209　增加商务部《经贸指南》，增加国际长途区号，正在补充各国使馆网址
@@ -374,9 +376,9 @@
 
 鸣谢
 ----
-　　本站指向的国家概况页从[中国外交部网站](https://www.mfa.gov.cn/web/gjhdq_676201/)获取；本站指向的国别美图🏔️从中国[‘一带一路’官网](https://www.yidaiyilu.gov.cn/info/iList.jsp?cat_id=10038)获取；本站指向的经贸指南页💮由中国商务部[“走出去”公共服务平台](http://fec.mofcom.gov.cn/article/gbdqzn/)各驻外经济商务处提供；本站提供的各国货币兑换人民币的即时汇率，由[微软必应搜索引擎](https://cn.bing.com)提供。
+　　本页指向的国家概况页从[中国外交部网站](https://www.mfa.gov.cn/web/gjhdq_676201/)获取；本站指向的国别美图🏔️从中国[‘一带一路’官网](https://www.yidaiyilu.gov.cn/info/iList.jsp?cat_id=10038)获取；本站指向的经贸指南页💮从中国商务部[“走出去”公共服务平台](http://fec.mofcom.gov.cn/article/gbdqzn/)各驻外经济商务处获取；本站指向的各国货币兑换人民币的即时汇率，由[微软必应搜索引擎](https://cn.bing.com)提供。
 
-　　节约您的搜寻时间，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
+　　节约您的搜寻时间，欢迎[提出宝贵意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)。
 
 <div align="right"><a href="#0" target="_top">↑ Top</a></div>
 
