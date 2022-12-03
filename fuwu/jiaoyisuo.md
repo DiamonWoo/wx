@@ -1,8 +1,3 @@
-中国金融交易所 💱
-================
-大萌	2022-11
-
-老生常谈 > 有关部门[](){:target="_self"}
 <base target="_blank">
 <meta property="og:type" content="website" /><!-- article -->
 <meta property="og:site_name" content="老生常谈">
@@ -10,12 +5,24 @@
 <meta property="og:description" content="证券股市交易、黄金期货交易、外汇、保险、信托">
 <meta property="og:image" content="📈">
 
+中国金融交易所 💱
+================
+大萌	202212
 
 		防范金融风险还须解决许多重大问题——二十大报告
 
 　　中国的金融业实行‘[分业经营、分业监管](http://www.gov.cn/xinwen/2020-09/14/content_5543303.htm)’架构，日常监管工作由国务院三个直属机构负责，俗称‘一行两会’：人行、证监会、银保监会。其中银保监会于2018年由*银监会*与*保监会*合并而成，旧称‘一行三会’。　这些监管部门覆盖了金融业几乎所有方面，包括中国金融的四大支柱行业：银行业、保险业、证券业(股/基/债/期)、信托业，其中银行业的总市值超过后面三者之和。
 
 　　本**交易所**网页以监管部门为纲，概述中国金融体系，并重点介绍证监会负责的各种金融交易所。默认货币单位为￥人民币元。　近年兴起的互联网金融有‘混业经营’态势，对分业监管体系提出了挑战。
+<div align="right">
+⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/中国金融交易所
+</div>
+
+<h3 id='0'>快捷目录</h3>
+中国金融业体系架构、
+港澳台金融交易所、
+国内其他交易所、
+中国主要银行名单
 
 
 中国金融业体系架构
@@ -68,7 +75,7 @@ Finance
 
 港澳台金融交易所
 ---------------
-stock exchanges
+Stock Exchanges
 
 *	[香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
 *	【[香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　港交所/香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。
@@ -82,8 +89,9 @@ stock exchanges
 *	[柜买中心](https://www.tpex.org.tw/)　台北交易所/财团法人中华民国证券柜台买卖中心（OTC）
 
 
-其他交易所 Exchange
-------------------
+国内其他交易所 
+-------------
+Exchange
 
 *	[北京金融资产交易所](https://www.cfae.cn)　2010年　[北金所]
 *	[全国中小企业股份转让系统](http://www.neeq.com.cn)　（全国OTC）
@@ -104,9 +112,9 @@ stock exchanges
 　　~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
 
 
-全球交易所市值排行榜2021
-----------------------
-Top25
+全球交易所市值排行榜
+------------------
+2021 Top25
 
 　　受疫情影响，2021年全球交易所总市值回到2017年水平。上交所超越日本，跻身第三。
 
@@ -164,9 +172,9 @@ Relevant Departments
 * 全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 
 
 
-证券业法定信息披露媒体 7家
---------------------------
-Statutory Disclosure Media
+证券业法定信息披露媒体
+------------------------------
+7家 Statutory Disclosure Media
 
 * [中国日报](https://www.chinadaily.com.cn) / $[证券日报](http://www.zqrb.cn)
 * [中国证券报](https://www.cs.com.cn) / [上海证券报](https://www.cnstock.com)
@@ -186,8 +194,8 @@ Statutory Disclosure Media
 一级市场、二级市场、衍生性金融商品
 
 
-中国银行业金融机构
------------------
+中国主要银行名单
+---------------
 
 	Template:中华人民共和国银行
 
@@ -227,6 +235,8 @@ Statutory Disclosure Media
 
 相关条目	中华人民共和国存款保险制度 央行金融机构评级
 
+更多名单请查询：中国银行业金融机构
+
 
 待考
 -----------
@@ -238,13 +248,13 @@ Statutory Disclosure Media
 	200多家财务公司，总资产约8万亿
 
 
-　　对老生常谈“服务系列网页” [发表意见](https://xoyondo.com/mb/1pCcfaaGsziZ5el )。
+　　对老生常谈“服务系列网页” [发表意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)。
 
 ```
 	老生常谈 © 2019-2022 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/fuwu/jiaoyisuo
-	中国金融交易所	v0.3.8 	202211
+	中国金融交易所	v0.3.9 	202212
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
