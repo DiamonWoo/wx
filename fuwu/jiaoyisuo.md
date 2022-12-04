@@ -20,57 +20,96 @@
 
 <h3 id='0'>快捷目录</h3>
 中国金融业体系架构、
+银行名单与理财产品、
+中国主要保险公司、
 港澳台金融交易所、
 国内其他交易所、
-中国主要银行名单
+全球四大证券指数、
 
 
 中国金融业体系架构
 ----------------
 Finance
 
-* [中国人民银行](http://www.pbc.gov.cn/)　PBC 人行  
-	国家中央银行，主管：外汇/黄金/货币政策
-  - [国家外汇管理局](https://www.safe.gov.cn/) 　Safe 外汇局　外汇储备约$3万亿美元。
-    * 中国外汇交易中心(上海) 发布 [人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)
-  * 上海黄金交易所 发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)　黄金储备近2000吨，约￥0.8万亿。
+**中国人民银行**　[PBC.gov.cn](http://www.pbc.gov.cn/)  
+	人行，国家中央银行、央妈，主管：外汇/黄金/货币政策
+- 国家外汇管理局　[Safe.gov.cn](https://www.safe.gov.cn/)  
+	外汇局　外汇储备约$3万亿美元。
+  * 中国外汇交易中心(上海) 发布 [人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)
+* 上海黄金交易所 发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)　黄金储备近2000吨，约￥0.8万亿。
 
-* [中国银行保险监督管理委员会](http://www.cbirc.gov.cn/)　CBIRC 银保监会  
-	银行(储蓄/理财/贷款) /保险/信托，查询最新[银行业金融机构法人名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)
-  - **银行**  Bank  超4000家，总资产超360万亿
-    -  3家政策性银行（国开/农发/进出口）、**6家国有商业银行**（工/建/中/农/交/邮）
-    - 12家全国股份制银行（招商/浦发……）、17家民营银行（网商/微众……）
-    - 约3800家地方银行（城商行/农商行/村镇银行……）、100多家外资银行或外国银行的中国分行……
-  - 保险机构 Insurance 200多家，总资产约20万亿（财险/寿险）
-  - 信托机构 Fiduciary  68家，总资产约30万亿。　[全体名单](http://xtxh.net/xtxh/memberslist/index.htm)
-  - 其他非银行金融机构 400多家（资管公司、财务公司、租赁公司……）
+**银保监会**　[CBIRC.gov.cn](http://www.cbirc.gov.cn/)  
+	中国银行保险监督管理委员会，监管：银行(储蓄/理财/贷款) /保险/信托
+- **银行**  Bank  超4000家，总资产超360万亿
+  -  3家政策性银行（国开/农发/进出口）、**6家国有商业银行**（工/建/中/农/交/邮）
+  - 12家全国股份制银行（招商/浦发……）、17家民营银行（网商/微众……）
+  - 约3800家地方银行（城商行/农商行/村镇银行……）、100多家外资银行或外国银行的中国分行……
+- 保险机构 Insurance 200多家，总资产约20万亿（财险/寿险）
+- 信托机构 Fiduciary  68家，总资产约30万亿。　[全体名单](http://xtxh.net/xtxh/memberslist/index.htm)
+- 其他非银行金融机构 400多家（资管公司、财务公司、租赁公司……）
 
-* [中国证券监督管理委员会](http://www.csrc.gov.cn/)　CSRC 证监会  
-	债券/股票/基金/期货 / 上市公司
+**证监会**　[CSRC.gov.cn](http://www.csrc.gov.cn/)  
+	中国证券监督管理委员会，监管：债券/股票/基金/期货/上市公司
+- 债券　Bond　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
+  * 【[上海证券交易所](http://www.sse.com.cn)】 　上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
+  * 【[深圳证券交易所](https://www.szse.cn/)】　深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）十几种债券
+  * 【[北京证券交易所](http://www.bse.cn)】　北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）
 
-  - 债券　Bond　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
-    * 【[上海证券交易所](http://www.sse.com.cn)】 　上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
-    * 【[深圳证券交易所](https://www.szse.cn/)】　深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）十几种债券
-    * 【[北京证券交易所](http://www.bse.cn)】　北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）
-  
-  - **股票　Stock**　A股(人民币普通股票)至2022年11月，上市公司超过5000家，总市值近80万亿。
-    * 上交所　沪市　上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)　[上证指数](http://www.sse.com.cn/market/price/trends/)
-    * 深交所　深市　上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
-    * 北交所　　　上市公司超120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)　全国中小企业股份转让系统
+- **股票　Stock**　A股(人民币普通股票)至2022年11月，上市公司超过5000家，总市值近80万亿。
+  * 上交所　沪市　上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)　[上证指数](http://www.sse.com.cn/market/price/trends/)
+  * 深交所　深市　上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
+  * 北交所　　　上市公司超120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)　全国中小企业股份转让系统
 
-  - 基金　Fund　2022年6月，公募基金超10000支，规模超26万亿。
-    * 中国证券投资基金业协会 [公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
-    * 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
-    *	深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
+- 基金　Fund　2022年6月，公募基金超10000支，规模超26万亿。
+  * 中国证券投资基金业协会 [公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
+  * 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
+  *	深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
 
-  - 期货 Futures　中国期货品种约100种，期货公司150家，资金总量2021年底达1.2万亿。  
+- 期货 Futures　中国期货品种约100种，期货公司150家，资金总量2021年底达1.2万亿。  
 	证监会公布最新[期货公司名录](http://www.csrc.gov.cn/csrc/c101920/c1039268/content.shtml)，其他角色成员可看[中国期货业协会](http://www.cfachina.org/informationpublicity/hygs/)的会员公告。
-    * 〖[上海期货交易所](https://www.shfe.com.cn)〗 上期所
-      * 上海国际能源交易中心
-    * 〖[郑州商品交易所](http://www.czce.com.cn)〗 郑商所
-    * 〖[大连商品交易所](http://www.dce.com.cn)〗 大商所
-    * 〖[广州期货交易所](http://www.gfex.com.cn)〗 广期所
-    * 〖[中国金融期货交易所](http://www.cffex.com.cn)〗　**中金所**
+  * 〖[上海期货交易所](https://www.shfe.com.cn)〗 上期所
+    * 上海国际能源交易中心
+  * 〖[郑州商品交易所](http://www.czce.com.cn)〗 郑商所
+  * 〖[大连商品交易所](http://www.dce.com.cn)〗 大商所
+  * 〖[广州期货交易所](http://www.gfex.com.cn)〗 广期所
+  * 〖[中国金融期货交易所](http://www.cffex.com.cn)〗　**中金所**
+
+
+主要银行名单与理财产品
+--------------------
+查询最新[银行业金融机构法人名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)
+
+银保监会直接负责，其他为地方银保监局负责
+
+中国主要保险公司集团
+------------------
+
+保险集团列表
+
+
+更多金融业有关部门
+--------------------
+Relevant Departments
+
+* 国务院
+  * [发改委](https://www.ndrc.gov.cn/) / [国资委](http://www.sasac.gov.cn/)
+  * [财政部](http://www.mof.gov.cn/) / [商务部](http://www.mofcom.gov.cn/)
+  * [国务院其他部门](zhongyang)：工信部 / 税务总局 / 海关总署 / 市场监管总局 / 国家统计局 / 中国贸促会
+* 中共中央[财经委员会](https://www.12371.cn/special/cjw/)
+* 全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 
+
+
+证券业法定信息披露媒体
+------------------------------
+7家 Statutory Disclosure Media
+
+* [中国日报](https://www.chinadaily.com.cn) / $[证券日报](http://www.zqrb.cn)
+* [中国证券报](https://www.cs.com.cn) / [上海证券报](https://www.cnstock.com)
+* [金融时报](https://www.financialnews.com.cn) / [证券时报](https://www.stcn.com)
+* $[经济参考报](http://www.jjckb.cn)
+
+
+
 
 
 港澳台金融交易所
@@ -110,6 +149,9 @@ Exchange
 
 疑似已关闭交易所：  
 　　~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
+
+
+	道琼斯工业指数
 
 
 全球交易所市值排行榜
@@ -160,28 +202,6 @@ Exchange
 + []()
 
 
-更多金融业有关部门
---------------------
-Relevant Departments
-
-* 国务院
-  * [发改委](https://www.ndrc.gov.cn/) / [国资委](http://www.sasac.gov.cn/)
-  * [财政部](http://www.mof.gov.cn/) / [商务部](http://www.mofcom.gov.cn/)
-  * [国务院其他部门](zhongyang)：工信部 / 税务总局 / 海关总署 / 市场监管总局 / 国家统计局 / 中国贸促会
-* 中共中央[财经委员会](https://www.12371.cn/special/cjw/)
-* 全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 
-
-
-证券业法定信息披露媒体
-------------------------------
-7家 Statutory Disclosure Media
-
-* [中国日报](https://www.chinadaily.com.cn) / $[证券日报](http://www.zqrb.cn)
-* [中国证券报](https://www.cs.com.cn) / [上海证券报](https://www.cnstock.com)
-* [金融时报](https://www.financialnews.com.cn) / [证券时报](https://www.stcn.com)
-* $[经济参考报](http://www.jjckb.cn)
-
-
 财经类云媒体
 ------------
 
@@ -193,9 +213,6 @@ Relevant Departments
 
 一级市场、二级市场、衍生性金融商品
 
-
-中国主要银行名单
----------------
 
 	Template:中华人民共和国银行
 
@@ -240,8 +257,6 @@ Relevant Departments
 
 待考
 -----------
-
-	道琼斯工业指数
 
 	全国68家信托公司，67家场外金融资产交易场所(金交所等)、近五千家银行
 	金交所?成立依据《金融企业国有资产转让管理办法》(财政部令第54号)
