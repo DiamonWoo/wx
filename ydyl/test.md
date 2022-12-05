@@ -1,11 +1,3 @@
-TEST
-----
-
-[空连接](  "一个批注")能加批注吗？
-
-能加，但href语句仍有，只是参数为空。
-
-	  <p><a href="" title="一个批注">空连接</a>能加批注吗？</p>
 
 bug in 0.6.8
 -------------
@@ -40,3 +32,13 @@ fix 给空批注一点字符
 🇬🇬	⠀ ⠀	GG⠀	<small>	<a title="英国的一个皇家属地">(英属)根西岛</a> Guernsey	</small>	⠀-	 -	 -	⠀0044	 -	 -	⠀-	 -	 -	⠀[🏢](http://www.gov.gg "=")	⠀£<sup>[根西镑](https://cn.bing.com/search?q=GGP兑CNY)</sup>		  
 🇮🇲	⠀ ⠀	IM⠀	<small>	<a title="英国的一个 皇家属地">(英属)马恩岛</a> Isle of Man	</small>	⠀-	 -	 -	⠀0044	<sup>首都：道格拉斯</sup>	 -	⠀-	 -	 -	⠀[🏢](http://www.gov.im "3")	⠀£<sup>[马恩岛镑](https://cn.bing.com/search?q=IMP兑CNY)</sup>		  
 🇯🇪	⠀ ⠀	JE⠀	<small>	<a title="英国的一个皇家属地">(英属)泽西岛</a> Jersey	</small>	⠀-	 -	 -	⠀0044	<sup>首都：圣赫利尔</sup>	<sup>-8h</sup>	⠀-	 -	 -	⠀[🏢](http://www.gov.je "4")	⠀£<sup>[泽西镑](https://cn.bing.com/search?q=JEP兑CNY)</sup>		  
+
+
+TEST
+----
+
+[空连接](  "一个批注")能加批注吗？
+
+能加，但href语句仍有，只是参数为空。
+
+	  <p><a href="" title="一个批注">空连接</a>能加批注吗？</p>
