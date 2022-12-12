@@ -33,12 +33,12 @@ Finance
 
 **中国人民银行**　[PBC.gov.cn](http://www.pbc.gov.cn/)  
 	人行，国家中央银行、央妈，主管：外汇/黄金/货币政策
+- 调查统计司发布：[金融统计数据](http://www.pbc.gov.cn/diaochatongjisi/116219/) 可查 M2货币发行总量 等各种宏观数据。
 - 国家外汇管理局　[Safe.gov.cn](https://www.safe.gov.cn/)  
 	外汇局　外汇储备约$3万亿美元。
   * 中国外汇交易中心(上海) 发布 [人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)
 * 上海黄金交易所　发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)　黄金储备近2000吨，约￥0.8万亿。
 * 上海票据交易所　[票据信息披露](http://disclosure.shcpe.com.cn/#/dashboard) 商业汇票/企业用票/银行贴现
-* 调查统计司发布：[金融统计数据](http://www.pbc.gov.cn/diaochatongjisi/116219/) 可查 M2货币发行总量 等各种宏观数据。
 
 [**银保监会**　CBIRC.gov.cn](http://www.cbirc.gov.cn/)  
 	中国银行保险监督管理委员会，监管：银行(储蓄/理财/贷款) /保险/信托
@@ -52,23 +52,10 @@ Finance
 
 [**证监会**　CSRC.gov.cn](http://www.csrc.gov.cn/)  
 	中国证券监督管理委员会，监管：债券/股票/基金/期货/上市公司
-- 债券　Bond　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
-  * 【[上海证券交易所](http://www.sse.com.cn)】 　上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
-  * 【[深圳证券交易所](https://www.szse.cn/)】　深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）十几种债券
-  * 【[北京证券交易所](http://www.bse.cn)】　北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）
-
-- **股票　Stock**　A股(人民币普通股票)至2022年11月，上市公司超过5000家，总市值近80万亿。
-  * 上交所　沪市　上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)　[上证指数](http://www.sse.com.cn/market/price/trends/)
-  * 深交所　深市　上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
-  * 北交所　　　上市公司超120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)　全国中小企业股份转让系统
-
-- 基金　Fund　2022年6月，公募基金超10000支，规模超26万亿。
-  * 中国证券投资基金业协会 [公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
-  * 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
-  *	深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
-
-- 期货 Futures　中国期货品种约100种，期货公司150家，资金总量2021年底达1.2万亿。  
-	证监会公布最新[期货公司名录](http://www.csrc.gov.cn/csrc/c101920/c1039268/content.shtml)，其他角色成员可看[中国期货业协会](http://www.cfachina.org/informationpublicity/hygs/)的会员公告。
+- 监管以下机构：
+  * 【[上交所](http://www.sse.com.cn)】　上海证券交易所/沪市　[上证指数](http://www.sse.com.cn/market/price/trends/)
+  * 【[深交所](https://www.szse.cn/)】　深圳证券交易所/深市　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
+  * 【[北交所](http://www.bse.cn)】　北京证券交易所/北市　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)
   * 〖[上海期货交易所](https://www.shfe.com.cn)〗 上期所
     * 上海国际能源交易中心
   * 〖[郑州商品交易所](http://www.czce.com.cn)〗 郑商所
@@ -76,27 +63,37 @@ Finance
   * 〖[广州期货交易所](http://www.gfex.com.cn)〗 广期所
   * 〖[中国金融期货交易所](http://www.cffex.com.cn)〗　**中金所**
 
+- 证券公司 全国约140家，由[中国证券业协会](https://www.sac.net.cn/wlzf/hfjgxxgs/)提供
+- 期货公司 全国约150家，最新名录请看　证监会[信息公开>期货监管](http://www.csrc.gov.cn/csrc/c101901/zfxxgk_zdgk.shtml?channelid=32466b6908e248899f513af6ae32cb9d)，  
+　　　其他期货角色成员可看[中国期货业协会](http://www.cfachina.org/informationpublicity/hygs/)的会员公告。
+- 上市公司 全国超5000家
+- ……
 
-主要银行名单与理财产品
---------------------
+- 监管以下业务：
+- 债券　Bond　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
+  上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
+  深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）十几种债券
+  [债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）
 
-查询最新[银行业金融机构法人名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)
+- **股票　Stock**　A股(人民币普通股票)至2022年11月，总市值近80万亿。
+  * 上交所　上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)
+  * 深交所　上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx
+  * 北交所　上市公司超 120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　　全国中小企业股份转让系统
 
-	Template:中华人民共和国银行
+- 基金　Fund　2022年6月，公募基金超10000支，规模超26万亿。
+  * 中国证券投资基金业协会 [公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
+  * 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
+  *	深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
+
+- 期货 Futures　中国期货品种约100种，期货公司150家，资金总量2021年底达1.2万亿。  
+	
+
+
+中国主要银行业务网址
+------------------
 
 国有大型商业银行（6家）
 
-	中国工商银行 中国银行 中国建设银行 中国农业银行 交通银行 中国邮政储蓄银行
-
-股份制商业银行（12家）
-
-	招商银行 兴业银行 上海浦东发展银行 中信银行 中国民生银行 平安银行 中国光大银行 华夏银行 广发银行 浙商银行 恒丰银行 渤海银行
-
-民营银行（17家）
-
-	网商银行 微众银行 民商银行 金城银行 华瑞银行 华通银行 富民银行 新安银行 众邦银行 三湘银行 新网银行 中关村银行 苏宁银行 蓝海银行 振兴银行 亿联银行 客商银行 裕民银行 锡商银行
-
-银行名	电话
 [国开行](http://www.cdb.com.cn "国家开发银行 ")	-----　
 [进出口银行](http://eximbank.gov.cn "中国进出口银行 ")	-----　
 [农发行](http://www.adbc.com.cn "中国农业发展银行 ")	-----　
@@ -106,6 +103,9 @@ Finance
 [建设银行](https://www.ccb.com "中国建设银行股份有限公司 ")	95533
 [交通银行](https://www.bankcomm.com "交通银行股份有限公司 ")	95559
 [邮储银行](https://www.psbc.com "中国邮政储蓄银行股份有限公司 ")	95580
+
+股份制商业银行（12家）
+
 [中信银行](https://www.citicbank.com "中信银行股份有限公司 ")	95558
 [光大银行](https://www.cebbank.com "中国光大银行股份有限公司 ")	95595
 [招商银行](https://www.cmbchina.com "招商银行股份有限公司 ")	95555
@@ -118,6 +118,9 @@ Finance
 [渤海银行](https://www.cbhb.com.cn "渤海银行股份有限公司 ")	-----　
 [浙商银行](https://www.czbank.com "浙商银行股份有限公司 ")	-----　
 [恒丰银行](https://www.hfbank.com.cn "恒丰银行股份有限公司 ")	-----　
+
+民营银行（17家）
+
 [天津金城银行](https://www.kcbebank.com "天津金城银行股份有限公司 ")	-----　
 [上海华瑞银行](https://www.shrbank.com "上海华瑞银行股份有限公司 ")	-----　
 [网商银行](https://www.mybank.cn "浙江网商银行股份有限公司 ")	-----　
@@ -136,7 +139,10 @@ Finance
 [安徽新安银行](https://www.xa-bank.com "安徽新安银行股份有限公司 ")	-----　
 [辽宁振兴银行](https://www.newupbank.com "辽宁振兴银行股份有限公司 ")	-----　
 [江西裕民银行](https://www.ymbank.com "江西裕民银行股份有限公司 ")	-----　
-[无锡锡商银行]( "无锡锡商银行股份有限公司 ")	-----　
+[无锡锡商银行]	-----　
+
+外资法人银行（39家+1 中德合资）
+
 [中德房储银行](http://www.sgb.cn "中德住房储蓄银行有限责任公司 ")	-----　
 [东亚银行](https://www.hkbea.com.cn "东亚银行（中国）有限公司 ")	-----　
 [汇丰银行](https://www.hsbc.com.cn "汇丰银行（中国）有限公司 ")	-----　
@@ -179,6 +185,9 @@ Finance
 [开泰银行]( "开泰银行（中国）有限公司 ")	-----　
 [玉山银行]( "玉山银行（中国）有限公司 ")	-----　
 [中信银行国际](https://www.cncbinternational.com/home/sc "中信银行国际（中国）有限公司 ")	-----　
+
+城市商业银行（134家） 
+
 [北京银行](https://www.bankofbeijing.com.cn "北京银行股份有限公司 ")	-----　
 [天津银行](https://www.bankoftianjin.com "天津银行股份有限公司 ")	-----　
 [河北银行](http://www.hebbank.com "河北银行股份有限公司 ")	-----　
@@ -306,15 +315,14 @@ Finance
 [山西银行](https://www.shxibank.com "山西银行股份有限公司 ")	-----　
 
 
-开发性金融机构：国家开发银行；　政策性银行：中国进出口银行、中国农业发展银行。
+开发性金融机构：国家开发银行；　  
+政策性银行：中国进出口银行、中国农业发展银行。
 
-地方银行
+	农村商业银行（1427家） 农村合作银行（33家） 村镇银行（1616家） 农村信用社（812家） 农村资金互助社（45家）
 
-	城市商业银行（134家） 农村商业银行（1427家） 农村合作银行（33家） 村镇银行（1616家） 农村信用社（812家） 农村资金互助社（45家）
 
-住房储蓄银行	中德住房储蓄银行
-外资法人银行（39家）
-外国及港澳台银行分行（括注境内主报告行）	
+查询最新[银行业金融机构法人名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)
+
 
 
 中国主要保险公司集团
@@ -423,7 +431,7 @@ Exchange
 	老生常谈 © 2019-2022 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/fuwu/jiaoyisuo
-	中国金融交易所	v0.4.1 	202212
+	中国金融交易所	v0.4.2 	202212
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
