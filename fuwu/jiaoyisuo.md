@@ -52,24 +52,25 @@ Finance
 
 [**证监会**　CSRC.gov.cn](http://www.csrc.gov.cn/)  
 	中国证券监督管理委员会，监管：债券/股票/基金/期货/上市公司
-- 监管以下机构：
-  * 【[上交所](http://www.sse.com.cn)】　上海证券交易所/沪市　[上证指数](http://www.sse.com.cn/market/price/trends/)
-  * 【[深交所](https://www.szse.cn/)】　深圳证券交易所/深市　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
-  * 【[北交所](http://www.bse.cn)】　北京证券交易所/北市　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)
-  * 〖[上海期货交易所](https://www.shfe.com.cn)〗 上期所
-    * 上海国际能源交易中心
-  * 〖[郑州商品交易所](http://www.czce.com.cn)〗 郑商所
-  * 〖[大连商品交易所](http://www.dce.com.cn)〗 大商所
-  * 〖[广州期货交易所](http://www.gfex.com.cn)〗 广期所
-  * 〖[中国金融期货交易所](http://www.cffex.com.cn)〗　**中金所**
 
-- 证券公司 全国约140家，由[中国证券业协会](https://www.sac.net.cn/wlzf/hfjgxxgs/)提供
+监管以下机构（3+5+x）：
+* 【[上交所](http://www.sse.com.cn)】　上海证券交易所/沪市　[上证指数](http://www.sse.com.cn/market/price/trends/)
+* 【[深交所](https://www.szse.cn/)】　深圳证券交易所/深市　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
+* 【[北交所](http://www.bse.cn)】　北京证券交易所/北市　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)
+* 〖[中国金融期货交易所](http://www.cffex.com.cn)〗　**中金所**
+* 〖[上海期货交易所](https://www.shfe.com.cn)〗 上期所
+    * 上海国际能源交易中心
+* 〖[郑州商品交易所](http://www.czce.com.cn)〗 郑商所
+* 〖[大连商品交易所](http://www.dce.com.cn)〗 大商所
+* 〖[广州期货交易所](http://www.gfex.com.cn)〗 广期所
+
+- 证券公司 全国约140家，网站导航由[中国证券业协会](https://www.sac.net.cn/wlzf/hfjgxxgs/)提供
 - 期货公司 全国约150家，最新名录请看　证监会[信息公开>期货监管](http://www.csrc.gov.cn/csrc/c101901/zfxxgk_zdgk.shtml?channelid=32466b6908e248899f513af6ae32cb9d)，  
 　　　其他期货角色成员可看[中国期货业协会](http://www.cfachina.org/informationpublicity/hygs/)的会员公告。
 - 上市公司 全国超5000家
 - ……
 
-- 监管以下业务：
+监管以下业务（债/股/基/期+x）：  
 - 债券　Bond　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
   上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
   深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）十几种债券
@@ -81,12 +82,12 @@ Finance
   * 北交所　上市公司超 120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　　全国中小企业股份转让系统
 
 - 基金　Fund　2022年6月，公募基金超10000支，规模超26万亿。
-  * 中国证券投资基金业协会 [公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
   * 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
-  *	深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
+  * 深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
+  * 中国证券投资基金业协会 [公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
 
-- 期货 Futures　中国期货品种约100种，期货公司150家，资金总量2021年底达1.2万亿。  
-	
+- 期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。  
+- ……
 
 
 中国主要银行业务网址
@@ -94,15 +95,13 @@ Finance
 
 国有大型商业银行（6家）
 
-[国开行](http://www.cdb.com.cn "国家开发银行 ")	-----　
-[进出口银行](http://eximbank.gov.cn "中国进出口银行 ")	-----　
-[农发行](http://www.adbc.com.cn "中国农业发展银行 ")	-----　
-[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司 ")	95588
-[农业银行](https://www.abchina.com "中国农业银行股份有限公司 ")	95599
-[中国银行](https://www.boc.cn "中国银行股份有限公司 ")	95566
-[建设银行](https://www.ccb.com "中国建设银行股份有限公司 ")	95533
-[交通银行](https://www.bankcomm.com "交通银行股份有限公司 ")	95559
-[邮储银行](https://www.psbc.com "中国邮政储蓄银行股份有限公司 ")	95580
+<b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>　95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)⠀[收费标准](https://www.icbc.com.cn/ICBC/金融信息/资费公告/中国工商银行服务价目表电子银行2012版.htm)⠀[外汇牌价](https://www.icbc.com.cn/ICBC/金融信息/行情数据/人民币即期外汇牌价/)⠀[个人投资](https://www.icbc.com.cn/ICBC/网上理财/default.htm)⠀[理财产品]()⠀[网银登录](https://www.icbc.com.cnhttps://mybank.icbc.com.cn/)	<sub>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sub>  
+<b>[农业银行](https://www.abchina.com "中国农业银行股份有限公司")</b>　95599	⠀[全国分行](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnbranch_org/)⠀[收费标准](https://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/)⠀[外汇牌价](https://www.abchina.com/ForeignExchange/)⠀[个人投资](https://www.abchina.comhttps://ewealth.abchina.com)⠀[理财产品](https://www.abchina.comhttps://ewealth.abchina.com/fs/filter/)⠀[网银登录](https://www.abchina.comhttps://perbank.abchina.com/EbankSite/startup.do)	<sub></sub>  
+<b>[中国银行](https://www.boc.cn "中国银行股份有限公司")</b>　95566	⠀[全国分行](https://www.boc.cn/aboutboc/ab6/200812/t20081211_143780.html)⠀[收费标准]()⠀[外汇牌价](https://www.boc.cn/sourcedb/whpj/)⠀[个人投资](https://www.boc.cn/fimarkets)⠀[理财产品]()⠀[网银登录](https://www.boc.cnhttps://ebsnew.boc.cn/)	<sub>[交易限额](https://www.boc.cn/ebanking/service/cs1/200810/t20081022_990706.html)</sub>  
+<b>[建设银行](https://www.ccb.com "中国建设银行股份有限公司")</b>　95533	⠀[全国分行](https://www.ccb.com/cn/home/map/branchSearch.html)⠀[收费标准](https://www.ccb.comhttp://store.ccb.com/cn/public/20141027_1414371456.html)⠀[外汇牌价]()⠀[个人投资](https://www.ccb.comhttp://finance2.ccb.com/cn/finance/index.html)⠀[理财产品]()⠀[网银登录]()	<sub></sub>  
+<b>[交通银行](https://www.bankcomm.com "交通银行股份有限公司")</b>　95559	⠀[全国分行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/list.shtml?channelId=7804)⠀[收费标准]()⠀[外汇牌价]()⠀[个人投资](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226)⠀[理财产品]()⠀[网银登录](https://www.bankcomm.comhttps://apply.95559.com.cn/personbank/)	<sub></sub>  
+<b>[邮储银行](https://www.psbc.com "中国邮政储蓄银行股份有限公司")</b>　95580	⠀[全国分行](https://www.psbc.com/cn/fhpd/)⠀[收费标准](https://www.psbc.com/cn/common/bjfw/fwjmb_531/)⠀[外汇牌价](https://www.psbc.com/cn/common/bjfw/whpjcx/)⠀[个人投资](https://www.psbc.com/cn/common/search/)⠀[理财产品]()⠀[网银登录](https://www.psbc.comhttps://pbank.psbc.com/perbank/)	<sub></sub>  
+
 
 股份制商业银行（12家）
 
@@ -315,14 +314,15 @@ Finance
 [山西银行](https://www.shxibank.com "山西银行股份有限公司 ")	-----　
 
 
-开发性金融机构：国家开发银行；　  
-政策性银行：中国进出口银行、中国农业发展银行。
+特殊机构类型（1+2）：
+
+[国开行](http://www.cdb.com.cn "国家开发银行 ")	-----　
+[进出口银行](http://eximbank.gov.cn "中国进出口银行 ")	-----　
+[农发行](http://www.adbc.com.cn "中国农业发展银行 ")	-----　
 
 	农村商业银行（1427家） 农村合作银行（33家） 村镇银行（1616家） 农村信用社（812家） 农村资金互助社（45家）
 
-
-查询最新[银行业金融机构法人名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)
-
+　　到银保监会查询最新[银行业金融机构法人名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)
 
 
 中国主要保险公司集团
@@ -431,7 +431,7 @@ Exchange
 	老生常谈 © 2019-2022 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/fuwu/jiaoyisuo
-	中国金融交易所	v0.4.2 	202212
+	中国金融交易所	v0.4.3 	202212
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
