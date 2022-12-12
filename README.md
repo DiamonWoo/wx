@@ -6,7 +6,7 @@
 ------
 
 *	/falv/  	　☸️[大萌望海楼](falv/fahai)，找法不用愁
-*	/fuwu/zhongyang	　[中央有关部门集](fuwu/zhongyang)🕰， 言出法随一盘棋
+*	/fuwu/jiaoyisuo	　[中国金融交易所](fuwu/jiaoyisuo)💰，风险多大不好说
 *	/fly/waixuan	　🔥[中央外宣云媒体](fly/waixuan)，文明古国在崛起
 *	/ydyl/nations	　[国别代码速查表](ydyl/nations)🗺， 世界各国的代码与国情速查
 
@@ -21,8 +21,9 @@
 　　主站还有下列页面：
 
 *	大萌法律读本 💎
+*	中央有关部门集 🕰
+*	中国千县公检法 📑
 *	法治政府有关部门 🏢
-*	中国千县地名图 📑
 *	联合国有关部门 🇺🇳
 *	一带一路云媒体 🌞
 *	中国新闻云媒体 ☁
