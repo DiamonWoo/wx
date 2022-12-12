@@ -54,9 +54,9 @@ Finance
 	中国证券监督管理委员会，监管：债券/股票/基金/期货/上市公司
 
 监管以下机构（3+5+x）：
-* 【[上交所](http://www.sse.com.cn)】　上海证券交易所/沪市　[上证指数](http://www.sse.com.cn/market/price/trends/)
-* 【[深交所](https://www.szse.cn/)】　深圳证券交易所/深市　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
-* 【[北交所](http://www.bse.cn)】　北京证券交易所/北市　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)
+* 【[上交所](http://www.sse.com.cn)】 上海证券交易所 /沪市　[上证指数](http://www.sse.com.cn/market/price/trends/)
+* 【[深交所](https://www.szse.cn/)】 深圳证券交易所 /深市　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
+* 【[北交所](http://www.bse.cn)】 北京证券交易所 /北市　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)
 * 〖[中国金融期货交易所](http://www.cffex.com.cn)〗　**中金所**
 * 〖[上海期货交易所](https://www.shfe.com.cn)〗 上期所
     * 上海国际能源交易中心
@@ -72,19 +72,19 @@ Finance
 
 监管以下业务（债/股/基/期+x）：  
 - 债券　Bond　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
-  上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
-  深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）十几种债券
-  [债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）
+  - 上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
+  - 深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）
+  - 北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）十几种债券
 
 - **股票　Stock**　A股(人民币普通股票)至2022年11月，总市值近80万亿。
-  * 上交所　上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)
-  * 深交所　上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx
-  * 北交所　上市公司超 120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　　全国中小企业股份转让系统
+  - 上交所　上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)
+  - 深交所　上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx
+  - 北交所　上市公司超 120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　　全国中小企业股份转让系统
 
 - 基金　Fund　2022年6月，公募基金超10000支，规模超26万亿。
-  * 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
-  * 深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
-  * 中国证券投资基金业协会 [公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
+  - 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
+  - 深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
+  - 中国证券投资基金业协会 [公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
 
 - 期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。  
 - ……
@@ -95,12 +95,12 @@ Finance
 
 国有大型商业银行（6家）
 
-<b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>　95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)⠀[收费标准](https://www.icbc.com.cn/ICBC/金融信息/资费公告/中国工商银行服务价目表电子银行2012版.htm)⠀[外汇牌价](https://www.icbc.com.cn/ICBC/金融信息/行情数据/人民币即期外汇牌价/)⠀[个人投资](https://www.icbc.com.cn/ICBC/网上理财/default.htm)⠀[理财产品]()⠀[网银登录](https://www.icbc.com.cnhttps://mybank.icbc.com.cn/)	<sub>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sub>  
-<b>[农业银行](https://www.abchina.com "中国农业银行股份有限公司")</b>　95599	⠀[全国分行](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnbranch_org/)⠀[收费标准](https://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/)⠀[外汇牌价](https://www.abchina.com/ForeignExchange/)⠀[个人投资](https://www.abchina.comhttps://ewealth.abchina.com)⠀[理财产品](https://www.abchina.comhttps://ewealth.abchina.com/fs/filter/)⠀[网银登录](https://www.abchina.comhttps://perbank.abchina.com/EbankSite/startup.do)	<sub></sub>  
-<b>[中国银行](https://www.boc.cn "中国银行股份有限公司")</b>　95566	⠀[全国分行](https://www.boc.cn/aboutboc/ab6/200812/t20081211_143780.html)⠀[收费标准]()⠀[外汇牌价](https://www.boc.cn/sourcedb/whpj/)⠀[个人投资](https://www.boc.cn/fimarkets)⠀[理财产品]()⠀[网银登录](https://www.boc.cnhttps://ebsnew.boc.cn/)	<sub>[交易限额](https://www.boc.cn/ebanking/service/cs1/200810/t20081022_990706.html)</sub>  
-<b>[建设银行](https://www.ccb.com "中国建设银行股份有限公司")</b>　95533	⠀[全国分行](https://www.ccb.com/cn/home/map/branchSearch.html)⠀[收费标准](https://www.ccb.comhttp://store.ccb.com/cn/public/20141027_1414371456.html)⠀[外汇牌价]()⠀[个人投资](https://www.ccb.comhttp://finance2.ccb.com/cn/finance/index.html)⠀[理财产品]()⠀[网银登录]()	<sub></sub>  
-<b>[交通银行](https://www.bankcomm.com "交通银行股份有限公司")</b>　95559	⠀[全国分行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/list.shtml?channelId=7804)⠀[收费标准]()⠀[外汇牌价]()⠀[个人投资](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226)⠀[理财产品]()⠀[网银登录](https://www.bankcomm.comhttps://apply.95559.com.cn/personbank/)	<sub></sub>  
-<b>[邮储银行](https://www.psbc.com "中国邮政储蓄银行股份有限公司")</b>　95580	⠀[全国分行](https://www.psbc.com/cn/fhpd/)⠀[收费标准](https://www.psbc.com/cn/common/bjfw/fwjmb_531/)⠀[外汇牌价](https://www.psbc.com/cn/common/bjfw/whpjcx/)⠀[个人投资](https://www.psbc.com/cn/common/search/)⠀[理财产品]()⠀[网银登录](https://www.psbc.comhttps://pbank.psbc.com/perbank/)	<sub></sub>  
+<b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>　95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)	iif(收费标准 IS NULL, '⠀收费标准', printf('⠀[收费标准](%s)', 收费标准))	iif(外汇牌价 IS NULL, '⠀外汇牌价', printf('⠀[外汇牌价](%s)', 外汇牌价))	⠀[个人投资](https://www.icbc.com.cn/ICBC/网上理财/default.htm)	⠀理财产品	⠀[网银登录](https://www.icbc.com.cnhttps://mybank.icbc.com.cn/)	<sup>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sup>  
+<b>[农业银行](https://www.abchina.com "中国农业银行股份有限公司")</b>　95599	⠀[全国分行](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnbranch_org/)	⠀[收费标准](https://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/)	⠀[外汇牌价](https://www.abchina.com/ForeignExchange/)	⠀[个人投资](https://www.abchina.comhttps://ewealth.abchina.com)	⠀[理财产品](https://www.abchina.comhttps://ewealth.abchina.com/fs/filter/)	⠀[网银登录](https://www.abchina.comhttps://perbank.abchina.com/EbankSite/startup.do)	<sup></sup>  
+<b>[中国银行](https://www.boc.cn "中国银行股份有限公司")</b>　95566	⠀[全国分行](https://www.boc.cn/aboutboc/ab6/200812/t20081211_143780.html)	⠀收费标准	⠀[外汇牌价](https://www.boc.cn/sourcedb/whpj/)	⠀[个人投资](https://www.boc.cn/fimarkets)	⠀理财产品	⠀[网银登录](https://www.boc.cnhttps://ebsnew.boc.cn/)	<sup>[交易限额](https://www.boc.cn/ebanking/service/cs1/200810/t20081022_990706.html)</sup>  
+<b>[建设银行](https://www.ccb.com "中国建设银行股份有限公司")</b>　95533	⠀[全国分行](https://www.ccb.com/cn/home/map/branchSearch.html)	⠀[收费标准](https://www.ccb.comhttp://store.ccb.com/cn/public/20141027_1414371456.html)	⠀外汇牌价	⠀[个人投资](https://www.ccb.comhttp://finance2.ccb.com/cn/finance/index.html)	⠀理财产品	⠀网银登录	<sup></sup>  
+<b>[交通银行](https://www.bankcomm.com "交通银行股份有限公司")</b>　95559	printf('⠀[全国分行](%s)', 全国机构)	⠀收费标准	⠀外汇牌价	iif(个人投资 IS NULL, '⠀个人投资', printf('⠀[个人投资](%s)', 个人投资))	⠀理财产品	⠀[网银登录](https://www.bankcomm.comhttps://apply.95559.com.cn/personbank/)	<sup></sup>  
+<b>[邮储银行](https://www.psbc.com "中国邮政储蓄银行股份有限公司")</b>　95580	⠀[全国分行](https://www.psbc.com/cn/fhpd/)	⠀[收费标准](https://www.psbc.com/cn/common/bjfw/fwjmb_531/)	⠀[外汇牌价](https://www.psbc.com/cn/common/bjfw/whpjcx/)	⠀[个人投资](https://www.psbc.com/cn/common/search/)	⠀理财产品	⠀[网银登录](https://www.psbc.comhttps://pbank.psbc.com/perbank/)	<sup></sup>  
 
 
 股份制商业银行（12家）
