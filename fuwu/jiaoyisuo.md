@@ -42,8 +42,8 @@ Finance
 
 [**银保监会**　CBIRC.gov.cn](http://www.cbirc.gov.cn/)  
 	中国银行保险监督管理委员会，监管：银行(储蓄/理财/贷款) /保险/信托
-- **银行**  Bank  超4000家，总资产超360万亿
-  *  3家政策性银行（国开/农发/进出口）、**6家国有商业银行**（工/建/中/农/交/邮）
+- 银行  Bank  超4000家，总资产超360万亿
+  * **6家国有商业银行**（工/农/中/建/交/邮储）
   * 12家全国股份制银行（招商/浦发……）、17家民营银行（网商/微众……）
   * 约3800家地方银行（城商行/农商行/村镇银行……）、100多家外资银行或外国银行的中国分行……
 - 保险机构 Insurance 200多家，总资产约20万亿（财险/寿险）
@@ -95,11 +95,11 @@ Finance
 
 国有大型商业银行（6家）
 
-<b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>　95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)	iif(收费标准 IS NULL, '⠀收费标准', printf('⠀[收费标准](%s)', 收费标准))	iif(外汇牌价 IS NULL, '⠀外汇牌价', printf('⠀[外汇牌价](%s)', 外汇牌价))	⠀[个人投资](https://www.icbc.com.cn/ICBC/网上理财/default.htm)	⠀理财产品	⠀[网银登录](https://www.icbc.com.cnhttps://mybank.icbc.com.cn/)	<sup>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sup>  
+<b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>　95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)	⠀[收费标准](https://www.icbc.com.cn/ICBC/金融信息/资费公告/中国工商银行服务价目表电子银行2012版.htm)	⠀[外汇牌价](https://www.icbc.com.cn/ICBC/金融信息/行情数据/人民币即期外汇牌价/)	⠀[个人投资](https://www.icbc.com.cn/ICBC/网上理财/default.htm)	⠀理财产品	⠀[网银登录](https://www.icbc.com.cnhttps://mybank.icbc.com.cn/)	<sup>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sup>  
 <b>[农业银行](https://www.abchina.com "中国农业银行股份有限公司")</b>　95599	⠀[全国分行](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnbranch_org/)	⠀[收费标准](https://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/)	⠀[外汇牌价](https://www.abchina.com/ForeignExchange/)	⠀[个人投资](https://www.abchina.comhttps://ewealth.abchina.com)	⠀[理财产品](https://www.abchina.comhttps://ewealth.abchina.com/fs/filter/)	⠀[网银登录](https://www.abchina.comhttps://perbank.abchina.com/EbankSite/startup.do)	<sup></sup>  
 <b>[中国银行](https://www.boc.cn "中国银行股份有限公司")</b>　95566	⠀[全国分行](https://www.boc.cn/aboutboc/ab6/200812/t20081211_143780.html)	⠀收费标准	⠀[外汇牌价](https://www.boc.cn/sourcedb/whpj/)	⠀[个人投资](https://www.boc.cn/fimarkets)	⠀理财产品	⠀[网银登录](https://www.boc.cnhttps://ebsnew.boc.cn/)	<sup>[交易限额](https://www.boc.cn/ebanking/service/cs1/200810/t20081022_990706.html)</sup>  
 <b>[建设银行](https://www.ccb.com "中国建设银行股份有限公司")</b>　95533	⠀[全国分行](https://www.ccb.com/cn/home/map/branchSearch.html)	⠀[收费标准](https://www.ccb.comhttp://store.ccb.com/cn/public/20141027_1414371456.html)	⠀外汇牌价	⠀[个人投资](https://www.ccb.comhttp://finance2.ccb.com/cn/finance/index.html)	⠀理财产品	⠀网银登录	<sup></sup>  
-<b>[交通银行](https://www.bankcomm.com "交通银行股份有限公司")</b>　95559	printf('⠀[全国分行](%s)', 全国机构)	⠀收费标准	⠀外汇牌价	iif(个人投资 IS NULL, '⠀个人投资', printf('⠀[个人投资](%s)', 个人投资))	⠀理财产品	⠀[网银登录](https://www.bankcomm.comhttps://apply.95559.com.cn/personbank/)	<sup></sup>  
+<b>[交通银行](https://www.bankcomm.com "交通银行股份有限公司")</b>　95559	⠀[全国分行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/list.shtml?channelId=7804)	⠀收费标准	⠀外汇牌价	⠀[个人投资](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226)	⠀理财产品	⠀[网银登录](https://www.bankcomm.comhttps://apply.95559.com.cn/personbank/)	<sup></sup>  
 <b>[邮储银行](https://www.psbc.com "中国邮政储蓄银行股份有限公司")</b>　95580	⠀[全国分行](https://www.psbc.com/cn/fhpd/)	⠀[收费标准](https://www.psbc.com/cn/common/bjfw/fwjmb_531/)	⠀[外汇牌价](https://www.psbc.com/cn/common/bjfw/whpjcx/)	⠀[个人投资](https://www.psbc.com/cn/common/search/)	⠀理财产品	⠀[网银登录](https://www.psbc.comhttps://pbank.psbc.com/perbank/)	<sup></sup>  
 
 
@@ -118,7 +118,7 @@ Finance
 [浙商银行](https://www.czbank.com "浙商银行股份有限公司 ")	-----　
 [恒丰银行](https://www.hfbank.com.cn "恒丰银行股份有限公司 ")	-----　
 
-民营银行（17家）
+民营银行（17家，地方银保监局）：
 
 [天津金城银行](https://www.kcbebank.com "天津金城银行股份有限公司 ")	-----　
 [上海华瑞银行](https://www.shrbank.com "上海华瑞银行股份有限公司 ")	-----　
@@ -140,12 +140,13 @@ Finance
 [江西裕民银行](https://www.ymbank.com "江西裕民银行股份有限公司 ")	-----　
 [无锡锡商银行]	-----　
 
-外资法人银行（39家+1 中德合资）
+外资法人银行（除前4家外由地方银保监局监管）
 
-[中德房储银行](http://www.sgb.cn "中德住房储蓄银行有限责任公司 ")	-----　
+[中德房储银行](http://www.sgb.cn "中德住房储蓄银行有限责任公司 ")	中德合资　  
 [东亚银行](https://www.hkbea.com.cn "东亚银行（中国）有限公司 ")	-----　
 [汇丰银行](https://www.hsbc.com.cn "汇丰银行（中国）有限公司 ")	-----　
 [渣打银行](https://www.sc.com "渣打银行（中国）有限公司 ")	-----　
+
 [蒙特利尔银行]( "蒙特利尔银行（中国）有限公司 ")	-----　
 [新联商业银行]( "新联商业银行 ")	-----　
 [德意志银行]( "德意志银行（中国）有限公司 ")	-----　
@@ -185,7 +186,7 @@ Finance
 [玉山银行]( "玉山银行（中国）有限公司 ")	-----　
 [中信银行国际](https://www.cncbinternational.com/home/sc "中信银行国际（中国）有限公司 ")	-----　
 
-城市商业银行（134家） 
+城市商业银行（134家，地方银保监局） 
 
 [北京银行](https://www.bankofbeijing.com.cn "北京银行股份有限公司 ")	-----　
 [天津银行](https://www.bankoftianjin.com "天津银行股份有限公司 ")	-----　
