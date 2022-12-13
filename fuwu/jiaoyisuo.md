@@ -1,13 +1,11 @@
-<base target="_blank">
+中国金融交易所 💱
+================
+大萌	202212	<base target="_blank">
 <meta property="og:type" content="website" /><!-- article -->
 <meta property="og:site_name" content="老生常谈">
 <meta property="og:title" content="中国金融交易所，改革开放出成果 💱">
 <meta property="og:description" content="证券股市交易、黄金期货交易、外汇、保险、信托">
 <meta property="og:image" content="📈">
-
-中国金融交易所 💱
-================
-大萌	202212
 
 		防范金融风险还须解决许多重大问题——二十大报告
 
