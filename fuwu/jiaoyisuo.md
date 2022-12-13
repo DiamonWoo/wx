@@ -18,16 +18,17 @@
 
 <h3 id='0'>快捷目录</h3>
 Finance、
+港澳台金融交易所、
 主要银行业务网址、
 中国主要保险公司、
-港澳台金融交易所、
 国内其他交易所、
-全球四大证券指数、
+全球四大证券指数
 
 
 中国金融业体系架构
 ----------------
 Finance
+
 **中国人民银行**　[PBC.gov.cn](http://www.pbc.gov.cn/)  
 	人行，国家中央银行、央妈，主管：外汇/黄金/货币政策
 - 调查统计司发布：[金融统计数据](http://www.pbc.gov.cn/diaochatongjisi/116219/) 可查 M2货币发行总量 等各种宏观数据。
@@ -86,9 +87,31 @@ Finance
 - ……
 
 
+港澳台金融交易所
+---------------
+Stock Exchanges
+
+* [香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
+* 【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港交易所/香港联交所/香港市场  
+  　香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。  
+  　查询[所有港股上市公司](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sc_lang=zh-HK)股价走势
+  * [披露易](https://sc.hkexnews.hk/TuniS/www.hkexnews.hk/index_c.htm)网站，上市公司文件与监管信息披露。
+  * 恒生银行1964年创立了反映香港股票市场表现的[恒生指数](https://www.hsi.com.hk)
+  * 【[伦敦金属交易所](https://www.lme.com/cn)】(英国 LME)，2012年被港交所收购
+  * 〖[前海联合交易中心](https://www.qme.com)〗大宗商品交易平台
+  * [沪港通 与 深港通](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Mutual-Market/Stock-Connect?sc_lang=zh-CN)
+* 澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
+
+* 【[台交所](https://www.twse.com.tw/zh/)】　台证所/证交所
+  　台湾证券交易所，编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
+* [台湾期货交易所](https://www.taifex.com.tw/cht/index)
+* [柜买中心](https://www.tpex.org.tw/)　台北交易所/财团法人中华民国证券柜台买卖中心（OTC）
+
+
 中国主要银行业务网址
 ------------------
 Banks
+
 国有大型商业银行（6家）
 
 <b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>⠀95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)	⠀[收费标准](https://www.icbc.com.cn/ICBC/金融信息/资费公告/中国工商银行服务价目表电子银行2012版.htm)	⠀个人投资: 	[理财](https://www.icbc.com.cn/ICBC/网上理财/default.htm)	/[基金](https://www.icbc.com.cn/ICBC/网上基金/default.htm)	⠀[网银登录](https://mybank.icbc.com.cn/)	<sup>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sup>  
@@ -353,27 +376,6 @@ Relevant Departments
 * $[经济参考报](http://www.jjckb.cn)
 
 
-
-港澳台金融交易所
----------------
-Stock Exchanges
-
-*	[香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
-*	【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港交易所/香港联交所/香港市场  
-	　香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。  
-	　查询[所有港股上市公司](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sc_lang=zh-HK)股价走势
-	* [披露易](https://sc.hkexnews.hk/TuniS/www.hkexnews.hk/index_c.htm)网站，上市公司文件与监管信息披露。
-	* 恒生银行1964年创立了反映香港股票市场表现的[恒生指数](https://www.hsi.com.hk)
-	* 【[伦敦金属交易所](https://www.lme.com/cn)】(英国 LME)，2012年被港交所收购
-	* 〖[前海联合交易中心](https://www.qme.com)〗大宗商品交易平台
-*	澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
-
-*	【[台交所](https://www.twse.com.tw/zh/)】　台证所/证交所
-	　台湾证券交易所，编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
-*	[台湾期货交易所](https://www.taifex.com.tw/cht/index)
-*	[柜买中心](https://www.tpex.org.tw/)　台北交易所/财团法人中华民国证券柜台买卖中心（OTC）
-
-
 国内其他交易所 
 -------------
 Exchange
@@ -427,7 +429,7 @@ Exchange
 
 
 
-　　对老生常谈“服务系列网页” [发表意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)。
+　　节约您的搜寻时间，老生常谈。 网页正在制作，欢迎[提出意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)。
 
 ```
 	老生常谈 © 2019-2022 大萌  知识共享许可
