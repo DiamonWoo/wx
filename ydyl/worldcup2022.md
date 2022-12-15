@@ -70,6 +70,6 @@
 
 　　节约您的搜寻时间，老生常谈，请您收好这一份：
 
-*	[《国别代码速查表》](https://Laosheng.top/ydyl/nations)
+*	[《国别代码速查表》](https://Laosheng.top/ydyl/nations) Laosheng.top/ydyl/nations
 
 <img src="up/10-guobie-mulu.png" width="480">
