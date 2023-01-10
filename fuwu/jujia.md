@@ -15,7 +15,8 @@
 
 　　《中国中医药报》网站刊载的**中医优势病种**：
 [感冒](http://www.cntcm.com.cn/news.html?aid=112675)、
-[咳嗽](http://www.cntcm.com.cn/news.html?aid=112674) 的的辩证与治疗。
+[咳嗽](http://www.cntcm.com.cn/news.html?aid=112674) 的的辩证与治疗，
+[常用中成药](http://www.cntcm.com.cn/column.html?cid=2268)介绍。
 
 按部门隶属
 ----------
@@ -24,7 +25,8 @@
 国务院/[卫健委](http://www.nhc.gov.cn/) / 新冠病毒疫情[防控工作](http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml)  
 -	医疗应急司：[诊疗方案第十版](http://www.nhc.gov.cn/ylyjs/pqt/202301/32de5b2ff9bf4eaa88e75bdf7223a65a.shtml)　[图版](https://mp.weixin.qq.com/s/p0yaR3Iw_iALlhVSecnu7Q)🎋中医治疗部分
 -	国家中医药管理局：[居家中医药干预指引](http://www.natcm.gov.cn/yizhengsi/gongzuodongtai/2022-12-10/28466.html)　[图版](https://mp.weixin.qq.com/s/AEJ4xA2MAEWpm7FQf60pyg)<big>👨‍⚕️</big>
-	- 《[中国中医药](http://www.cntcm.com.cn)报》社 / [常用](http://www.cntcm.com.cn/column.html?cid=2268)中成药
+	- 《[中国中医药](http://www.cntcm.com.cn)报》社
+	/ 中医抗疫[学术科普](http://www.cntcm.com.cn/column.html?cid=4045)
 -	中国健康教育中心：[居家指引（第一版）](https://www.nihe.org.cn/portal/jkzs/jbyf/news/fkzs/news/webinfo/2023/01/1674531702519756.htm)
 
 
@@ -113,7 +115,7 @@
 	老生常谈© 2019-2023 大萌	知识共享许可证
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/fuwu/jujia
-	新冠居家指引文件速查 v0.3.4	202301
+	新冠居家指引文件速查 v0.3.5	202301
 ```
 
 回到首页
