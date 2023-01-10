@@ -17,15 +17,14 @@
 [感冒](http://www.cntcm.com.cn/news.html?aid=112675)、
 [咳嗽](http://www.cntcm.com.cn/news.html?aid=112674) 的的辩证与治疗。
 
-
 按部门隶属
 ----------
 
 国务院/联防联控 [机制文件](http://www.gov.cn/zhengce/gwylflkjzwj.htm)、 [权威发布](http://www.gov.cn/xinwen/gwylflkjzqwfb/index.shtml)  
 国务院/[卫健委](http://www.nhc.gov.cn/) / 新冠病毒疫情[防控工作](http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml)  
 -	医疗应急司：[诊疗方案第十版](http://www.nhc.gov.cn/ylyjs/pqt/202301/32de5b2ff9bf4eaa88e75bdf7223a65a.shtml)　[图版](https://mp.weixin.qq.com/s/p0yaR3Iw_iALlhVSecnu7Q)🎋中医治疗部分
--	中医药管理局：[居家中医药干预指引](http://www.natcm.gov.cn/yizhengsi/gongzuodongtai/2022-12-10/28466.html)　[图版](https://mp.weixin.qq.com/s/AEJ4xA2MAEWpm7FQf60pyg)<big>👨‍⚕️</big>
-	- 《[中国中医药](http://www.cntcm.com.cn)报》社 / [常用中成药](http://www.cntcm.com.cn/column.html?cid=2268)
+-	国家中医药管理局：[居家中医药干预指引](http://www.natcm.gov.cn/yizhengsi/gongzuodongtai/2022-12-10/28466.html)　[图版](https://mp.weixin.qq.com/s/AEJ4xA2MAEWpm7FQf60pyg)<big>👨‍⚕️</big>
+	- 《[中国中医药](http://www.cntcm.com.cn)报》社 / [常用](http://www.cntcm.com.cn/column.html?cid=2268)中成药
 -	中国健康教育中心：[居家指引（第一版）](https://www.nihe.org.cn/portal/jkzs/jbyf/news/fkzs/news/webinfo/2023/01/1674531702519756.htm)
 
 
@@ -33,8 +32,8 @@
 ----------
 防疫形式变化
 
-2023-01-07 　	国家中医药管理局/“中国中医”微信号  
-🎋第十版诊疗方案的中医治疗部分  
+2023-01-07 　	中医药局/“中国中医”wx号  
+第十版诊疗方案的中医治疗部分🎋  
 <https://mp.weixin.qq.com/s/p0yaR3Iw_iALlhVSecnu7Q>  
 
 2023-01-06 　	国卫办医急函〔2023〕4号  
@@ -55,11 +54,11 @@
 <http://www.gov.cn/xinwen/2022-12/30/content_5734187.htm>  附  
 治疗新冠病毒感染中药协定方范例(.doc)
 
-2022-12-11 　	国家中医药管理局/“中国中医”微信号  
-<big>👨‍⚕️</big>一图读懂｜新冠病毒感染者居家中医药干预指引  
+2022-12-11 　	中医药局/“中国中医”wx号  
+一图读懂｜新冠病毒感染者居家中医药干预指引<big>👨‍⚕️</big>  
 <https://mp.weixin.qq.com/s/AEJ4xA2MAEWpm7FQf60pyg>  
 
-2022-12-10 　	国家中医药管理局/中医疫病防治专家委员会  
+2022-12-10 　	中医药局/中医疫病防治专家委员会  
 《新冠病毒感染者居家中医药干预指引》  
 <http://www.natcm.gov.cn/yizhengsi/gongzuodongtai/2022-12-10/28466.html>  
 
@@ -73,7 +72,7 @@
 《中医药干预指引》的中成药
 ----------------------
 
-
+……
 
 《诊疗方案》内的中医治疗
 --------------------
