@@ -1,5 +1,7 @@
 全球金融交易所 💱
-================
+==================
+Financial exchange
+
 大萌	2023
 <base target="_blank">
 
@@ -12,29 +14,29 @@
 
 证券交易所市值排行
 ------------------
-Financial exchanges Top25 2021
+Stock Exchange Top25 2021
 
 　　受疫情影响，2021年全球交易所总市值回到2017年水平。上交所超越日本，跻身第三。
 
 *	美国 [纽约证券交易所](https://www.nyse.com)
 *	美国 [纳斯达克](https://www.nasdaq.com)（纽约）
-*	中国 上海证券交易所
+*	中国 [上海证券交易所](http://www.sse.com.cn)
 *	欧盟 [泛欧交易所](https://www.euronext.com/zh/)🍴
 *	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)📍
-*	中国 香港交易所
-*	中国 深圳证券交易所
+*	中国 [香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)
+*	中国 [深圳证券交易所](https://www.szse.cn/)
 *	英国 [伦敦证券交易所](https://www.londonstockexchange.com)
 *	[印度国家证券交易所](http://www.nse-india.com)#
 *	加拿大 [多伦多证券交易所](https://www.tsx.com)
 
-*	印度 [孟买证券交易所](https://www.bseindia.com/)?
+*	印度 [孟买证券交易所](https://www.bseindia.com/) ? 疑似故障
 *	德国 [德意志交易所](https://deutsche-boerse.com/dbg-en/)🍴
 	* 法兰克福证券交易所
 *	[瑞士证券交易所](https://www.six-group.com/en)🍴
 *	大韩民国 [韩国交易所](http://global.krx.co.kr/cn/)📍
 *	欧洲联盟 [纳斯达克OMX北欧交易所](https://www.nasdaqomxnordic.com/)
 *	澳大利亚 [澳洲证券交易所](https://www2.asx.com.au)
-*	台湾地区 台湾证券交易所
+*	台湾地区 [台湾证券交易所](https://www.twse.com.tw/zh/)
 *	[巴西证券交易所](https://www.b3.com.br/en_us/)🍴
 *	[南非证券交易所](https://www.jse.co.za)
 *	[西班牙证券市场公司](https://www.bolsasymercados.es/ing/Home)🍴
@@ -47,7 +49,7 @@ Financial exchanges Top25 2021
 *	[马来西亚证券交易所](https://www.bursamalaysia.com/cn/)📍
 
 
-更多交易所可参考：[世界交易所联合会](https://www.world-exchanges.org) 
+更多交易所可参考：[世界交易所联合会](https://www.world-exchanges.org) WFE
 [成员名单](https://www.world-exchanges.org/membership-events)
 
 + [瑞士证券交易所](https://www.six-group.com/en/)🍴
@@ -65,8 +67,8 @@ Gold Market
 
 
 Template:全球系统重要性银行
--------------------------
-Systemically important banks
+----------------------------
+Systemically Important Banks
 
 2020年 → 2021年（30家）
 第五档		空缺
