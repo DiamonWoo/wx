@@ -32,9 +32,9 @@
 
 国资委央企名录
 --------------
-98家	202212
+按国资委官网排序
 
-1⠀1⠀☢️	[中核集团](http://www.cnnc.com.cn "中国核工业集团有限公司")⠀	北京	⠀[网站群](http://www.cnnc.com.cn/cnnc/xxgk/gkml/qyjbxx/cydw55/index.html)	⠀[wb](https://weibo.com/cnnc#中核集团)	⠀👥[报刊订阅](https://www.cnnc.com.cn/cnnc/xwzx65/bzqk/index.html)  
+1⠀☢️	[中核集团](http://www.cnnc.com.cn "中国核工业集团有限公司")⠀	北京	⠀[网站群](http://www.cnnc.com.cn/cnnc/xxgk/gkml/qyjbxx/cydw55/index.html)	⠀[wb](https://weibo.com/cnnc#中核集团)	⠀👥[报刊订阅](https://www.cnnc.com.cn/cnnc/xwzx65/bzqk/index.html)  
 2⠀🛰	[航天科技](http://www.spacechina.com "中国航天科技集团有限公司")⠀	北京	⠀[网站群](http://www.spacechina.com/n25/n150/)	⠀[wb](https://weibo.com/n/中国航天科技集团)	⠀[航天科技国际交流](http://www.htgjjl.com/)：[期刊平台](http://www.zghtqk.com/SKY/)、[中国航天报](http://www.csn.spacechina.com)/[📰](http://szb.htgjjl.com/)  
 3⠀🚀	[航天科工](http://www.casic.com.cn "中国航天科工集团有限公司")⠀	北京	⠀[网站群](http://www.casic.com.cn/n12382749/)	⠀[wb](https://weibo.com/n/中国航天科工)	⠀[上市公司](http://www.casic.com.cn/n12377284/n12377988/)  
 4⠀✈️	[航空工业集团](https://www.avic.com.cn "中国航空工业集团有限公司")⠀	北京	⠀[网站群](https://www.avic.com.cn/sycd/gywm/ssgs/)	⠀[wb](https://weibo.com/n/航空工业)	⠀CAN[中国航空报](https://www.cannews.com.cn/) /[📰](http://ep.cannews.com.cn/publish/zghkb7)  
@@ -44,10 +44,10 @@
 8⠀✡	[中国电科](http://www.cetc.com.cn "中国电子科技集团有限公司")⠀	北京	⠀[网站群](http://www.cetc.com.cn/zgdk/1592544/1592565/index.html)	⠀[wb](https://weibo.com/n/中国电科)	⠀[中国电科](http://www.cetc.com.cn/zgdk/1592571/1592919/index.html)报  
 9⠀🚀	[中国航发](https://www.aecc.cn "中国航空发动机集团有限公司")⠀	北京	⠀[网站群](https://www.aecc.cn/sxgk/qyjbsx/)	　	⠀下辖27家直属单位、3家主板上市公司  
 10⠀💰	[中国融通集团](https://www.crtamg.com.cn "中国融通资产管理集团有限公司")⠀	北京	⠀[网站群](https://www.crtamg.com.cn/ywly/zykf/)	　	⠀👥军委剥离的商业资产，[组织架构](https://www.crtamg.com.cn/gyrt/zzjg/)  
-11⠀⛽	[中国石油](http://www.cnpc.com.cn "中国石油天然气集团有限公司")⠀	北京	⠀[网站群](http://www.cnpc.com.cn/cnpc/sywq/sywq_index.shtml)	⠀[wb](https://weibo.com/n/中国石油)	⠀[中国石油报](http://news.cnpc.com.cn)/[📰](http://news.cnpc.com.cn/epaper/zgsyb/)，《[石油知识](http://www.cnpc.com.cn/syzs/dzqk/dzqk_index.shtml)》；956100📠，[油价走势](http://oilinfo.cnpc.com.cn/ypxx/gjyj/gjyj.shtml)  
+11⠀⛽	[中国石油](http://www.cnpc.com.cn "中国石油天然气集团有限公司")⠀	北京	⠀[网站群](http://www.cnpc.com.cn/cnpc/sywq/sywq_index.shtml)	⠀[wb](https://weibo.com/n/中国石油)	⠀[中国石油报](http://news.cnpc.com.cn)/[📰](http://news.cnpc.com.cn/epaper/zgsyb/)，《[石油知识](http://www.cnpc.com.cn/syzs/dzqk/dzqk_index.shtml)》；956100📠，[油价走势](http://oilinfo.cnpc.com.cn/ypxx/gjyj/gjyj.shtml)；[股票信息](http://www.petrochina.com.cn/petrochina/gpxx/column_comp.shtml)  
 12⠀⛽	[中国石化](http://www.sinopecgroup.com "中国石油化工集团有限公司")⠀	北京	⠀[网站群](http://www.sinopecgroup.com/group/gywm/wzq.shtml)	⠀[wb](https://weibo.com/n/中国石化)	⠀[中国石化报](http://www.sinopecnews.com.cn/)/[📰](http://enews.sinopecnews.com.cn/zgshb/)  
-13⠀⛽	[中国海油](http://www.cnooc.com.cn "中国海洋石油集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/图说海油)	  
-14⠀🗜️	[国家管网集团](http://www.pipechina.com.cn "国家石油天然气管网集团有限公司")⠀	北京	　	　	  
+13⠀⛽	[中国海油](https://www.cnooc.com.cn "中国海洋石油集团有限公司")⠀	北京	⠀[网站群](https://www.cnooc.com.cn/col/col641/)	⠀[wb](https://weibo.com/n/图说海油)	⠀[中海油出版物](https://www.cnooc.com.cn/col/col50901/)；[海油螺号](https://weibo.com/cnoocnews)  
+14⠀🗜️	[国家管网集团](https://www.pipechina.com.cn "国家石油天然气管网集团有限公司")⠀	北京	　	　	⠀[集团要闻](https://www.pipechina.com.cn/xwdt/jtyw.html)，微博：[北方管道](https://weibo.com/6079188491)、[东部储运](https://weibo.com/gdcyxwzx)  
 15⠀⚡	[国家电网](http://www.sgcc.com.cn "国家电网有限公司")⠀	北京	⠀[网站群](http://www.sgcc.com.cn/html/sgcc_main/col2017012538/column_2017012538_1.shtml)	⠀[wb](https://weibo.com/n/国家电网?电网头条)	⠀[英大传媒](http://www.indaa.com.cn)：国家电网报/[📰](https://epaper.sgcctop.com/)/[wb](https://weibo.com/stategridnews)  
 16⠀⚡	[南方电网](http://www.csg.cn "中国南方电网有限责任公司")⠀	广州市	　	⠀[wb](https://weibo.com/n/南网50Hz)	  
 17⠀⚡	[中国华能](http://www.chng.com.cn "中国华能集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国华能)	  
@@ -133,12 +133,28 @@
 97⠀💰	[中国国新](https://www.crhc.cn "中国国新控股有限责任公司")⠀	北京	⠀[网站群](https://www.crhc.cn2010/2016)	⠀[wb](https://weibo.com/n/中国国新)	  
 98⠀🧪	[中国中检](http://www.ccic.com "中国检验认证（集团）有限公司")⠀	北京	　	　	  
 
+截至2022年12月底计98家。
+
 
 央企上市公司名单
 ----------------
 约300支股票
 
 　　（正在搜寻资料，欢迎[提供线索](https://laosheng.top/author/helpme.txt)）
+
+
+3	中国航天科工集团有限公司：  
+航天信息、航天晨光、航天发展、宏华集团、航天长峰、航天科技、航天电器、锐科激光
+
+9	中国航空发动机集团有限公司：  
+中航动力（600893）、中航动控（000738）、成发科技（600391）
+
+11	中国石油天然气集团有限公司：  
+上海证券交易所	601857，香港联交所	0857
+
+13	中国海洋石油集团有限公司：  
+中国海油香港/上海	中海油服香港/上海	海油工程	中海化学
+
 
 
 地方国资委网站
@@ -153,7 +169,7 @@
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/fuwu/yangqi
-	央企股票一览表	Beta v0.2.5	202302
+	央企股票一览表	Beta v0.2.6	202302
 ```
 
 回到首页
