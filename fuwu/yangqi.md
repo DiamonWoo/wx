@@ -34,16 +34,16 @@
 --------------
 98家	202212
 
-1⠀☢️	[中核集团](http://www.cnnc.com.cn "中国核工业集团有限公司")⠀	北京	⠀[网站群](http://www.cnnc.com.cn/cnnc/xxgk/gkml/qyjbxx/cydw55/index.html)	⠀[wb](https://weibo.com/cnnc#中核集团)	  
-2⠀🛰	[航天科技](http://www.spacechina.com "中国航天科技集团有限公司")⠀	北京	⠀[网站群](http://www.spacechina.com/n25/n150/)	⠀[wb](https://weibo.com/n/中国航天科技集团)	  
-3⠀🚀	[航天科工](http://www.casic.com.cn "中国航天科工集团有限公司")⠀	北京	⠀[网站群](http://www.casic.com.cn/n12382749/)	⠀[wb](https://weibo.com/n/中国航天科工)	  
+1⠀1⠀☢️	[中核集团](http://www.cnnc.com.cn "中国核工业集团有限公司")⠀	北京	⠀[网站群](http://www.cnnc.com.cn/cnnc/xxgk/gkml/qyjbxx/cydw55/index.html)	⠀[wb](https://weibo.com/cnnc#中核集团)	⠀👥[报刊订阅](https://www.cnnc.com.cn/cnnc/xwzx65/bzqk/index.html)  
+2⠀🛰	[航天科技](http://www.spacechina.com "中国航天科技集团有限公司")⠀	北京	⠀[网站群](http://www.spacechina.com/n25/n150/)	⠀[wb](https://weibo.com/n/中国航天科技集团)	⠀[航天科技国际交流](http://www.htgjjl.com/)：[期刊平台](http://www.zghtqk.com/SKY/)、[中国航天报](http://www.csn.spacechina.com)/[📰](http://szb.htgjjl.com/)  
+3⠀🚀	[航天科工](http://www.casic.com.cn "中国航天科工集团有限公司")⠀	北京	⠀[网站群](http://www.casic.com.cn/n12382749/)	⠀[wb](https://weibo.com/n/中国航天科工)	⠀[上市公司](http://www.casic.com.cn/n12377284/n12377988/)  
 4⠀✈️	[航空工业集团](https://www.avic.com.cn "中国航空工业集团有限公司")⠀	北京	⠀[网站群](https://www.avic.com.cn/sycd/gywm/ssgs/)	⠀[wb](https://weibo.com/n/航空工业)	⠀CAN[中国航空报](https://www.cannews.com.cn/) /[📰](http://ep.cannews.com.cn/publish/zghkb7)  
 5⠀🚢	[中国船舶](http://www.csic.com.cn "中国船舶集团有限公司")⠀	上海市	⠀[网站群](http://www.csic.com.cn/n11/)	⠀[wb](https://weibo.com/n/中国船舶)	⠀中国造船 等[出版物](http://www.csic.com.cn/n5/n116/)，中国船舶报/[📰](http://zgcbb.cnepaper.com/zgcbb/)  
 6⠀💥	[兵器工业集团](http://www.norincogroup.com.cn "中国兵器工业集团有限公司")⠀	北京	⠀[网站群](http://www.norincogroup.com.cn/col/col193/)	⠀[wb](https://weibo.com/n/兵工之声)	⠀兵器知识 等[兵工刊物](http://www.norincogroup.com.cn/col/col92/)  
-7⠀💥	[兵器装备集团](https://www.csgc.com.cn "中国兵器装备集团有限公司")⠀	北京	⠀[网站群](https://www.csgc.com.cn/ywly/)	⠀[wb](https://weibo.com/n/中国兵器装备集团)	  
+7⠀💥	[兵器装备集团](https://www.csgc.com.cn "中国兵器装备集团有限公司")⠀	北京	⠀[网站群](https://www.csgc.com.cn/1073.html)	⠀[wb](https://weibo.com/n/中国兵器装备集团)	⠀[期刊杂志](https://www.csgc.com.cn/1090.html)/中国兵器报/[wb](https://weibo.com/zgbqb)  
 8⠀✡	[中国电科](http://www.cetc.com.cn "中国电子科技集团有限公司")⠀	北京	⠀[网站群](http://www.cetc.com.cn/zgdk/1592544/1592565/index.html)	⠀[wb](https://weibo.com/n/中国电科)	⠀[中国电科](http://www.cetc.com.cn/zgdk/1592571/1592919/index.html)报  
-9⠀🚀	[中国航发](http://www.aecc.cn "中国航空发动机集团有限公司")⠀	北京	　	　	  
-10⠀💰	[中国融通集团](https://www.crtamg.com.cn "中国融通资产管理集团有限公司")⠀	中国香港	　	　	  
+9⠀🚀	[中国航发](https://www.aecc.cn "中国航空发动机集团有限公司")⠀	北京	⠀[网站群](https://www.aecc.cn/sxgk/qyjbsx/)	　	⠀下辖27家直属单位、3家主板上市公司  
+10⠀💰	[中国融通集团](https://www.crtamg.com.cn "中国融通资产管理集团有限公司")⠀	北京	⠀[网站群](https://www.crtamg.com.cn/ywly/zykf/)	　	⠀👥军委剥离的商业资产，[组织架构](https://www.crtamg.com.cn/gyrt/zzjg/)  
 11⠀⛽	[中国石油](http://www.cnpc.com.cn "中国石油天然气集团有限公司")⠀	北京	⠀[网站群](http://www.cnpc.com.cn/cnpc/sywq/sywq_index.shtml)	⠀[wb](https://weibo.com/n/中国石油)	⠀[中国石油报](http://news.cnpc.com.cn)/[📰](http://news.cnpc.com.cn/epaper/zgsyb/)，《[石油知识](http://www.cnpc.com.cn/syzs/dzqk/dzqk_index.shtml)》；956100📠，[油价走势](http://oilinfo.cnpc.com.cn/ypxx/gjyj/gjyj.shtml)  
 12⠀⛽	[中国石化](http://www.sinopecgroup.com "中国石油化工集团有限公司")⠀	北京	⠀[网站群](http://www.sinopecgroup.com/group/gywm/wzq.shtml)	⠀[wb](https://weibo.com/n/中国石化)	⠀[中国石化报](http://www.sinopecnews.com.cn/)/[📰](http://enews.sinopecnews.com.cn/zgshb/)  
 13⠀⛽	[中国海油](http://www.cnooc.com.cn "中国海洋石油集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/图说海油)	  
@@ -72,9 +72,9 @@
 36⠀🧲	[中矿资源]( "中国矿产资源集团有限公司")⠀	保定市	　	　	⠀2022年7月成立  
 37⠀🏭	[中铝集团](https://www.chinalco.com.cn "中国铝业集团有限公司")⠀	北京	　	　	  
 38⠀🚢	[中国远洋海运](https://www.coscoshipping.com "中国远洋海运集团有限公司")⠀	上海市	⠀[网站群](https://www.coscoshipping.com/col/col6879/)	⠀[wb](https://weibo.com/n/中国远洋海运杂志社)	⠀[中国远洋海运报](https://newspaper.coscoshipping.com/)📰  
-39⠀✈️	[中航集团](http://www.airchinagroup.com "中国航空集团有限公司")⠀	北京	⠀[网站群](http://www.airchinagroup.com/cnah/zhgl/cyqy/gh/)	⠀[wb](https://weibo.com/n/中国国际航空)	⠀[中航博物馆](http://www.airchinagroup.com/cnah/zhbwg/)  
-40⠀✈️	[中国东航](http://www.ceair.com "中国东方航空集团有限公司")⠀	上海市	　	⠀[wb](https://weibo.com/n/中国东方航空)	  
-41⠀✈️	[南航集团](http://www.csair.cn "中国南方航空集团有限公司")⠀	广州市	　	⠀[wb](https://weibo.com/n/中国南方航空)	  
+39⠀👯	[中航集团](http://www.airchinagroup.com "中国航空集团有限公司")⠀	北京	⠀[网站群](http://www.airchinagroup.com/cnah/zhgl/cyqy/gh/)	⠀[wb](https://weibo.com/n/中国国际航空)	⠀[中航博物馆](http://www.airchinagroup.com/cnah/zhbwg/)  
+40⠀👯	[中国东航](http://www.ceair.com "中国东方航空集团有限公司")⠀	上海市	　	⠀[wb](https://weibo.com/n/中国东方航空)	  
+41⠀👯	[南航集团](http://www.csair.cn "中国南方航空集团有限公司")⠀	广州市	　	⠀[wb](https://weibo.com/n/中国南方航空)	  
 42⠀⚗️	[中国中化](http://www.sinochem.com "中国中化控股有限责任公司")⠀	雄安新区	　	⠀[wb](https://weibo.com/n/中国中化)	  
 43⠀🌾	[中粮集团](http://www.cofco.com "中粮集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中粮COFCO)	  
 44⠀🧲	[中国五矿](http://www.minmetals.com.cn "中国五矿集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国五矿)	  
@@ -87,7 +87,7 @@
 51⠀🔥	[华润集团](https://www.crc.com.hk "华润（集团）有限公司")⠀	深圳市	⠀[网站群](https://www.crc.com.hk/other/group/)	⠀[wb](https://weibo.com/n/华润通)	⠀《[华润](http://crchat.crc.com.cn/magazine/)》，[上市公司](https://www.crc.com.hk/IR/stock/indirect/)名单  
 52⠀🎠	[中国旅游集团](https://www.ctg.cn "中国旅游集团有限公司／香港中旅(集团)有限公司")⠀	中国香港	　	　	  
 53⠀✈️	[中国商飞](http://www.comac.cc "中国商用飞机有限责任公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国商飞)	  
-54⠀🌿	[中国节能](http://www.cecep.cn "中国节能环保集团有限公司")⠀	北京	　	　	⠀军委总后新时代2010并入  
+54⠀🌿	[中国节能](http://www.cecep.cn "中国节能环保集团有限公司")⠀	北京	　	　	⠀👥军委总后新时代2010并入  
 55⠀💡	[中咨公司](http://www.ciecc.com.cn "中国国际工程咨询有限公司")⠀	北京	　	　	  
 56⠀💡	[中国诚通](http://www.cctgroup.com.cn "中国诚通控股集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国诚通)	  
 57⠀🔥	[中煤集团](http://www.chinacoal.com "中国中煤能源集团有限公司")⠀	北京	　	　	  
@@ -106,17 +106,17 @@
 70⠀🚉	[中国中车集团](http://www.crrcgc.cc "中国中车集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国中车)	  
 71⠀🚉	[中国通号](http://www.crsc.cn "中国铁路通信信号集团有限公司")⠀	北京	　	　	  
 72⠀🚉	[中国中铁](http://www.crecg.com "中国铁路工程集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国中铁)	  
-73⠀🚉	[中国铁建](http://www.crcc.cn "中国铁道建筑集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国铁建)	  
+73⠀⛑️	[中国铁建](http://www.crcc.cn "中国铁道建筑集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国铁建)	  
 74⠀🛣️	[中交集团](http://www.ccccltd.cn "中国交通建设集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国交建)	  
 75⠀📶	[中国信科](http://www.cict.com "中国信息通信科技集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/信科视界)	  
 76⠀🌾	[中国农发集团](http://www.cnadc.com.cn "中国农业发展集团有限公司")⠀	武汉市	　	　	  
 77⠀🌲	[中林集团](http://www.cfgc.cn "中国林业集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中林集团)	  
 78⠀💊	[国药集团](http://www.sinopharm.com "中国医药集团有限公司")⠀	北京	　	　	  
-79⠀👥	[保利集团](https://www.poly.com.cn "中国保利集团有限公司")⠀	北京	　	　	⠀军委总参，官网近日故障  
+79⠀　	[保利集团](https://www.poly.com.cn "中国保利集团有限公司")⠀	北京	　	　	⠀👥军委总参，官网近日故障  
 80⠀🏗	[中国建科](http://www.cadreg.com.cn "中国建设科技有限公司")⠀	北京	　	　	  
 81⠀🏭	[冶金地质总局](http://www.cmgb.com.cn "中国冶金地质总局")⠀	北京	　	　	  
 82⠀🔥	[中煤地质总局](http://www.ccgc.cn "中国煤炭地质总局")⠀	北京	　	⠀[wb](https://weibo.com/n/中国煤炭地质总局)	  
-83⠀👥	[新兴际华集团](http://www.xxcig.com "新兴际华集团有限公司")⠀	北京	⠀[网站群](http://www.xxcig.com/web/jtwq/jtzz/index.shtml)	⠀[wb](https://weibo.com/n/新兴际华集团)	⠀军委总后，铸管、军需、应急  
+83⠀　	[新兴际华集团](http://www.xxcig.com "新兴际华集团有限公司")⠀	北京	⠀[网站群](http://www.xxcig.com/web/jtwq/jtzz/index.shtml)	⠀[wb](https://weibo.com/n/新兴际华集团)	⠀👥军委总后，铸管、军需、应急  
 84⠀📶	[中国航信](http://www.travelsky.cn "中国民航信息集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国航信工会)	  
 85⠀✈️	[中国航油](http://www.cnaf.com "中国航空油料集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国航油)	  
 86⠀✈️	[中国航材](http://www.casc.com.cn "中国航空器材集团有限公司")⠀	北京	　	　	  
@@ -153,13 +153,13 @@
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/fuwu/yangqi
-	央企股票一览表	Beta v0.2.4	202302
+	央企股票一览表	Beta v0.2.5	202302
 ```
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 点击二维码，“在浏览器打开” https://Laosheng.top  
-✈️🛩️🚁🛸🪁🎯💨🚀🛰️📡🔭
+✈️🛩️🚁🛸🪁🎯💨🚀🛰️📡🔭🧍‍♀️👯
 🛳️🚢🚤⚓💧⚡🌩️💡⛽🛢️🔥💣💥
 🚚🚛🚙🚗🚘🚌🚅🚉🚆🚂🛤🚃🚎️
 💎🧲⛓️🧰✨❇️🎆🎇📶📱✡🌊
