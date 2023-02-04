@@ -49,11 +49,11 @@
 13⠀⛽	[中国海油](https://www.cnooc.com.cn "中国海洋石油集团有限公司")⠀	北京	⠀[网站群](https://www.cnooc.com.cn/col/col641/)	⠀[wb](https://weibo.com/n/图说海油)	⠀[中海油出版物](https://www.cnooc.com.cn/col/col50901/)；[海油螺号](https://weibo.com/cnoocnews)  
 14⠀🗜️	[国家管网集团](https://www.pipechina.com.cn "国家石油天然气管网集团有限公司")⠀	北京	　	　	⠀[集团要闻](https://www.pipechina.com.cn/xwdt/jtyw.html)，微博：[北方管道](https://weibo.com/6079188491)、[东部储运](https://weibo.com/gdcyxwzx)  
 15⠀⚡	[国家电网](http://www.sgcc.com.cn "国家电网有限公司")⠀	北京	⠀[网站群](http://www.sgcc.com.cn/html/sgcc_main/col2017012538/column_2017012538_1.shtml)	⠀[wb](https://weibo.com/n/国家电网?电网头条)	⠀[英大传媒](http://www.indaa.com.cn)：国家电网报/[📰](https://epaper.sgcctop.com/)/[wb](https://weibo.com/stategridnews)  
-16⠀⚡	[南方电网](http://www.csg.cn "中国南方电网有限责任公司")⠀	广州市	　	⠀[wb](https://weibo.com/n/南网50Hz)	  
-17⠀⚡	[中国华能](http://www.chng.com.cn "中国华能集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国华能)	  
-18⠀⚡	[中国大唐](http://www.china-cdt.com "中国大唐集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/美丽大唐)	  
-19⠀⚡	[中国华电](http://www.chd.com.cn "中国华电集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国华电)	  
-20⠀⚡	[国家电投](http://www.spic.com.cn "国家电力投资集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/国家电投)	  
+16⠀⚡	[南方电网](https://www.csg.cn "中国南方电网有限责任公司")⠀	广州市	　	⠀[wb](https://weibo.com/n/南网50Hz)	⠀南网[数字传媒](http://cm.csg.cn/#mtjz)、[南网营业厅](https://95598.csg.cn/)95598  
+17⠀⚡	[中国华能](https://www.chng.com.cn "中国华能集团有限公司")⠀	北京	⠀[网站群](https://www.chng.com.cn/relations.html)	⠀[wb](https://weibo.com/n/中国华能)	⠀《[中国华能](https://www.chng.com.cn/list_dzqk/-/article/Xo6UWeAOetWm/list/23594/)》  
+18⠀⚡	[中国大唐](https://www.china-cdt.com "中国大唐集团有限公司")⠀	北京	⠀[网站群](https://www.china-cdt.com/dtwz/showNewsListForSiteControlAction!showNewsList.action?program=tzzgx)	⠀[wb](https://weibo.com/n/美丽大唐)	⠀[新闻中心](http://www.china-cdt.com/dtwz/yearListForSiteControlAction!yearList.action?program=xwzx_jtxw)  
+19⠀⚡	[中国华电](https://www.chd.com.cn "中国华电集团有限公司")⠀	北京	⠀[网站群](https://www.chd.com.cn/site/2/list/b87052da8ac94affad09200ecceb0279_1.html)	⠀[wb](https://weibo.com/n/中国华电)	⠀[新闻中心](https://www.chd.com.cn/site/2/list/5b05a07f75a0401fa659a2e2959c4916_1.html)  
+20⠀☢️	[国家电投](http://www.spic.com.cn "国家电力投资集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/国家电投)	  
 21⠀🌊	[中国三峡集团](https://www.ctg.com.cn "中国长江三峡集团有限公司")⠀	武汉市	⠀[网站群](https://www.ctg.com.cn/sxjt/jtwzq61/)	⠀[wb](https://weibo.com/n/中国三峡集团)	⠀[三峡出版传媒集团](https://media.ctg.com.cn)  
 22⠀🔥	[国家能源集团](http://www.ceic.com "国家能源投资集团有限责任公司")⠀	北京	　	⠀[wb](https://weibo.com/n/国家能源集团之声)	  
 23⠀📶	[中国电信](http://www.chinatelecom.com.cn "中国电信集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国电信)	⠀[网上营业厅](http://www.189.cn)  
@@ -112,7 +112,7 @@
 76⠀🌾	[中国农发集团](http://www.cnadc.com.cn "中国农业发展集团有限公司")⠀	武汉市	　	　	  
 77⠀🌲	[中林集团](http://www.cfgc.cn "中国林业集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中林集团)	  
 78⠀💊	[国药集团](http://www.sinopharm.com "中国医药集团有限公司")⠀	北京	　	　	  
-79⠀　	[保利集团](https://www.poly.com.cn "中国保利集团有限公司")⠀	北京	　	　	⠀👥军委总参，官网近日故障  
+79⠀　	[保利集团](https://www.poly.com.cn "中国保利集团有限公司")⠀	北京	　	　	⠀👥军委总参，官网夜间关闭  
 80⠀🏗	[中国建科](http://www.cadreg.com.cn "中国建设科技有限公司")⠀	北京	　	　	  
 81⠀🏭	[冶金地质总局](http://www.cmgb.com.cn "中国冶金地质总局")⠀	北京	　	　	  
 82⠀🔥	[中煤地质总局](http://www.ccgc.cn "中国煤炭地质总局")⠀	北京	　	⠀[wb](https://weibo.com/n/中国煤炭地质总局)	  
@@ -146,6 +146,12 @@
 3	中国航天科工集团有限公司：  
 航天信息、航天晨光、航天发展、宏华集团、航天长峰、航天科技、航天电器、锐科激光
 
+5	中国船舶集团有限公司：  
+中国重工（601989）、中国动力（600482）。
+
+8	中国电子科技集团有限公司：  
+杰赛科技（002544）、国睿科技（600562）、太极股份（002368）、卫士通（002268）、华东电脑（600850）、四创电子（600990）、海康威视（002415）、凤凰光学（600071）。
+
 9	中国航空发动机集团有限公司：  
 中航动力（600893）、中航动控（000738）、成发科技（600391）
 
@@ -154,6 +160,19 @@
 
 13	中国海洋石油集团有限公司：  
 中国海油香港/上海	中海油服香港/上海	海油工程	中海化学
+
+
+17	中国华能集团有限公司  
+华能国际600011、内蒙华电600863、新能泰山000720、新能泰山000720、新能泰山000720、新能泰山000720
+
+18	中国大唐集团有限公司  
+大唐发电601991、桂冠电力600236、华银电力600744、大唐新能源01798.HK、大唐环境(01272)；控股大唐地产2117.HK
+
+
+27	中国电子信息产业集团有限公司：  
+南京熊猫（600775）、深科技（000021）、长城电脑（000066）、中国软件（600536）、深桑达A（000032）、华东科技（000727）、长城信息（000748）、上海贝岭（600171）、振华科技（000733）、彩虹股份（600707）
+
+
 
 
 
@@ -169,7 +188,7 @@
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/fuwu/yangqi
-	央企股票一览表	Beta v0.2.6	202302
+	央企股票一览表	Beta v0.2.7	202302
 ```
 
 回到首页
