@@ -21,7 +21,7 @@
 --------------
 
 　国务院 [国资委 SASAC](http://www.sasac.gov.cn)官网、[机构概况](http://www.sasac.gov.cn/n2588020/index.html)  
-　国有资产监督管理委员会（正部级），为国务院直属特设机构，其党委履行党中央规定的职责。
+　国有资产监督管理委员会（正部级），为国务院直属特设机构，其党委履行党中央规定的职责。  
 　State-owned Assets Supervision and Administration Commission of the State Council
 
 　[央企名录](http://www.sasac.gov.cn/n4422011/n14158800/n14158998/c14159097/content.html) / [2](http://www.sasac.gov.cn/n2588035/n2641579/n2641645/)　截至2022年12月计98家；
@@ -49,7 +49,7 @@
 8⠀✡	[中国电科](http://www.cetc.com.cn "中国电子科技集团有限公司")⠀	北京	⠀[网站群](http://www.cetc.com.cn/zgdk/1592544/1592565/index.html)	⠀[wb](https://weibo.com/n/中国电科)	⠀[中国电科](http://www.cetc.com.cn/zgdk/1592571/1592919/index.html)报  
 9⠀🚀	[中国航发](https://www.aecc.cn "中国航空发动机集团有限公司")⠀	北京	⠀[网站群](https://www.aecc.cn/sxgk/qyjbsx/)	　	⠀下辖27家直属单位、3家主板上市公司  
 10⠀💰	[中国融通集团](https://www.crtamg.com.cn "中国融通资产管理集团有限公司")⠀	北京	⠀[网站群](https://www.crtamg.com.cn/ywly/zykf/)	　	⠀👥军委剥离的商业资产，[组织架构](https://www.crtamg.com.cn/gyrt/zzjg/)  
-11⠀⛽	[中国石油](http://www.cnpc.com.cn "中国石油天然气集团有限公司")⠀	北京	⠀[网站群](http://www.cnpc.com.cn/cnpc/sywq/sywq_index.shtml)	⠀[wb](https://weibo.com/n/中国石油)	⠀[中国石油报](http://news.cnpc.com.cn)/[📰](http://news.cnpc.com.cn/epaper/zgsyb/)，《[石油知识](http://www.cnpc.com.cn/syzs/dzqk/dzqk_index.shtml)》；956100📠，[油价走势](http://oilinfo.cnpc.com.cn/ypxx/gjyj/gjyj.shtml)；[股票信息](http://www.petrochina.com.cn/petrochina/gpxx/column_comp.shtml)  
+11⠀⛽	[中国石油](http://www.cnpc.com.cn "中国石油天然气集团有限公司")⠀	北京	⠀[网站群](http://www.cnpc.com.cn/cnpc/sywq/sywq_index.shtml)	⠀[wb](https://weibo.com/n/中国石油)	⠀[中国石油报](http://news.cnpc.com.cn)/[📰](http://news.cnpc.com.cn/epaper/zgsyb/)，《[石油知识](http://www.cnpc.com.cn/syzs/dzqk/dzqk_index.shtml)》；956100📠，[国际油价](http://oilinfo.cnpc.com.cn/ypxx/gjyj/gjyj.shtml)；[股票信息](http://www.petrochina.com.cn/petrochina/gpxx/column_comp.shtml)  
 12⠀⛽	[中国石化](http://www.sinopecgroup.com "中国石油化工集团有限公司")⠀	北京	⠀[网站群](http://www.sinopecgroup.com/group/gywm/wzq.shtml)	⠀[wb](https://weibo.com/n/中国石化)	⠀[中国石化报](http://www.sinopecnews.com.cn/)/[📰](http://enews.sinopecnews.com.cn/zgshb/)  
 13⠀⛽	[中国海油](https://www.cnooc.com.cn "中国海洋石油集团有限公司")⠀	北京	⠀[网站群](https://www.cnooc.com.cn/col/col641/)	⠀[wb](https://weibo.com/n/图说海油)	⠀[中海油出版物](https://www.cnooc.com.cn/col/col50901/)；[海油螺号](https://weibo.com/cnoocnews)  
 14⠀🗜️	[国家管网集团](https://www.pipechina.com.cn "国家石油天然气管网集团有限公司")⠀	北京	　	　	⠀[集团要闻](https://www.pipechina.com.cn/xwdt/jtyw.html)，微博：[北方管道](https://weibo.com/6079188491)、[东部储运](https://weibo.com/gdcyxwzx)  
@@ -58,14 +58,14 @@
 17⠀⚡	[中国华能](https://www.chng.com.cn "中国华能集团有限公司")⠀	北京	⠀[网站群](https://www.chng.com.cn/relations.html)	⠀[wb](https://weibo.com/n/中国华能)	⠀《[中国华能](https://www.chng.com.cn/list_dzqk/-/article/Xo6UWeAOetWm/list/23594/)》  
 18⠀⚡	[中国大唐](https://www.china-cdt.com "中国大唐集团有限公司")⠀	北京	⠀[网站群](https://www.china-cdt.com/dtwz/showNewsListForSiteControlAction!showNewsList.action?program=tzzgx)	⠀[wb](https://weibo.com/n/美丽大唐)	⠀[新闻中心](http://www.china-cdt.com/dtwz/yearListForSiteControlAction!yearList.action?program=xwzx_jtxw)  
 19⠀⚡	[中国华电](https://www.chd.com.cn "中国华电集团有限公司")⠀	北京	⠀[网站群](https://www.chd.com.cn/site/2/list/e18ba97580df4ab797156323badeeb3a_1.html)	⠀[wb](https://weibo.com/n/中国华电)	⠀[新闻中心](https://www.chd.com.cn/site/2/list/5b05a07f75a0401fa659a2e2959c4916_1.html)  
-20⠀☢️	[国家电投](http://www.spic.com.cn "国家电力投资集团有限公司")⠀	北京	⠀[网站群](http://www.spic.com.cn/2021/tzzgx/zgdl/)	⠀[wb](https://weibo.com/n/国家电投)	⠀[数字博物馆](https://muse.spic.com.cn)中国电力发展史  
+20⠀☢️	[国家电投](http://www.spic.com.cn "国家电力投资集团有限公司")⠀	北京	⠀[网站群](http://www.spic.com.cn/2021/tzzgx/zgdl/)	⠀[wb](https://weibo.com/n/国家电投)	⠀中国电力发展史[数字博物馆](https://muse.spic.com.cn)  
 21⠀🌊	[中国三峡集团](https://www.ctg.com.cn "中国长江三峡集团有限公司")⠀	武汉市	⠀[网站群](https://www.ctg.com.cn/sxjt/jtwzq61/)	⠀[wb](https://weibo.com/n/中国三峡集团)	⠀[三峡出版传媒集团](https://media.ctg.com.cn)  
 22⠀🔥	[国家能源集团](https://www.ceic.com "国家能源投资集团有限责任公司")⠀	北京	⠀[网站群](https://www.ceic.com/gjnyjtww/chnywtx/chnywtx.shtml)	⠀[wb](https://weibo.com/n/国家能源集团之声)	⠀《[清洁能源](https://www.ceic.com/gjnyjtww/chnqkzz/chnqkzz.shtml)》，国能[电商平台](https://www.e-chnenergy.com/)  
-23⠀📶	[中国电信](http://www.chinatelecom.com.cn "中国电信集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国电信)	⠀[网上营业厅](http://www.189.cn)  
-24⠀📶	[中国联通](http://www.chinaunicom.com.cn "中国联合网络通信集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国联通)	  
-25⠀📶	[中国移动](http://www.10086.cn "中国移动通信集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国移动)	  
+23⠀📶	[中国电信](http://www.chinatelecom.com.cn "中国电信集团有限公司")⠀	北京	⠀[网站群](http://www.chinatelecom.com.cn/corp/zzjgcs/)	⠀[wb](https://weibo.com/n/中国电信)	⠀189[网上营业厅](http://www.189.cn)  
+24⠀📶	[中国联通](http://www.chinaunicom.com.cn "中国联合网络通信集团有限公司")⠀	北京	⠀[网站群](http://www.chinaunicom.com.cn/about/structure.html)	⠀[wb](https://weibo.com/n/中国联通)	⠀10010[网上营业厅](https://www.10010.com/)、[A股官网](https://www.chinaunicom-a.com/)、[港股官网](https://www.chinaunicom.com.hk/)  
+25⠀📶	[中国移动](https://www.10086.cn/aboutus/ "中国移动通信集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国移动)	⠀10086[网上营业厅](https://www.10086.cn/)、[关联公司](https://www.10086.cn/zzxx/)  
 26⠀🛰	中国星网	雄安新区	　	　	⠀中国卫星网络集团2021年成立，对标SpaceX星链  
-27⠀✡	[中国电子](http://www.cec.com.cn "中国电子信息产业集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/CEC中国电子)	  
+27⠀✡	[中国电子](https://www.cec.com.cn "中国电子信息产业集团有限公司")⠀	深圳市	　	⠀[wb](https://weibo.com/n/CEC中国电子)	⠀[集团新闻](https://www.cec.com.cn/集团新闻)，19家上市公司，687家成员企业  
 28⠀🚚	[中国一汽](http://www.faw.com.cn "中国第一汽车集团有限公司")⠀	长春市	⠀[网站群](http://www.faw.com.cn/fawcn/373692/hxwz/index.html)	⠀[wb](https://weibo.com/n/中国一汽)	  
 29⠀🚚	[东风公司](http://www.dfmc.com.cn "东风汽车集团有限公司")⠀	武汉市	　	⠀[wb](https://weibo.com/n/东风汽车)	  
 30⠀🏗	[中国一重](http://www.cfhi.com "中国一重集团有限公司")⠀	齐齐哈尔市	　	　	  
@@ -113,7 +113,7 @@
 72⠀🚉	[中国中铁](http://www.crecg.com "中国铁路工程集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国中铁)	  
 73⠀⛑️	[中国铁建](http://www.crcc.cn "中国铁道建筑集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国铁建)	  
 74⠀🛣️	[中交集团](http://www.ccccltd.cn "中国交通建设集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国交建)	  
-75⠀📶	[中国信科](http://www.cict.com "中国信息通信科技集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/信科视界)	  
+75⠀✡	[中国信科](http://www.cict.com "中国信息通信科技集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/信科视界)	  
 76⠀🌾	[中国农发集团](http://www.cnadc.com.cn "中国农业发展集团有限公司")⠀	武汉市	　	　	  
 77⠀🌲	[中林集团](http://www.cfgc.cn "中国林业集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中林集团)	  
 78⠀💊	[国药集团](http://www.sinopharm.com "中国医药集团有限公司")⠀	北京	　	　	  
@@ -168,7 +168,7 @@
 
 
 17	中国华能集团有限公司  
-华能国际600011、内蒙华电600863、新能泰山000720、新能泰山000720、新能泰山000720、新能泰山000720
+中国华能拥有58家二级单位、480余家三级企业，5家上市公司：华能国际600011、内蒙华电600863、新能泰山000720、华能水电600025、华能水电600025
 
 18	中国大唐集团有限公司  
 大唐发电601991、桂冠电力600236、华银电力600744、大唐新能源01798.HK、大唐环境(01272)；控股大唐地产2117.HK
@@ -207,9 +207,13 @@
 　<a href="http://cestri.chnenergy.com.cn" >国家能源集团科学技术研究院有限公司</a>
 　<a href="http://zbkg.chnenergy.com.cn/" >资本控股公司</a>
 
+23	中国电信集团有限公司  
+中国电信集团控股“中国电信股份有限公司”“中国通信服务股份有限公司”“新国脉数字文化股份有限公司”和“北京辰安科技股份有限公司”等上市公司。
 
 
-27	中国电子信息产业集团有限公司：  
+
+27	中国电子信息产业集团有限公司  
+中国电子拥有19家上市公司：
 南京熊猫（600775）、深科技（000021）、长城电脑（000066）、中国软件（600536）、深桑达A（000032）、华东科技（000727）、长城信息（000748）、上海贝岭（600171）、振华科技（000733）、彩虹股份（600707）
 
 
@@ -221,7 +225,7 @@
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/fuwu/yangqi
-	央企股票一览表	Beta v0.2.9	202302
+	央企股票一览表	v0.3.0	202302
 ```
 
 回到首页
