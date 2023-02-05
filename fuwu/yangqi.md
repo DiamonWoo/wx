@@ -26,8 +26,13 @@
 　[央企名录](http://www.sasac.gov.cn/n4422011/n14158800/n14158998/c14159097/content.html) / [2](http://www.sasac.gov.cn/n2588035/n2641579/n2641645/)　截至2022年12月计98家；
 	[信息公开](http://xxgk.sasac.gov.cn:8080/gdnps/pc/index.jsp)
 
-　国资委 [新闻中心](http://www.sasac.gov.cn/n2588020/n2877938/n2879597/)：
-　[新闻发布](http://www.sasac.gov.cn/n2588025/)、官方微博：[国资小新](https://weibo.com/guozixiaoxin) 微博粉丝超500万。
+　国资委 [新闻中心](http://www.sasac.gov.cn/n2588020/n2877938/n2879597/)：[新闻发布](http://www.sasac.gov.cn/n2588025/)
+
+　官方微博：[国资小新](https://weibo.com/guozixiaoxin) 微博粉丝超500万，
+列举的[央企微博]()，
+开启的话题：[##]()
+
+　32个省级[地方国资委](http://www.sasac.gov.cn/n4422011/n17627531/c17633273/content.html) 202208
 
 
 国资委央企名录
@@ -52,14 +57,14 @@
 16⠀⚡	[南方电网](https://www.csg.cn "中国南方电网有限责任公司")⠀	广州市	　	⠀[wb](https://weibo.com/n/南网50Hz)	⠀南网[数字传媒](http://cm.csg.cn/#mtjz)、[南网营业厅](https://95598.csg.cn/)95598  
 17⠀⚡	[中国华能](https://www.chng.com.cn "中国华能集团有限公司")⠀	北京	⠀[网站群](https://www.chng.com.cn/relations.html)	⠀[wb](https://weibo.com/n/中国华能)	⠀《[中国华能](https://www.chng.com.cn/list_dzqk/-/article/Xo6UWeAOetWm/list/23594/)》  
 18⠀⚡	[中国大唐](https://www.china-cdt.com "中国大唐集团有限公司")⠀	北京	⠀[网站群](https://www.china-cdt.com/dtwz/showNewsListForSiteControlAction!showNewsList.action?program=tzzgx)	⠀[wb](https://weibo.com/n/美丽大唐)	⠀[新闻中心](http://www.china-cdt.com/dtwz/yearListForSiteControlAction!yearList.action?program=xwzx_jtxw)  
-19⠀⚡	[中国华电](https://www.chd.com.cn "中国华电集团有限公司")⠀	北京	⠀[网站群](https://www.chd.com.cn/site/2/list/b87052da8ac94affad09200ecceb0279_1.html)	⠀[wb](https://weibo.com/n/中国华电)	⠀[新闻中心](https://www.chd.com.cn/site/2/list/5b05a07f75a0401fa659a2e2959c4916_1.html)  
-20⠀☢️	[国家电投](http://www.spic.com.cn "国家电力投资集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/国家电投)	  
+19⠀⚡	[中国华电](https://www.chd.com.cn "中国华电集团有限公司")⠀	北京	⠀[网站群](https://www.chd.com.cn/site/2/list/e18ba97580df4ab797156323badeeb3a_1.html)	⠀[wb](https://weibo.com/n/中国华电)	⠀[新闻中心](https://www.chd.com.cn/site/2/list/5b05a07f75a0401fa659a2e2959c4916_1.html)  
+20⠀☢️	[国家电投](http://www.spic.com.cn "国家电力投资集团有限公司")⠀	北京	⠀[网站群](http://www.spic.com.cn/2021/tzzgx/zgdl/)	⠀[wb](https://weibo.com/n/国家电投)	⠀[数字博物馆](https://muse.spic.com.cn)中国电力发展史  
 21⠀🌊	[中国三峡集团](https://www.ctg.com.cn "中国长江三峡集团有限公司")⠀	武汉市	⠀[网站群](https://www.ctg.com.cn/sxjt/jtwzq61/)	⠀[wb](https://weibo.com/n/中国三峡集团)	⠀[三峡出版传媒集团](https://media.ctg.com.cn)  
-22⠀🔥	[国家能源集团](http://www.ceic.com "国家能源投资集团有限责任公司")⠀	北京	　	⠀[wb](https://weibo.com/n/国家能源集团之声)	  
+22⠀🔥	[国家能源集团](https://www.ceic.com "国家能源投资集团有限责任公司")⠀	北京	⠀[网站群](https://www.ceic.com/gjnyjtww/chnywtx/chnywtx.shtml)	⠀[wb](https://weibo.com/n/国家能源集团之声)	⠀《[清洁能源](https://www.ceic.com/gjnyjtww/chnqkzz/chnqkzz.shtml)》，国能[电商平台](https://www.e-chnenergy.com/)  
 23⠀📶	[中国电信](http://www.chinatelecom.com.cn "中国电信集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国电信)	⠀[网上营业厅](http://www.189.cn)  
 24⠀📶	[中国联通](http://www.chinaunicom.com.cn "中国联合网络通信集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国联通)	  
 25⠀📶	[中国移动](http://www.10086.cn "中国移动通信集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国移动)	  
-26⠀📶	[中国星网]( "中国卫星网络集团有限公司")⠀	雄安新区	　	　	  
+26⠀🛰	中国星网	雄安新区	　	　	⠀中国卫星网络集团2021年成立，对标SpaceX星链  
 27⠀✡	[中国电子](http://www.cec.com.cn "中国电子信息产业集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/CEC中国电子)	  
 28⠀🚚	[中国一汽](http://www.faw.com.cn "中国第一汽车集团有限公司")⠀	长春市	⠀[网站群](http://www.faw.com.cn/fawcn/373692/hxwz/index.html)	⠀[wb](https://weibo.com/n/中国一汽)	  
 29⠀🚚	[东风公司](http://www.dfmc.com.cn "东风汽车集团有限公司")⠀	武汉市	　	⠀[wb](https://weibo.com/n/东风汽车)	  
@@ -69,7 +74,7 @@
 33⠀✡	[东方电气集团](http://www.dongfang.com "中国东方电气集团有限公司")⠀	成都市	　	⠀[wb](https://weibo.com/n/东方电气)	  
 34⠀🏭	[鞍钢](http://www.ansteel.cn "鞍钢集团有限公司")⠀	鞍山市	　	⠀[wb](https://weibo.com/n/鞍钢集团)	  
 35⠀🏭	[中国宝武](http://www.baowugroup.com "中国宝武钢铁集团有限公司")⠀	上海市	　	⠀[wb](https://weibo.com/n/友爱的宝武)	  
-36⠀🧲	[中矿资源]( "中国矿产资源集团有限公司")⠀	保定市	　	　	⠀2022年7月成立  
+36⠀🧲	中矿资源	保定市	　	　	⠀2022年7月成立  
 37⠀🏭	[中铝集团](https://www.chinalco.com.cn "中国铝业集团有限公司")⠀	北京	　	　	  
 38⠀🚢	[中国远洋海运](https://www.coscoshipping.com "中国远洋海运集团有限公司")⠀	上海市	⠀[网站群](https://www.coscoshipping.com/col/col6879/)	⠀[wb](https://weibo.com/n/中国远洋海运杂志社)	⠀[中国远洋海运报](https://newspaper.coscoshipping.com/)📰  
 39⠀👯	[中航集团](http://www.airchinagroup.com "中国航空集团有限公司")⠀	北京	⠀[网站群](http://www.airchinagroup.com/cnah/zhgl/cyqy/gh/)	⠀[wb](https://weibo.com/n/中国国际航空)	⠀[中航博物馆](http://www.airchinagroup.com/cnah/zhbwg/)  
@@ -128,8 +133,8 @@
 92⠀📼	[华录集团](http://www.hualu.com.cn "中国华录集团有限公司")⠀	大连市	　	　	  
 93⠀🎠	[华侨城集团](https://www.chinaOCT.com "华侨城集团有限公司")⠀	深圳市	⠀[网站群](https://www.chinaOCT.com/hqc/gyhqc/hqczzg/)	⠀[wb](https://weibo.com/n/OCT华侨城)	⠀[上市公司名单](https://www.chinaoct.com/hqc/gyhqc/tzzzq/)  
 94⠀🛢️	[南光集团](http://www.namkwong.com.mo "南光（集团）有限公司／中国南光集团有限公司")⠀	中国澳门	⠀[网站群](http://www.namkwong.com.mo/col/col1887/)	　	  
-95⠀✡	[中国电气装备]( "中国电气装备集团有限公司")⠀	上海市	　	　	  
-96⠀📦	[中国物流]( "中国物流集团有限公司")⠀	北京	　	　	  
+95⠀✡	中国电气装备	上海市	　	　	  
+96⠀📦	中国物流	北京	　	　	  
 97⠀💰	[中国国新](https://www.crhc.cn "中国国新控股有限责任公司")⠀	北京	⠀[网站群](https://www.crhc.cn2010/2016)	⠀[wb](https://weibo.com/n/中国国新)	  
 98⠀🧪	[中国中检](http://www.ccic.com "中国检验认证（集团）有限公司")⠀	北京	　	　	  
 
@@ -169,6 +174,42 @@
 大唐发电601991、桂冠电力600236、华银电力600744、大唐新能源01798.HK、大唐环境(01272)；控股大唐地产2117.HK
 
 
+20	国家电力投资集团有限公司  
+中国电力02380 HK、上海电力600021 SH、远达环保600292 SH、吉电股份000875 SZ、东方能源000958 SZ、露天煤业002128 SZ。
+
+22	国家能源投资集团有限责任公司  
+中国神华：601088 SH
+<a href="http://www.shenhuachina.com" >中国神华</a>
+<a href="http://www.600795.com.cn/" >国电电力发展股份有限公司</a>
+<a href="http://www.clypg.com.cn/" >龙源电力集团股份有限公司</a>
+<a href="http://www.khjt.com.cn/" >国电科技环保集团股份有限公司</a>
+<a href="http://www.cydl.com.cn/" >国电长源电力股份有限公司</a>
+<a href="http://pzmy.chnenergy.com.cn" >内蒙古平庄煤业（集团）有限责任公司</a>
+<a href="http://sdmt.shenhuagroup.com.cn" >神东煤炭</a>
+<a href="http://xsjt.shenhuagroup.com.cn" >煤炭经营公司</a>
+<a href="http://nxmy.chnenergy.com.cn/" >宁夏煤业公司</a>
+<a href="http://znjt.shenhuagroup.com.cn" >准能集团</a>
+<a href="http://whny.shenhuagroup.com.cn" >乌海能源公司</a>
+<a href="http://sxny.shenhuagroup.com.cn" >新疆能源公司</a>
+<a href="http://ysny.shenhuagroup.com.cn" >榆神能源公司</a>
+<a href="http://hjny.shenhuagroup.com.cn" >杭锦能源公司</a>
+新街能源公司
+<a href="http://ghtz.shenhuagroup.com.cn" >国华投资公司</a>
+<a href="http://bstl.shenhuagroup.com.cn" >包神铁路集团</a>
+<a href="http://shtl.shenhuagroup.com.cn" >朔黄铁路发展公司</a>
+<a href="http://cesz.ceic.com" >铁路装备公司</a>
+<a href="http://hhgw.shenhuagroup.com.cn" >黄骅港务公司</a>
+<a href="http://tjmmt.shenhuagroup.com.cn" >天津港务</a>
+<a href="http://zhmmt.shenhuagroup.com.cn" >珠海港务公司</a>
+<a href="http://mzyhg.shenhuagroup.com.cn" >煤制油化工公司</a>
+<a href="http://nmgmjh.shenhuagroup.com.cn" >煤焦化公司</a>
+<a href="http://cwgs.shenhuagroup.com.cn" >财务公司</a>
+<a href="http://gcgs.shenhuagroup.com.cn" >国际工程</a>
+<a href="http://cestri.chnenergy.com.cn" >国家能源集团科学技术研究院有限公司</a>
+<a href="http://zbkg.chnenergy.com.cn/" >资本控股公司</a>
+
+
+
 27	中国电子信息产业集团有限公司：  
 南京熊猫（600775）、深科技（000021）、长城电脑（000066）、中国软件（600536）、深桑达A（000032）、华东科技（000727）、长城信息（000748）、上海贝岭（600171）、振华科技（000733）、彩虹股份（600707）
 
@@ -176,19 +217,12 @@
 
 
 
-地方国资委网站
---------------
-32个省级单位
-
-　　[地方国资委](http://www.sasac.gov.cn/n4422011/n17627531/c17633273/content.html) 202208
-
-
 
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/fuwu/yangqi
-	央企股票一览表	Beta v0.2.7	202302
+	央企股票一览表	Beta v0.2.8	202302
 ```
 
 回到首页
