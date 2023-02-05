@@ -20,12 +20,12 @@
 国资委常用网址
 --------------
 
-　国务院 [国资委 SASAC](http://www.sasac.gov.cn)官网、[机构概况](http://www.sasac.gov.cn/n2588020/index.html)  
+　[SASAC 国资委](http://www.sasac.gov.cn)官网：
+	[机构概况](http://www.sasac.gov.cn/n2588020/index.html)、
+	[信息公开](http://xxgk.sasac.gov.cn:8080/gdnps/pc/index.jsp)、
+	[央企名录](http://www.sasac.gov.cn/n4422011/n14158800/n14158998/c14159097/content.html) / [2](http://www.sasac.gov.cn/n2588035/n2641579/n2641645/)　截至2022年12月计98家  
 　国有资产监督管理委员会（正部级），为国务院直属特设机构，其党委履行党中央规定的职责。  
 　State-owned Assets Supervision and Administration Commission of the State Council
-
-　[央企名录](http://www.sasac.gov.cn/n4422011/n14158800/n14158998/c14159097/content.html) / [2](http://www.sasac.gov.cn/n2588035/n2641579/n2641645/)　截至2022年12月计98家；
-	[信息公开](http://xxgk.sasac.gov.cn:8080/gdnps/pc/index.jsp)
 
 　国资委 [新闻中心](http://www.sasac.gov.cn/n2588020/n2877938/n2879597/)：[新闻发布](http://www.sasac.gov.cn/n2588025/)  
 　官方微博：[国资小新](https://weibo.com/guozixiaoxin) 微博粉丝超500万，
