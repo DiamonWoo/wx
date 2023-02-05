@@ -1,4 +1,4 @@
-﻿央企股票一览表 📈
+央企股票一览表 📈
 =================
 大萌　	2023
 <base target="_blank">
@@ -14,6 +14,7 @@
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/央企股票一览表
 </div>
+简目：　常用网址、央企名录、上市公司名单
 
 
 国资委常用网址
@@ -26,11 +27,10 @@
 　[央企名录](http://www.sasac.gov.cn/n4422011/n14158800/n14158998/c14159097/content.html) / [2](http://www.sasac.gov.cn/n2588035/n2641579/n2641645/)　截至2022年12月计98家；
 	[信息公开](http://xxgk.sasac.gov.cn:8080/gdnps/pc/index.jsp)
 
-　国资委 [新闻中心](http://www.sasac.gov.cn/n2588020/n2877938/n2879597/)：[新闻发布](http://www.sasac.gov.cn/n2588025/)
-
+　国资委 [新闻中心](http://www.sasac.gov.cn/n2588020/n2877938/n2879597/)：[新闻发布](http://www.sasac.gov.cn/n2588025/)  
 　官方微博：[国资小新](https://weibo.com/guozixiaoxin) 微博粉丝超500万，
-列举的[央企微博]()，
-开启的话题：[##]()
+列举的[央企微博](https://weibo.com/2752396553/Mr2B1DujG)，
+主持的话题：[#你们尽管想象我们负责实现#](https://s.weibo.com/weibo?q=#你们尽管想象我们负责实现#)
 
 　32个省级[地方国资委](http://www.sasac.gov.cn/n4422011/n17627531/c17633273/content.html) 202208
 
@@ -138,12 +138,12 @@
 97⠀💰	[中国国新](https://www.crhc.cn "中国国新控股有限责任公司")⠀	北京	⠀[网站群](https://www.crhc.cn2010/2016)	⠀[wb](https://weibo.com/n/中国国新)	  
 98⠀🧪	[中国中检](http://www.ccic.com "中国检验认证（集团）有限公司")⠀	北京	　	　	  
 
-截至2022年12月底计98家。
+截至2022年12月底计98家，正在收录。
 
 
 央企上市公司名单
 ----------------
-约300支股票
+300多支股票
 
 　　（正在搜寻资料，欢迎[提供线索](https://laosheng.top/author/helpme.txt)）
 
@@ -178,35 +178,34 @@
 中国电力02380 HK、上海电力600021 SH、远达环保600292 SH、吉电股份000875 SZ、东方能源000958 SZ、露天煤业002128 SZ。
 
 22	国家能源投资集团有限责任公司  
-中国神华：601088 SH
-<a href="http://www.shenhuachina.com" >中国神华</a>
-<a href="http://www.600795.com.cn/" >国电电力发展股份有限公司</a>
-<a href="http://www.clypg.com.cn/" >龙源电力集团股份有限公司</a>
-<a href="http://www.khjt.com.cn/" >国电科技环保集团股份有限公司</a>
-<a href="http://www.cydl.com.cn/" >国电长源电力股份有限公司</a>
-<a href="http://pzmy.chnenergy.com.cn" >内蒙古平庄煤业（集团）有限责任公司</a>
-<a href="http://sdmt.shenhuagroup.com.cn" >神东煤炭</a>
-<a href="http://xsjt.shenhuagroup.com.cn" >煤炭经营公司</a>
-<a href="http://nxmy.chnenergy.com.cn/" >宁夏煤业公司</a>
-<a href="http://znjt.shenhuagroup.com.cn" >准能集团</a>
-<a href="http://whny.shenhuagroup.com.cn" >乌海能源公司</a>
-<a href="http://sxny.shenhuagroup.com.cn" >新疆能源公司</a>
-<a href="http://ysny.shenhuagroup.com.cn" >榆神能源公司</a>
-<a href="http://hjny.shenhuagroup.com.cn" >杭锦能源公司</a>
-新街能源公司
-<a href="http://ghtz.shenhuagroup.com.cn" >国华投资公司</a>
-<a href="http://bstl.shenhuagroup.com.cn" >包神铁路集团</a>
-<a href="http://shtl.shenhuagroup.com.cn" >朔黄铁路发展公司</a>
-<a href="http://cesz.ceic.com" >铁路装备公司</a>
-<a href="http://hhgw.shenhuagroup.com.cn" >黄骅港务公司</a>
-<a href="http://tjmmt.shenhuagroup.com.cn" >天津港务</a>
-<a href="http://zhmmt.shenhuagroup.com.cn" >珠海港务公司</a>
-<a href="http://mzyhg.shenhuagroup.com.cn" >煤制油化工公司</a>
-<a href="http://nmgmjh.shenhuagroup.com.cn" >煤焦化公司</a>
-<a href="http://cwgs.shenhuagroup.com.cn" >财务公司</a>
-<a href="http://gcgs.shenhuagroup.com.cn" >国际工程</a>
-<a href="http://cestri.chnenergy.com.cn" >国家能源集团科学技术研究院有限公司</a>
-<a href="http://zbkg.chnenergy.com.cn/" >资本控股公司</a>
+　<a href="http://www.shenhuachina.com" >中国神华</a>601088 SH
+　<a href="http://www.600795.com.cn/" >国电电力发展股份有限公司</a>
+　<a href="http://www.clypg.com.cn/" >龙源电力集团股份有限公司</a>
+　<a href="http://www.khjt.com.cn/" >国电科技环保集团股份有限公司</a>
+　<a href="http://www.cydl.com.cn/" >国电长源电力股份有限公司</a>
+　<a href="http://pzmy.chnenergy.com.cn" >内蒙古平庄煤业（集团）有限责任公司</a>
+　<a href="http://sdmt.shenhuagroup.com.cn" >神东煤炭</a>
+　<a href="http://xsjt.shenhuagroup.com.cn" >煤炭经营公司</a>
+　<a href="http://nxmy.chnenergy.com.cn/" >宁夏煤业公司</a>
+　<a href="http://znjt.shenhuagroup.com.cn" >准能集团</a>
+　<a href="http://whny.shenhuagroup.com.cn" >乌海能源公司</a>
+　<a href="http://sxny.shenhuagroup.com.cn" >新疆能源公司</a>
+　<a href="http://ysny.shenhuagroup.com.cn" >榆神能源公司</a>
+　<a href="http://hjny.shenhuagroup.com.cn" >杭锦能源公司</a>
+　新街能源公司
+　<a href="http://ghtz.shenhuagroup.com.cn" >国华投资公司</a>
+　<a href="http://bstl.shenhuagroup.com.cn" >包神铁路集团</a>
+　<a href="http://shtl.shenhuagroup.com.cn" >朔黄铁路发展公司</a>
+　<a href="http://cesz.ceic.com" >铁路装备公司</a>
+　<a href="http://hhgw.shenhuagroup.com.cn" >黄骅港务公司</a>
+　<a href="http://tjmmt.shenhuagroup.com.cn" >天津港务</a>
+　<a href="http://zhmmt.shenhuagroup.com.cn" >珠海港务公司</a>
+　<a href="http://mzyhg.shenhuagroup.com.cn" >煤制油化工公司</a>
+　<a href="http://nmgmjh.shenhuagroup.com.cn" >煤焦化公司</a>
+　<a href="http://cwgs.shenhuagroup.com.cn" >财务公司</a>
+　<a href="http://gcgs.shenhuagroup.com.cn" >国际工程</a>
+　<a href="http://cestri.chnenergy.com.cn" >国家能源集团科学技术研究院有限公司</a>
+　<a href="http://zbkg.chnenergy.com.cn/" >资本控股公司</a>
 
 
 
@@ -222,7 +221,7 @@
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/fuwu/yangqi
-	央企股票一览表	Beta v0.2.8	202302
+	央企股票一览表	Beta v0.2.9	202302
 ```
 
 回到首页
