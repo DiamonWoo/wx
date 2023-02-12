@@ -39,104 +39,104 @@
 --------------
 按国资委官网排序
 
-1⠀[中国核工业集团有限公司](http://www.cnnc.com.cn)⠀北京	⠀[网站群](http://www.cnnc.com.cn/cnnc/xxgk/gkml/qyjbxx/cydw55/index.html)	⠀5支股票 [⏬](#gp1)<br>	☢️⠀中核集团	⠀[wb](https://weibo.com/cnnc#中核集团)	⠀👥[报刊订阅](https://www.cnnc.com.cn/cnnc/xwzx65/bzqk/index.html)  
-2⠀[中国航天科技集团有限公司](http://www.spacechina.com)⠀北京	⠀[网站群](http://www.spacechina.com/n25/n150/)	⠀14支股票 [⏬](#gp2)<br>	🛰⠀航天科技	⠀[wb](https://weibo.com/n/中国航天科技集团)	⠀[航天科技国际交流](http://www.htgjjl.com/)：[期刊平台](http://www.zghtqk.com/SKY/)、[中国航天报](http://www.csn.spacechina.com)/[📰](http://szb.htgjjl.com/)  
-3⠀[中国航天科工集团有限公司](http://www.casic.com.cn)⠀北京	⠀[网站群](http://www.casic.com.cn/n12382749/)	⠀7支股票 [⏬](#gp3)<br>	🚀⠀航天科工	⠀[wb](https://weibo.com/n/中国航天科工)	⠀[上市公司](http://www.casic.com.cn/n12377284/n12377988/)  
-4⠀[中国航空工业集团有限公司](https://www.avic.com.cn)⠀北京	⠀[网站群](https://www.avic.com.cn/sycd/gywm/ssgs/)	⠀19支股票 [⏬](#gp4)<br>	✈️⠀航空工业集团	⠀[wb](https://weibo.com/n/航空工业)	⠀CAN[中国航空报](https://www.cannews.com.cn/) /[📰](http://ep.cannews.com.cn/publish/zghkb7)  
-5⠀[中国船舶集团有限公司](http://www.csic.com.cn)⠀上海市	⠀[网站群](http://www.csic.com.cn/n11/)	⠀6支股票 [⏬](#gp5)<br>	🚢⠀中国船舶	⠀[wb](https://weibo.com/n/中国船舶)	⠀中国造船 等[出版物](http://www.csic.com.cn/n5/n116/)，中国船舶报/[📰](http://zgcbb.cnepaper.com/zgcbb/)  
-6⠀[中国兵器工业集团有限公司](http://www.norincogroup.com.cn)⠀北京	⠀[网站群](http://www.norincogroup.com.cn/col/col193/)	⠀12支股票 [⏬](#gp6)<br>	💥⠀兵器工业集团	⠀[wb](https://weibo.com/n/兵工之声)	⠀兵器知识 等[兵工刊物](http://www.norincogroup.com.cn/col/col92/)  
-7⠀[中国兵器装备集团有限公司](https://www.csgc.com.cn)⠀北京	⠀[网站群](https://www.csgc.com.cn/1073.html)	⠀8支股票 [⏬](#gp7)<br>	💥⠀兵器装备集团	⠀[wb](https://weibo.com/n/中国兵器装备集团)	⠀[期刊杂志](https://www.csgc.com.cn/1090.html)/中国兵器报/[wb](https://weibo.com/zgbqb)  
-8⠀[中国电子科技集团有限公司](http://www.cetc.com.cn)⠀北京	⠀[网站群](http://www.cetc.com.cn/zgdk/1592544/1592565/index.html)	⠀13支股票 [⏬](#gp8)<br>	✡⠀中国电科	⠀[wb](https://weibo.com/n/中国电科)	⠀[中国电科](http://www.cetc.com.cn/zgdk/1592571/1592919/index.html)报  
-9⠀[中国航空发动机集团有限公司](https://www.aecc.cn)⠀北京	⠀[网站群](https://www.aecc.cn/sxgk/qyjbsx/)	⠀3支股票 [⏬](#gp9)<br>	🚀⠀中国航发	　	⠀下辖27家直属单位、3家主板上市公司  
-10⠀[中国融通资产管理集团有限公司](https://www.crtamg.com.cn)⠀北京	⠀[网站群](https://www.crtamg.com.cn/ywly/zykf/)	⠀0支股票 [⏬](#gp10)<br>	💰⠀中国融通集团	　	⠀👥军委剥离的商业资产，[组织架构](https://www.crtamg.com.cn/gyrt/zzjg/)  
-11⠀[中国石油天然气集团有限公司](http://www.cnpc.com.cn)⠀北京	⠀[网站群](http://www.cnpc.com.cn/cnpc/sywq/sywq_index.shtml)	⠀4支股票 [⏬](#gp11)<br>	⛽⠀中国石油	⠀[wb](https://weibo.com/n/中国石油)	⠀[中国石油报](http://news.cnpc.com.cn)/[📰](http://news.cnpc.com.cn/epaper/zgsyb/)，《[石油知识](http://www.cnpc.com.cn/syzs/dzqk/dzqk_index.shtml)》；956100📠，[国际油价](http://oilinfo.cnpc.com.cn/ypxx/gjyj/gjyj.shtml)  
-12⠀[中国石油化工集团有限公司](http://www.sinopecgroup.com)⠀北京	⠀[网站群](http://www.sinopecgroup.com/group/gywm/wzq.shtml)	⠀8支股票 [⏬](#gp12)<br>	⛽⠀中国石化	⠀[wb](https://weibo.com/n/中国石化)	⠀[中国石化报](http://www.sinopecnews.com.cn/)/[📰](http://enews.sinopecnews.com.cn/zgshb/)  
-13⠀[中国海洋石油集团有限公司](https://www.cnooc.com.cn)⠀北京	⠀[网站群](https://www.cnooc.com.cn/col/col641/)	⠀5支股票 [⏬](#gp13)<br>	⛽⠀中国海油	⠀[wb](https://weibo.com/n/图说海油)	⠀[中海油出版物](https://www.cnooc.com.cn/col/col50901/)；[海油螺号](https://weibo.com/cnoocnews)  
-14⠀[国家石油天然气管网集团有限公司](https://www.pipechina.com.cn)⠀北京	　	⠀0支股票 [⏬](#gp14)<br>	🗜️⠀国家管网集团	　	⠀[集团要闻](https://www.pipechina.com.cn/xwdt/jtyw.html)，微博：[北方管道](https://weibo.com/6079188491)、[东部储运](https://weibo.com/gdcyxwzx)  
-15⠀[国家电网有限公司](http://www.sgcc.com.cn)⠀北京	⠀[网站群](http://www.sgcc.com.cn/html/sgcc_main/col2017012538/column_2017012538_1.shtml)	⠀7支股票 [⏬](#gp15)<br>	⚡⠀国家电网	⠀[wb](https://weibo.com/n/国家电网?电网头条)	⠀[英大传媒](http://www.indaa.com.cn)：国家电网报/[📰](https://epaper.sgcctop.com/)/[wb](https://weibo.com/stategridnews)  
-16⠀[中国南方电网有限责任公司](https://www.csg.cn)⠀广州市	　	⠀3支股票 [⏬](#gp16)<br>	⚡⠀南方电网	⠀[wb](https://weibo.com/n/南网50Hz)	⠀南网[数字传媒](http://cm.csg.cn/#mtjz)、[南网营业厅](https://95598.csg.cn/)95598  
-17⠀[中国华能集团有限公司](https://www.chng.com.cn)⠀北京	⠀[网站群](https://www.chng.com.cn/relations.html)	⠀6支股票 [⏬](#gp17)<br>	⚡⠀中国华能	⠀[wb](https://weibo.com/n/中国华能)	⠀《[中国华能](https://www.chng.com.cn/list_dzqk/-/article/Xo6UWeAOetWm/list/23594/)》  
-18⠀[中国大唐集团有限公司](https://www.china-cdt.com)⠀北京	⠀[网站群](https://www.china-cdt.com/dtwz/showNewsListForSiteControlAction!showNewsList.action?program=tzzgx)	⠀5支股票 [⏬](#gp18)<br>	⚡⠀中国大唐	⠀[wb](https://weibo.com/n/美丽大唐)	⠀[新闻中心](http://www.china-cdt.com/dtwz/yearListForSiteControlAction!yearList.action?program=xwzx_jtxw)  
-19⠀[中国华电集团有限公司](https://www.chd.com.cn)⠀北京	⠀[网站群](https://www.chd.com.cn/site/2/list/e18ba97580df4ab797156323badeeb3a_1.html)	⠀6支股票 [⏬](#gp19)<br>	⚡⠀中国华电	⠀[wb](https://weibo.com/n/中国华电)	⠀[新闻中心](https://www.chd.com.cn/site/2/list/5b05a07f75a0401fa659a2e2959c4916_1.html)  
-20⠀[国家电力投资集团有限公司](http://www.spic.com.cn)⠀北京	⠀[网站群](http://www.spic.com.cn/2021/tzzgx/zgdl/)	⠀7支股票 [⏬](#gp20)<br>	☢️⠀国家电投	⠀[wb](https://weibo.com/n/国家电投)	⠀中国电力发展史[数字博物馆](https://muse.spic.com.cn)  
-21⠀[中国长江三峡集团有限公司](https://www.ctg.com.cn)⠀武汉市	⠀[网站群](https://www.ctg.com.cn/sxjt/jtwzq61/)	⠀3支股票 [⏬](#gp21)<br>	🌊⠀中国三峡集团	⠀[wb](https://weibo.com/n/中国三峡集团)	⠀[三峡出版传媒集团](https://media.ctg.com.cn)  
-22⠀[国家能源投资集团有限责任公司](https://www.ceic.com)⠀北京	⠀[网站群](https://www.ceic.com/gjnyjtww/chnywtx/chnywtx.shtml)	⠀8支股票 [⏬](#gp22)<br>	🔥⠀国家能源集团	⠀[wb](https://weibo.com/n/国家能源集团之声)	⠀《[清洁能源](https://www.ceic.com/gjnyjtww/chnqkzz/chnqkzz.shtml)》，国能[电商平台](https://www.e-chnenergy.com/)  
-23⠀[中国电信集团有限公司](http://www.chinatelecom.com.cn)⠀北京	⠀[网站群](http://www.chinatelecom.com.cn/corp/zzjgcs/)	⠀3支股票 [⏬](#gp23)<br>	📶⠀中国电信	⠀[wb](https://weibo.com/n/中国电信)	⠀189[网上营业厅](http://www.189.cn)  
-24⠀[中国联合网络通信集团有限公司](http://www.chinaunicom.com.cn)⠀北京	⠀[网站群](http://www.chinaunicom.com.cn/about/structure.html)	⠀1支股票 [⏬](#gp24)<br>	📶⠀中国联通	⠀[wb](https://weibo.com/n/中国联通)	⠀10010[网上营业厅](https://www.10010.com/)、[A股官网](https://www.chinaunicom-a.com/)、[港股官网](https://www.chinaunicom.com.hk/)  
-25⠀[中国移动通信集团有限公司](https://www.10086.cn/aboutus/)⠀北京	　	⠀1支股票 [⏬](#gp25)<br>	📶⠀中国移动	⠀[wb](https://weibo.com/n/中国移动)	⠀10086[网上营业厅](https://www.10086.cn/)、[关联公司](https://www.10086.cn/zzxx/)  
-26⠀[中国卫星网络集团有限公司]()⠀雄安新区	　	⠀0支股票 [⏬](#gp26)<br>	🛰⠀中国星网	　	⠀中国卫星网络集团2021年成立，对标SpaceX星链  
-27⠀[中国电子信息产业集团有限公司](https://www.cec.com.cn)⠀深圳市	　	⠀12支股票 [⏬](#gp27)<br>	✡⠀中国电子	⠀[wb](https://weibo.com/n/CEC中国电子)	⠀[集团新闻](https://www.cec.com.cn/集团新闻)，19家上市公司，687家成员企业  
-28⠀[中国第一汽车集团有限公司](https://www.faw.com.cn)⠀长春市	⠀[网站群](https://www.faw.com.cn/fawcn/373692/hxwz/index.html)	⠀3支股票 [⏬](#gp28)<br>	🚚⠀中国一汽	⠀[wb](https://weibo.com/n/中国一汽)	⠀[新闻中心](http://www.faw.com.cn/fawcn/373694/373706/index.html)，解放/东风/红旗  
-29⠀[东风汽车集团有限公司](https://www.dfmc.com.cn)⠀武汉市	⠀[网站群](https://www.dfmc.com.cn/zoujindf/links.html)	⠀4支股票 [⏬](#gp29)<br>	🚚⠀东风公司	⠀[wb](https://weibo.com/n/东风汽车)	⠀[新闻中心](https://www.dfmc.com.cn/news/qiyexinwen.html)  
-30⠀[中国一重集团有限公司](https://www.cfhi.com)⠀齐齐哈尔市	⠀[网站群](https://www.cfhi.com/yizhonggroup/gywm8/qybj/flej/yzjthljzgyxgs/)	⠀1支股票 [⏬](#gp30)<br>	🏗⠀中国一重	　	⠀中国第一重型机械  
-31⠀[中国机械工业集团有限公司](http://www.sinomach.com.cn)⠀北京	⠀[网站群](http://www.sinomach.com.cn/gjjtwzq/)	⠀13支股票 [⏬](#gp31)<br>	🏗⠀国机集团	⠀[wb](https://weibo.com/n/中机建设集团)	⠀[报刊媒体](http://www.sinomach.com.cn/xwzx/gjmt/zgsmt/)/[第一工程机械网](https://www.d1cm.com)  
-32⠀[哈尔滨电气集团有限公司](https://www.harbin-electric.com)⠀哈尔滨市	⠀[网站群](https://www.harbin-electric.com/company4.asp)	⠀2支股票 [⏬](#gp32)<br>	⚡⠀哈电集团	　	⠀H股[哈尔滨电气](https://www.hpec.com/)  
-33⠀[中国东方电气集团有限公司](https://www.dongfang.com)⠀成都市	⠀[网站群](https://www.dongfang.com/ywbt/ywfb.htm)	⠀2支股票 [⏬](#gp33)<br>	⚡⠀东方电气集团	⠀[wb](https://weibo.com/n/东方电气)	⠀六电并举，沪港上市[东方电气](http://www.dec-ltd.cn/)  
-34⠀[鞍钢集团有限公司](http://www.ansteel.cn)⠀鞍山市	　	⠀3支股票 [⏬](#gp34)<br>	🏭⠀鞍钢	⠀[wb](https://weibo.com/n/鞍钢集团)	  
-35⠀[中国宝武钢铁集团有限公司](http://www.baowugroup.com)⠀上海市	　	⠀12支股票 [⏬](#gp35)<br>	🏭⠀中国宝武	⠀[wb](https://weibo.com/n/友爱的宝武)	  
-36⠀[中国矿产资源集团有限公司]()⠀保定市	　	⠀0支股票 [⏬](#gp36)<br>	🧲⠀中矿资源	　	⠀2022年7月成立  
-37⠀[中国铝业集团有限公司](https://www.chinalco.com.cn)⠀北京	　	⠀4支股票 [⏬](#gp37)<br>	🏭⠀中铝集团	　	  
-38⠀[中国远洋海运集团有限公司](https://www.coscoshipping.com)⠀上海市	⠀[网站群](https://www.coscoshipping.com/col/col6879/)	⠀5支股票 [⏬](#gp38)<br>	🚢⠀中国远洋海运	⠀[wb](https://weibo.com/n/中国远洋海运杂志社)	⠀[中国远洋海运报](https://newspaper.coscoshipping.com/)📰  
-39⠀[中国航空集团有限公司](http://www.airchinagroup.com)⠀北京	⠀[网站群](http://www.airchinagroup.com/cnah/zhgl/cyqy/gh/)	⠀1支股票 [⏬](#gp39)<br>	👯⠀中航集团	⠀[wb](https://weibo.com/n/中国国际航空)	⠀[中航博物馆](http://www.airchinagroup.com/cnah/zhbwg/)  
-40⠀[中国东方航空集团有限公司](http://www.ceair.com)⠀上海市	　	⠀1支股票 [⏬](#gp40)<br>	👯⠀中国东航	⠀[wb](https://weibo.com/n/中国东方航空)	  
-41⠀[中国南方航空集团有限公司](http://www.csair.cn)⠀广州市	　	⠀1支股票 [⏬](#gp41)<br>	👯⠀南航集团	⠀[wb](https://weibo.com/n/中国南方航空)	  
-42⠀[中国中化控股有限责任公司](http://www.sinochem.com)⠀雄安新区	　	⠀14支股票 [⏬](#gp42)<br>	⚗️⠀中国中化	⠀[wb](https://weibo.com/n/中国中化)	  
-43⠀[中粮集团有限公司](http://www.cofco.com)⠀北京	　	⠀14支股票 [⏬](#gp43)<br>	🌾⠀中粮集团	⠀[wb](https://weibo.com/n/中粮COFCO)	  
-44⠀[中国五矿集团有限公司](http://www.minmetals.com.cn)⠀北京	　	⠀6支股票 [⏬](#gp44)<br>	🧲⠀中国五矿	⠀[wb](https://weibo.com/n/中国五矿)	  
-45⠀[中国通用技术(集团)控股有限责任公司](http://www.gt.cn)⠀北京	⠀[网站群](http://www.gt.cn/hxzy/)	⠀4支股票 [⏬](#gp45)<br>	✡⠀通用技术集团	⠀[wb](https://weibo.com/n/通用技术)	⠀材料、医疗、装备  
-46⠀[中国建筑集团有限公司](http://www.cscec.com)⠀北京	　	⠀8支股票 [⏬](#gp46)<br>	⛑️⠀中国建筑	⠀[wb](https://weibo.com/n/中国建筑)	  
-47⠀[中国储备粮管理集团有限公司](http://www.sinograin.com.cn)⠀北京	　	⠀0支股票 [⏬](#gp47)<br>	🌾⠀中储粮集团	⠀[wb](https://weibo.com/n/中储粮集团)	  
-48⠀[中国南水北调集团有限公司](http://www.csnwd.com.cn)⠀北京	　	⠀0支股票 [⏬](#gp48)<br>	🌊⠀南水北调集团	　	⠀发言人表中没有  
-49⠀[国家开发投资集团有限公司](http://www.sdic.com.cn)⠀北京	　	⠀8支股票 [⏬](#gp49)<br>	💰⠀国投	⠀[wb](https://weibo.com/n/国投集团)	  
-50⠀[招商局集团有限公司](http://www.cmhk.com)⠀北京	　	⠀9支股票 [⏬](#gp50)<br>	💰⠀招商局集团	　	  
-51⠀[华润(集团)有限公司](https://www.crc.com.hk)⠀深圳市	⠀[网站群](https://www.crc.com.hk/other/group/)	⠀13支股票 [⏬](#gp51)<br>	🔥⠀华润集团	⠀[wb](https://weibo.com/n/华润通)	⠀《[华润](http://crchat.crc.com.cn/magazine/)》，[上市公司](https://www.crc.com.hk/IR/stock/indirect/)名单  
-52⠀[中国旅游集团有限公司／香港中旅(集团)有限公司](https://www.ctg.cn)⠀中国香港	　	⠀2支股票 [⏬](#gp52)<br>	🎠⠀中国旅游集团	　	  
-53⠀[中国商用飞机有限责任公司](http://www.comac.cc)⠀北京	　	⠀0支股票 [⏬](#gp53)<br>	✈️⠀中国商飞	⠀[wb](https://weibo.com/n/中国商飞)	  
-54⠀[中国节能环保集团有限公司](http://www.cecep.cn)⠀北京	　	⠀6支股票 [⏬](#gp54)<br>	🌿⠀中国节能	　	⠀👥军委总后新时代2010并入  
-55⠀[中国国际工程咨询有限公司](http://www.ciecc.com.cn)⠀北京	　	⠀0支股票 [⏬](#gp55)<br>	💡⠀中咨公司	　	  
-56⠀[中国诚通控股集团有限公司](http://www.cctgroup.com.cn)⠀北京	　	⠀7支股票 [⏬](#gp56)<br>	💡⠀中国诚通	⠀[wb](https://weibo.com/n/中国诚通)	  
-57⠀[中国中煤能源集团有限公司](http://www.chinacoal.com)⠀北京	　	⠀3支股票 [⏬](#gp57)<br>	🔥⠀中煤集团	　	  
-58⠀[中国煤炭科工集团有限公司](http://www.ccteg.cn)⠀北京	　	⠀2支股票 [⏬](#gp58)<br>	🔥⠀中国煤炭科工	⠀[wb](https://weibo.com/n/中国煤炭科工集团)	  
-59⠀[中国机械科学研究总院集团有限公司](http://www.cam.com.cn)⠀北京	　	⠀2支股票 [⏬](#gp59)<br>	⚙⠀机械总院集团	　	  
-60⠀[中国钢研科技集团有限公司](http://www.cisri.com.cn)⠀北京	　	⠀4支股票 [⏬](#gp60)<br>	🏭⠀中国钢研	⠀[wb](https://weibo.com/n/中国钢研)	⠀中钢集团 漏了？见发言人表  
-61⠀[中国化学工程集团有限公司](http://www.cncec.cn)⠀北京	　	⠀2支股票 [⏬](#gp61)<br>	⚗️⠀中国化学工程	⠀[wb](https://weibo.com/n/中国化学)	  
-62⠀[中国盐业集团有限公司](http://www.chinasalt.com.cn)⠀北京	　	⠀1支股票 [⏬](#gp62)<br>	⚗️⠀中盐集团	⠀[wb](https://weibo.com/n/中国盐业总公司)	  
-63⠀[中国建材集团有限公司](http://www.cnbm.com.cn)⠀北京	　	⠀15支股票 [⏬](#gp63)<br>	🏗⠀中国建材	　	  
-64⠀[中国有色矿业集团有限公司](http://www.cnmc.com.cn)⠀北京	　	⠀3支股票 [⏬](#gp64)<br>	🧲⠀中国有色集团	　	  
-65⠀[中国稀土集团有限公司](https://www.regcc.cn)⠀赣州市	　	⠀1支股票 [⏬](#gp65)<br>	🧲⠀中国稀土集团	　	  
-66⠀[中国有研科技集团有限公司](http://www.grinm.com)⠀北京	　	⠀3支股票 [⏬](#gp66)<br>	🧲⠀有研集团	　	⠀有色金属研究总院  
-67⠀[矿冶科技集团有限公司](http://www.bgrimm.com)⠀北京	　	⠀2支股票 [⏬](#gp67)<br>	🏭⠀矿冶集团	　	  
-68⠀[中国国际技术智力合作集团有限公司](http://www.ciic.com.cn)⠀北京	　	⠀0支股票 [⏬](#gp68)<br>	💡⠀中智集团	⠀[wb](https://weibo.com/n/中智集团)	  
-69⠀[中国建筑科学研究院有限公司](http://www.cabr.com.cn)⠀北京	　	⠀0支股票 [⏬](#gp69)<br>	⛑️⠀中国建研院	⠀[wb](https://weibo.com/n/中国建研院)	  
-70⠀[中国中车集团有限公司](http://www.crrcgc.cc)⠀北京	　	⠀4支股票 [⏬](#gp70)<br>	🚉⠀中国中车集团	⠀[wb](https://weibo.com/n/中国中车)	  
-71⠀[中国铁路通信信号集团有限公司](http://www.crsc.cn)⠀北京	　	⠀2支股票 [⏬](#gp71)<br>	🚉⠀中国通号	　	  
-72⠀[中国铁路工程集团有限公司](http://www.crecg.com)⠀北京	　	⠀3支股票 [⏬](#gp72)<br>	🚉⠀中国中铁	⠀[wb](https://weibo.com/n/中国中铁)	  
-73⠀[中国铁道建筑集团有限公司](http://www.crcc.cn)⠀北京	　	⠀2支股票 [⏬](#gp73)<br>	⛑️⠀中国铁建	⠀[wb](https://weibo.com/n/中国铁建)	  
-74⠀[中国交通建设集团有限公司](http://www.ccccltd.cn)⠀北京	　	⠀3支股票 [⏬](#gp74)<br>	🛣️⠀中交集团	⠀[wb](https://weibo.com/n/中国交建)	  
-75⠀[中国信息通信科技集团有限公司](http://www.cict.com)⠀北京	　	⠀7支股票 [⏬](#gp75)<br>	✡⠀中国信科	⠀[wb](https://weibo.com/n/信科视界)	  
-76⠀[中国农业发展集团有限公司](http://www.cnadc.com.cn)⠀武汉市	　	⠀3支股票 [⏬](#gp76)<br>	🌾⠀中国农发集团	　	  
-77⠀[中国林业集团有限公司](http://www.cfgc.cn)⠀北京	　	⠀0支股票 [⏬](#gp77)<br>	🌲⠀中林集团	⠀[wb](https://weibo.com/n/中林集团)	  
-78⠀[中国医药集团有限公司](http://www.sinopharm.com)⠀北京	　	⠀6支股票 [⏬](#gp78)<br>	💊⠀国药集团	　	  
-79⠀[中国保利集团有限公司](https://www.poly.com.cn)⠀北京	　	⠀7支股票 [⏬](#gp79)<br>	　⠀保利集团	　	⠀👥军委总参，官网夜间关闭  
-80⠀[中国建设科技有限公司](http://www.cadreg.com.cn)⠀北京	　	⠀0支股票 [⏬](#gp80)<br>	🏗⠀中国建科	　	  
-81⠀[中国冶金地质总局](http://www.cmgb.com.cn)⠀北京	　	⠀1支股票 [⏬](#gp81)<br>	🏭⠀冶金地质总局	　	  
-82⠀[中国煤炭地质总局](http://www.ccgc.cn)⠀北京	　	⠀0支股票 [⏬](#gp82)<br>	🔥⠀中煤地质总局	⠀[wb](https://weibo.com/n/中国煤炭地质总局)	  
-83⠀[新兴际华集团有限公司](http://www.xxcig.com)⠀北京	⠀[网站群](http://www.xxcig.com/web/jtwq/jtzz/index.shtml)	⠀2支股票 [⏬](#gp83)<br>	　⠀新兴际华集团	⠀[wb](https://weibo.com/n/新兴际华集团)	⠀👥军委总后，铸管、军需、应急  
-84⠀[中国民航信息集团有限公司](http://www.travelsky.cn)⠀北京	　	⠀1支股票 [⏬](#gp84)<br>	📶⠀中国航信	⠀[wb](https://weibo.com/n/中国航信工会)	  
-85⠀[中国航空油料集团有限公司](http://www.cnaf.com)⠀北京	　	⠀1支股票 [⏬](#gp85)<br>	✈️⠀中国航油	⠀[wb](https://weibo.com/n/中国航油)	  
-86⠀[中国航空器材集团有限公司](http://www.casc.com.cn)⠀北京	　	⠀0支股票 [⏬](#gp86)<br>	✈️⠀中国航材	　	  
-87⠀[中国电力建设集团有限公司](http://www.powerchina.cn)⠀北京	　	⠀2支股票 [⏬](#gp87)<br>	⚡⠀中国电建	⠀[wb](https://weibo.com/n/电建微言)	  
-88⠀[中国能源建设集团有限公司](http://www.ceec.net.cn)⠀北京	　	⠀1支股票 [⏬](#gp88)<br>	⛑️⠀中国能建	⠀[wb](https://weibo.com/n/中国能建)	  
-89⠀[中国安能建设集团有限公司](https://www.china-an.cn)⠀北京	　	⠀0支股票 [⏬](#gp89)<br>	⛑️⠀中国安能	　	  
-90⠀[中国黄金集团有限公司](http://www.chinagoldgroup.com)⠀北京	　	⠀1支股票 [⏬](#gp90)<br>	💰⠀中国黄金	⠀[wb](https://weibo.com/n/中国黄金ChinaGold)	  
-91⠀[中国广核集团有限公司](http://www.cgnpc.com.cn)⠀深圳市	　	⠀3支股票 [⏬](#gp91)<br>	☢️⠀中广核	⠀[wb](https://weibo.com/n/中国广核集团)	  
-92⠀[中国华录集团有限公司](http://www.hualu.com.cn)⠀大连市	　	⠀1支股票 [⏬](#gp92)<br>	📼⠀华录集团	　	  
-93⠀[华侨城集团有限公司](https://www.chinaOCT.com)⠀深圳市	⠀[网站群](https://www.chinaOCT.com/hqc/gyhqc/hqczzg/)	⠀4支股票 [⏬](#gp93)<br>	🎠⠀华侨城集团	⠀[wb](https://weibo.com/n/OCT华侨城)	⠀[上市公司名单](https://www.chinaoct.com/hqc/gyhqc/tzzzq/)  
-94⠀[南光(集团)有限公司／中国南光集团有限公司](http://www.namkwong.com.mo)⠀中国澳门	⠀[网站群](http://www.namkwong.com.mo/col/col1887/)	⠀0支股票 [⏬](#gp94)<br>	🛢️⠀南光集团	　	  
-95⠀[中国电气装备集团有限公司]()⠀上海市	　	⠀4支股票 [⏬](#gp95)<br>	✡⠀中国电气装备	　	  
-96⠀[中国物流集团有限公司]()⠀北京	　	⠀4支股票 [⏬](#gp96)<br>	📦⠀中国物流	　	  
-97⠀[中国国新控股有限责任公司](https://www.crhc.cn)⠀北京	⠀[网站群](https://www.crhc.cn2010/2016)	⠀1支股票 [⏬](#gp97)<br>	💰⠀中国国新	⠀[wb](https://weibo.com/n/中国国新)	  
-98⠀[中国检验认证(集团)有限公司](http://www.ccic.com)⠀北京	　	⠀0支股票 [⏬](#gp98)<br>	🧪⠀中国中检	　	  
+1⠀[中国核工业集团有限公司](http://www.cnnc.com.cn)	⠀<sub>北京⠀5支股票</sub> [⏬](#gp1)<br>	☢️⠀中核集团	⠀[wb](https://weibo.com/cnnc#中核集团)	⠀[网站群](http://www.cnnc.com.cn/cnnc/xxgk/gkml/qyjbxx/cydw55/index.html)	⠀👥[报刊订阅](https://www.cnnc.com.cn/cnnc/xwzx65/bzqk/index.html)  
+2⠀[中国航天科技集团有限公司](http://www.spacechina.com)	⠀<sub>北京⠀14支股票</sub> [⏬](#gp2)<br>	🛰⠀航天科技	⠀[wb](https://weibo.com/n/中国航天科技集团)	⠀[网站群](http://www.spacechina.com/n25/n150/)	⠀[航天科技国际交流](http://www.htgjjl.com/)：[期刊平台](http://www.zghtqk.com/SKY/)、[中国航天报](http://www.csn.spacechina.com)/[📰](http://szb.htgjjl.com/)  
+3⠀[中国航天科工集团有限公司](http://www.casic.com.cn)	⠀<sub>北京⠀7支股票</sub> [⏬](#gp3)<br>	🚀⠀航天科工	⠀[wb](https://weibo.com/n/中国航天科工)	⠀[网站群](http://www.casic.com.cn/n12382749/)	⠀[上市公司](http://www.casic.com.cn/n12377284/n12377988/)  
+4⠀[中国航空工业集团有限公司](https://www.avic.com.cn)	⠀<sub>北京⠀19支股票</sub> [⏬](#gp4)<br>	✈️⠀航空工业集团	⠀[wb](https://weibo.com/n/航空工业)	⠀[网站群](https://www.avic.com.cn/sycd/gywm/ssgs/)	⠀CAN[中国航空报](https://www.cannews.com.cn/) /[📰](http://ep.cannews.com.cn/publish/zghkb7)  
+5⠀[中国船舶集团有限公司](http://www.csic.com.cn)	⠀<sub>上海市⠀6支股票</sub> [⏬](#gp5)<br>	🚢⠀中国船舶	⠀[wb](https://weibo.com/n/中国船舶)	⠀[网站群](http://www.csic.com.cn/n11/)	⠀中国造船 等[出版物](http://www.csic.com.cn/n5/n116/)，中国船舶报/[📰](http://zgcbb.cnepaper.com/zgcbb/)  
+6⠀[中国兵器工业集团有限公司](http://www.norincogroup.com.cn)	⠀<sub>北京⠀12支股票</sub> [⏬](#gp6)<br>	💥⠀兵器工业集团	⠀[wb](https://weibo.com/n/兵工之声)	⠀[网站群](http://www.norincogroup.com.cn/col/col193/)	⠀兵器知识 等[兵工刊物](http://www.norincogroup.com.cn/col/col92/)  
+7⠀[中国兵器装备集团有限公司](https://www.csgc.com.cn)	⠀<sub>北京⠀8支股票</sub> [⏬](#gp7)<br>	💥⠀兵器装备集团	⠀[wb](https://weibo.com/n/中国兵器装备集团)	⠀[网站群](https://www.csgc.com.cn/1073.html)	⠀[期刊杂志](https://www.csgc.com.cn/1090.html)/中国兵器报/[wb](https://weibo.com/zgbqb)  
+8⠀[中国电子科技集团有限公司](http://www.cetc.com.cn)	⠀<sub>北京⠀13支股票</sub> [⏬](#gp8)<br>	✡⠀中国电科	⠀[wb](https://weibo.com/n/中国电科)	⠀[网站群](http://www.cetc.com.cn/zgdk/1592544/1592565/index.html)	⠀[中国电科](http://www.cetc.com.cn/zgdk/1592571/1592919/index.html)报  
+9⠀[中国航空发动机集团有限公司](https://www.aecc.cn)	⠀<sub>北京⠀3支股票</sub> [⏬](#gp9)<br>	🚀⠀中国航发	　	⠀[网站群](https://www.aecc.cn/sxgk/qyjbsx/)	⠀下辖27家直属单位、3家主板上市公司  
+10⠀[中国融通资产管理集团有限公司](https://www.crtamg.com.cn)	⠀<sub>北京⠀0支股票</sub> [⏬](#gp10)<br>	💰⠀中国融通集团	　	⠀[网站群](https://www.crtamg.com.cn/ywly/zykf/)	⠀👥军委剥离的商业资产，[组织架构](https://www.crtamg.com.cn/gyrt/zzjg/)  
+11⠀[中国石油天然气集团有限公司](http://www.cnpc.com.cn)	⠀<sub>北京⠀4支股票</sub> [⏬](#gp11)<br>	⛽⠀中国石油	⠀[wb](https://weibo.com/n/中国石油)	⠀[网站群](http://www.cnpc.com.cn/cnpc/sywq/sywq_index.shtml)	⠀[中国石油报](http://news.cnpc.com.cn)/[📰](http://news.cnpc.com.cn/epaper/zgsyb/)，《[石油知识](http://www.cnpc.com.cn/syzs/dzqk/dzqk_index.shtml)》；956100📠，[国际油价](http://oilinfo.cnpc.com.cn/ypxx/gjyj/gjyj.shtml)  
+12⠀[中国石油化工集团有限公司](http://www.sinopecgroup.com)	⠀<sub>北京⠀8支股票</sub> [⏬](#gp12)<br>	⛽⠀中国石化	⠀[wb](https://weibo.com/n/中国石化)	⠀[网站群](http://www.sinopecgroup.com/group/gywm/wzq.shtml)	⠀[中国石化报](http://www.sinopecnews.com.cn/)/[📰](http://enews.sinopecnews.com.cn/zgshb/)  
+13⠀[中国海洋石油集团有限公司](https://www.cnooc.com.cn)	⠀<sub>北京⠀5支股票</sub> [⏬](#gp13)<br>	⛽⠀中国海油	⠀[wb](https://weibo.com/n/图说海油)	⠀[网站群](https://www.cnooc.com.cn/col/col641/)	⠀[中海油出版物](https://www.cnooc.com.cn/col/col50901/)；[海油螺号](https://weibo.com/cnoocnews)  
+14⠀[国家石油天然气管网集团有限公司](https://www.pipechina.com.cn)	⠀<sub>北京⠀0支股票</sub> [⏬](#gp14)<br>	🗜️⠀国家管网集团	　	　	⠀[集团要闻](https://www.pipechina.com.cn/xwdt/jtyw.html)，微博：[北方管道](https://weibo.com/6079188491)、[东部储运](https://weibo.com/gdcyxwzx)  
+15⠀[国家电网有限公司](http://www.sgcc.com.cn)	⠀<sub>北京⠀7支股票</sub> [⏬](#gp15)<br>	⚡⠀国家电网	⠀[wb](https://weibo.com/n/国家电网?电网头条)	⠀[网站群](http://www.sgcc.com.cn/html/sgcc_main/col2017012538/column_2017012538_1.shtml)	⠀[英大传媒](http://www.indaa.com.cn)：国家电网报/[📰](https://epaper.sgcctop.com/)/[wb](https://weibo.com/stategridnews)  
+16⠀[中国南方电网有限责任公司](https://www.csg.cn)	⠀<sub>广州市⠀3支股票</sub> [⏬](#gp16)<br>	⚡⠀南方电网	⠀[wb](https://weibo.com/n/南网50Hz)	　	⠀南网[数字传媒](http://cm.csg.cn/#mtjz)、[南网营业厅](https://95598.csg.cn/)95598  
+17⠀[中国华能集团有限公司](https://www.chng.com.cn)	⠀<sub>北京⠀6支股票</sub> [⏬](#gp17)<br>	⚡⠀中国华能	⠀[wb](https://weibo.com/n/中国华能)	⠀[网站群](https://www.chng.com.cn/relations.html)	⠀《[中国华能](https://www.chng.com.cn/list_dzqk/-/article/Xo6UWeAOetWm/list/23594/)》  
+18⠀[中国大唐集团有限公司](https://www.china-cdt.com)	⠀<sub>北京⠀5支股票</sub> [⏬](#gp18)<br>	⚡⠀中国大唐	⠀[wb](https://weibo.com/n/美丽大唐)	⠀[网站群](https://www.china-cdt.com/dtwz/showNewsListForSiteControlAction!showNewsList.action?program=tzzgx)	⠀[新闻中心](http://www.china-cdt.com/dtwz/yearListForSiteControlAction!yearList.action?program=xwzx_jtxw)  
+19⠀[中国华电集团有限公司](https://www.chd.com.cn)	⠀<sub>北京⠀6支股票</sub> [⏬](#gp19)<br>	⚡⠀中国华电	⠀[wb](https://weibo.com/n/中国华电)	⠀[网站群](https://www.chd.com.cn/site/2/list/e18ba97580df4ab797156323badeeb3a_1.html)	⠀[新闻中心](https://www.chd.com.cn/site/2/list/5b05a07f75a0401fa659a2e2959c4916_1.html)  
+20⠀[国家电力投资集团有限公司](http://www.spic.com.cn)	⠀<sub>北京⠀7支股票</sub> [⏬](#gp20)<br>	☢️⠀国家电投	⠀[wb](https://weibo.com/n/国家电投)	⠀[网站群](http://www.spic.com.cn/2021/tzzgx/zgdl/)	⠀中国电力发展史[数字博物馆](https://muse.spic.com.cn)  
+21⠀[中国长江三峡集团有限公司](https://www.ctg.com.cn)	⠀<sub>武汉市⠀3支股票</sub> [⏬](#gp21)<br>	🌊⠀中国三峡集团	⠀[wb](https://weibo.com/n/中国三峡集团)	⠀[网站群](https://www.ctg.com.cn/sxjt/jtwzq61/)	⠀[三峡出版传媒集团](https://media.ctg.com.cn)  
+22⠀[国家能源投资集团有限责任公司](https://www.ceic.com)	⠀<sub>北京⠀8支股票</sub> [⏬](#gp22)<br>	🔥⠀国家能源集团	⠀[wb](https://weibo.com/n/国家能源集团之声)	⠀[网站群](https://www.ceic.com/gjnyjtww/chnywtx/chnywtx.shtml)	⠀《[清洁能源](https://www.ceic.com/gjnyjtww/chnqkzz/chnqkzz.shtml)》，国能[电商平台](https://www.e-chnenergy.com/)  
+23⠀[中国电信集团有限公司](http://www.chinatelecom.com.cn)	⠀<sub>北京⠀3支股票</sub> [⏬](#gp23)<br>	📶⠀中国电信	⠀[wb](https://weibo.com/n/中国电信)	⠀[网站群](http://www.chinatelecom.com.cn/corp/zzjgcs/)	⠀189[网上营业厅](http://www.189.cn)  
+24⠀[中国联合网络通信集团有限公司](http://www.chinaunicom.com.cn)	⠀<sub>北京⠀1支股票</sub> [⏬](#gp24)<br>	📶⠀中国联通	⠀[wb](https://weibo.com/n/中国联通)	⠀[网站群](http://www.chinaunicom.com.cn/about/structure.html)	⠀10010[网上营业厅](https://www.10010.com/)、[A股官网](https://www.chinaunicom-a.com/)、[港股官网](https://www.chinaunicom.com.hk/)  
+25⠀[中国移动通信集团有限公司](https://www.10086.cn/aboutus/)	⠀<sub>北京⠀1支股票</sub> [⏬](#gp25)<br>	📶⠀中国移动	⠀[wb](https://weibo.com/n/中国移动)	　	⠀10086[网上营业厅](https://www.10086.cn/)、[关联公司](https://www.10086.cn/zzxx/)  
+26⠀[中国卫星网络集团有限公司]()	⠀<sub>雄安新区⠀0支股票</sub> [⏬](#gp26)<br>	🛰⠀中国星网	　	　	⠀中国卫星网络集团2021年成立，对标SpaceX星链  
+27⠀[中国电子信息产业集团有限公司](https://www.cec.com.cn)	⠀<sub>深圳市⠀12支股票</sub> [⏬](#gp27)<br>	✡⠀中国电子	⠀[wb](https://weibo.com/n/CEC中国电子)	　	⠀[集团新闻](https://www.cec.com.cn/集团新闻)，19家上市公司，687家成员企业  
+28⠀[中国第一汽车集团有限公司](https://www.faw.com.cn)	⠀<sub>长春市⠀3支股票</sub> [⏬](#gp28)<br>	🚚⠀中国一汽	⠀[wb](https://weibo.com/n/中国一汽)	⠀[网站群](https://www.faw.com.cn/fawcn/373692/hxwz/index.html)	⠀[新闻中心](http://www.faw.com.cn/fawcn/373694/373706/index.html)，解放/东风/红旗  
+29⠀[东风汽车集团有限公司](https://www.dfmc.com.cn)	⠀<sub>武汉市⠀4支股票</sub> [⏬](#gp29)<br>	🚚⠀东风公司	⠀[wb](https://weibo.com/n/东风汽车)	⠀[网站群](https://www.dfmc.com.cn/zoujindf/links.html)	⠀[新闻中心](https://www.dfmc.com.cn/news/qiyexinwen.html)  
+30⠀[中国一重集团有限公司](https://www.cfhi.com)	⠀<sub>齐齐哈尔市⠀1支股票</sub> [⏬](#gp30)<br>	🏗⠀中国一重	　	⠀[网站群](https://www.cfhi.com/yizhonggroup/gywm8/qybj/flej/yzjthljzgyxgs/)	⠀中国第一重型机械  
+31⠀[中国机械工业集团有限公司](http://www.sinomach.com.cn)	⠀<sub>北京⠀13支股票</sub> [⏬](#gp31)<br>	🏗⠀国机集团	⠀[wb](https://weibo.com/n/中机建设集团)	⠀[网站群](http://www.sinomach.com.cn/gjjtwzq/)	⠀[报刊媒体](http://www.sinomach.com.cn/xwzx/gjmt/zgsmt/)/[第一工程机械网](https://www.d1cm.com)  
+32⠀[哈尔滨电气集团有限公司](https://www.harbin-electric.com)	⠀<sub>哈尔滨市⠀2支股票</sub> [⏬](#gp32)<br>	⚡⠀哈电集团	　	⠀[网站群](https://www.harbin-electric.com/company4.asp)	⠀H股[哈尔滨电气](https://www.hpec.com/)  
+33⠀[中国东方电气集团有限公司](https://www.dongfang.com)	⠀<sub>成都市⠀2支股票</sub> [⏬](#gp33)<br>	⚡⠀东方电气集团	⠀[wb](https://weibo.com/n/东方电气)	⠀[网站群](https://www.dongfang.com/ywbt/ywfb.htm)	⠀六电并举，沪港上市[东方电气](http://www.dec-ltd.cn/)  
+34⠀[鞍钢集团有限公司](http://www.ansteel.cn)	⠀<sub>鞍山市⠀3支股票</sub> [⏬](#gp34)<br>	🏭⠀鞍钢	⠀[wb](https://weibo.com/n/鞍钢集团)	　	  
+35⠀[中国宝武钢铁集团有限公司](http://www.baowugroup.com)	⠀<sub>上海市⠀12支股票</sub> [⏬](#gp35)<br>	🏭⠀中国宝武	⠀[wb](https://weibo.com/n/友爱的宝武)	　	  
+36⠀[中国矿产资源集团有限公司]()	⠀<sub>保定市⠀0支股票</sub> [⏬](#gp36)<br>	🧲⠀中矿资源	　	　	⠀2022年7月成立  
+37⠀[中国铝业集团有限公司](https://www.chinalco.com.cn)	⠀<sub>北京⠀4支股票</sub> [⏬](#gp37)<br>	🏭⠀中铝集团	　	　	  
+38⠀[中国远洋海运集团有限公司](https://www.coscoshipping.com)	⠀<sub>上海市⠀5支股票</sub> [⏬](#gp38)<br>	🚢⠀中国远洋海运	⠀[wb](https://weibo.com/n/中国远洋海运杂志社)	⠀[网站群](https://www.coscoshipping.com/col/col6879/)	⠀[中国远洋海运报](https://newspaper.coscoshipping.com/)📰  
+39⠀[中国航空集团有限公司](http://www.airchinagroup.com)	⠀<sub>北京⠀1支股票</sub> [⏬](#gp39)<br>	👯⠀中航集团	⠀[wb](https://weibo.com/n/中国国际航空)	⠀[网站群](http://www.airchinagroup.com/cnah/zhgl/cyqy/gh/)	⠀[中航博物馆](http://www.airchinagroup.com/cnah/zhbwg/)  
+40⠀[中国东方航空集团有限公司](http://www.ceair.com)	⠀<sub>上海市⠀1支股票</sub> [⏬](#gp40)<br>	👯⠀中国东航	⠀[wb](https://weibo.com/n/中国东方航空)	　	  
+41⠀[中国南方航空集团有限公司](http://www.csair.cn)	⠀<sub>广州市⠀1支股票</sub> [⏬](#gp41)<br>	👯⠀南航集团	⠀[wb](https://weibo.com/n/中国南方航空)	　	  
+42⠀[中国中化控股有限责任公司](http://www.sinochem.com)	⠀<sub>雄安新区⠀14支股票</sub> [⏬](#gp42)<br>	⚗️⠀中国中化	⠀[wb](https://weibo.com/n/中国中化)	　	  
+43⠀[中粮集团有限公司](http://www.cofco.com)	⠀<sub>北京⠀14支股票</sub> [⏬](#gp43)<br>	🌾⠀中粮集团	⠀[wb](https://weibo.com/n/中粮COFCO)	　	  
+44⠀[中国五矿集团有限公司](http://www.minmetals.com.cn)	⠀<sub>北京⠀6支股票</sub> [⏬](#gp44)<br>	🧲⠀中国五矿	⠀[wb](https://weibo.com/n/中国五矿)	　	  
+45⠀[中国通用技术(集团)控股有限责任公司](http://www.gt.cn)	⠀<sub>北京⠀4支股票</sub> [⏬](#gp45)<br>	✡⠀通用技术集团	⠀[wb](https://weibo.com/n/通用技术)	⠀[网站群](http://www.gt.cn/hxzy/)	⠀材料、医疗、装备  
+46⠀[中国建筑集团有限公司](http://www.cscec.com)	⠀<sub>北京⠀8支股票</sub> [⏬](#gp46)<br>	⛑️⠀中国建筑	⠀[wb](https://weibo.com/n/中国建筑)	　	  
+47⠀[中国储备粮管理集团有限公司](http://www.sinograin.com.cn)	⠀<sub>北京⠀0支股票</sub> [⏬](#gp47)<br>	🌾⠀中储粮集团	⠀[wb](https://weibo.com/n/中储粮集团)	　	  
+48⠀[中国南水北调集团有限公司](http://www.csnwd.com.cn)	⠀<sub>北京⠀0支股票</sub> [⏬](#gp48)<br>	🌊⠀南水北调集团	　	　	⠀发言人表中没有  
+49⠀[国家开发投资集团有限公司](http://www.sdic.com.cn)	⠀<sub>北京⠀8支股票</sub> [⏬](#gp49)<br>	💰⠀国投	⠀[wb](https://weibo.com/n/国投集团)	　	  
+50⠀[招商局集团有限公司](http://www.cmhk.com)	⠀<sub>北京⠀9支股票</sub> [⏬](#gp50)<br>	💰⠀招商局集团	　	　	  
+51⠀[华润(集团)有限公司](https://www.crc.com.hk)	⠀<sub>深圳市⠀13支股票</sub> [⏬](#gp51)<br>	🔥⠀华润集团	⠀[wb](https://weibo.com/n/华润通)	⠀[网站群](https://www.crc.com.hk/other/group/)	⠀《[华润](http://crchat.crc.com.cn/magazine/)》，[上市公司](https://www.crc.com.hk/IR/stock/indirect/)名单  
+52⠀[中国旅游集团有限公司／香港中旅(集团)有限公司](https://www.ctg.cn)	⠀<sub>中国香港⠀2支股票</sub> [⏬](#gp52)<br>	🎠⠀中国旅游集团	　	　	  
+53⠀[中国商用飞机有限责任公司](http://www.comac.cc)	⠀<sub>北京⠀0支股票</sub> [⏬](#gp53)<br>	✈️⠀中国商飞	⠀[wb](https://weibo.com/n/中国商飞)	　	  
+54⠀[中国节能环保集团有限公司](http://www.cecep.cn)	⠀<sub>北京⠀6支股票</sub> [⏬](#gp54)<br>	🌿⠀中国节能	　	　	⠀👥军委总后新时代2010并入  
+55⠀[中国国际工程咨询有限公司](http://www.ciecc.com.cn)	⠀<sub>北京⠀0支股票</sub> [⏬](#gp55)<br>	💡⠀中咨公司	　	　	  
+56⠀[中国诚通控股集团有限公司](http://www.cctgroup.com.cn)	⠀<sub>北京⠀7支股票</sub> [⏬](#gp56)<br>	💡⠀中国诚通	⠀[wb](https://weibo.com/n/中国诚通)	　	  
+57⠀[中国中煤能源集团有限公司](http://www.chinacoal.com)	⠀<sub>北京⠀3支股票</sub> [⏬](#gp57)<br>	🔥⠀中煤集团	　	　	  
+58⠀[中国煤炭科工集团有限公司](http://www.ccteg.cn)	⠀<sub>北京⠀2支股票</sub> [⏬](#gp58)<br>	🔥⠀中国煤炭科工	⠀[wb](https://weibo.com/n/中国煤炭科工集团)	　	  
+59⠀[中国机械科学研究总院集团有限公司](http://www.cam.com.cn)	⠀<sub>北京⠀2支股票</sub> [⏬](#gp59)<br>	⚙⠀机械总院集团	　	　	  
+60⠀[中国钢研科技集团有限公司](http://www.cisri.com.cn)	⠀<sub>北京⠀4支股票</sub> [⏬](#gp60)<br>	🏭⠀中国钢研	⠀[wb](https://weibo.com/n/中国钢研)	　	⠀中钢集团 漏了？见发言人表  
+61⠀[中国化学工程集团有限公司](http://www.cncec.cn)	⠀<sub>北京⠀2支股票</sub> [⏬](#gp61)<br>	⚗️⠀中国化学工程	⠀[wb](https://weibo.com/n/中国化学)	　	  
+62⠀[中国盐业集团有限公司](http://www.chinasalt.com.cn)	⠀<sub>北京⠀1支股票</sub> [⏬](#gp62)<br>	⚗️⠀中盐集团	⠀[wb](https://weibo.com/n/中国盐业总公司)	　	  
+63⠀[中国建材集团有限公司](http://www.cnbm.com.cn)	⠀<sub>北京⠀15支股票</sub> [⏬](#gp63)<br>	🏗⠀中国建材	　	　	  
+64⠀[中国有色矿业集团有限公司](http://www.cnmc.com.cn)	⠀<sub>北京⠀3支股票</sub> [⏬](#gp64)<br>	🧲⠀中国有色集团	　	　	  
+65⠀[中国稀土集团有限公司](https://www.regcc.cn)	⠀<sub>赣州市⠀1支股票</sub> [⏬](#gp65)<br>	🧲⠀中国稀土集团	　	　	  
+66⠀[中国有研科技集团有限公司](http://www.grinm.com)	⠀<sub>北京⠀3支股票</sub> [⏬](#gp66)<br>	🧲⠀有研集团	　	　	⠀有色金属研究总院  
+67⠀[矿冶科技集团有限公司](http://www.bgrimm.com)	⠀<sub>北京⠀2支股票</sub> [⏬](#gp67)<br>	🏭⠀矿冶集团	　	　	  
+68⠀[中国国际技术智力合作集团有限公司](http://www.ciic.com.cn)	⠀<sub>北京⠀0支股票</sub> [⏬](#gp68)<br>	💡⠀中智集团	⠀[wb](https://weibo.com/n/中智集团)	　	  
+69⠀[中国建筑科学研究院有限公司](http://www.cabr.com.cn)	⠀<sub>北京⠀0支股票</sub> [⏬](#gp69)<br>	⛑️⠀中国建研院	⠀[wb](https://weibo.com/n/中国建研院)	　	  
+70⠀[中国中车集团有限公司](http://www.crrcgc.cc)	⠀<sub>北京⠀4支股票</sub> [⏬](#gp70)<br>	🚉⠀中国中车集团	⠀[wb](https://weibo.com/n/中国中车)	　	  
+71⠀[中国铁路通信信号集团有限公司](http://www.crsc.cn)	⠀<sub>北京⠀2支股票</sub> [⏬](#gp71)<br>	🚉⠀中国通号	　	　	  
+72⠀[中国铁路工程集团有限公司](http://www.crecg.com)	⠀<sub>北京⠀3支股票</sub> [⏬](#gp72)<br>	🚉⠀中国中铁	⠀[wb](https://weibo.com/n/中国中铁)	　	  
+73⠀[中国铁道建筑集团有限公司](http://www.crcc.cn)	⠀<sub>北京⠀2支股票</sub> [⏬](#gp73)<br>	⛑️⠀中国铁建	⠀[wb](https://weibo.com/n/中国铁建)	　	  
+74⠀[中国交通建设集团有限公司](http://www.ccccltd.cn)	⠀<sub>北京⠀3支股票</sub> [⏬](#gp74)<br>	🛣️⠀中交集团	⠀[wb](https://weibo.com/n/中国交建)	　	  
+75⠀[中国信息通信科技集团有限公司](http://www.cict.com)	⠀<sub>北京⠀7支股票</sub> [⏬](#gp75)<br>	✡⠀中国信科	⠀[wb](https://weibo.com/n/信科视界)	　	  
+76⠀[中国农业发展集团有限公司](http://www.cnadc.com.cn)	⠀<sub>武汉市⠀3支股票</sub> [⏬](#gp76)<br>	🌾⠀中国农发集团	　	　	  
+77⠀[中国林业集团有限公司](http://www.cfgc.cn)	⠀<sub>北京⠀0支股票</sub> [⏬](#gp77)<br>	🌲⠀中林集团	⠀[wb](https://weibo.com/n/中林集团)	　	  
+78⠀[中国医药集团有限公司](http://www.sinopharm.com)	⠀<sub>北京⠀6支股票</sub> [⏬](#gp78)<br>	💊⠀国药集团	　	　	  
+79⠀[中国保利集团有限公司](https://www.poly.com.cn)	⠀<sub>北京⠀7支股票</sub> [⏬](#gp79)<br>	　⠀保利集团	　	　	⠀👥军委总参，官网夜间关闭  
+80⠀[中国建设科技有限公司](http://www.cadreg.com.cn)	⠀<sub>北京⠀0支股票</sub> [⏬](#gp80)<br>	🏗⠀中国建科	　	　	  
+81⠀[中国冶金地质总局](http://www.cmgb.com.cn)	⠀<sub>北京⠀1支股票</sub> [⏬](#gp81)<br>	🏭⠀冶金地质总局	　	　	  
+82⠀[中国煤炭地质总局](http://www.ccgc.cn)	⠀<sub>北京⠀0支股票</sub> [⏬](#gp82)<br>	🔥⠀中煤地质总局	⠀[wb](https://weibo.com/n/中国煤炭地质总局)	　	  
+83⠀[新兴际华集团有限公司](http://www.xxcig.com)	⠀<sub>北京⠀2支股票</sub> [⏬](#gp83)<br>	　⠀新兴际华集团	⠀[wb](https://weibo.com/n/新兴际华集团)	⠀[网站群](http://www.xxcig.com/web/jtwq/jtzz/index.shtml)	⠀👥军委总后，铸管、军需、应急  
+84⠀[中国民航信息集团有限公司](http://www.travelsky.cn)	⠀<sub>北京⠀1支股票</sub> [⏬](#gp84)<br>	📶⠀中国航信	⠀[wb](https://weibo.com/n/中国航信工会)	　	  
+85⠀[中国航空油料集团有限公司](http://www.cnaf.com)	⠀<sub>北京⠀1支股票</sub> [⏬](#gp85)<br>	✈️⠀中国航油	⠀[wb](https://weibo.com/n/中国航油)	　	  
+86⠀[中国航空器材集团有限公司](http://www.casc.com.cn)	⠀<sub>北京⠀0支股票</sub> [⏬](#gp86)<br>	✈️⠀中国航材	　	　	  
+87⠀[中国电力建设集团有限公司](http://www.powerchina.cn)	⠀<sub>北京⠀2支股票</sub> [⏬](#gp87)<br>	⚡⠀中国电建	⠀[wb](https://weibo.com/n/电建微言)	　	  
+88⠀[中国能源建设集团有限公司](http://www.ceec.net.cn)	⠀<sub>北京⠀1支股票</sub> [⏬](#gp88)<br>	⛑️⠀中国能建	⠀[wb](https://weibo.com/n/中国能建)	　	  
+89⠀[中国安能建设集团有限公司](https://www.china-an.cn)	⠀<sub>北京⠀0支股票</sub> [⏬](#gp89)<br>	⛑️⠀中国安能	　	　	  
+90⠀[中国黄金集团有限公司](http://www.chinagoldgroup.com)	⠀<sub>北京⠀1支股票</sub> [⏬](#gp90)<br>	💰⠀中国黄金	⠀[wb](https://weibo.com/n/中国黄金ChinaGold)	　	  
+91⠀[中国广核集团有限公司](http://www.cgnpc.com.cn)	⠀<sub>深圳市⠀3支股票</sub> [⏬](#gp91)<br>	☢️⠀中广核	⠀[wb](https://weibo.com/n/中国广核集团)	　	  
+92⠀[中国华录集团有限公司](http://www.hualu.com.cn)	⠀<sub>大连市⠀1支股票</sub> [⏬](#gp92)<br>	📼⠀华录集团	　	　	  
+93⠀[华侨城集团有限公司](https://www.chinaOCT.com)	⠀<sub>深圳市⠀4支股票</sub> [⏬](#gp93)<br>	🎠⠀华侨城集团	⠀[wb](https://weibo.com/n/OCT华侨城)	⠀[网站群](https://www.chinaOCT.com/hqc/gyhqc/hqczzg/)	⠀[上市公司名单](https://www.chinaoct.com/hqc/gyhqc/tzzzq/)  
+94⠀[南光(集团)有限公司／中国南光集团有限公司](http://www.namkwong.com.mo)	⠀<sub>中国澳门⠀0支股票</sub> [⏬](#gp94)<br>	🛢️⠀南光集团	　	⠀[网站群](http://www.namkwong.com.mo/col/col1887/)	  
+95⠀[中国电气装备集团有限公司]()	⠀<sub>上海市⠀4支股票</sub> [⏬](#gp95)<br>	✡⠀中国电气装备	　	　	  
+96⠀[中国物流集团有限公司]()	⠀<sub>北京⠀4支股票</sub> [⏬](#gp96)<br>	📦⠀中国物流	　	　	  
+97⠀[中国国新控股有限责任公司](https://www.crhc.cn)	⠀<sub>北京⠀1支股票</sub> [⏬](#gp97)<br>	💰⠀中国国新	⠀[wb](https://weibo.com/n/中国国新)	⠀[网站群](https://www.crhc.cn2010/2016)	  
+98⠀[中国检验认证(集团)有限公司](http://www.ccic.com)	⠀<sub>北京⠀0支股票</sub> [⏬](#gp98)<br>	🧪⠀中国中检	　	　	  
 
 截至2022年12月底计98家，正在收录。
 
@@ -275,7 +275,7 @@
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/fuwu/yangqi
-	央企股票一览表	v0.3.3	202302
+	央企股票一览表	v0.3.4	202302
 ```
 
 回到首页
