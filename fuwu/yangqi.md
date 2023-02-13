@@ -26,7 +26,7 @@
 --------------
 计98家，截至2022年底
 
-　按国资委官网排序，点击右侧 上市公司数▽，跳转到页面下方 上市公司名单。
+　按国资委官网排序，点击右侧 上市公司数▽，跳转到页面下方 上市公司名单。网站集群仍在收录中。
 
 1⠀[中国核工业集团有限公司](http://www.cnnc.com.cn){:id="1"}	⠀<sub>[<b>5</b>家上市▽](#G1){:target="_top"}</sub><br>	☢️⠀中核集团 <small>	⠀[网站群](http://www.cnnc.com.cn/cnnc/xxgk/gkml/qyjbxx/cydw55/index.html)⠀	北京	[wb](https://weibo.com/cnnc#中核集团)	⠀👥[报刊订阅](https://www.cnnc.com.cn/cnnc/xwzx65/bzqk/index.html)</small>  
 2⠀[中国航天科技集团有限公司](http://www.spacechina.com){:id="2"}	⠀<sub>[<b>14</b>家上市▽](#G2){:target="_top"}</sub><br>	🛰⠀航天科技 <small>	⠀[网站群](http://www.spacechina.com/n25/n150/)⠀	北京	[wb](https://weibo.com/n/中国航天科技集团)	⠀[航天科技国际交流](http://www.htgjjl.com/)：[期刊平台](http://www.zghtqk.com/SKY/)、[中国航天报](http://www.csn.spacechina.com)/[📰](http://szb.htgjjl.com/)</small>  
@@ -127,13 +127,11 @@
 97⠀[中国国新控股有限责任公司](https://www.crhc.cn){:id="97"}	⠀<sub>[<b>1</b>家上市▽](#G97){:target="_top"}</sub><br>	💰⠀中国国新 <small>	⠀[网站群](https://www.crhc.cn2010/2016)⠀	北京	[wb](https://weibo.com/n/中国国新)	</small>  
 98⠀[中国检验认证(集团)有限公司](http://www.ccic.com){:id="98"}	⠀<sub>[<b>0</b>家上市▽](#G98){:target="_top"}</sub><br>	🧪⠀中国中检 <small>	　	北京	　	</small>  
 
-截至2022年12月底计98家，正在收录网站集群。
-
-
-<h2 id='D3'>图例与行业统计</h2>
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
-央企主业	计数
+<h2 id='D3'>图例与行业统计</h2>
+
+	央企主业	计数
 	⚡ 电力	8	🛰	2
 	🏭 钢铁	6	🚢	2
 	🧲 矿产	5	🚚	2
@@ -153,11 +151,13 @@
 	☢️	3	🌲	1
 	 	 	⚙	1
 
+<div align="right"><a href="#" target="_top">↑ Top</a></div>
+
 
 央企上市公司名单
 ----------------
 已收录436支股票，202302
-<div align="right"><a href="#" target="_top">↑ Top</a></div>
+
 　按上方央企排序，点 序号△ 回到上方央企。
 
 [1△](#1){:target="_top"}{:id="G1"}⠀中核科技	[000777](http://webapi.cninfo.com.cn/#/company?companyid=000777)	<sub>⠀深市⠀主板⠀A股	⠀[中核苏阀科技实业股份有限公司](http://www.chinasufa.com)</sub>	⠀股吧[](000777)  
@@ -634,7 +634,7 @@
 
 　32个省级[地方国资委](http://www.sasac.gov.cn/n4422011/n17627531/c17633273/content.html)
 
-　本页只收录国资委监管央企，至于财政部监管的中央金融机构(六大银行等)，请看大萌编纂的 [个人金融理财圈](jinrong)网页。
+　本页只收录受国资委监管的央企，至于财政部监管的中央金融机构(六大银行等)，请看大萌编纂的 [个人金融理财圈](jinrong)网页。
 
 <h2 id='D6'>鸣谢</h2>
 
