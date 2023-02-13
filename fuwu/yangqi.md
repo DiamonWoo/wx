@@ -26,7 +26,7 @@
 --------------
 计98家，截至2022年底
 
-　　按国资委官网排序，点击右侧 上市公司数▽，跳转到页面下方 上市公司名单。
+　按国资委官网排序，点击右侧 上市公司数▽，跳转到页面下方 上市公司名单。
 
 1⠀[中国核工业集团有限公司](http://www.cnnc.com.cn){:id="1"}	⠀<sub>[<b>5</b>家上市▽](#G1){:target="_top"}</sub><br>	☢️⠀中核集团 <small>	⠀[网站群](http://www.cnnc.com.cn/cnnc/xxgk/gkml/qyjbxx/cydw55/index.html)⠀	北京	[wb](https://weibo.com/cnnc#中核集团)	⠀👥[报刊订阅](https://www.cnnc.com.cn/cnnc/xwzx65/bzqk/index.html)</small>  
 2⠀[中国航天科技集团有限公司](http://www.spacechina.com){:id="2"}	⠀<sub>[<b>14</b>家上市▽](#G2){:target="_top"}</sub><br>	🛰⠀航天科技 <small>	⠀[网站群](http://www.spacechina.com/n25/n150/)⠀	北京	[wb](https://weibo.com/n/中国航天科技集团)	⠀[航天科技国际交流](http://www.htgjjl.com/)：[期刊平台](http://www.zghtqk.com/SKY/)、[中国航天报](http://www.csn.spacechina.com)/[📰](http://szb.htgjjl.com/)</small>  
@@ -133,7 +133,7 @@
 <h2 id='D3'>图例与行业统计</h2>
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
-	行业	计数
+央企主业	计数
 	⚡ 电力	8	🛰	2
 	🏭 钢铁	6	🚢	2
 	🧲 矿产	5	🚚	2
@@ -158,7 +158,7 @@
 ----------------
 已收录436支股票，202302
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
-　　按上方央企排序，点击 序号△ 回到上方央企。
+　按上方央企排序，点 序号△ 回到上方央企。
 
 [1△](#1){:target="_top"}{:id="G1"}⠀中核科技	[000777](http://webapi.cninfo.com.cn/#/company?companyid=000777)	<sub>⠀深市⠀主板⠀A股	⠀[中核苏阀科技实业股份有限公司](http://www.chinasufa.com)</sub>	⠀股吧[](000777)  
 [1△](#1){:target="_top"}{:id="G1"}⠀中国同辐	[01763](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1763)	<sub>⠀港股⠀主板⠀	⠀[中国同辐股份有限公司](http://www.china-isotope.com)</sub>	⠀股吧[](01763)  
@@ -614,10 +614,11 @@
 [97△](#97){:target="_top"}{:id="G97"}⠀国新健康	[000503](http://webapi.cninfo.com.cn/#/company?companyid=000503)	<sub>⠀深市⠀主板⠀A股	⠀[国新健康保障服务集团股份有限公司](http://www.crhms.cn)</sub>	⠀股吧[](000503)  
 [98△](#98){:target="_top"}{:id="G98"}⠀		<sub>⠀⠀⠀	⠀[]()</sub>	⠀股吧[]()  
 
+<div align="right"><a href="#" target="_top">↑ Top</a></div>
+
 
 国资委常用网址
 --------------
-<div align="right"><a href="#" target="_top">↑ Top</a></div>
 
 　[SASAC 国资委](http://www.sasac.gov.cn)官网：
 	[机构概况](http://www.sasac.gov.cn/n2588020/index.html)、
@@ -635,15 +636,15 @@
 
 　本页只收录国资委监管央企，至于财政部监管的中央金融机构(六大银行等)，请看大萌编纂的 [个人金融理财圈](jinrong)网页。
 
-<h2 id='6'>鸣谢</h2>
-<div align="right"><a href="#" target="_top">↑ Top</a></div>
+<h2 id='D6'>鸣谢</h2>
 
 * [大云网>电力新闻](http://www.sgcio.com/news/zh/109242.html)，2023-01-31：《98家央企及下属409家上市企业全名单 含电力能源上市企业》
 * [“半坡之木”百家号](https://baijiahao.baidu.com/s?id=1709310208808188285)，2021-08-29：《主板、中小板、创业板、科创板、新三板的股票代码规定及相互区别》
-* ["Morris.Zhang"知乎高赞回答](https://www.zhihu.com/question/35010016)，2021/09/11-2022/03/17：《中概股、一级市场、二级市场、A股、B股、港股、创业板，分别什么意思啊？》
+* ["Morris.Zhang"知乎高赞回答](https://www.zhihu.com/question/35010016)，2021/09-2022/03：《中概股、一级市场、二级市场、A股、B股、港股、创业板，分别什么意思啊？》
 
+<div align="right"><a href="#" target="_top">↑ Top</a></div>
 
-　　节约您的搜寻时间，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>，如果[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
+　　节约您的搜寻时间，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>，[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
 
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可
