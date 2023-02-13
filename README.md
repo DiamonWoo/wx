@@ -6,9 +6,9 @@
 ------
 
 *	/falv/  	　☸️[大萌望海楼](falv/fahai)，找法不用愁
-*	/fuwu/yangqi	　[央企](fuwu/yangqi)股票一览表📈，国资委98家央企旗下上市公司
+*	/fuwu/yangqi	　[央企股票一览表](fuwu/yangqi)📈，国资委98家央企旗下上市公司
 *	/fly/waixuan	　🔥[中央外宣云媒体](fly/waixuan)，文明古国在崛起
-*	/ydyl/nations	　[国别代码速查表](ydyl/nations)🗺， 世界各国的代码与国情速查
+*	/ydyl/nations	　[世界国别速查表](ydyl/nations)🗺， 世界各国的代码与国情速查
 <!-- *	/fuwu/jujia	　[新冠居家指引](fuwu/jujia)文件速查，中医药康复治疗方法😷 -->
 
 　　这里是 [老生常谈](https://Laosheng.top)的镜像页，请尽量使用**浏览器**访问主网站，不要长期使用微信这类看不到网址的App访问该站。
