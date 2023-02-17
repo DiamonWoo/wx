@@ -369,11 +369,9 @@
 　　在249个ISO 1366国别代码之外，还有少量代码为特殊组织保留，如：EU=欧盟，SU=苏联，UN=联合国。中国在某些组织也有驻外使团，收录如下，在外交部网站可查阅中国在国际组织的更多[驻外使团](https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/)。
 
 🇪🇺	⠀ ⠀EU⠀	<b>	<a title="欧洲联盟" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/1206_679930/1206x0_679932/">欧盟</a> 	European Union	</b>	⠀-	⠀[💮](http://eu.mofcom.gov.cn "驻欧盟使团经济商务处")	⠀[🏪](http://eu.china-mission.gov.cn/ "中国驻欧盟使团")	⠀0032	<sup>总部：比利时布鲁塞尔（Brussels）</sup>	<sup>-7h</sup>	⠀[🏛](https://www.eeas.europa.eu/delegations/china_zh-hans "欧盟驻华代表团")	[wb](https://weibo.com/euinchina "欧盟在中国")	⠀[👥](https://www.eeas.europa.eu/_en "欧盟对外行动署")	⠀[🏢](https://commission.europa.eu/index_en "欧盟委员会")	⠀€<sup>[欧元](https://cn.bing.com/search?q=EUR兑CNY)</sup>	EUR  
+🇺🇳	⠀ ⠀UN⠀	<b>	<a title="联合国" href="https://www.un.org/zh">联合国</a> 	United Nations	</b>	⠀-	⠀[💮](http://undg.mofcom.gov.cn/ "中国常驻联合国代表团发展处")	⠀[🏪](http://un.china-mission.gov.cn/ "中国常驻联合国代表团")	⠀001	<sup>总部：美国纽约（newyouk）</sup>	<sup>-13h</sup>	⠀[🏛](https://china.un.org/zh/ "联合国驻华工作团队")	[wb](https://weibo.com/un "联合国")	　	　	⠀  
 
-
-
-
-+	202302　调整国别顺序，重点在亚洲、欧洲，收录ISO保留代码EU/欧盟。
++	202302　收录ISO保留代码EU/欧盟，UN/联合国；
 +	202212　标记2022世界杯32支球队所在国。
 +	202212　收录全部249个国家和地区的emoji旗帜符号；
 +	202209　增加商务部《经贸指南》，增加国际长途区号，正在补充各国使馆网址
