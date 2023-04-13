@@ -8,10 +8,14 @@
 　　个人理财在面对纷繁复杂的金融大潮时，需要坚守底线，认清全局。大萌以‘集成网页’形式，试图囊括中国金融业体系架构，帮助认清自身在中国金融业全局中的渺小地位。　**金融圈**网页以监管部门为首，概述中国金融体系，并重点介绍允许个人接触的理财渠道。
 
 　　中国的金融业实行‘[分业经营、分业监管](http://www.gov.cn/xinwen/2020-09/14/content_5543303.htm)’架构，日常监管工作由国务院三个直属机构负责，俗称‘一行两会’：人行、证监会、银保监会。其中银保监会于2018年由*银监会*与*保监会*合并而成，旧称‘一行三会’。　这些监管部门覆盖了金融业几乎所有方面，包括中国金融的四大支柱行业：银行业、保险业、证券业(债/股/基/期)、信托业，其中银行业的总市值超过后面三者之和。　近年兴起的互联网金融有‘混业经营’态势，对分业监管体系提出了挑战。
+
+　　财政部2021年2月发布 [中央金融企业名录](http://jrs.mof.gov.cn/gongzuotongzhi/202102/t20210219_3658752.htm)27家。
+
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/个人理财金融圈
 </div>
 <div id='0'>简目：
+央企四类、
 一行两会三所、
 港澳台交易所、
 主要商业银行、
@@ -19,6 +23,58 @@
 其他交易所、
 财经云媒体
 </div>
+
+改革近况
+-------
+
+*	2023-03-27，二十届中央第一轮巡视将对对光大集团/人保集团等[5家中管金融企业](https://www.ccdi.gov.cn/toutiaon/202303/t20230327_255227.html)党委开展巡视“回头看”。
+*	2022-01-06，财政部批准同意国家农担公司纳入“[中央金融企业名录](http://guojianongdan.cn/content/details19_1747.html)”。 
+
+中央企业四大类
+-------------
+
+　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企（2022年98家），也是数量最多的央企。广义的央企还包括：财政部管理的金融类央企（2022年27家）、行政类央企3家（国铁/邮政/烟草）和文化类央企3家（出版/对外/广电）。　实业类央企请见 [央企股票全家福](yangqi)页面。，本页面收录其余三类央企。
+
+* 行政类央企3家，交通部管理：中国铁路/中国邮政；工信部管理的：中国烟草。
+* 文化类央企3家，
+* 金融类，财政部监管，2022年27家，工行/中信/人保……详情见下。
+* 实业类，国资委监管，2022年98家，中核/电信/中粮……
+
+
+X1	[国铁集团](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	- - - <small>	⠀北京  	⠀中国国家铁路集团有限公司 	⠀- -	⠀[所属企业](http://www.china-railway.com.cn/gsjs/zzjg/)</small>  
+X2	[中国邮政](http://www.chinapost.com.cn){:id="X2"} 	⠀POST	<small>[网站群](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)	⠀北京  	⠀中国邮政集团有限公司 	⠀- -	⠀《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)</small>  
+X3	[中国烟草](http://www.tobacco.gov.cn){:id="X3"} 	⠀TOBACCO	- - - <small>	⠀北京  	⠀中国烟草总公司 	⠀- -	⠀【国家烟草专卖局】合体，网站群见首页底部</small>  
+W1	[中国出版](http://cn.cnpubg.com){:id="W1"} 	⠀CPG	<small>[网站群](http://cn.cnpubg.com/overview/sites/)	⠀北京  	⠀中国出版集团有限公司 	⠀- -	⠀[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)</small>  
+W2	[中外文化](http://www.caeg.cn){:id="W2"} 	⠀CAEG	<small>[网站群](http://www.caeg.cn/whjtgs/ppxm/events.shtml)	⠀北京  	⠀中国对外文化集团有限公司 	⠀- -	⠀2021年1月整体划转至紫荆文化集团</small>  
+W3	[中国广电](http://www.cbn.cn){:id="W3"} 	⠀BroadNe	- - - <small>	⠀北京  	⠀中国广播电视网络集团有限公司 	⠀- -	⠀网站群见首页底部</small>  
+1	[中投](http://www.china-inv.cn){:id="1"} 	⠀CIC	- - - <small>	⠀北京 🚩 	⠀中国投资有限责任公司 	⠀- -	⠀中投公司根据国务院要求持有中央汇金公司股权</small>  
+2	[国开行](http://www.cdb.com.cn){:id="2"} 	⠀CDB	- - - <small>	⠀北京 🚩 	⠀国家开发银行 	⠀- -	</small>  
+3	[进出口银行](http://eximbank.gov.cn){:id="3"} 	⠀EXIMB	- - - <small>	⠀北京  	⠀中国进出口银行 	⠀- -	</small>  
+4	[农发行](http://www.adbc.com.cn){:id="4"} 	⠀ADBC	- - - <small>	⠀北京 🚩 	⠀中国农业发展银行 	⠀- -	</small>  
+5	[工商银行](https://www.icbc.com.cn){:id="5"} 	⠀ICBC	- - - <small>	⠀北京  	⠀中国工商银行股份有限公司 	⠀- -	</small>  
+6	[农业银行](https://www.abchina.com){:id="6"} 	⠀ABChina	- - - <small>	⠀北京  	⠀中国农业银行股份有限公司 	⠀- -	</small>  
+7	[中国银行](https://www.boc.cn){:id="7"} 	⠀BOC	- - - <small>	⠀北京  	⠀中国银行股份有限公司 	⠀- -	</small>  
+8	[建设银行](http://www.ccb.com){:id="8"} 	⠀CCB	- - - <small>	⠀北京  	⠀中国建设银行股份有限公司 	⠀- -	</small>  
+9	[交通银行](https://www.bankcomm.com){:id="9"} 	⠀COMM	- - - <small>	⠀北京  	⠀交通银行股份有限公司 	⠀- -	</small>  
+10	[中信集团](https://www.group.citic){:id="10"} 	⠀CITIC	<small>[网站群](https://www.group.citic/html/Diversified_Portfolio/)	⠀北京  	⠀中国中信集团有限公司 	⠀- -	</small>  
+11	[光大集团](https://www.ebchina.com){:id="11"} 	⠀EBChina	<small>[网站群](https://www.ebchina.com/ebchina/stgd/dcf/)	⠀北京 🚩 	⠀中国光大集团股份公司 	⠀- -	</small>  
+12	[中国人保](https://www.picc.com){:id="12"} 	⠀PICC	<small>[网站群](https://www.picc.com/gyrb/jtccy/)	⠀北京 🚩 	⠀中国人民保险集团股份有限公司 	⠀- -	</small>  
+13	[中国人寿](https://www.chinalife.com.cn){:id="13"} 	⠀LIFE	<small>[网站群](https://www.chinalife.com.cn/chinalife/gywm/)	⠀北京  	⠀中国人寿保险（集团）公司 	⠀- -	</small>  
+14	[](http://www.cntaiping.com){:id="14"} 	⠀TaiPing	<small>[网站群](http://www.cntaiping.com/about-jtcy/)	⠀北京  	⠀中国太平保险集团有限责任公司 	⠀- -	</small>  
+15	[](https://sinosure.com.cn){:id="15"} 	⠀SINO	- - - <small>	⠀北京  	⠀中国出口信用保险公司 	⠀- -	</small>  
+16	华融资管公司	⠀　　	- - - <small>	⠀北京  	⠀中国华融资产管理股份有限公司 	⠀- -	</small>  
+17	长城资管公司	⠀　　	- - - <small>	⠀北京  	⠀中国长城资产管理股份有限公司 	⠀- -	</small>  
+18	东方资管公司	⠀　　	- - - <small>	⠀北京  	⠀中国东方资产管理股份有限公司 	⠀- -	</small>  
+19	信达资管公司	⠀　　	- - - <small>	⠀北京  	⠀中国信达资产管理股份有限公司 	⠀- -	</small>  
+20		⠀　　	- - - <small>	⠀北京  	⠀中央国债登记结算有限责任公司 	⠀- -	</small>  
+21		⠀　　	- - - <small>	⠀北京  	⠀中国农业再保险股份有限公司 	⠀- -	</small>  
+22		⠀　　	- - - <small>	⠀北京  	⠀中国政企合作投资基金股份有限公司 	⠀- -	</small>  
+23		⠀　　	- - - <small>	⠀北京  	⠀国家融资担保基金有限责任公司 	⠀- -	</small>  
+24		⠀　　	- - - <small>	⠀北京  	⠀国家农业信贷担保联盟有限责任公司 	⠀- -	</small>  
+25		⠀　　	- - - <small>	⠀北京  	⠀中国再保险（集团）股份有限公司 	⠀- -	</small>  
+26		⠀　　	- - - <small>	⠀北京  	⠀中国建银投资有限责任公司 	⠀- -	</small>  
+27		⠀　　	- - - <small>	⠀北京  	⠀中国银河金融控股有限责任公司 	⠀- -	</small>  
+
 
 
 中国金融业体系架构
@@ -464,8 +520,8 @@ Relevant Departments
 ```
 	老生常谈 © 2019-2023 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
+	个人金融理财圈 version 0.5.4	202304
 	https://laosheng.top/fuwu/jinrong
-	个人金融理财圈	v0.5.3	202302
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
