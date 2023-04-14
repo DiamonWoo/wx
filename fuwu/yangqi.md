@@ -4,9 +4,9 @@
 
 		你们尽管想象，我们负责实现 —— 国资小新评《流浪地球2》，20230130
 
-　　2022年底，国资委网站发布了最新的央企名录，共98家中央直属国企。这是《[国企改革三年行动方案](http://www.sasac.gov.cn/n4470048/n13461446/n15390485/)（2020—2022年）》收官后的最新阵容，中央企业存量法人户数大幅压减。这些央企多是大型集团，有的旗下公司在沪深/海外上市，有的拥有自己的新闻出版机构，主营业务涉及国计民生的各方面。
+　　2022年底，国资委网站发布了最新的[央企名录](http://www.sasac.gov.cn/n2588035/n2641579/n2641645/)，共98家中央直属国企。这是《国企改革三年行动方案（2020—2022年）》收官后的最新阵容，中央企业存量法人户数大幅压减。这些央企多是大型集团，有的旗下公司在沪深/海外上市，有的拥有自己的新闻出版机构，主营业务涉及国计民生的各方面。
 
-　　央企是中国经济高质量发展的中坚力量，了解**央企股**就是了解中国经济。大萌用[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)形式收录 国资委监管的(实业类)央企相关网址，做成‘央企股票全家福’网页，争取成为央企网址全集，为网民了解‘央企股’节约时间。
+　　央企是中国经济高质量发展的中坚力量，了解**央企股**就是了解中国经济。大萌用[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)形式收录 国资委监管的(实业类)央企相关网址，做成‘央企股票全家福’网页，争取成为央企网址全集，为股民了解‘央企股’节约时间。
 
 　　‘央企股’具体收录：近百家央企官网、网站群导航、官方微博、新闻出版机构/免费的数字报📰；以及央企旗下大约四百家上市公司的 股票简称、代码与行情页📈、公司全名与官网。网页数据密集，请善用浏览器页内搜索。
 
@@ -14,21 +14,21 @@
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/央企股票全家福
 </div>
 
-简目：LSIP进度、改革近况、央企名录、[图例与统计](#D3){:target="_top"}、上市公司名单、国资委网址、[鸣谢](#D6){:target="_top"}
+简目：LSIP进度、改革近况、央企名录、[图例与统计](#D3){:target="_top"}、上市公司名单、[国资委网址](#D5){:target="_top"}、[鸣谢](#D6){:target="_top"}
 
 
 央企股LSIP进度
 --------------
 
-		v0.4.2LC = 1109	
-		　设计LC ≥ 1264　= 98× m + 436× n 　（m≥4，n≥2，待定）
-		　完成率 ≈ 　87.7%
+		v0.4.2 LC = 1109	
+		　设计 LC ≥ 1264　= 98× m + 436× n 　（m≥4，n≥2，待定）
+		　 完成率 ≈ 　87.7%
 
 
 改革近况
 --------
 
-*	2023-03-27，[二十届中央第一轮巡视](https://www.ccdi.gov.cn/toutiaon/202303/t20230327_255227.html)将对中国电科/中国移动等30家中管企业(标记🚩)党组开展常规巡视。
+*	2023-03-27，二十届中央第一轮巡视将对中国电科/中国移动等[30家中管企业](https://www.ccdi.gov.cn/toutiaon/202303/t20230327_255227.html)(标记🚩)党组开展常规巡视。
 *	2022-12-31，中国南水北调集团有限公司(48) 列入国资委履行出资人职责企业名单（直接监管）。
 *	2022-12-21，[中钢集团](http://www.sinosteel.com)整体划入⠀中国宝武(35)，不再由国资委直接监管。
 
@@ -623,22 +623,22 @@
 [96▲](#96){:target="_top"}{:id="G96"}⠀	中储股份	[600787](http://webapi.cninfo.com.cn/#/company?companyid=600787)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接	⠀[中储发展股份有限公司](http://www.cmstd.com.cn)</sub>  
 [97△](#97){:target="_top"}{:id="G97"}⠀	国新健康	[000503](http://webapi.cninfo.com.cn/#/company?companyid=000503)	<sub>⠀深市⠀主板⠀A股	⠀待定连接	⠀[国新健康保障服务集团股份有限公司](http://www.crhms.cn)</sub>  
 [98▲](#98){:target="_top"}{:id="G98"}⠀			<sub>⠀⠀⠀	⠀待定连接	⠀[]()</sub>  
-
 。
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
 
-国资委常用网址
---------------
+<h2 id='D5'>延申阅读</h2>
 
-　[SASAC 国资委](http://www.sasac.gov.cn)官网：
+* 国资委常用网址
+
+　国资委 [SASAC官网](http://www.sasac.gov.cn)：
 	[机构概况](http://www.sasac.gov.cn/n2588020/index.html)、
 	[央企名录](http://www.sasac.gov.cn/n4422011/n14158800/n14158998/c14159097/content.html) / [2](http://www.sasac.gov.cn/n2588035/n2641579/n2641645/)、
 	[国企改革](http://www.sasac.gov.cn/n2588030/n2588924/)  
 　国有资产监督管理委员会（正部级），为国务院直属特设机构，其党委履行党中央规定的职责。  
-　State-owned Assets Supervision and Administration Commission of the State Council
-
-　国资委 [新闻中心](http://www.sasac.gov.cn/n2588020/n2877938/n2879597/)：
+　State-owned Assets Supervision and Administration Commission of the State Council  
+　专题：《[国企改革三年行动方案](http://www.sasac.gov.cn/n4470048/n13461446/n15390485/)（2020—2022年）》  
+　国资委[新闻中心](http://www.sasac.gov.cn/n2588020/n2877938/n2879597/)：
 	[新闻发布](http://www.sasac.gov.cn/n2588025/)；
 	[信息公开](http://xxgk.sasac.gov.cn:8080/gdnps/pc/index.jsp)  
 　官方微博：[国资小新](https://weibo.com/guozixiaoxin) 微博粉丝超500万，
@@ -648,6 +648,7 @@
 　32个省级[地方国资委](http://www.sasac.gov.cn/n4422011/n17627531/c17633273/content.html)
 
 　除了上述国资委监管的实业类央企外，还有行政类央企3家（国家铁路集团/中国烟草/中国邮政集团）、文化类央企3家（中国出版集团/对外文化集团/中国广电）、金融类央企26家（工商银行/中信集团/中国人保集团……）。金融类央企详情请看大萌编纂的 [个人金融理财圈](jinrong)。
+
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
 <h2 id='D6'>鸣谢</h2>
@@ -658,13 +659,13 @@
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
-　　节约您的搜寻时间，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>，如-[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
+　　节约您的搜寻时间，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，如-[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
 
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	https://Laosheng.top/fuwu/yangqi
 	央企股票全家福 version 0.4.4	202304
+	https://Laosheng.top/fuwu/yangqi
 ```
 
 回到首页
