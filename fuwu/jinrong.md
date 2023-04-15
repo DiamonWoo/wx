@@ -9,22 +9,21 @@
 
 　　认识金融体系，首先要认识金融央企，这是中国金融业的心脏。我国央企广义上分四类：行政类（国铁/烟草/邮政）、文化类（出版/对外/广电）、金融类（财政部公布名单）、实业类（国资委公布名单）。实业类央企请见[央企股票全家福](yangqi)，本页面收录前三类的官方网址。
 
-　　本页收录网址范围目前包括：财政部公布的‘中央金融企业名录’及下属网站、一行两会监管体系、主要交易所/银行/保险集团。网页设计仍未定稿，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>。
+　　本页收录网址范围目前包括：行政央企与文化央企及下属网站、财政部公布的‘中央金融企业名录’、一行两会与交易所、主要商业银行与保险集团。网页设计仍未定稿，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/个人理财金融圈
 </div>
 <div id='0'>简目：
 改革近况、
-央企四类、
-中央金融企业、
+央企四类、中央金融企业、
 一行两会三所、港澳台交易所、
 主要商业银行、主要保险集团、
-法定信息披露媒体、金融业有关部门、
+收录口径、
 参考文献
 </div>
 
-理财圈LSIP进度
+金融圈LSIP进度
 -------------
 
 		大萌曾试图用‘集成网页’形式，囊括中国金融业体系架构，但改版两次，尚未成功。
@@ -52,14 +51,14 @@
 * 实业类，国资委监管，2022年98家，中核/电信/中粮……
 
 国务院/[交通运输部](https://www.mot.gov.cn)/[国家铁道局](https://www.nra.gov.cn)：  
-X1	[<b>国铁集团</b>](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	- - - <small>	⠀北京  	⠀中国国家铁路集团有限公司 	⠀- -	⠀[组织机构](http://www.china-railway.com.cn/gsjs/zzjg/)  
+X1	[<b>国铁集团</b>](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	- - - <small>	⠀北京  	⠀中国国家铁路集团有限公司 	⠀- -	⠀[组织机构](http://www.china-railway.com.cn/gsjs/zzjg/)</small>  
 国铁本级网站：
 [国铁客运12306](https://www.12306.cn)、
 [国铁货运95306](http://www.95306.cn "招商、采购")、
 [人民铁道报](http://www.peoplerail.com)
 
-国铁所属企业：  
-* 铁路局集团公司（18个）：
+国铁所属企业：<sub>  
+铁路局集团公司（18个）：
 　　哈尔滨局、
 沈阳局、北京局、
 太原局、呼和浩特局、
@@ -72,13 +71,13 @@ X1	[<b>国铁集团</b>](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	
 兰州局、乌鲁木齐局、
 青藏
 
-* 川藏铁路有限公司
-* 专业运输公司（3个）：  
+川藏铁路有限公司  
+专业运输公司（3个）：
 　　[中铁集装箱](http://www.crct.com "中铁集装箱运输有限责任公司")
 [中铁特货](http://www.crscsc.com.cn "中铁特货运输有限责任公司")、
 [中铁快运95572](http://www.95572.com "中铁快运股份有限公司")
 
-* 非运输企业（11个）：  
+非运输企业（11个）：
 　　中国铁路投资有限公司、
 [铁道科学研究院](http://www.rails.cn "中国铁道科学研究院集团有限公司")、
 [铁路经济规划研究院](http://www.crecc.com.cn "中国铁路经济规划研究院有限公司")、
@@ -90,12 +89,12 @@ X1	[<b>国铁集团</b>](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	
 《人民铁道》报业有限公司、
 中国铁路专运中心、
 中国铁路文工团有限公司。
-
-* 所属事业单位（3个）：  
+</sub>
+所属事业单位（3个）：<sub>  
 　　铁道党校、
 中国铁道博物馆、
 铁道战备舟桥处。
-</small>
+</sub>
 
 国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)：  
 X2	[<b>中国邮政</b>](http://www.chinapost.com.cn){:id="X2"} 	⠀POST	<small>[网站群](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)	⠀北京  	⠀中国邮政集团有限公司 	⠀- -	⠀《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)  
@@ -120,40 +119,8 @@ X2	[<b>中国邮政</b>](http://www.chinapost.com.cn){:id="X2"} 	⠀POST	<small>
 <a href="http://soft.chinapost.com.cn/">中邮信息科技（北京）有限公司</a>、
 <a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
 
-各地邮政：
-<a href="http://bj.chinapost.com.cn/">北京邮政</a> 
-<a href="http://tj.chinapost.com.cn/">天津邮政</a> 
-<a href="http://HE.chinapost.com.cn/">河北邮政</a> 
-<a href="http://sx.chinapost.com.cn/">山西邮政</a>
-<a href="http://nm.chinapost.com.cn/">内蒙古邮政</a> 
-<a href="http://ln.chinapost.com.cn/">辽宁邮政</a> 
-<a href="http://jl.chinapost.com.cn/">吉林邮政</a> 
-<a href="http://hl.chinapost.com.cn/">黑龙江邮政</a> 
-<a href="http://sh.chinapost.com.cn/">上海邮政</a> 
-<a href="http://js.chinapost.com.cn/">江苏邮政</a>
-<a href="http://ah.chinapost.com.cn/">安徽邮政</a>  
-<a href="http://zj.chinapost.com.cn/">浙江邮政</a> 
-<a href="http://fj.chinapost.com.cn/">福建邮政</a> 
-<a href="http://jx.chinapost.com.cn/">江西邮政</a> 
-<a href="http://sd.chinapost.com.cn/">山东邮政</a> 
-<a href="http://ha.chinapost.com.cn/">河南邮政</a> 
-<a href="http://hb.chinapost.com.cn/">湖北邮政</a> 
-<a href="http://hn.chinapost.com.cn/">湖南邮政</a> 
-<a href="http://gd.chinapost.com.cn/">广东邮政</a> 
-<a href="http://gx.chinapost.com.cn/">广西邮政</a> 
-<a href="http://hi.chinapost.com.cn/">海南邮政</a> 
-<a href="http://cq.chinapost.com.cn/">重庆邮政</a> 
-<a href="http://sc.chinapost.com.cn/">四川邮政</a> 
-<a href="http://gz.chinapost.com.cn/">贵州邮政</a>
-<a href="http://yn.chinapost.com.cn/">云南邮政</a> 
-<a href="http://XZ.chinapost.com.cn/">西藏邮政</a>
-<a href="http://SN.chinapost.com.cn/">陕西邮政</a> 
-<a href="http://gs.chinapost.com.cn/">甘肃邮政</a>
-<a href="http://qh.chinapost.com.cn/">青海邮政</a> 
-<a href="http://nx.chinapost.com.cn/">宁夏邮政</a> 
-<a href="http://xj.chinapost.com.cn/">新疆邮政</a> 
-</small>
 
+国务院/[工业和信息化部](https://www.miit.gov.cn)/[国家烟草专卖局](http://www.tobacco.gov.cn/)：
 X3	[中国烟草](http://www.tobacco.gov.cn){:id="X3"} 	⠀TOBACCO	- - - <small>	⠀北京  	⠀中国烟草总公司 	⠀- -	⠀【国家烟草专卖局】合体，网站群见首页底部</small>  
 
 W1	[中国出版](http://cn.cnpubg.com){:id="W1"} 	⠀CPG	<small>[网站群](http://cn.cnpubg.com/overview/sites/)	⠀北京  	⠀中国出版集团有限公司 	⠀- -	⠀[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)</small>  
@@ -286,11 +253,11 @@ Financial Exchange
 * [柜买中心](https://www.tpex.org.tw/)　台北交易所/财团法人中华民国证券柜台买卖中心（OTC）
 
 
-中国主要商业银行
----------------
+主要商业银行
+-----------
 Banks
 
-国有大型商业银行（6家）
+国有大型商业银行（6家）<sub>及栏目页</sub>
 
 <b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>⠀95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)	⠀[收费标准](https://www.icbc.com.cn/ICBC/金融信息/资费公告/中国工商银行服务价目表电子银行2012版.htm)	⠀个人投资: 	[理财](https://www.icbc.com.cn/ICBC/网上理财/default.htm)	/[基金](https://www.icbc.com.cn/ICBC/网上基金/default.htm)	⠀[网银登录](https://mybank.icbc.com.cn/)	<sup>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sup>  
 <b>[农业银行](https://www.abchina.com "中国农业银行股份有限公司")</b>⠀95599	⠀[全国分行](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnbranch_org/)	⠀[收费标准](https://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/)	⠀[个人投资](https://ewealth.abchina.com): 	[理财](https://ewealth.abchina.com/fs/filter/)	/[基金](https://ewealth.abchina.com/fund/)	⠀[网银登录](https://perbank.abchina.com/EbankSite/startup.do)	<sup></sup>  
@@ -300,7 +267,7 @@ Banks
 <b>[邮储银行](https://www.psbc.com "中国邮政储蓄银行股份有限公司")</b>⠀95580	⠀[全国分行](https://www.psbc.com/cn/fhpd/)	⠀[收费标准](https://www.psbc.com/cn/common/bjfw/fwjmb_531/)	⠀[个人投资](https://www.psbc.com/cn/grfw/tzlc/): 	[理财](https://www.psbc.com/cn/grfw/tzlc/lc/)	/[基金](https://www.psbc.com/cn/grfw/tzlc/jj/)	⠀[网银登录](https://pbank.psbc.com/perbank/)	<sup></sup>  
 
 
-全国性股份制商业银行（12家）
+全国性股份制商业银行（12家）<sub>及栏目页</sub>
 
 <b>[中信银行](https://www.citicbank.com "中信银行股份有限公司")</b>⠀95558	⠀[全国分行](https://www.citicbank.com/about/branches/)	⠀收费标准	⠀[个人投资](https://www.citicbank.com/personal/investment/): 	理财	/基金	⠀[网银登录](https://i.bank.ecitic.com/perbank6/signIn.do)	<sup></sup>  
 <b>[光大银行](https://www.cebbank.com "中国光大银行股份有限公司")</b>⠀95595	⠀[全国分行](https://www.cebbank.com/eportal/ui?pageId=484657)	⠀[收费标准](https://www.cebbank.com/site/fwjgml34/)	⠀个人投资: 	[理财](https://www.cebbank.com/site/gryw/yglc/lccp49/)	/[基金](https://www.cebbank.com/site/gryw/jj/)	⠀[网银登录](https://e.cebbank.com/per/prePerlogin.do?_locale=zh_CN)	<sup>[光大理财](https://www.cebwm.com/wealth/grlc/index.html)</sup>  
@@ -537,13 +504,6 @@ Banks
 <a title="玉山银行（中国）有限公司 ">玉山银行</a>	—–
 [中信银行国际](https://www.cncbinternational.com/home/sc "中信银行国际（中国）有限公司 ")	-----　
 
-
-特殊机构类型（1+2）：
-
-[国开行](http://www.cdb.com.cn "国家开发银行 ")	-----　
-[进出口银行](http://eximbank.gov.cn "中国进出口银行 ")	-----　
-[农发行](http://www.adbc.com.cn "中国农业发展银行 ")	-----　
-
 	农村商业银行（1427家） 农村合作银行（33家） 村镇银行（1616家） 农村信用社（812家） 农村资金互助社（45家）
 
 　　到银保监会查询最新[银行业金融机构法人名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)
@@ -583,27 +543,12 @@ Exchanges
 疑似已关闭交易所：  
 　　~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
 
+收录口径
+--------
 
-证券业法定信息披露媒体
-------------------------------
-Statutory Disclosure Media 7家
+　　行政央企与文化央企及下属网站，下属网站是指向公众开放的，有独立一级域名的网站。集团内部邮箱向公众开放，不收录；地方子站使用二级域名的，不收录。
 
-* [中国日报](https://www.chinadaily.com.cn) / $[证券日报](http://www.zqrb.cn)
-* [中国证券报](https://www.cs.com.cn) / [上海证券报](https://www.cnstock.com)
-* [金融时报](https://www.financialnews.com.cn) / [证券时报](https://www.stcn.com)
-* $[经济参考报](http://www.jjckb.cn)
-
-
-* 财经云媒体
-
-	东方财富、新浪财经、第一财经、财新网……
-
-（未完待续）
-
-
-更多金融业有关部门
---------------------
-Relevant Departments
+<h3>更多金融业有关部门</h3> Relevant Departments
 
 * 国务院
   * [发改委](https://www.ndrc.gov.cn/) / [国资委](http://www.sasac.gov.cn/)
@@ -611,6 +556,18 @@ Relevant Departments
   * [国务院其他部门](zhongyang)：工信部 / 税务总局 / 海关总署 / 市场监管总局 / 国家统计局 / 中国贸促会
 * 中共中央[财经委员会](https://www.12371.cn/special/cjw/)
 * 全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 
+
+其他银行业金融机构	
+
+	信托公司（68家） 贷款公司（13家） 企业集团财务公司（253家） 汽车金融公司（25家）  
+	金融租赁公司（69家） 消费金融公司（23家） 货币经纪公司（5家） 金融资产管理公司（4家）  
+	其他会管金融机构（14家）
+
+	全国68家信托公司，67家场外金融资产交易场所(金交所等)、近五千家银行
+	金交所?成立依据《金融企业国有资产转让管理办法》(财政部令第54号)
+	200多家财务公司，总资产约8万亿
+
+相关条目	央行金融机构评级，一级市场、二级市场、衍生性金融商品
 
 
 参考文献
@@ -620,17 +577,19 @@ Relevant Departments
 
 * 2020-07-17，财政部网站[财金〔2020〕69号](http://jrs.mof.gov.cn/zhengcefabu/cqgl/202007/t20200715_3550190.htm)文：关于印发《中央金融企业名录管理暂行规定》的通知
 
-	全国68家信托公司，67家场外金融资产交易场所(金交所等)、近五千家银行
-	金交所?成立依据《金融企业国有资产转让管理办法》(财政部令第54号)
-	200多家财务公司，总资产约8万亿
 
-一级市场、二级市场、衍生性金融商品
+<h3>证券业法定信息披露媒体</h3>
 
-其他银行业金融机构	
+Statutory Disclosure Media 7家
 
-	信托公司（68家） 贷款公司（13家） 企业集团财务公司（253家） 汽车金融公司（25家） 金融租赁公司（69家） 消费金融公司（23家） 货币经纪公司（5家） 金融资产管理公司（4家） 其他会管金融机构（14家）
+* [中国日报](https://www.chinadaily.com.cn) / $[证券日报](http://www.zqrb.cn)
+* [中国证券报](https://www.cs.com.cn) / [上海证券报](https://www.cnstock.com)
+* [金融时报](https://www.financialnews.com.cn) / [证券时报](https://www.stcn.com)
+* $[经济参考报](http://www.jjckb.cn)
 
-相关条目	中华人民共和国存款保险制度 央行金融机构评级
+* 财经云媒体
+
+	东方财富、新浪财经、第一财经、财新网……（未完待续）
 
 
 　　节约您的搜寻时间，老生常谈。 网页正在制作，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，如[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
