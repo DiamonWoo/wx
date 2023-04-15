@@ -50,14 +50,13 @@
 * 金融类，财政部监管，2022年27家，工行/中信/人保……详情见下。
 * 实业类，国资委监管，2022年98家，中核/电信/中粮……
 
-国务院/[交通运输部](https://www.mot.gov.cn)/[国家铁道局](https://www.nra.gov.cn)：  
+国务院 / [交通运输部](https://www.mot.gov.cn) / [国家铁道局](https://www.nra.gov.cn)：  
 X1	[<b>国铁集团</b>](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	- - - <small>	⠀北京  	⠀中国国家铁路集团有限公司 	⠀- -	⠀[组织机构](http://www.china-railway.com.cn/gsjs/zzjg/)</small>  
 国铁本级网站：
 [国铁客运12306](https://www.12306.cn)、
 [国铁货运95306](http://www.95306.cn "招商、采购")、
-[人民铁道报](http://www.peoplerail.com)
-
-国铁所属企业：<sub>  
+[人民铁道报](http://www.peoplerail.com)  
+国铁所属企业：<small>  
 铁路局集团公司（18个）：
 　　哈尔滨局、
 沈阳局、北京局、
@@ -68,15 +67,12 @@ X1	[<b>国铁集团</b>](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	
 [国铁广州局](http://www.gzrailway.com.cn "中国铁路广州局集团有限公司")、
 [国铁南宁局](http://www.nntlj.com "中国铁路南宁局集团有限公司")、
 成都局、昆明局、
-兰州局、乌鲁木齐局、
-青藏
-
+兰州局、乌鲁木齐局、青藏  
 川藏铁路有限公司  
 专业运输公司（3个）：
 　　[中铁集装箱](http://www.crct.com "中铁集装箱运输有限责任公司")
 [中铁特货](http://www.crscsc.com.cn "中铁特货运输有限责任公司")、
-[中铁快运95572](http://www.95572.com "中铁快运股份有限公司")
-
+[中铁快运95572](http://www.95572.com "中铁快运股份有限公司")  
 非运输企业（11个）：
 　　中国铁路投资有限公司、
 [铁道科学研究院](http://www.rails.cn "中国铁道科学研究院集团有限公司")、
@@ -88,16 +84,15 @@ X1	[<b>国铁集团</b>](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	
 [铁道出版社](http://www.tdpress.com "中国铁道出版社有限公司")、
 《人民铁道》报业有限公司、
 中国铁路专运中心、
-中国铁路文工团有限公司。
-</sub>
-所属事业单位（3个）：<sub>  
+中国铁路文工团有限公司。</small>
+
+所属事业单位（3个）：<small>
 　　铁道党校、
 中国铁道博物馆、
-铁道战备舟桥处。
-</sub>
+铁道战备舟桥处。</small> 
 
 国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)：  
-X2	[<b>中国邮政</b>](http://www.chinapost.com.cn){:id="X2"} 	⠀POST	<small>[网站群](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)	⠀北京  	⠀中国邮政集团有限公司 	⠀- -	⠀《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)  
+X2	[<b>中国邮政</b>](http://www.chinapost.com.cn){:id="X2"} 	⠀POST	<small>[网站群](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)	⠀北京  	⠀中国邮政集团有限公司 	⠀- -	⠀《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)</small>  
 
 控股公司及寄递事业部：
 <a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
@@ -106,7 +101,7 @@ X2	[<b>中国邮政</b>](http://www.chinapost.com.cn){:id="X2"} 	⠀POST	<small>
 <a href="http://cpcm.chinapost.com.cn/">中邮资本管理有限公司</a>、
 <a href="http://www.ems.com.cn/">集团公司寄递事业部</a>
 
-集团工会及直属单位：
+集团工会及直属单位：<small>
 <a href="http://www.cptu.org.cn/">中国邮政集团工会</a>、
 <a href="http://cpi.chinapost.com.cn/">中国集邮总公司</a>、
 <a href="http://cpri.chinapost.com.cn/">邮政科学研究规划院</a>、
@@ -118,9 +113,9 @@ X2	[<b>中国邮政</b>](http://www.chinapost.com.cn){:id="X2"} 	⠀POST	<small>
 <a href="http://cpac.chinapost.com.cn/">中国邮政广告传媒公司</a>、
 <a href="http://soft.chinapost.com.cn/">中邮信息科技（北京）有限公司</a>、
 <a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
+</small>
 
-
-国务院/[工业和信息化部](https://www.miit.gov.cn)/[国家烟草专卖局](http://www.tobacco.gov.cn/)：
+国务院 / [工业和信息化部](https://www.miit.gov.cn) / [国家烟草专卖局](http://www.tobacco.gov.cn/)：
 X3	[中国烟草](http://www.tobacco.gov.cn){:id="X3"} 	⠀TOBACCO	- - - <small>	⠀北京  	⠀中国烟草总公司 	⠀- -	⠀【国家烟草专卖局】合体，网站群见首页底部</small>  
 
 W1	[中国出版](http://cn.cnpubg.com){:id="W1"} 	⠀CPG	<small>[网站群](http://cn.cnpubg.com/overview/sites/)	⠀北京  	⠀中国出版集团有限公司 	⠀- -	⠀[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)</small>  
@@ -180,7 +175,7 @@ Finance⠀一行两会三所
 	中国银行保险监督管理委员会，监管：银行(储蓄/理财/贷款) /保险/信托  
 [国债收益率](http://www.cbirc.gov.cn/cn/view/pages/index/guozhai.html)、中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)、保险中介监管[信息系统](http://iir.circ.gov.cn/)。
 
-监管以下机构：
+监管以下机构 / 公布[各类机构名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)：
 - 银行  Bank  超4000家，总资产超360万亿
   * **6家国有商业银行**（工/农/中/建/交/邮储）
   * 12家全国股份制银行（招商/浦发……）、17家民营银行（网商/微众……）
@@ -227,8 +222,6 @@ Finance⠀一行两会三所
 
 - 期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。  
 - ……
-
-财政部(金融司)负责发布每年的[中央金融企业名录](http://jrs.mof.gov.cn/gongzuotongzhi/202102/t20210219_3658752.htm)，202102发布27家。
 
 
 港澳台金融交易所
@@ -546,7 +539,7 @@ Exchanges
 收录口径
 --------
 
-　　行政央企与文化央企及下属网站，下属网站是指向公众开放的，有独立一级域名的网站。集团内部邮箱向公众开放，不收录；地方子站使用二级域名的，不收录。
+　　行政央企与文化央企及下属网站，下属网站是指向公众开放的，有独立一级域名的网站。集团内部邮箱，不收录；地方子站使用二级域名的，缩略收录；下属机构有独立法人但没有独立域名的，酌情收录。
 
 <h3>更多金融业有关部门</h3> Relevant Departments
 
