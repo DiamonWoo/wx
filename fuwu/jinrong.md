@@ -50,74 +50,9 @@
 * 金融类，财政部监管，2022年27家，工行/中信/人保……详情见下。
 * 实业类，国资委监管，2022年98家，中核/电信/中粮……
 
-国务院 / [交通运输部](https://www.mot.gov.cn) / [国家铁道局](https://www.nra.gov.cn)：  
 X1	[<b>国铁集团</b>](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	- - - <small>	⠀北京  	⠀中国国家铁路集团有限公司 	⠀- -	⠀[组织机构](http://www.china-railway.com.cn/gsjs/zzjg/)</small>  
-国铁本级网站：
-[国铁客运12306](https://www.12306.cn)、
-[国铁货运95306](http://www.95306.cn "招商、采购")、
-[人民铁道报](http://www.peoplerail.com)  
-国铁所属企业：<small>  
-铁路局集团公司（18个）：
-　　哈尔滨局、
-沈阳局、北京局、
-太原局、呼和浩特局、
-郑州局、武汉局、
-西安局、济南局、
-上海局、南昌局、
-[国铁广州局](http://www.gzrailway.com.cn "中国铁路广州局集团有限公司")、
-[国铁南宁局](http://www.nntlj.com "中国铁路南宁局集团有限公司")、
-成都局、昆明局、
-兰州局、乌鲁木齐局、青藏  
-川藏铁路有限公司  
-专业运输公司（3个）：
-　　[中铁集装箱](http://www.crct.com "中铁集装箱运输有限责任公司")
-[中铁特货](http://www.crscsc.com.cn "中铁特货运输有限责任公司")、
-[中铁快运95572](http://www.95572.com "中铁快运股份有限公司")  
-非运输企业（11个）：
-　　中国铁路投资有限公司、
-[铁道科学研究院](http://www.rails.cn "中国铁道科学研究院集团有限公司")、
-[铁路经济规划研究院](http://www.crecc.com.cn "中国铁路经济规划研究院有限公司")、
-中国铁路信息科技有限责任公司、
-中国铁路设计集团有限公司、
-中国铁路国际有限公司、
-铁总服务有限公司、
-[铁道出版社](http://www.tdpress.com "中国铁道出版社有限公司")、
-《人民铁道》报业有限公司、
-中国铁路专运中心、
-中国铁路文工团有限公司。</small>
-
-所属事业单位（3个）：<small>
-　　铁道党校、
-中国铁道博物馆、
-铁道战备舟桥处。</small> 
-
-国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)：  
 X2	[<b>中国邮政</b>](http://www.chinapost.com.cn){:id="X2"} 	⠀POST	<small>[网站群](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)	⠀北京  	⠀中国邮政集团有限公司 	⠀- -	⠀《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)</small>  
-
-控股公司及寄递事业部：
-<a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
-<a href="https://www.chinapost-life.com">中邮人寿保险股份有限公司</a>、
-<a href="http://www.cnpsec.com.cn/main/index.html">中邮证券有限责任公司</a>、
-<a href="http://cpcm.chinapost.com.cn/">中邮资本管理有限公司</a>、
-<a href="http://www.ems.com.cn/">集团公司寄递事业部</a>
-
-集团工会及直属单位：<small>
-<a href="http://www.cptu.org.cn/">中国邮政集团工会</a>、
-<a href="http://cpi.chinapost.com.cn/">中国集邮总公司</a>、
-<a href="http://cpri.chinapost.com.cn/">邮政科学研究规划院</a>、
-<a href="http://www.chnppmuseum.com/">中国邮政文史中心</a>、
-<a href="http://www.chinapostnews.com.cn/newspaper/">新闻宣传中心</a>、
-<a href="http://stampprint.chinapost.com.cn">邮票印制局</a>、
-<a href="http://www.sjzpc.edu.cn/">石家庄邮电职业技术学院</a>、
-<a href="http://cped.chinapost.com.cn">中邮电子商务有限公司</a>、
-<a href="http://cpac.chinapost.com.cn/">中国邮政广告传媒公司</a>、
-<a href="http://soft.chinapost.com.cn/">中邮信息科技（北京）有限公司</a>、
-<a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
-</small>
-
-国务院 / [工业和信息化部](https://www.miit.gov.cn) / [国家烟草专卖局](http://www.tobacco.gov.cn/)：
 X3	[中国烟草](http://www.tobacco.gov.cn){:id="X3"} 	⠀TOBACCO	- - - <small>	⠀北京  	⠀中国烟草总公司 	⠀- -	⠀【国家烟草专卖局】合体，网站群见首页底部</small>  
-
 W1	[中国出版](http://cn.cnpubg.com){:id="W1"} 	⠀CPG	<small>[网站群](http://cn.cnpubg.com/overview/sites/)	⠀北京  	⠀中国出版集团有限公司 	⠀- -	⠀[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)</small>  
 W2	[中外文化](http://www.caeg.cn){:id="W2"} 	⠀CAEG	<small>[网站群](http://www.caeg.cn/whjtgs/ppxm/events.shtml)	⠀北京  	⠀中国对外文化集团有限公司 	⠀- -	⠀2021年1月整体划转至紫荆文化集团</small>  
 W3	[中国广电](http://www.cbn.cn){:id="W3"} 	⠀BroadNe	- - - <small>	⠀北京  	⠀中国广播电视网络集团有限公司 	⠀- -	⠀网站群见首页底部</small>  
@@ -506,10 +441,21 @@ Banks
 ---------------
 Insurance
 
-
-保险集团列表
-
-
+```
+1	中国人民保险集团股份有限公司
+2	中国人寿保险（集团）公司
+3	中国再保险（集团）股份有限公司
+4	中国太平保险集团有限责任公司
+5	中国太平洋保险（集团）股份有限公司
+6	中华联合保险集团股份有限公司
+7	中国平安保险（集团）股份有限公司
+8	阳光保险集团股份有限公司
+9	华泰保险集团股份有限公司
+10	泰康保险集团股份有限公司
+11	大家保险集团有限责任公司
+12	富德保险控股股份有限公司
+13	安联（中国）保险控股有限公司
+```
 
 
 国内其他交易所 
@@ -535,6 +481,75 @@ Exchanges
 
 疑似已关闭交易所：  
 　　~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
+
+
+两类央企下属网站
+---------------
+
+国务院 / [交通运输部](https://www.mot.gov.cn) / [国家铁道局](https://www.nra.gov.cn)：国铁集团  
+国铁本级网站：
+[国铁客运12306](https://www.12306.cn)、
+[国铁货运95306](http://www.95306.cn "招商、采购")、
+[人民铁道报](http://www.peoplerail.com)  
+国铁所属企业：<small>  
+　　铁路局集团公司（18个）：
+哈尔滨局、
+沈阳局、北京局、
+太原局、呼和浩特局、
+郑州局、武汉局、
+西安局、济南局、
+上海局、南昌局、
+[国铁广州局](http://www.gzrailway.com.cn "中国铁路广州局集团有限公司")、
+[国铁南宁局](http://www.nntlj.com "中国铁路南宁局集团有限公司")、
+成都局、昆明局、
+兰州局、乌鲁木齐局、青藏  
+　　川藏铁路有限公司  
+　　专业运输公司（3个）：
+[中铁集装箱](http://www.crct.com "中铁集装箱运输有限责任公司")
+[中铁特货](http://www.crscsc.com.cn "中铁特货运输有限责任公司")、
+[中铁快运95572](http://www.95572.com "中铁快运股份有限公司")  
+　　非运输企业（11个）：
+中国铁路投资有限公司、
+[铁道科学研究院](http://www.rails.cn "中国铁道科学研究院集团有限公司")、
+[铁路经济规划研究院](http://www.crecc.com.cn "中国铁路经济规划研究院有限公司")、
+中国铁路信息科技有限责任公司、
+中国铁路设计集团有限公司、
+中国铁路国际有限公司、
+铁总服务有限公司、
+[铁道出版社](http://www.tdpress.com "中国铁道出版社有限公司")、
+《人民铁道》报业有限公司、
+中国铁路专运中心、
+中国铁路文工团有限公司。</small>  
+　　所属事业单位（3个）：<small>
+铁道党校、
+中国铁道博物馆、
+铁道战备舟桥处。</small> 
+
+国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)：中国邮政  
+控股公司及寄递事业部：
+<a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
+<a href="https://www.chinapost-life.com">中邮人寿保险股份有限公司</a>、
+<a href="http://www.cnpsec.com.cn/main/index.html">中邮证券有限责任公司</a>、
+<a href="http://cpcm.chinapost.com.cn/">中邮资本管理有限公司</a>、
+<a href="http://www.ems.com.cn/">集团公司寄递事业部</a>
+
+集团工会及直属单位：<small>
+<a href="http://www.cptu.org.cn/">中国邮政集团工会</a>、
+<a href="http://cpi.chinapost.com.cn/">中国集邮总公司</a>、
+<a href="http://cpri.chinapost.com.cn/">邮政科学研究规划院</a>、
+<a href="http://www.chnppmuseum.com/">中国邮政文史中心</a>、
+<a href="http://www.chinapostnews.com.cn/newspaper/">新闻宣传中心</a>、
+<a href="http://stampprint.chinapost.com.cn">邮票印制局</a>、
+<a href="http://www.sjzpc.edu.cn/">石家庄邮电职业技术学院</a>、
+<a href="http://cped.chinapost.com.cn">中邮电子商务有限公司</a>、
+<a href="http://cpac.chinapost.com.cn/">中国邮政广告传媒公司</a>、
+<a href="http://soft.chinapost.com.cn/">中邮信息科技（北京）有限公司</a>、
+<a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
+</small>
+
+国务院 / [工业和信息化部](https://www.miit.gov.cn) / [国家烟草专卖局](http://www.tobacco.gov.cn/)：中国烟草  
+
+
 
 收录口径
 --------
