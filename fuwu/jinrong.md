@@ -7,21 +7,13 @@
 
 　　2022年，银行出售理财产品全面转向净值化，个人投资者接近1亿。购买理财产品，是普通人分享改开成果、支援国家建设的一种金融渠道。认清中国金融体系的顶层设计，有助于投资者选择适合产品，降低理财风险。
 
-　　认识金融体系，首先要认识金融央企，这是中国金融的定海神针。我国央企广义上分四类：行政类（国铁/烟草/邮政）、文化类（出版/对外/广电）、金融类（财政部公布的二十多家）、实业类（国资委监管的近百家）。实业类央企请见[央企股票全家福](yangqi)，本页面收录前三类的官方网址。
+　　认识金融体系，首先要认识金融央企，这是中国金融业的心脏。我国央企广义上分四类：行政类（国铁/烟草/邮政）、文化类（出版/对外/广电）、金融类（财政部公布名单）、实业类（国资委公布名单）。实业类央企请见[央企股票全家福](yangqi)，本页面收录前三类的官方网址。
 
-　　网页设计仍未定稿，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>。
+　　本页收录网址范围目前包括：财政部公布的‘中央金融企业名录’及下属网站、一行两会监管体系、主要交易所/银行/保险集团。网页设计仍未定稿，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/个人理财金融圈
 </div>
-
-理财圈LSIP进度
--------------
-
-	大萌曾试图用‘集成网页’形式，囊括中国金融业体系架构，但改版两次，尚未成功。
-	一方面金融体系纷繁复杂，大萌学起来吃力；另一方面，我国金融业仍在大力改革，数据未定，难以集成。
-	目前正在进行第三次改版。
-
 <div id='0'>简目：
 改革近况、
 央企四类、
@@ -31,6 +23,13 @@
 法定信息披露媒体、金融业有关部门、
 参考文献
 </div>
+
+理财圈LSIP进度
+-------------
+
+		大萌曾试图用‘集成网页’形式，囊括中国金融业体系架构，但改版两次，尚未成功。
+		一方面金融体系纷繁复杂，大萌学起来吃力；另一方面，我国金融业仍在大力改革，结构在变。
+		目前正在进行第三次改版。
 
 改革近况
 -------
@@ -52,9 +51,109 @@
 * 金融类，财政部监管，2022年27家，工行/中信/人保……详情见下。
 * 实业类，国资委监管，2022年98家，中核/电信/中粮……
 
+国务院/[交通运输部](https://www.mot.gov.cn)/[国家铁道局](https://www.nra.gov.cn)：  
+X1	[<b>国铁集团</b>](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	- - - <small>	⠀北京  	⠀中国国家铁路集团有限公司 	⠀- -	⠀[组织机构](http://www.china-railway.com.cn/gsjs/zzjg/)  
+国铁本级网站：
+[国铁客运12306](https://www.12306.cn)、
+[国铁货运95306](http://www.95306.cn "招商、采购")、
+[人民铁道报](http://www.peoplerail.com)
 
-X1	[国铁集团](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	- - - <small>	⠀北京  	⠀中国国家铁路集团有限公司 	⠀- -	⠀[所属企业](http://www.china-railway.com.cn/gsjs/zzjg/)</small>  
-X2	[中国邮政](http://www.chinapost.com.cn){:id="X2"} 	⠀POST	<small>[网站群](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)	⠀北京  	⠀中国邮政集团有限公司 	⠀- -	⠀《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)</small>  
+国铁所属企业：  
+* 铁路局集团公司（18个）：
+　　哈尔滨局、
+沈阳局、北京局、
+太原局、呼和浩特局、
+郑州局、武汉局、
+西安局、济南局、
+上海局、南昌局、
+[国铁广州局](http://www.gzrailway.com.cn "中国铁路广州局集团有限公司")、
+[国铁南宁局](http://www.nntlj.com "中国铁路南宁局集团有限公司")、
+成都局、昆明局、
+兰州局、乌鲁木齐局、
+青藏
+
+* 川藏铁路有限公司
+* 专业运输公司（3个）：  
+　　[中铁集装箱](http://www.crct.com "中铁集装箱运输有限责任公司")
+[中铁特货](http://www.crscsc.com.cn "中铁特货运输有限责任公司")、
+[中铁快运95572](http://www.95572.com "中铁快运股份有限公司")
+
+* 非运输企业（11个）：  
+　　中国铁路投资有限公司、
+[铁道科学研究院](http://www.rails.cn "中国铁道科学研究院集团有限公司")、
+[铁路经济规划研究院](http://www.crecc.com.cn "中国铁路经济规划研究院有限公司")、
+中国铁路信息科技有限责任公司、
+中国铁路设计集团有限公司、
+中国铁路国际有限公司、
+铁总服务有限公司、
+[铁道出版社](http://www.tdpress.com "中国铁道出版社有限公司")、
+《人民铁道》报业有限公司、
+中国铁路专运中心、
+中国铁路文工团有限公司。
+
+* 所属事业单位（3个）：  
+　　铁道党校、
+中国铁道博物馆、
+铁道战备舟桥处。
+</small>
+
+国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)：  
+X2	[<b>中国邮政</b>](http://www.chinapost.com.cn){:id="X2"} 	⠀POST	<small>[网站群](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)	⠀北京  	⠀中国邮政集团有限公司 	⠀- -	⠀《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)  
+
+控股公司及寄递事业部：
+<a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
+<a href="https://www.chinapost-life.com">中邮人寿保险股份有限公司</a>、
+<a href="http://www.cnpsec.com.cn/main/index.html">中邮证券有限责任公司</a>、
+<a href="http://cpcm.chinapost.com.cn/">中邮资本管理有限公司</a>、
+<a href="http://www.ems.com.cn/">集团公司寄递事业部</a>
+
+集团工会及直属单位：
+<a href="http://www.cptu.org.cn/">中国邮政集团工会</a>、
+<a href="http://cpi.chinapost.com.cn/">中国集邮总公司</a>、
+<a href="http://cpri.chinapost.com.cn/">邮政科学研究规划院</a>、
+<a href="http://www.chnppmuseum.com/">中国邮政文史中心</a>、
+<a href="http://www.chinapostnews.com.cn/newspaper/">新闻宣传中心</a>、
+<a href="http://stampprint.chinapost.com.cn">邮票印制局</a>、
+<a href="http://www.sjzpc.edu.cn/">石家庄邮电职业技术学院</a>、
+<a href="http://cped.chinapost.com.cn">中邮电子商务有限公司</a>、
+<a href="http://cpac.chinapost.com.cn/">中国邮政广告传媒公司</a>、
+<a href="http://soft.chinapost.com.cn/">中邮信息科技（北京）有限公司</a>、
+<a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
+
+各地邮政：
+<a href="http://bj.chinapost.com.cn/">北京邮政</a> 
+<a href="http://tj.chinapost.com.cn/">天津邮政</a> 
+<a href="http://HE.chinapost.com.cn/">河北邮政</a> 
+<a href="http://sx.chinapost.com.cn/">山西邮政</a>
+<a href="http://nm.chinapost.com.cn/">内蒙古邮政</a> 
+<a href="http://ln.chinapost.com.cn/">辽宁邮政</a> 
+<a href="http://jl.chinapost.com.cn/">吉林邮政</a> 
+<a href="http://hl.chinapost.com.cn/">黑龙江邮政</a> 
+<a href="http://sh.chinapost.com.cn/">上海邮政</a> 
+<a href="http://js.chinapost.com.cn/">江苏邮政</a>
+<a href="http://ah.chinapost.com.cn/">安徽邮政</a>  
+<a href="http://zj.chinapost.com.cn/">浙江邮政</a> 
+<a href="http://fj.chinapost.com.cn/">福建邮政</a> 
+<a href="http://jx.chinapost.com.cn/">江西邮政</a> 
+<a href="http://sd.chinapost.com.cn/">山东邮政</a> 
+<a href="http://ha.chinapost.com.cn/">河南邮政</a> 
+<a href="http://hb.chinapost.com.cn/">湖北邮政</a> 
+<a href="http://hn.chinapost.com.cn/">湖南邮政</a> 
+<a href="http://gd.chinapost.com.cn/">广东邮政</a> 
+<a href="http://gx.chinapost.com.cn/">广西邮政</a> 
+<a href="http://hi.chinapost.com.cn/">海南邮政</a> 
+<a href="http://cq.chinapost.com.cn/">重庆邮政</a> 
+<a href="http://sc.chinapost.com.cn/">四川邮政</a> 
+<a href="http://gz.chinapost.com.cn/">贵州邮政</a>
+<a href="http://yn.chinapost.com.cn/">云南邮政</a> 
+<a href="http://XZ.chinapost.com.cn/">西藏邮政</a>
+<a href="http://SN.chinapost.com.cn/">陕西邮政</a> 
+<a href="http://gs.chinapost.com.cn/">甘肃邮政</a>
+<a href="http://qh.chinapost.com.cn/">青海邮政</a> 
+<a href="http://nx.chinapost.com.cn/">宁夏邮政</a> 
+<a href="http://xj.chinapost.com.cn/">新疆邮政</a> 
+</small>
+
 X3	[中国烟草](http://www.tobacco.gov.cn){:id="X3"} 	⠀TOBACCO	- - - <small>	⠀北京  	⠀中国烟草总公司 	⠀- -	⠀【国家烟草专卖局】合体，网站群见首页底部</small>  
 
 W1	[中国出版](http://cn.cnpubg.com){:id="W1"} 	⠀CPG	<small>[网站群](http://cn.cnpubg.com/overview/sites/)	⠀北京  	⠀中国出版集团有限公司 	⠀- -	⠀[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)</small>  
@@ -539,7 +638,7 @@ Relevant Departments
 ```
 	老生常谈 © 2019-2023 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
-	个人金融理财圈 version 0.5.5	202304
+	个人金融理财圈 version 0.5.6	202304
 	https://laosheng.top/fuwu/jinrong
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
