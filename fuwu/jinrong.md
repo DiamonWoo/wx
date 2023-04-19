@@ -56,19 +56,19 @@
 　农业部　X4	[北大荒集团](https://www.chinabdh.com){:id="X4"} 	⠀　　	- - - <small>	⠀哈尔滨  	⠀北大荒农垦集团有限公司 	</small>  
 
 
-财政部公布的中央金融企业
-------------------------
-（2022年27家）
+中央金融企业
+--------------------
+财政部2022年公布27家
 
-1	[中投](http://www.china-inv.cn){:id="1"} 	⠀CIC	- - - <small>	⠀北京 🚩 	⠀中国投资有限责任公司 	⠀中投公司根据国务院要求持有中央汇金公司股权</small>  
-2	[国开行](http://www.cdb.com.cn){:id="2"} 	⠀CDB	- - - <small>	⠀北京 🚩 	⠀国家开发银行 	⠀开发性金融机构，[wb](https://weibo.com/5294647313)</small>  
-3	[进出口银行](http://eximbank.gov.cn){:id="3"} 	⠀EXIMB	- - - <small>	⠀北京  	⠀中国进出口银行 	</small>  
-4	[农发行](http://www.adbc.com.cn){:id="4"} 	⠀ADBC	- - - <small>	⠀北京 🚩 	⠀中国农业发展银行 	</small>  
-5	[工商银行](https://www.icbc.com.cn){:id="5"} 	⠀ICBC	- - - <small>	⠀北京  	⠀中国工商银行股份有限公司 	</small>  
-6	[农业银行](https://www.abchina.com){:id="6"} 	⠀ABChina	- - - <small>	⠀北京  	⠀中国农业银行股份有限公司 	</small>  
-7	[中国银行](https://www.boc.cn){:id="7"} 	⠀BOC	- - - <small>	⠀北京  	⠀中国银行股份有限公司 	</small>  
-8	[建设银行](http://www.ccb.com){:id="8"} 	⠀CCB	- - - <small>	⠀北京  	⠀中国建设银行股份有限公司 	</small>  
-9	[交通银行](https://www.bankcomm.com){:id="9"} 	⠀COMM	- - - <small>	⠀北京  	⠀交通银行股份有限公司 	</small>  
+1	[中投](http://www.china-inv.cn){:id="1"} 	⠀CIC	<small>[网站群](http://www.china-inv.cn/china_inv/About_CIC/Who_We_Are.shtml)	⠀北京 🚩 	⠀中国投资有限责任公司 	⠀主权财富基金，子公司：[中央汇金](http://www.huijin-inv.cn/huijin-inv/Investments/Overview.shtml)</small>  
+2	[国开行](http://www.cdb.com.cn){:id="2"} 	⠀CDB	<small>[网站群](http://www.cdb.com.cn/gykh/zzjg/zgs/)	⠀北京 🚩 	⠀国家开发银行 	⠀开发性金融机构，[wb](https://weibo.com/5294647313)</small>  
+3	[进出口银行](http://eximbank.gov.cn){:id="3"} 	⠀EXIMB	<small>[网站群](http://eximbank.gov.cn/aboutExim/organization/ckfjj/)	⠀北京  	⠀中国进出口银行 	</small>  
+4	[农发行](http://www.adbc.com.cn){:id="4"} 	⠀ADBC	<small>[网站群](http://www.adbc.com.cn/n4/n1305/)	⠀北京 🚩 	⠀中国农业发展银行 	</small>  
+5	[工商银行](https://www.icbc.com.cn){:id="5"} 	⠀ICBC	<small>[网站群](https://www.icbc.com.cn/page/721853675948769300.html)	⠀北京  	⠀中国工商银行股份有限公司 	</small>  
+6	[农业银行](https://www.abchina.com){:id="6"} 	⠀ABChina	<small>[网站群](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnzykggs/)	⠀北京  	⠀中国农业银行股份有限公司 	</small>  
+7	[中国银行](https://www.boc.cn){:id="7"} 	⠀BOC	<small>[网站群](https://www.boc.cn/aboutboc/ab6/)	⠀北京  	⠀中国银行股份有限公司 	</small>  
+8	[建设银行](http://www.ccb.com){:id="8"} 	⠀CCB	- - - <small>	⠀北京  	⠀中国建设银行股份有限公司 	⠀[建行集团](http://group1.ccb.com/cn/group/company/company.html)</small>  
+9	[交通银行](https://www.bankcomm.com){:id="9"} 	⠀COMM	<small>[网站群](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/16356/2629241.shtml)	⠀上海市  	⠀交通银行股份有限公司 	</small>  
 10	[中信集团](https://www.group.citic){:id="10"} 	⠀CITIC	<small>[网站群](https://www.group.citic/html/Diversified_Portfolio/)	⠀北京  	⠀中国中信集团有限公司 	</small>  
 11	[光大集团](https://www.ebchina.com){:id="11"} 	⠀EBChina	<small>[网站群](https://www.ebchina.com/ebchina/stgd/dcf/)	⠀北京 🚩 	⠀中国光大集团股份公司 	</small>  
 12	[中国人保](https://www.picc.com){:id="12"} 	⠀PICC	<small>[网站群](https://www.picc.com/gyrb/jtccy/)	⠀北京 🚩 	⠀中国人民保险集团股份有限公司 	⠀[wb](https://weibo.com/piccweibo)</small>  
@@ -95,8 +95,8 @@ Finance⠀一行两会三所
 
 　　中国的金融业实行‘[分业经营、分业监管](http://www.gov.cn/xinwen/2020-09/14/content_5543303.htm)’架构，日常监管工作由国务院三个直属机构负责，俗称‘一行两会’：人行、证监会、银保监会。其中银保监会于2018年由*银监会*与*保监会*合并而成，旧称‘一行三会’。　这些监管部门覆盖了金融业几乎所有方面，包括中国金融的四大支柱行业：银行业、保险业、证券业(债/股/基/期)、信托业，其中银行业的总市值超过后面三者之和。　近年兴起的互联网金融有‘混业经营’态势，对分业监管体系提出了挑战。
 
-**中国人民银行**　[PBC.gov.cn](http://www.pbc.gov.cn/)  
-	人行，国家中央银行、央妈，主管：外汇/黄金/货币政策
+**中国人民银行**　[PBC.gov.cn](http://www.pbc.gov.cn/)　人行  
+	国家中央银行、央妈，主管：外汇/黄金/货币政策
 - 调查统计司发布：[金融统计数据](http://www.pbc.gov.cn/diaochatongjisi/116219/) 可查 M2货币发行总量 等各种宏观数据。
 - 国家外汇管理局　[Safe.gov.cn](https://www.safe.gov.cn/)  
 	外汇局　外汇储备约$3万亿美元。
@@ -104,9 +104,9 @@ Finance⠀一行两会三所
 * 上海黄金交易所　发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)　黄金储备近2000吨，约￥0.8万亿人民币元。
 * 上海票据交易所　[票据信息披露](http://disclosure.shcpe.com.cn/#/dashboard) 商业汇票/企业用票/银行贴现
 
-[**银保监会**　CBIRC.gov.cn](http://www.cbirc.gov.cn/)  
-	中国银行保险监督管理委员会，公布：[国债收益率](http://www.cbirc.gov.cn/cn/view/pages/index/guozhai.html)  
-中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)；保险公司[备案产品目录](http://www.cbirc.gov.cn/cn/view/pages/zaixianfuwu/zaixianfuwu.html)
+[**银保监会**　CBIRC.gov.cn](http://www.cbirc.gov.cn/)　中国银行保险监督管理委员会  
+	保险公司[备案产品目录](http://www.cbirc.gov.cn/cn/view/pages/zaixianfuwu/zaixianfuwu.html)，公布：[国债收益率](http://www.cbirc.gov.cn/cn/view/pages/index/guozhai.html)  
+	中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)
 
 监管以下机构 / 公布[各类机构名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)：
 - 银行  Bank  超4000家，总资产超360万亿
@@ -118,8 +118,7 @@ Finance⠀一行两会三所
 - 其他非银行金融机构 400多家（资管公司、财务公司、租赁公司……）
 <sup>各分业市值默认货币单位为￥人民币元</sup>
 
-[**证监会**　CSRC.gov.cn](http://www.csrc.gov.cn/)  
-	中国证券监督管理委员会，监管：债券/股票/基金/期货/上市公司  
+[**证监会**　CSRC.gov.cn](http://www.csrc.gov.cn/)　中国证券监督管理委员会  
 监管以下机构（3+5+x）：
 * 【[上交所](http://www.sse.com.cn)】📈 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)
 * 【[深交所](https://www.szse.cn/)】📈 深圳证券交易所 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
@@ -137,7 +136,7 @@ Finance⠀一行两会三所
 - 上市公司 全国超5000家
 - ……
 
-监管以下业务（债/股/基/期+x）：  
+监管以下业务（债券/股票/基金/期货+x）：  
 - 债券　Bond (债务证券)　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
   - 上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
   - 深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）
