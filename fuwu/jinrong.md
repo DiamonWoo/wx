@@ -16,10 +16,10 @@
 <div id='mu'>简目：
 改革近况、
 央企四类、金融央企、一行两会三所、<br>
-[商业银行](#D4){:target="_top"}、
-[保险集团](#D5){:target="_top"}、
+<a href="D4" target="_top">商业银行</a>、
+<a href="D5" target="_top">保险集团</a>、
 其他交易所、央企网站群、
-[编辑工作](#D8){:target="_top"}、参考文献
+<a href="D8" target="_top">编辑工作</a>、参考文献
 </div>
 
 金融圈LSIP进度
@@ -38,8 +38,8 @@
 *	2020-12-　，黑龙江省农垦总局改制为北大荒农垦集团有限公司，财政部代表国务院履行出资人职责。
 *	2020-07-　，财政部印发《[中央金融企业名录管理暂行规定](http://jrs.mof.gov.cn/zhengcefabu/cqgl/202007/t20200715_3550190.htm)》及名录26家。
 
-中央企业四大类{:id="D1"}
--------------
+
+<h2 id="D1">中央企业四大类</h2>
 
 　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企（2022年98家），也是数量最多的央企。广义的央企还包括：财政部管理的金融类央企（2022年27家）、行政类央企4家和文化类央企3家。
 
@@ -57,8 +57,7 @@
 　农业部　X4	[北大荒集团](https://www.chinabdh.com){:id="X4"} 	⠀　　	- - - <small>[网站群](https://www.chinabdh.com/GroupIndustry.html)	⠀哈尔滨  	⠀北大荒农垦集团有限公司  	⠀wx：北大荒日报</small>  
 
 
-中央金融企业{:id="D2"}
---------------------
+<h2 id="D2">中央金融企业</h2>
 财政部2022年公布27家
 
 1	[中投](http://www.china-inv.cn){:id="1"} 	⠀CIC	<small>[网站群](http://www.china-inv.cn/china_inv/About_CIC/Who_We_Are.shtml)	⠀北京 🚩 	⠀中国投资有限责任公司⠀	⠀主权财富基金，子公司：[中央汇金](http://www.huijin-inv.cn/huijin-inv/Investments/Overview.shtml)</small>  
@@ -90,9 +89,9 @@
 27	[中国银河金控](https://www.china-galaxy.com.cn){:id="27"} 	⠀YinHe	<small>[网站群](https://www.china-galaxy.com.cn/index.php?a=lists&catid=89)	⠀北京  	⠀中国银河金融控股有限责任公司⠀	</small>  
 
 
-中国金融业体系架构{:id="D3"}
--------------------
-Finance⠀一行两会三所	<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
+<h2 id="D3">中国金融业监管体系</h2>
+Finance⠀一行两会三所
+<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
 
 　　中国的金融业实行‘[分业经营、分业监管](http://www.gov.cn/xinwen/2020-09/14/content_5543303.htm)’架构，日常监管工作由国务院三个直属机构负责，俗称‘一行两会’：人行、证监会、银保监会。其中银保监会于2018年由*银监会*与*保监会*合并而成，旧称‘一行三会’。　这些监管部门覆盖了金融业几乎所有方面，包括中国金融的四大支柱行业：银行业、保险业、证券业(债/股/基/期)、信托业，其中银行业的总市值超过后面三者之和。　近年兴起的互联网金融有‘混业经营’态势，对分业监管体系提出了挑战。
 
@@ -157,9 +156,9 @@ Finance⠀一行两会三所	<div align="right"><a href="#mu" target="_top">↑ 
 - ……
 
 
-中国主要商业银行{:id="D4"}
-----------------
-Banks 	<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
+<h2 id="D4">中国主要商业银行</h2>
+Banks
+<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
 
 国有大型商业银行（6家）<sub>及栏目页</sub>
 
@@ -391,12 +390,10 @@ Banks 	<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
 
 	农村商业银行（1427家） 农村合作银行（33家） 村镇银行（1616家） 农村信用社（812家） 农村资金互助社（45家）
 
-<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
 
-
-保险集团与保险公司{:id="D5"}
-------------------
+<h2 id="D5">保险集团与保险公司</h2>
 Insurance （2022年计237家）
+<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
 
 1、[中国人保集团](https://www.picc.com)⠀95518⠀中国人民保险集团股份有限公司⠀PICC  
 2、[中国人寿集团](https://www.chinalife.com.cn)⠀95519⠀中国人寿保险（集团）公司⠀  
@@ -638,12 +635,11 @@ Insurance （2022年计237家）
 235：瑞安市兴民农村保险互助社　
 236：慈溪市龙山镇伏龙农村保险互助社　
 237：慈溪市龙山农村保险互助联社　  
-<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
 
 
-港澳台金融交易所{:id="D6"}
-------------------
+<h2 id="D5">港澳台金融交易所</h2>
 Financial Exchange
+<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
 
 * 【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港联交所/香港交易所/香港市场  
   　香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。  
@@ -684,7 +680,7 @@ Exchanges
 　　~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
 
 
-<h2 id="D7">央企网站群</h3>
+<h2 id="D7">央企网站群</h2>
 
 　　由于广电等央企官网没有为自身网站群链接提供独立页面，本段收录如下，方便查找。
 
@@ -762,13 +758,10 @@ Exchanges
 [铁道科学研究院](http://www.rails.cn "中国铁道科学研究院集团有限公司")、
 [铁路经济规划研究院](http://www.crecc.com.cn "中国铁路经济规划研究院有限公司")、
 中国铁路信息科技有限责任公司、
-中国铁路设计集团有限公司、
-中国铁路国际有限公司、
-铁总服务有限公司、
+中国铁路设计集团有限公司、中国铁路国际有限公司、铁总服务有限公司、
 [铁道出版社](http://www.tdpress.com "中国铁道出版社有限公司")、
 《人民铁道》报业有限公司、
-中国铁路专运中心、
-中国铁路文工团有限公司。</small>  
+中国铁路专运中心、中国铁路文工团有限公司。</small>  
 　　所属事业单位（3个）：<small>
 铁道党校、
 中国铁道博物馆、
@@ -778,12 +771,12 @@ Exchanges
 
 国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)：<b>中国邮政集团</b>
 
-控股公司及寄递事业部：
+控股公司与EMS：
 <a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
-<a href="https://www.chinapost-life.com">中邮人寿保险股份有限公司</a>、
-<a href="http://www.cnpsec.com.cn/main/index.html">中邮证券有限责任公司</a>、
-<a href="http://cpcm.chinapost.com.cn/">中邮资本管理有限公司</a>、
-<a href="http://www.ems.com.cn/">集团公司寄递事业部</a>
+<a href="https://www.chinapost-life.com">中邮人寿保险</a>、
+<a href="http://www.cnpsec.com.cn/">中邮证券</a>、
+<a href="http://cpcm.chinapost.com.cn/">中邮资本管理</a>、
+<a href="http://www.ems.com.cn/">寄递事业部</a>
 
 集团工会及直属单位：<small>
 <a href="http://www.cptu.org.cn/">中国邮政集团工会</a>、
