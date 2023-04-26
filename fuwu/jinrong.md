@@ -8,7 +8,7 @@
 
 　　认识金融体系，首先要认识金融央企，这是中国金融业的主动脉。我国央企广义上分四类：文化类（出版/对外/广电）、行政类（国铁/邮政/烟草/北大荒）、金融类（财政部公布名单）、实业类（国资委公布名单）。实业类央企请见[央企股票全家福](yangqi)，本页面收录前三类的官方网址。
 
-　　本页收录网址范围目前包括：文化央企、行政央企、金融央企、金融监管体系、商业银行与保险集团、前两类央企的下属网站。网页设计仍未定稿，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
+　　本页收录网址范围目前包括：文化央企、行政央企、金融央企、金融监管体系、商业银行与保险集团、央企下属网站补充。　网页设计仍未定稿，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/个人理财金融圈
@@ -17,7 +17,7 @@
 改革近况、央企四类、
 <a href="#D2" target="_top">金融央企</a>、一行两会三所、<br>
 <a href="#D4" target="_top">商业银行</a>、
-<a href="#D5" target="_top">保险集团</a>、央企网站群、
+<a href="#D5" target="_top">保险集团</a>、网站群补充、
 <a href="#D7" target="_top">参考文献</a>、编辑札记
 </div>
 
@@ -166,11 +166,11 @@ Banks
 
 国有大型商业银行（6家）<sub>及栏目页</sub>
 
-❗<b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>⠀95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)	⠀[收费标准](https://www.icbc.com.cn/ICBC/金融信息/资费公告/中国工商银行服务价目表电子银行2012版.htm)	⠀个人投资: 	[理财](https://www.icbc.com.cn/ICBC/网上理财/default.htm)	/[基金](https://www.icbc.com.cn/ICBC/网上基金/default.htm)	⠀[网银登录](https://mybank.icbc.com.cn/)	<sup>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sup>  
-❗<b>[农业银行](https://www.abchina.com "中国农业银行股份有限公司")</b>⠀95599	⠀[全国分行](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnbranch_org/)	⠀[收费标准](https://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/)	⠀[个人投资](https://ewealth.abchina.com): 	[理财](https://ewealth.abchina.com/fs/filter/)	/[基金](https://ewealth.abchina.com/fund/)	⠀[网银登录](https://perbank.abchina.com/EbankSite/startup.do)	<sup></sup>  
-❗<b>[中国银行](https://www.boc.cn "中国银行股份有限公司")</b>⠀95566	⠀[全国分行](https://www.boc.cn/aboutboc/ab6/200812/t20081211_143780.html)	⠀收费标准	⠀[个人投资](https://www.boc.cn/fimarkets): 	理财	/基金	⠀[网银登录](https://ebsnew.boc.cn/)	<sup>[交易限额](https://www.boc.cn/ebanking/service/cs1/200810/t20081022_990706.html)</sup>  
-❗<b>[建设银行](http://www.ccb.com "中国建设银行股份有限公司")</b>⠀95533	⠀[全国分行](http://www.ccb.com/cn/home/map/branchSearch.html)	⠀[收费标准](http://store.ccb.com/cn/public/20141027_1414371456.html)	⠀[个人投资](http://finance2.ccb.com/cn/finance/index.html): 	[理财](http://finance.ccb.com/cn/finance/product.html)	/[基金](http://fund2.ccb.com/chn/home/fund/index.shtml)	⠀[网银登录](https://ebanking1.ccb.com.cn/)	<sup></sup>  
-❗<b>[交通银行](https://www.bankcomm.com/BankCommSite "交通银行股份有限公司")</b>⠀95559	⠀[全国分行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/list.shtml?channelId=7804)	⠀收费标准	⠀[个人投资](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226): 	[理财](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226)	/基金	⠀[网银登录](https://apply.95559.com.cn/personbank/)	<sup></sup>  
+<b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>⠀95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)	⠀[收费标准](https://www.icbc.com.cn/ICBC/金融信息/资费公告/中国工商银行服务价目表电子银行2012版.htm)	⠀个人投资: 	[理财](https://www.icbc.com.cn/ICBC/网上理财/default.htm)	/[基金](https://www.icbc.com.cn/ICBC/网上基金/default.htm)	⠀[网银登录](https://mybank.icbc.com.cn/)	<sup>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sup>  
+<b>[农业银行](https://www.abchina.com "中国农业银行股份有限公司")</b>⠀95599	⠀[全国分行](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnbranch_org/)	⠀[收费标准](https://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/)	⠀[个人投资](https://ewealth.abchina.com): 	[理财](https://ewealth.abchina.com/fs/filter/)	/[基金](https://ewealth.abchina.com/fund/)	⠀[网银登录](https://perbank.abchina.com/EbankSite/startup.do)	<sup></sup>  
+<b>[中国银行](https://www.boc.cn "中国银行股份有限公司")</b>⠀95566	⠀[全国分行](https://www.boc.cn/aboutboc/ab6/200812/t20081211_143780.html)	⠀收费标准	⠀[个人投资](https://www.boc.cn/fimarkets): 	理财	/基金	⠀[网银登录](https://ebsnew.boc.cn/)	<sup>[交易限额](https://www.boc.cn/ebanking/service/cs1/200810/t20081022_990706.html)</sup>  
+<b>[建设银行](http://www.ccb.com "中国建设银行股份有限公司")</b>⠀95533	⠀[全国分行](http://www.ccb.com/cn/home/map/branchSearch.html)	⠀[收费标准](http://store.ccb.com/cn/public/20141027_1414371456.html)	⠀[个人投资](http://finance2.ccb.com/cn/finance/index.html): 	[理财](http://finance.ccb.com/cn/finance/product.html)	/[基金](http://fund2.ccb.com/chn/home/fund/index.shtml)	⠀[网银登录](https://ebanking1.ccb.com.cn/)	<sup></sup>  
+<b>[交通银行](https://www.bankcomm.com/BankCommSite "交通银行股份有限公司")</b>⠀95559	⠀[全国分行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/list.shtml?channelId=7804)	⠀收费标准	⠀[个人投资](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226): 	[理财](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226)	/基金	⠀[网银登录](https://apply.95559.com.cn/personbank/)	<sup></sup>  
 <b>[邮储银行](https://www.psbc.com "中国邮政储蓄银行股份有限公司")</b>⠀95580	⠀[全国分行](https://www.psbc.com/cn/fhpd/)	⠀[收费标准](https://www.psbc.com/cn/common/bjfw/fwjmb_531/)	⠀[个人投资](https://www.psbc.com/cn/grfw/tzlc/): 	[理财](https://www.psbc.com/cn/grfw/tzlc/lc/)	/[基金](https://www.psbc.com/cn/grfw/tzlc/jj/)	⠀[网银登录](https://pbank.psbc.com/perbank/)	<sup></sup>  
 
 全国性股份制商业银行（12家）<sub>及栏目页</sub>
@@ -188,7 +188,7 @@ Banks
 <b>[浙商银行](http://www.czbank.com "浙商银行股份有限公司")</b>⠀95527	⠀[全国分行](http://www.czbank.com/cn/map/)	⠀[收费标准](http://www.czbank.com/cn/rate/jgfwsc1/)	⠀[个人投资](http://www.czbank.com/cn/product/): 	理财	/基金	⠀[网银登录](https://perbank.czbank.com/PERBANK/logon.jsp)	<sup></sup>  
 ❗<b>[恒丰银行](https://www.hfbank.com.cn "恒丰银行股份有限公司")</b>⠀95395	⠀[全国分行](https://www.hfbank.com.cn/gyhf/fzjg/)	⠀[收费标准](https://www.hfbank.com.cn/gryw/fwzf/)	⠀[个人投资](https://www.hfbank.com.cn/gryw/lcgg/): 	理财	/基金	⠀[网银登录](https://my.hfbank.com.cn/CCBIS/V6/STY1/CN/login.jsp)	<sup></sup>  
 
-城市商业银行（134家，地方银保监局）：  
+城市商业银行（134家，数据待更新，地方银保监局监管）：  
 京津冀：
 [北京银行](https://www.bankofbeijing.com.cn "北京银行股份有限公司 ")　
 [天津银行](https://www.bankoftianjin.com "天津银行股份有限公司 ")　
@@ -277,7 +277,7 @@ Banks
 [汉口银行](http://www.hkbchina.com "汉口银行股份有限公司 ")　
 [中原银行](http://www.zybank.com.cn "中原银行股份有限公司 ")　
 [郑州银行](http://www.zzbank.cn "郑州银行股份有限公司 ")　
-[华融湘江银行](http://www.hrxjbank.com.cn "华融湘江银行股份有限公司 ")　
+❗[华融湘江银行](http://www.hrxjbank.com.cn "华融湘江银行股份有限公司，2022已改名湖南银行！")　
 [长沙银行](http://www.cscb.cn "长沙银行股份有限公司 ")　  
 粤桂琼：
 [广州银行](http://www.gzcb.com.cn "广州银行股份有限公司 ")　
@@ -642,8 +642,8 @@ Insurance （2022年计237家）
 237：慈溪市龙山农村保险互助联社　  
 
 
-<h2 id="D7">央企网站群</h2>
-　　由于广电等央企官网没有为自身网站群链接提供独立页面，本段收录如下，方便查找。
+<h2 id="D7">央企网站群补充</h2>
+　　有少数央企官网，如广电、国铁等，没有为自身网站群提供独立页面，本段将这些央企网站群收录如下，方便读者查找。
 <div align="right"><a href="#D1" target="_top">↑ Top</a></div>
 
 国务院 / [广电总局](https://www.nrta.gov.cn)：<b>中国广电集团</b>
