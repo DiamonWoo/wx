@@ -314,28 +314,29 @@ Banks，银保监会发布的2022年12月数据
 　	[库尔勒银行](http://www.xjkccb.cn "巴音郭楞银保监分局")	<sup>B1104H365280001 </sup>
 　	[西藏银行](http://www.xzbc.com.cn "西藏银保监局")	<sup>B1293H254010001 </sup>
 　	[新疆银行](http://www.xjbank.com "新疆银保监局")	<sup>B1522H265010001 </sup>
-　所有城商行全称均为某某“股份有限公司”，由地方银保监局监管。
+　所有城商行全称均为“某某股份有限公司”，由地方银保监局监管。
 
-民营银行（19家）：  
-[天津金城银行](https://www.kcbebank.com "天津银保监局")	<sup>B0655H212000001 </sup>
-[上海华瑞银行](https://www.shrbank.com "上海银保监局")	<sup>B0606H231000001 </sup>
-(阿里)[浙江网商银行](https://www.mybank.cn "浙江银保监局")	<sup>B0675H233010001 </sup>
-[温州民商银行](https://www.ms-bank.cn "温州银保监分局")	<sup>B0651H233030001 </sup>
-(腾讯)[深圳前海微众银行](https://webank.com "深圳银保监局")	<sup>B0593H244030001 </sup>
-[湖南三湘银行](https://www.csxbank.com "湖南银保监局")	<sup>B1519H243010001 </sup>
-[重庆富民银行](https://www.fbank.com "重庆银保监局")	<sup>B1191H250000001 </sup>
-[四川新网银行](https://www.xwbank.com "四川银保监局")	<sup>B1544H251010001 </sup>
-[北京中关村银行](https://www.zgcbank.com "北京银保监局")	<sup>B1611H211000001 </sup>
-[吉林亿联银行](https://www.yillionbank.com "吉林银保监局")	<sup>B1600H222010001 </sup>
-[武汉众邦银行](https://www.z-bank.com "湖北银保监局")	<sup>B1596H242010001 </sup>
-[福建华通银行](https://www.onebank.com.cn "福建银保监局")	<sup>B1563H235010001 </sup>
-[威海蓝海银行](https://www.wegobank.cn "威海银保监分局")	<sup>B1606H237100001 </sup>
-[江苏苏宁银行](http://www.suningbank.com "江苏银保监局")	<sup>B1621H232010001 https故障</sup>
-[梅州客商银行](https://www.kshbank.cn "梅州银保监分局")	<sup>B1627H244140001 </sup>
-[安徽新安银行](http://www.xa-bank.com "安徽银保监局")	<sup>B1686H234010001 https故障</sup>
-[辽宁振兴银行](https://www.newupbank.com "辽宁银保监局")	<sup>B1661H221010001 </sup>
-[江西裕民银行](https://www.ymbank.com "江西银保监局")	<sup>B1877H236010001 </sup>
-[无锡锡商银行]( "无锡银保监分局")	<sup>B1949H332020001 正在拍卖股权？</sup>
+民营银行（19家及其机构编码）：  
+　[天津金城银行](https://www.kcbebank.com "天津银保监局")	<sup>B0655H212000001 </sup>
+　[上海华瑞银行](https://www.shrbank.com "上海银保监局")	<sup>B0606H231000001 </sup>
+　[浙江网商银行](https://www.mybank.cn "浙江银保监局")	<sup>B0675H233010001 阿里银行</sup>
+　[温州民商银行](https://www.ms-bank.cn "温州银保监分局")	<sup>B0651H233030001 </sup>
+　[深圳前海微众银行](https://webank.com "深圳银保监局")	<sup>B0593H244030001 腾讯银行</sup>
+　[湖南三湘银行](https://www.csxbank.com "湖南银保监局")	<sup>B1519H243010001 </sup>
+　[重庆富民银行](https://www.fbank.com "重庆银保监局")	<sup>B1191H250000001 </sup>
+　[四川新网银行](https://www.xwbank.com "四川银保监局")	<sup>B1544H251010001 </sup>
+　[北京中关村银行](https://www.zgcbank.com "北京银保监局")	<sup>B1611H211000001 </sup>
+　[吉林亿联银行](https://www.yillionbank.com "吉林银保监局")	<sup>B1600H222010001 </sup>
+　[武汉众邦银行](https://www.z-bank.com "湖北银保监局")	<sup>B1596H242010001 </sup>
+　[福建华通银行](https://www.onebank.com.cn "福建银保监局")	<sup>B1563H235010001 </sup>
+　[威海蓝海银行](https://www.wegobank.cn "威海银保监分局")	<sup>B1606H237100001 </sup>
+　[江苏苏宁银行](http://www.suningbank.com "江苏银保监局")	<sup>B1621H232010001 https故障</sup>
+　[梅州客商银行](https://www.kshbank.cn "梅州银保监分局")	<sup>B1627H244140001 </sup>
+　[安徽新安银行](http://www.xa-bank.com "安徽银保监局")	<sup>B1686H234010001 https故障</sup>
+　[辽宁振兴银行](https://www.newupbank.com "辽宁银保监局")	<sup>B1661H221010001 </sup>
+　[江西裕民银行](https://www.ymbank.com "江西银保监局")	<sup>B1877H236010001 </sup>
+　[无锡锡商银行]( "无锡银保监分局")	<sup>B1949H332020001 正在拍卖股权？</sup>
+　所有民营银行全称均为“某某银行股份有限公司”，由地方银保监局监管。
 
 外资法人银行（41家，前3家由银保监会监管）：  
 [东亚银行](https://www.hkbea.com.cn "东亚银行（中国）有限公司 ")	-----　
