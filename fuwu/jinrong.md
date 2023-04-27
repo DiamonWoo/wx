@@ -188,144 +188,133 @@ Banks
 <b>[浙商银行](http://www.czbank.com "浙商银行股份有限公司")</b>⠀95527	⠀[全国分行](http://www.czbank.com/cn/map/)	⠀[收费标准](http://www.czbank.com/cn/rate/jgfwsc1/)	⠀[个人投资](http://www.czbank.com/cn/product/): 	理财	/基金	⠀[网银登录](https://perbank.czbank.com/PERBANK/logon.jsp)	<sup></sup>  
 ❗<b>[恒丰银行](https://www.hfbank.com.cn "恒丰银行股份有限公司")</b>⠀95395	⠀[全国分行](https://www.hfbank.com.cn/gyhf/fzjg/)	⠀[收费标准](https://www.hfbank.com.cn/gryw/fwzf/)	⠀[个人投资](https://www.hfbank.com.cn/gryw/lcgg/): 	理财	/基金	⠀[网银登录](https://my.hfbank.com.cn/CCBIS/V6/STY1/CN/login.jsp)	<sup></sup>  
 
-城市商业银行（134家，数据待更新，地方银保监局监管）：  
-京津冀：
-[北京银行](https://www.bankofbeijing.com.cn "北京银行股份有限公司 ")　
-[天津银行](https://www.bankoftianjin.com "天津银行股份有限公司 ")　
-[河北银行](http://www.hebbank.com "河北银行股份有限公司 ")　
-[保定银行](http://www.bd-bank.com.cn "保定银行股份有限公司 ")　
-[沧州银行](http://ebank.bankcz.com "沧州银行股份有限公司 ")　
-[承德银行](http://www.chengdebank.com "承德银行股份有限公司 ")　
-[邯郸银行](http://www.hdcb.cn "邯郸银行股份有限公司 ")　
-[衡水银行](http://www.hengshuibank.com "衡水银行股份有限公司 ")　
-[廊坊银行](http://www.lccb.com.cn "廊坊银行股份有限公司 ")　
-[秦皇岛银行](http://www.qhdbank.cn "秦皇岛银行股份有限公司 ")　
-[唐山银行](http://www.ts-bank.cn "唐山银行股份有限公司 ")　
-[邢台银行](http://www.xtbank.com "邢台银行股份有限公司 ")　
-[张家口银行](http://www.zjkccb.com "张家口银行股份有限公司 ")　  
-山西内蒙：
-[山西银行](https://www.shxibank.com "山西银行股份有限公司 ")　
-[晋商银行](http://www.jshbank.com "晋商银行股份有限公司 ")　
-[蒙商银行](http://www.bsb.com.cn "蒙商银行股份有限公司 ")　
-[内蒙古银行](http://www.boimc.com.cn "内蒙古银行股份有限公司 ")　
-[鄂尔多斯银行](http://www.ordosbank.com "鄂尔多斯银行股份有限公司 ")　
-[乌海银行](http://www.wuhaicb.com "乌海银行股份有限公司 ")　
-[盛京银行](http://www.shengjingbank.com.cn "盛京银行股份有限公司 ")　  
-东三省：
-[大连银行](http://www.bankofdl.com "大连银行股份有限公司 ")　
-[锦州银行](http://www.jinzhoubank.com "锦州银行股份有限公司 ")　
-[鞍山银行](http://www.bankofas.com "鞍山银行股份有限公司 ")　
-[本溪银行](http://www.bankofbx.com "本溪银行股份有限公司 ")　
-[朝阳银行](http://www.cycb.com "朝阳银行股份有限公司 ")　
-[丹东银行](http://www.dandongbank.com "丹东银行股份有限公司 ")　
-[抚顺银行](http://www.bankoffs.com.cn "抚顺银行股份有限公司 ")　
-[阜新银行](http://www.fuxinbank.com "阜新银行股份有限公司 ")　
-[葫芦岛银行](http://www.bankofhld.com "葫芦岛银行股份有限公司 ")　
-[盘锦银行](http://www.bankofpj.com "盘锦银行股份有限公司 ")　
-[铁岭银行](http://www.bankoftieling.com "铁岭银行股份有限公司 ")　
-[营口银行](http://www.bankofyk.com "营口银行股份有限公司 ")　
-[吉林银行](http://www.jlbank.com.cn "吉林银行股份有限公司 ")　
-[哈尔滨银行](http://www.hrbcb.com.cn "哈尔滨银行股份有限公司 ")　
-[龙江银行](http://www.lj-bank.com "龙江银行股份有限公司 ")　
-[辽沈银行](https://www.liaoshen-bank.com "辽沈银行股份有限公司 ")　  
-苏沪浙：
-[上海银行](http://www.bosc.cn "上海银行股份有限公司 ")　
-[江苏银行](http://www.jsbchina.cn "江苏银行股份有限公司 ")　
-[南京银行](http://www.njcb.com.cn "南京银行股份有限公司 ")　
-[苏州银行](http://www.suzhoubank.com "苏州银行股份有限公司 ")　
-[江苏长江商业银行](http://cjccb.com "江苏长江商业银行股份有限公司 ")　
-[杭州银行](http://www.hzbank.com.cn "杭州银行股份有限公司 ")　
-[宁波银行](http://www.nbcb.com.cn "宁波银行股份有限公司 ")　
-[宁波东海银行](http://www.ndhb.cn "宁波东海银行股份有限公司 ")　
-[宁波通商银行](http://www.ncbank.cn "宁波通商银行股份有限公司 ")　
-[湖州银行](http://www.hzccb.net "湖州银行股份有限公司 ")　
-[嘉兴银行](http://www.jxccb.com "嘉兴银行股份有限公司 ")　
-[金华银行](http://www.jhccb.com.cn "金华银行股份有限公司 ")　
-[绍兴银行](http://www.sxccb.com "绍兴银行股份有限公司 ")　
-[台州银行](http://www.tzbank.com "台州银行股份有限公司 ")　
-[温州银行](http://www.wzbank.cn "温州银行股份有限公司 ")　
-[浙江稠州商业银行](http://www.czcb.com.cn "浙江稠州商业银行股份有限公司 ")　
-[浙江民泰商业银行](http://www.mintaibank.com "浙江民泰商业银行股份有限公司 ")　
-[浙江泰隆商业银行](http://www.zjtlcb.com "浙江泰隆商业银行股份有限公司 ")　  
-皖赣闽：
-[徽商银行](http://www.hsbank.com.cn "徽商银行股份有限公司 ")　
-[江西银行](http://www.jx-bank.com "江西银行股份有限公司 ")　
-[赣州银行](http://www.gzccb.com "赣州银行股份有限公司 ")　
-[九江银行](http://www.jjccb.com "九江银行股份有限公司 ")　
-[上饶银行](http://www.srbank.cn "上饶银行股份有限公司 ")　
-[福建海峡银行](http://www.fjhxbank.com "福建海峡银行股份有限公司 ")　
-[泉州银行](http://www.qzccbank.com "泉州银行股份有限公司 ")　
-[厦门银行](http://www.xmccb.com "厦门银行股份有限公司 ")　
-[厦门国际银行](http://www.xib.com.cn "厦门国际银行股份有限公司 ")　  
-山东：
-[青岛银行](http://www.qdccb.com "青岛银行股份有限公司 ")　
-[齐鲁银行](http://www.qlbchina.com "齐鲁银行股份有限公司 ")　
-[德州银行](http://www.dzbchina.com "德州银行股份有限公司 ")　
-[东营银行](http://www.dyccb.net "东营银行股份有限公司 ")　
-[济宁银行](http://www.jn-bank.com "济宁银行股份有限公司 ")　
-[莱商银行](http://www.lsbankchina.com "莱商银行股份有限公司 ")　
-[临商银行](https://www.lsbchina.com "临商银行股份有限公司 ")　
-[齐商银行](https://www.qsbank.cc "齐商银行股份有限公司 ")　
-[日照银行](https://www.bankofrizhao.com.cn "日照银行股份有限公司 ")　
-[泰安银行](https://www.taccb.com.cn "泰安银行股份有限公司 ")　
-[威海市商业银行](https://www.whccb.com "威海市商业银行股份有限公司 ")　
-[潍坊银行](http://www.bankwf.com "潍坊银行股份有限公司 ")　
-[烟台银行](http://www.yantaibank.net "烟台银行股份有限公司 ")　
-[枣庄银行](http://www.zzbank.cc "枣庄银行股份有限公司 ")　  
-鄂豫湘：
-[湖北银行](http://www.hubeibank.cn "湖北银行股份有限公司 ")　
-[汉口银行](http://www.hkbchina.com "汉口银行股份有限公司 ")　
-[中原银行](http://www.zybank.com.cn "中原银行股份有限公司 ")　
-[郑州银行](http://www.zzbank.cn "郑州银行股份有限公司 ")　
-❗[华融湘江银行](http://www.hrxjbank.com.cn "华融湘江银行股份有限公司，2022已改名湖南银行！")　
-[长沙银行](http://www.cscb.cn "长沙银行股份有限公司 ")　  
-粤桂琼：
-[广州银行](http://www.gzcb.com.cn "广州银行股份有限公司 ")　
-[东莞银行](http://www.dongguanbank.cn "东莞银行股份有限公司 ")　
-[广东华兴银行](http://www.ghbank.com.cn "广东华兴银行股份有限公司 ")　
-[广东南粤银行](http://www.gdnybank.com "广东南粤银行股份有限公司 ")　
-[珠海华润银行](http://www.crbank.com.cn "珠海华润银行股份有限公司 ")　
-[广西北部湾银行](http://www.bankofbbg.com "广西北部湾银行股份有限公司 ")　
-[桂林银行](http://www..guilinbank.com.cn "桂林银行股份有限公司 ")　
-[柳州银行](http://www.lzccb.com "柳州银行股份有限公司 ")　
-[海南银行](http://www.hnbankchina.com.cn "海南银行股份有限公司 ")　  
-川渝：
-[重庆三峡银行](http://www.ccqtgb.com "重庆三峡银行股份有限公司 ")　
-[重庆银行](http://www.cqcbank.com "重庆银行股份有限公司 ")　
-[四川银行](https://ebank.pzhccb.com/web_pibs "四川银行股份有限公司 ")　
-[成都银行](http://www.bocd.com.cn "成都银行股份有限公司 ")　
-[达州银行](http://www.dzccb.com.cn "达州银行股份有限公司 ")　
-[长城华西银行](http://www.gwbank.com.cn "长城华西银行股份有限公司 ")　
-[乐山市商业银行](http://www.lsccb.com "乐山市商业银行股份有限公司 ")　
-[泸州银行](http://www.lzccb.cn "泸州银行股份有限公司 ")　
-[绵阳市商业银行](http://www.mycc-bank.com "绵阳市商业银行股份有限公司 ")　
-[四川天府银行](http://www.tf.cn "四川天府银行股份有限公司 ")　
-[遂宁银行](http://www.snccb.com "遂宁银行股份有限公司 ")　
-[雅安市商业银行](http://www.yaccb.cn "雅安市商业银行股份有限公司 ")　
-[宜宾市商业银行](http://www.ybccb.com "宜宾市商业银行股份有限公司 ")　
-[自贡银行](http://www.zgbank.com.cn "自贡银行股份有限公司 ")　  
-云贵：
-[贵阳银行](http://www.bankgy.cn "贵阳银行股份有限公司 ")　
-[贵州银行](http://www.bgzchina.com "贵州银行股份有限公司 ")　
-[富滇银行](http://www.fudian-bank.com "富滇银行股份有限公司 ")　
-[曲靖市商业银行](http://www.qjccb.com "曲靖市商业银行股份有限公司 ")　
-[云南红塔银行](http://www.ynhtbank.com "云南红塔银行股份有限公司 ")　  
-陕甘宁：
-[西安银行](http://www.xacbank.com "西安银行股份有限公司 ")　
-[长安银行](http://www.ccabchina.com "长安银行股份有限公司 ")　
-[甘肃银行](http://www.gsbankchina.com "甘肃银行股份有限公司 ")　
-[兰州银行](http://www.lzbank.com "兰州银行股份有限公司 ")　
-[宁夏银行](http://www.bankofnx.com.cn "宁夏银行股份有限公司 ")　
-[石嘴山银行](http://www.szsccb.com "石嘴山银行股份有限公司 ")　  
-青藏疆：
-[青海银行](http://www.bankqh.com "青海银行股份有限公司 ")　
-[西藏银行](http://www.xzbc.com.cn "西藏银行股份有限公司 ")　
-[新疆银行](http://www.xjbank.com "新疆银行股份有限公司 ")　
-[乌鲁木齐银行](http://www.uccb.com.cn "乌鲁木齐银行股份有限公司 ")　
-[昆仑银行](http://www.klb.cn "昆仑银行股份有限公司 ")　
-[哈密市商业银行](http://www.hmccb.com "哈密市商业银行股份有限公司 ")　
-[库尔勒银行](http://www.xjkccb.cn "库尔勒银行股份有限公司 ")　
-[新疆汇和银行](http://www.bohuihe.com "新疆汇和银行股份有限公司 ")　  
+城市商业银行（125家，银保监会2022年12月数据）：  
+东三省：[鞍山银行](http://www.bankofas.com "鞍山银保监分局")	<sup>B0124H321030001 </sup>
+　	[抚顺银行](http://www.bankoffs.com.cn "抚顺银保监分局")	<sup>B0125H321040001 </sup>
+　	[丹东银行](http://www.dandongbank.com "丹东银保监分局")	<sup>B0126H321060001 </sup>
+　	[锦州银行](http://www.jinzhoubank.com "锦州银保监分局")	<sup>B0127H221070001 2022升级</sup>
+　	[营口银行](http://www.bankofyk.com "营口银保监分局")	<sup>B0128H321080001 </sup>
+　	[阜新银行](http://www.fuxinbank.com "阜新银保监分局")	<sup>B0129H321090001 </sup>
+　	[盘锦银行](http://www.bankofpj.com "盘锦银保监分局")	<sup>B0131H321110001 </sup>
+　	[葫芦岛银行](http://www.bankofhld.com "葫芦岛银保监分局")	<sup>B0132H321140001 </sup>
+　	[大连银行](http://www.bankofdl.com "大连银保监局")	<sup>B0261H221020001 </sup>
+　	[铁岭银行](http://www.bankoftieling.com "铁岭银保监分局")	<sup>B0267H321120001 </sup>
+　	[吉林银行](http://www.jlbank.com.cn "吉林银保监局")	<sup>B0302H222010001 </sup>
+　	[哈尔滨银行](http://www.hrbcb.com.cn "黑龙江银保监局")	<sup>B0306H223010001 </sup>
+　	[朝阳银行](http://www.cycb.com "朝阳银保监分局")	<sup>B0330H321130001 </sup>
+　	[龙江银行](http://www.lj-bank.com "黑龙江银保监局")	<sup>B1056H223010001 </sup>
+　	[本溪银行](http://www.bankofbx.com "本溪银保监分局")	<sup>B1071H321050001 </sup>
+　	[辽沈银行](https://www.liaoshen-bank.com "辽宁银保监局")	<sup>B2036H221010001 </sup>
+　云贵：[贵阳银行](http://www.bankgy.cn "贵州银保监局")	<sup>B0215H252010001 </sup>
+　	[富滇银行](http://www.fudian-bank.com "云南银保监局")	<sup>B0258H253010001 </sup>
+　	[曲靖市商业银行](http://www.qjccb.com "曲靖银保监分局")	<sup>B0259H253030001 </sup>
+　	[云南红塔银行](http://www.ynhtbank.com "玉溪银保监分局")	<sup>B0260H253040001 </sup>
+　	[贵州银行](http://www.bgzchina.com "贵州银保监局")	<sup>B1383H252010001 </sup>
+　京津冀：[北京银行](https://www.bankofbeijing.com.cn "北京银保监局")	<sup>B0107H211000001 </sup>
+　	[天津银行](https://www.bankoftianjin.com "天津银保监局")	<sup>B0108H212000001 </sup>
+　	[秦皇岛银行](http://www.qhdbank.cn "秦皇岛银保监分局")	<sup>B0111H313030002 </sup>
+　	[廊坊银行](http://www.lccb.com.cn "廊坊银保监分局")	<sup>B0277H313100001 </sup>
+　	[河北银行](http://www.hebbank.com "河北银保监局")	<sup>B0282H213010001 </sup>
+　	[邢台银行](http://www.xtbank.com "邢台银保监分局")	<sup>B0301H313050001 </sup>
+　	[邯郸银行](http://www.hdcb.cn "邯郸银保监分局")	<sup>B0331H313040001 </sup>
+　	[保定银行](http://www.bd-bank.com.cn "保定银保监分局")	<sup>B0340H313060001 </sup>
+　	[张家口银行](http://www.zjkccb.com "张家口银保监分局")	<sup>B0772H313070001 </sup>
+　	[唐山银行](http://www.ts-bank.cn "唐山银保监分局")	<sup>B1013H313020001 </sup>
+　	[衡水银行](http://www.hengshuibank.com "衡水银保监分局")	<sup>B1016H313110001 </sup>
+　	[沧州银行](http://ebank.bankcz.com "沧州银保监分局")	<sup>B1018H313090001 </sup>
+　	[承德银行](http://www.chengdebank.com "承德银保监分局")	<sup>B1021H313080001 </sup>
+　山东：[齐鲁银行](http://www.qlbchina.com "山东银保监局")	<sup>B0169H237010001 </sup>
+　	[齐商银行](https://www.qsbank.cc "淄博银保监分局")	<sup>B0171H337030001 </sup>
+　	[东营银行](http://www.dyccb.net "东营银保监分局")	<sup>B0172H337050001 </sup>
+　	[烟台银行](http://www.yantaibank.net "烟台银保监分局")	<sup>B0173H337060001 </sup>
+　	[潍坊银行](http://www.bankwf.com "潍坊银保监分局")	<sup>B0174H337070001 </sup>
+　	[济宁银行](http://www.jn-bank.com "济宁银保监分局")	<sup>B0175H337080001 </sup>
+　	[威海市商业银行](https://www.whccb.com "威海银保监分局")	<sup>B0176H337100001 </sup>
+　	[日照银行](https://www.bankofrizhao.com.cn "日照银保监分局")	<sup>B0177H337110001 </sup>
+　	[临商银行](https://www.lsbchina.com "临沂银保监分局")	<sup>B0179H337130001 </sup>
+　	[德州银行](http://www.dzbchina.com "德州银保监分局")	<sup>B0180H337140001 </sup>
+　	[枣庄银行](http://www.zzbank.cc "枣庄银保监分局")	<sup>B0290H337040001 </sup>
+　	[泰安银行](https://www.taccb.com.cn "泰安银保监分局")	<sup>B0297H337090001 </sup>
+　	[莱商银行](http://www.lsbankchina.com "莱芜银保监分局")	<sup>B0325H337120001 </sup>
+　山西内蒙：[晋商银行](http://www.jshbank.com "山西银保监局")	<sup>B0116H214010001 </sup>
+　	[盛京银行](http://www.shengjingbank.com.cn "辽宁银保监局")	<sup>B0264H221010001 </sup>
+　	[内蒙古银行](http://www.boimc.com.cn "内蒙古银保监局")	<sup>B1033H215010001 </sup>
+　	[鄂尔多斯银行](http://www.ordosbank.com "鄂尔多斯银保监分局")	<sup>B1067H315060001 </sup>
+　	[乌海银行](http://www.wuhaicb.com "乌海银保监分局")	<sup>B1068H315030001 </sup>
+　	[蒙商银行](http://www.bsb.com.cn "内蒙古银保监局")	<sup>B1954H215020001 </sup>
+　	[山西银行](https://www.shxibank.com "山西银保监局")	<sup>B2027H214010001 </sup>
+　川渝：[重庆三峡银行](http://www.ccqtgb.com "重庆银保监局")	<sup>B0205H250000001 </sup>
+　	[重庆银行](http://www.cqcbank.com "重庆银保监局")	<sup>B0206H250000001 </sup>
+　	[成都银行](http://www.bocd.com.cn "四川银保监局")	<sup>B0207H251010001 </sup>
+　	[自贡银行](http://www.zgbank.com.cn "自贡银保监分局")	<sup>B0208H251030001 </sup>
+　	[泸州银行](http://www.lzccb.cn "泸州银保监分局")	<sup>B0210H251050001 </sup>
+　	[长城华西银行](https://www.gwbank.com.cn/ "德阳银保监分局")	<sup>B0211H251060002 　2022升级，%Fx</sup>
+　	[绵阳市商业银行](http://www.mycc-bank.com "绵阳银保监分局")	<sup>B0212H251070001 </sup>
+　	[乐山市商业银行](http://www.lsccb.com "乐山银保监分局")	<sup>B0213H251110001 </sup>
+　	[四川天府银行](http://www.tf.cn "南充银保监分局")	<sup>B0214H251130001 </sup>
+　	[宜宾市商业银行](http://www.ybccb.com "宜宾银保监分局")	<sup>B0284H251150001 </sup>
+　	[遂宁银行](http://www.snccb.com "遂宁银保监分局")	<sup>B0317H251090001 </sup>
+　	[雅安市商业银行](http://www.yaccb.cn "雅安银保监分局")	<sup>B0343H251180001 </sup>
+　	[达州银行](http://www.dzccb.com.cn "达州银保监分局")	<sup>B1053H251170001 </sup>
+　	[四川银行](https://www.scbank.cn "四川银保监局")	<sup>B1987H251010001 　2022升级，旧版只有网银登录页https://ebank.pzhccb.com/web_pibs</sup>
+　江西福建：[厦门国际银行](http://www.xib.com.cn "厦门银保监局")	<sup>B0025H235020001 </sup>
+　	[福建海峡银行](http://www.fjhxbank.com "福建银保监局")	<sup>B0163H235010001 </sup>
+　	[厦门银行](http://www.xmccb.com "厦门银保监局")	<sup>B0164H235020001 </sup>
+　	[泉州银行](http://www.qzccbank.com "泉州银保监分局")	<sup>B0271H335050001 </sup>
+　	[九江银行](http://www.jjccb.com "九江银保监分局")	<sup>B0348H336040001 </sup>
+　	[赣州银行](http://www.gzccb.com "赣州银保监分局")	<sup>B0353H336070001 </sup>
+　	[江西银行](http://www.jx-bank.com "江西银保监局")	<sup>B0792H236010001 </sup>
+　	[上饶银行](http://www.srbank.cn "上饶银保监分局")	<sup>B1030H336110001 </sup>
+　粤桂琼：[珠海华润银行](http://www.crbank.com.cn "珠海银保监分局")	<sup>B0199H244040001 </sup>
+　	[广东南粤银行](http://www.gdnybank.com "湛江银保监分局")	<sup>B0200H344080001 </sup>
+　	[东莞银行](http://www.dongguanbank.cn "东莞银保监分局")	<sup>B0201H244190001 </sup>
+　	[广西北部湾银行](http://www.bankofbbg.com "广西银保监局")	<sup>B0349H245010001 </sup>
+　	[海南银行](http://www.hnbankchina.com.cn "海南银保监局")	<sup>B0729H246010001 </sup>
+　	[广州银行](http://www.gzcb.com.cn "广东银保监局")	<sup>B1041H244010001 </sup>
+　	[柳州银行](http://www.lzccb.com "柳州银保监分局")	<sup>B1087H245020001 </sup>
+　	[桂林银行](http://www..guilinbank.com.cn "桂林银保监分局")	<sup>B1105H245030001 </sup>
+　	[广东华兴银行](http://www.ghbank.com.cn "汕头银保监分局")	<sup>B1194H244050001 </sup>
+　	[汉口银行](http://www.hkbchina.com "湖北银保监局")	<sup>B0187H242010002 </sup>
+　	[长沙银行](http://www.cscb.cn "湖南银保监局")	<sup>B0192H243010001 </sup>
+　	[中原银行](http://www.zybank.com.cn "河南银保监局")	<sup>B0615H241010001 </sup>
+　	[郑州银行](http://www.zzbank.cn "河南银保监局")	<sup>B1036H241010001 </sup>
+　	[湖南银行❗](https://www.hunan-bank.com "湖南银保监局")	<sup>B1099H243010001 　2022升级，编码和网址均继承自华融湘江银行hrxjbank.com.cn</sup>
+　	[湖北银行](http://www.hubeibank.cn "湖北银保监局")	<sup>B1151H242010001 </sup>
+　长三角：[上海银行](http://www.bosc.cn "上海银保监局")	<sup>B0139H231000001 </sup>
+　	[南京银行](http://www.njcb.com.cn "江苏银保监局")	<sup>B0140H232010001 </sup>
+　	[杭州银行](http://www.hzbank.com.cn "浙江银保监局")	<sup>B0151H233010001 </sup>
+　	[宁波银行](http://www.nbcb.com.cn "宁波银保监局")	<sup>B0152H233020001 </sup>
+　	[温州银行](http://www.wzbank.cn "温州银保监分局")	<sup>B0153H233030001 </sup>
+　	[嘉兴银行](http://www.jxccb.com "嘉兴银保监分局")	<sup>B0154H233040001 </sup>
+　	[湖州银行](http://www.hzccb.net "湖州银保监分局")	<sup>B0155H233050001 </sup>
+　	[绍兴银行](http://www.sxccb.com "绍兴银保监分局")	<sup>B0156H233060001 </sup>
+　	[金华银行](http://www.jhccb.com.cn "金华银保监分局")	<sup>B0157H233070001 </sup>
+　	[浙江稠州商业银行](http://www.czcb.com.cn "金华银保监分局")	<sup>B0158H233070001 </sup>
+　	[台州银行](http://www.tzbank.com "台州银保监分局")	<sup>B0159H233100001 </sup>
+　	[浙江泰隆商业银行](http://www.zjtlcb.com "台州银保监分局")	<sup>B0160H233100001 </sup>
+　	[浙江民泰商业银行](http://www.mintaibank.com "台州银保监分局")	<sup>B0161H233100001 </sup>
+　	[徽商银行](http://www.hsbank.com.cn "安徽银保监局")	<sup>B0162H234010001 </sup>
+　	[苏州银行](http://www.suzhoubank.com "苏州银保监分局")	<sup>B0236H332050001 </sup>
+　	[江苏银行](http://www.jsbchina.cn "江苏银保监局")	<sup>B0243H232010001 </sup>
+　	[江苏长江商业银行](http://cjccb.com "泰州银保监分局")	<sup>B0347H332120001 　网页有点像工行</sup>
+　	[宁波东海银行](http://www.ndhb.cn "宁波银保监局")	<sup>B0358H233020001 </sup>
+　	[宁波通商银行](http://www.ncbank.cn "宁波银保监局")	<sup>B1311H233020001 </sup>
+　陕甘宁：[兰州银行](http://www.lzbank.com "甘肃银保监局")	<sup>B0268H262010001 </sup>
+　	[西安银行](http://www.xacbank.com "陕西银保监局")	<sup>B0274H261010001 </sup>
+　	[宁夏银行](http://www.bankofnx.com.cn "宁夏银保监局")	<sup>B0314H264010001 </sup>
+　	[石嘴山银行](http://www.szsccb.com "石嘴山银保监分局")	<sup>B1009H364020001 </sup>
+　	[长安银行](http://www.ccabchina.com "陕西银保监局")	<sup>B1027H261010001 </sup>
+　	[甘肃银行](http://www.gsbankchina.com "甘肃银保监局")	<sup>B1228H262010001 </sup>
+　青藏疆：[青岛银行](http://www.qdccb.com "青岛银保监局")	<sup>B0170H237020001 </sup>
+　	[青海银行](http://www.bankqh.com "青海银保监局")	<sup>B0223H263010002 </sup>
+　	[昆仑银行](http://www.klb.cn "克拉玛依银保监分局")	<sup>B0226H365020002 </sup>
+　	[乌鲁木齐银行](http://www.uccb.com.cn "新疆银保监局")	<sup>B0796H265010001 </sup>
+　	[新疆汇和银行](http://www.bohuihe.com "伊犁银保监分局")	<sup>B1043H365400001 </sup>
+　	[哈密市商业银行](http://www.hmccb.com "哈密银保监分局")	<sup>B1085H365220001 2022升级</sup>
+　	[库尔勒银行](http://www.xjkccb.cn "巴音郭楞银保监分局")	<sup>B1104H365280001 </sup>
+　	[西藏银行](http://www.xzbc.com.cn "西藏银保监局")	<sup>B1293H254010001 </sup>
+　	[新疆银行](http://www.xjbank.com "新疆银保监局")	<sup>B1522H265010001 </sup>
+所有城商行全称均为某某“股份有限公司”，由地方银保监局监管。
 
 民营银行（17家，地方银保监局）：  
 [天津金城银行](https://www.kcbebank.com "天津金城银行股份有限公司 ")　
@@ -402,7 +391,7 @@ Insurance （2022年计237家）
 
 1、[中国人保集团](https://www.picc.com)⠀95518⠀中国人民保险集团股份有限公司⠀PICC  
 2、[中国人寿集团](https://www.chinalife.com.cn)⠀95519⠀中国人寿保险（集团）公司⠀  
-3、❗[中国再保集团](http://www.chinare.com.cn)⠀⠀中国再保险（集团）股份有限公司⠀  
+3、[中国再保集团](http://www.chinare.com.cn)⠀⠀中国再保险（集团）股份有限公司⠀  
 4、[太平保险集团](http://www.cntaiping.com)⠀95589⠀中国太平保险集团有限责任公司⠀  
 5、[太平洋保险集团](http://www.cpic.com.cn)⠀95500⠀中国太平洋保险（集团）股份有限公司⠀  
 6、[中华保险集团](http://www.cic.cn)⠀95585⠀中华联合保险集团股份有限公司⠀  
@@ -416,7 +405,7 @@ Insurance （2022年计237家）
 
 其余保险公司名单 237-13 = 224家
 
-14：❗[中国出口信用保险](https://sinosure.com.cn)公司　
+14：[中国出口信用保险](https://sinosure.com.cn)公司　
 15：[中国人民财产保险](https://property.picc.com)股份有限公司　
 16：[中国大地财产保险](http://www.ccic-net.com.cn)股份有限公司　
 17：[中华联合财产保险](http://e.cic.cn)股份有限公司　
