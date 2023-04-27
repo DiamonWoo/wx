@@ -4,9 +4,9 @@
 
 		防范金融风险还须解决许多重大问题 ———— 党的二十大报告
 
-　　2022年，银行出售理财产品全面转向净值化，个人投资者接近1亿[1]。购买理财产品，是普通人分享改开成果、支援国家建设的一种金融渠道。认清中国金融体系的顶层设计，有助于投资者选择适合产品，降低理财风险。
+　　2022年，银行出售理财产品全面转向净值化，个人投资者接近1亿<sup>[1]</sup>。购买理财产品，是普通人分享改开成果、支援国家建设的一种金融渠道。认清中国金融体系的顶层设计，有助于投资者选择适合产品，降低理财风险。
 
-　　认识金融体系，首先要认识金融央企，这是中国金融业的主动脉。　金融央企名单由财政部公布，本页面收录金融央企、文化央企、行政央企的官方网址。实业类央企请见[央企股票全家福](yangqi)页面。
+　　认识金融体系，首先要认识金融央企，这是中国金融业的主动脉。　金融央企名单由财政部公布<sup>[2]</sup>，本页面收录金融央企、文化央企、行政央企的官方网址。
 
 　　**金融圈**尝试以[集成网页]形式，囊括中国金融业监管体系，收录网址包括：中国主要商业银行、保险集团、其他中央金融机构。　网页设计仍未定稿，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
 
@@ -15,10 +15,12 @@
 </div>
 <div id='mu'>简目：
 改革近况、央企四类、
-<a href="#D2" target="_top">金融央企</a>、一行两会三所、<br>
+<a href="#D2" target="_top">金融央企</a>、<br>
+一行两会三所、
 <a href="#D4" target="_top">商业银行</a>、
 <a href="#D5" target="_top">保险集团</a>、网站群补充、
-<a href="#D7" target="_top">参考文献</a>、编辑札记
+<a href="#D7" target="_top">参考文献</a>、
+<a href="#D8" target="_top">编辑札记</a>
 </div>
 
 金融圈LSIP进度
@@ -40,7 +42,7 @@
 
 <h2 id="D1">中央企业四大类</h2>
 
-　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企（2022年98家），也是数量最多的央企。广义的央企还包括：金融央企、行政央企、文化央企，如下：
+　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企（2022年98家），也是数量最多的央企，详情请见[央企股票全家福](yangqi)页面。广义的央企还包括：金融央企、行政央企、文化央企，如下：
 
 * 文化央企3家：中国出版/对外文化/中国广电。
 * 行政央企4家：中国铁路/中国邮政；中国烟草；北大荒。
@@ -49,10 +51,10 @@
 
 　文旅部　W1	[中国出版](http://cn.cnpubg.com){:id="W1"} 	⠀CPG	<small>[网站群](http://cn.cnpubg.com/overview/sites/)	⠀北京  	⠀中国出版集团有限公司 	⠀[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)</small>  
 　文旅部　W2	[中外文化](http://www.caeg.cn){:id="W2"} 	⠀CAEG	<small>[网站群](http://www.caeg.cn/whjtgs/ppxm/events.shtml)	⠀北京  	⠀中国对外文化集团有限公司 	⠀2021年1月整体划转至紫荆文化集团</small>  
-广电总局　W3	[中国广电](http://www.cbn.cn){:id="W3"} 	⠀BroadNet	- - - <small>	⠀北京  	⠀中国广播电视网络集团有限公司 	⠀网站群见[下方▼](#D7){:target="_top"}</small>  
-　交通部　X1	[国铁集团](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	- - - <small>	⠀北京  	⠀中国国家铁路集团有限公司 	⠀网站群见[下方▼](#D7){:target="_top"}；《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)，[媒体矩阵](http://www.china-railway.com.cn/wnfw/jzlm/)；[国铁客运12306](https://www.12306.cn)、[国铁货运95306](http://www.95306.cn "招商、采购")</small>  
+广电总局　W3	[中国广电](http://www.cbn.cn){:id="W3"} 	⠀BroadNet	- - - <small>	⠀北京  	⠀中国广播电视网络集团有限公司 	⠀网站群见[下方▼](#D6){:target="_top"}</small>  
+　交通部　X1	[国铁集团](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	- - - <small>	⠀北京  	⠀中国国家铁路集团有限公司 	⠀网站群见[下方▼](#D6){:target="_top"}；《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)，[媒体矩阵](http://www.china-railway.com.cn/wnfw/jzlm/)；[国铁客运12306](https://www.12306.cn)、[国铁货运95306](http://www.95306.cn "招商、采购")</small>  
 　交通部　X2	[中国邮政](http://www.chinapost.com.cn){:id="X2"} 	⠀POST	<small>[网站群](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)	⠀北京  	⠀中国邮政集团有限公司 	⠀中国邮政报[📰](http://www.chinapostnews.com.cn/)</small>  
-　工信部　X3	[中国烟草](http://www.tobacco.gov.cn){:id="X3"} 	⠀TOBACCO	- - - <small>	⠀北京  	⠀中国烟草总公司 	⠀网站群见[下方▼](#D7){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)</small>  
+　工信部　X3	[中国烟草](http://www.tobacco.gov.cn){:id="X3"} 	⠀TOBACCO	- - - <small>	⠀北京  	⠀中国烟草总公司 	⠀网站群见[下方▼](#D6){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)</small>  
 　农业部　X4	[北大荒集团](https://www.chinabdh.com){:id="X4"} 	⠀　　	<small>[网站群](https://www.chinabdh.com/GroupIndustry.html)	⠀哈尔滨  	⠀北大荒农垦集团有限公司  	⠀wx：北大荒日报</small>
 
 <div align="right"><a href="#mu" target="_top">↑ Top</a></div>
@@ -61,7 +63,7 @@
 <h2 id="D2">中央金融企业</h2>
 财政部2022年公布27家
 
-1	[<b>中投</b>‼️](http://www.china-inv.cn){:id="1"} 	⠀CIC	<small>[网站群](http://www.china-inv.cn/china_inv/About_CIC/Who_We_Are.shtml)	⠀北京 🚩 	⠀中国投资有限责任公司⠀	<b>主权财富基金</b>，子公司：[中央汇金](http://www.huijin-inv.cn/huijin-inv/Investments/Overview.shtml)，控参股18家金融机构，标记：❗</small>  
+1	[<b>中投</b>‼️](http://www.china-inv.cn){:id="1"} 	⠀CIC	<small>[网站群](http://www.china-inv.cn/china_inv/About_CIC/Who_We_Are.shtml)	⠀北京 🚩 	⠀中国投资有限责任公司⠀	<b>主权财富基金</b>，子公司：[中央汇金](http://www.huijin-inv.cn/huijin-inv/Investments/Overview.shtml)，控参股18家金融机构，标记❗。</small>  
 2	[国开行❗](http://www.cdb.com.cn){:id="2"} 	⠀CDB	<small>[网站群](http://www.cdb.com.cn/gykh/zzjg/zgs/)	⠀北京 🚩 	⠀国家开发银行⠀G0001H111000001	⠀开发性金融机构，[wb](https://weibo.com/5294647313)</small>  
 3	[进出口银行](http://eximbank.gov.cn){:id="3"} 	⠀EXIMB	<small>[网站群](http://eximbank.gov.cn/aboutExim/organization/ckfjj/)	⠀北京  	⠀中国进出口银行⠀A0003H111000001	</small>  
 4	[农发行](http://www.adbc.com.cn){:id="4"} 	⠀ADBC	<small>[网站群](http://www.adbc.com.cn/n4/n1305/)	⠀北京 🚩 	⠀中国农业发展银行⠀A0002H111000001	</small>  
@@ -88,6 +90,8 @@
 25	[中再集团❗](https://www.chinare.com.cn){:id="25"} 	⠀ChinaRe	<small>[网站群](https://www.chinare.com.cn/zhzjt/566050/gpxx/gsylb/)	⠀北京  	⠀中国再保险（集团）股份有限公司⠀000007	</small>  
 26	[中国建投❗](http://www.jic.cn){:id="26"} 	⠀JIC	<small>[网站群](http://www.jic.cn/html/about-jic/services/chanpinfuwuxiangqing/2893.html)	⠀北京  	⠀中国建银投资有限责任公司⠀	</small>  
 27	[中国银河金控❗](https://www.china-galaxy.com.cn){:id="27"} 	⠀YinHe	<small>[网站群](https://www.china-galaxy.com.cn/index.php?a=lists&catid=89)	⠀北京  	⠀中国银河金融控股有限责任公司⠀	</small>  
+
+　　*[国泰君安投资管理](https://www.gimcs.com)股份有限公司❗ 为中央汇金参股的18家"金融机构"之一，但是，大萌在银保监会的银行名单、保险名单中查不到；看官网[股东构成](https://www.gimcs.com/article-86.html)介绍，最大股东是上海国资委，但在上海国资委官网的[监管企业名录](https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html)页面也看不到该公司，只有名称相近的‘国泰君安证券’；大萌暂时无法查明其受何部门监管，求达人解惑。*
 
 <div align="right"><a href="#mu" target="_top">↑ Top</a></div>
 
@@ -314,7 +318,7 @@ Banks，银保监会发布的2022年12月数据
 　	[库尔勒银行](http://www.xjkccb.cn "巴音郭楞银保监分局")	<sup>B1104H365280001 </sup>
 　	[西藏银行](http://www.xzbc.com.cn "西藏银保监局")	<sup>B1293H254010001 </sup>
 　	[新疆银行](http://www.xjbank.com "新疆银保监局")	<sup>B1522H265010001 </sup>
-　所有城商行全称均为“某某股份有限公司”，由地方银保监局监管。
+　城商行全称均为“某某银行股份有限公司”，由地方银保监局监管。
 
 民营银行（19家及其机构编码）：  
 　[天津金城银行](https://www.kcbebank.com "天津银保监局")	<sup>B0655H212000001 </sup>
@@ -336,7 +340,7 @@ Banks，银保监会发布的2022年12月数据
 　[辽宁振兴银行](https://www.newupbank.com "辽宁银保监局")	<sup>B1661H221010001 </sup>
 　[江西裕民银行](https://www.ymbank.com "江西银保监局")	<sup>B1877H236010001 </sup>
 　[无锡锡商银行]( "无锡银保监分局")	<sup>B1949H332020001 正在拍卖股权？</sup>
-　所有民营银行全称均为“某某银行股份有限公司”，由地方银保监局监管。
+　民营银行全称均为“某某银行股份有限公司”，由地方银保监局监管。
 
 外资法人银行（41家，前3家由银保监会监管）：  
 [东亚银行](https://www.hkbea.com.cn "东亚银行（中国）有限公司 ")	-----　
@@ -634,7 +638,7 @@ Insurance 237家，银保监会发布的2022年12月数据
 237：慈溪市龙山农村保险互助联社　  
 
 
-<h2 id="D7">央企网站群补充</h2>
+<h2 id="D6">央企网站群补充</h2>
 　　有少数央企官网，如广电、国铁等，没有为自身网站群提供独立页面，本段将这些央企网站群收录如下，方便读者查找。
 <div align="right"><a href="#D1" target="_top">↑ Top</a></div>
 
@@ -873,9 +877,8 @@ Statutory Disclosure Media 7家
 ```
 	老生常谈 © 2019-2023 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
-	个人金融理财圈 version 0.6.2	202304
+	个人金融理财圈 version 0.6.3	202304
 	https://laosheng.top/fuwu/jinrong
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
-💱🥯📈💹👛💰‼️🔺❗🔻🌡️🧨🎈🎁♦️👛🏮💰🩸🔴
