@@ -26,7 +26,7 @@
 金融圈LSIP进度
 --------------
 
-		收录LC：669个
+		收录LC：702个
 		设计LC：待定	　由于集合范围未定，本页链接计数目标无法确定。
 		本页正在进行第三次改版，等待国家金监总局网站开通后确定收录范围。
 
@@ -605,7 +605,7 @@ Insurance 237家，银保监会发布的2022年12月数据
 199：太平洋健康保险股份有限公司　
 200：复星联合健康保险股份有限公司　
 201：瑞华健康保险股份有限公司　
-202：中国人保资产管理有限公司　
+202：[中国人保资产管理](https://www.piccamc.com)有限公司　
 203：[中国人寿资产管理](http://www.clamc.com)有限公司　
 204：[华泰资产管理](http://www.htam.com.cn)有限公司　
 205：[平安资产管理](http://asset.pingan.com/)有限责任公司　
@@ -613,11 +613,11 @@ Insurance 237家，银保监会发布的2022年12月数据
 207：[泰康资产管理](http://www.taikang.com/tkzc)有限责任公司　
 208：[太平洋资产管理](https://asset.cpic.com.cn/xzcgl/)有限责任公司　
 209：[太平资产管理](http://asset.cntaiping.com)有限公司　
-210：新华资产管理股份有限公司　
-211：大家资产管理有限责任公司　
-212：生命保险资产管理有限公司　
+210：[新华资产管理](http://www.ncamc.com.cn/)股份有限公司　
+211：[大家资产管理](https://asset.djbx.com)有限责任公司　
+212：[生命保险资产管理](https://www.sinolifeamc.com)有限公司　
 213：[光大永明资产管理](http://www.slebam.com)股份有限公司　
-214：合众资产管理股份有限公司　
+214：[合众资产管理](https://www.unionasset.com.cn/)股份有限公司　
 215：[民生通惠资产管理](http://www.msthamc.com)有限公司　
 216：[阳光资产管理](http://www.sinosig.com)股份有限公司　
 217：[中英益利资产管理](http://www.zyylamc.com)股份有限公司　
