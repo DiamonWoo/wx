@@ -26,7 +26,7 @@
 金融圈LSIP进度
 --------------
 
-		收录LC：702个
+		收录LC≈ 600个
 		设计LC：待定	　由于集合范围未定，本页链接计数目标无法确定。
 		本页正在进行第三次改版，等待国家金监总局网站开通后确定收录范围。
 
@@ -96,7 +96,7 @@
 26	[中国建投❗](http://www.jic.cn){:id="26"} 	⠀JIC	<small>[网站群](http://www.jic.cn/html/about-jic/services/chanpinfuwuxiangqing/2893.html)	⠀北京  	⠀中国建银投资有限责任公司⠀	</small>  
 27	[中国银河金控❗](https://www.china-galaxy.com.cn){:id="27"} 	⠀YinHe	<small>[网站群](https://www.china-galaxy.com.cn/index.php?a=lists&catid=89)	⠀北京  	⠀中国银河金融控股有限责任公司⠀	</small>  
 
-　　<i>[国泰君安投资管理](https://www.gimcs.com)股份有限公司❗ 为中央汇金参股的18家"金融机构"之一，但是，在银保监会的银行名单、保险名单中查不到该公司；看公司官网[股东构成](https://www.gimcs.com/article-86.html)介绍，最大股东是上海国资委，但在上海国资委官网的[监管企业名录](https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html)页面也看不到该公司，只有名称相近的‘国泰君安证券’，二者有历史渊源，但是两个不同的公司。大萌暂时无法查明该公司是否作为金融机构被监管，求达人解惑。</i>
+　　<small><i>[国泰君安投资管理](https://www.gimcs.com)股份有限公司❗ 为中央汇金参股的18家"金融机构"之一，但是，在银保监会的银行名单、保险名单中查不到该公司；看公司官网[股东构成](https://www.gimcs.com/article-86.html)介绍，最大股东是上海国资委，但在上海国资委官网的[监管企业名录](https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html)页面也看不到该公司，只有名称相近的‘国泰君安证券’，二者有历史渊源，但是两个不同的公司。大萌暂时无法查明该公司是否作为金融机构被监管，求达人解惑。</i></small>
 
 <div align="right"><a href="#mu" target="_top">↑ Top</a></div>
 
@@ -509,43 +509,43 @@ Insurance 237家，银保监会发布的2022年12月数据
 103：[中国财产再保险](https://www.cpcr.com.cn "银保监会")<sup>有限责任公司 </sup>　
 104：[中国人寿再保险](https://www.chinarelife.cn "银保监会")<sup>有限责任公司 </sup>　
 105：[信利再保险](https://axaxl.com/zh/xl-reinsurance-china-company-limited/about-us "银保监会")<sup>（中国）有限公司 安盛集团旗下</sup>　
-106：太平再保险<sup>（中国）有限公司</sup>　
-107：前海再保险<sup>股份有限公司</sup>　
-108：人保再保险<sup>股份有限公司</sup>　
-109：中国农业再保险<sup>股份有限公司</sup>　
-110：[中国人寿保险](http://www.chinalife.com.cn "银保监会")<sup>股份有限公司 </sup>　
-111：[中国太平洋人寿保险](http://www.cpic.com.cn/life "银保监会")<sup>股份有限公司 </sup>　
-112：[中国平安人寿保险](http://life.pingan.com/index.shtml "银保监会")<sup>股份有限公司 </sup>　
-113：[❗新华人寿保险](http://www.newchinalife.com/Site/NCL/CN "银保监会")<sup>股份有限公司 </sup>　
-114：[太平人寿保险](http://life.cntaiping.com "银保监会")<sup>有限公司 </sup>　
-115：[中宏人寿保险](http://www.manulife-sinochem.com "上海银保监局")<sup>有限公司 </sup>　
-116：建信人寿保险<sup>股份有限公司</sup>　
-117：安联人寿保险<sup>有限公司</sup>　
-118：[工银安盛人寿保险](http://www.icbc-axa.com "银保监会")<sup>有限公司 </sup>　
-119：中信保诚人寿保险<sup>有限公司</sup>　
-120：交银人寿保险<sup>有限公司</sup>　
-121：[天安人寿保险](http://www.tianan-life.com "银保监会")<sup>股份有限公司 </sup>　
-122：[中意人寿保险](http://www.generalichina.com "北京银保监局")<sup>有限公司 </sup>　
-123：[光大永明人寿保险](http://www.sunlife-everbright.com "天津银保监局")<sup>有限公司 </sup>　
-124：友邦人寿保险<sup>有限公司</sup>　
-125：[北大方正人寿保险](http://www.pkufi.com "上海银保监局")<sup>有限公司 </sup>　
+106：[太平再保险](http://cntpre.cntaiping.com/about-gsjs/ "银保监会")<sup>（中国）有限公司 </sup>　
+107：[前海再保险](https://www.qianhaire.com/about-us-1.html "银保监会")<sup>股份有限公司 </sup>　
+108：[人保再保险](https://www.piccre.com.cn/html1/folder/19122/68-1.htm "银保监会")<sup>股份有限公司 </sup>　
+109：[中国农业再保险](http://www.china-agrore.com/abouts.html "银保监会")<sup>股份有限公司 财政部控股</sup>　
+110：[中国人寿保险](https://www.e-chinalife.com/xxpl/gywm/gsjs/ "银保监会")<sup>股份有限公司 境外上市</sup>　
+111：[中国太平洋人寿保险](https://life.cpic.com.cn/xrsbx/gytpysx/gsjj/ "银保监会")<sup>股份有限公司 </sup>　
+112：[中国平安人寿保险](https://life.pingan.com/p/#/about "银保监会")<sup>股份有限公司 </sup>　
+113：[❗新华人寿保险](https://www.newchinalife.com/spage/cn/companyProfileAboutXH/index.html#businessResults "银保监会")<sup>股份有限公司 </sup>　
+114：[太平人寿保险](https://life.cntaiping.com/about-gsjs/ "银保监会")<sup>有限公司 </sup>　
+115：[中宏人寿保险](https://www.manulife-sinochem.com/about-us/introduction "上海银保监局")<sup>有限公司 首家中外合资人寿保险，zhlife.com失效</sup>　
+116：[建信人寿保险](https://www.ccb-life.com.cn/html/6182/3209/index.html "上海银保监局")<sup>股份有限公司 社保基金参股</sup>　
+117：[安联人寿保险](https://www.allianz.com.cn/azContent/introduce/AZ003 "上海银保监局")<sup>有限公司 </sup>　
+118：[工银安盛人寿保险](https://www.icbc-axa.com/about_icbc_axa/axa_produce/organization.jsp "银保监会")<sup>有限公司 </sup>　
+119：[中信保诚人寿保险](https://www.citic-prudential.com.cn/guanyuxincheng.html "银保监会")<sup>有限公司 </sup>　
+120：[交银人寿保险](https://www.bocommlife.com/101649/ "上海银保监局")<sup>有限公司 原名：交银康联人寿</sup>　
+121：[天安人寿保险](https://www.tianan-life.com/toGuanYuTianAn "银保监会")<sup>股份有限公司 原名：恒康天安</sup>　
+122：[中意人寿保险](http://generalichina.com/Overview/ "北京银保监局")<sup>有限公司 中国石油集团资本</sup>　
+123：[光大永明人寿保险](https://www.sunlife-everbright.com/sleb/about/gsjj/ "天津银保监局")<sup>有限公司 中国羽协合作伙伴</sup>　
+124：[友邦人寿保险](https://e.aia.com.cn/ "银保监会")<sup>有限公司 没找到about</sup>　
+125：[北大方正人寿保险](https://www.pkufi.com/honor/company-introduction? "上海银保监局")<sup>有限公司 about没内容</sup>　
 126：[中荷人寿保险](http://www.ingboblife.com.cn "大连银保监局")<sup>有限公司 </sup>　
 127：[中英人寿保险](http://www.aviva-cofco.com.cn "北京银保监局")<sup>有限公司 </sup>　
-128：同方全球人寿保险<sup>有限公司</sup>　
+128：[同方全球人寿保险](https://www.aegonthtf.com/aboutUs/ppjs/ "深圳银保监局")<sup>有限公司 </sup>　
 129：[民生人寿保险](https://www.minshenglife.com "北京银保监局")<sup>股份有限公司 </sup>　
 130：[招商信诺人寿保险](http://www.cignacmb.com "深圳银保监局")<sup>有限公司 </sup>　
 131：[长生人寿保险](http://www.nissay-greatwall.com.cn "上海银保监局")<sup>有限公司 </sup>　
 132：[恒安标准人寿保险](http://www.hengansl.com "天津银保监局")<sup>有限公司 </sup>　
 133：[瑞泰人寿保险](http://www.oldmutual-guodian.com "北京银保监局")<sup>有限公司 </sup>　
 134：[富德生命人寿保险](http://www.sino-life.com "银保监会")<sup>股份有限公司 </sup>　
-135：小康人寿保险<sup>有限责任公司</sup>　
+135：[小康人寿保险](https://www.livit-life.com/1/37/index.html?id=37 "银保监会")<sup>有限责任公司 原名：中法人寿</sup>　
 136：[合众人寿保险](http://www.unionlife.com.cn "湖北银保监局")<sup>股份有限公司 </sup>　
 137：[华泰人寿保险](http://life.ehuatai.com "北京银保监局")<sup>股份有限公司 </sup>　
 138：[陆家嘴国泰人寿保险](https://www.cathaylife.cn "上海银保监局")<sup>有限责任公司 </sup>　
 139：[中美联泰大都会人寿保险](http://www.metlife.com.cn "上海银保监局")<sup>有限公司 </sup>　
 140：[华夏人寿保险](http://www.hxlife.com "银保监会")<sup>股份有限公司 </sup>　
-141：中银三星人寿保险<sup>有限公司</sup>　
-142：君康人寿保险<sup>股份有限公司</sup>　
+141：[中银三星人寿保险](https://www.boc-samsunglife.cn/about?code=GW642 "北京银保监局")<sup>有限公司 中航集团参股</sup>　
+142：[君康人寿保险](https://jklife.com/views/aboutUs/aboutUs.html "银保监会")<sup>股份有限公司 </sup>　
 143：[信泰人寿保险](http://www.sinatay.com "浙江银保监局")<sup>股份有限公司 </sup>　
 144：[农银人寿保险](http://www.abchinalife.cn "北京银保监局")<sup>股份有限公司 </sup>　
 145：[长城人寿保险](http://www.greatlife.cn "北京银保监局")<sup>股份有限公司 </sup>　
@@ -555,49 +555,49 @@ Insurance 237家，银保监会发布的2022年12月数据
 149：[英大泰和人寿保险](http://www.ydthlife.com/ecydth "北京银保监局")<sup>股份有限公司 </sup>　
 150：[幸福人寿保险](http://www.happyinsurance.com.cn "北京银保监局")<sup>股份有限公司 </sup>　
 151：[阳光人寿保险](http://www.sinosig.com "银保监会")<sup>股份有限公司 </sup>　
-152：鼎诚人寿保险<sup>有限责任公司</sup>　
+152：[鼎诚人寿保险](https://www.dingchenglife.com.cn/gywm/gsjs/ "北京银保监局")<sup>有限责任公司 </sup>　
 153：[汇丰人寿保险](http://www.hsbcinsurance.com.cn "上海银保监局")<sup>有限公司 </sup>　
 154：[君龙人寿保险](http://www.kdlins.com.cn "厦门银保监局")<sup>有限公司 </sup>　
 155：[百年人寿保险](http://www.aeonlife.com.cn "大连银保监局")<sup>股份有限公司 </sup>　
 156：[中邮人寿保险](http://www.chinapost-life.com "银保监会")<sup>股份有限公司 </sup>　
 157：[中融人寿保险](http://www.zhongronglife.com "北京银保监局")<sup>股份有限公司 </sup>　
-158：大家人寿保险<sup>股份有限公司</sup>　
+158：[大家人寿保险](https://life.djbx.com/col/col184/ "银保监会")<sup>股份有限公司 中石化参股</sup>　
 159：[利安人寿保险](http://www.lianlife.com "江苏银保监局")<sup>股份有限公司 </sup>　
 160：[华汇人寿保险](http://www.sciclife.com "辽宁银保监局")<sup>股份有限公司 </sup>　
 161：[前海人寿保险](http://www.foresealife.com "银保监会")<sup>股份有限公司 </sup>　
 162：[东吴人寿保险](http://www.soochowlife.net "江苏银保监局")<sup>股份有限公司 </sup>　
 163：[弘康人寿保险](http://www.hongkang-life.com "北京银保监局")<sup>股份有限公司 </sup>　
 164：[珠江人寿保险](http://www.prlife.com.cn "广东银保监局")<sup>股份有限公司 </sup>　
-165：财信吉祥人寿保险<sup>股份有限公司</sup>　
+165：[财信吉祥人寿保险](http://life.hnchasing.com/web/about/compinfo/index.jsp "湖南银保监局")<sup>股份有限公司 湖南省首家本土保险</sup>　
 166：[复星保德信人寿保险](http://www.pflife.com.cn "上海银保监局")<sup>有限公司 </sup>　
 167：[中韩人寿保险](http://www.sinokorealife.com.cn "浙江银保监局")<sup>有限公司 </sup>　
 168：[德华安顾人寿保险](http://www.ergo-life.cn "山东银保监局")<sup>有限公司 </sup>　
-169：渤海人寿保险<sup>股份有限公司</sup>　
+169：[渤海人寿保险](http://www.bohailife.net/zjbh/gsjj.shtml "银保监会")<sup>股份有限公司 暂停互联网业务</sup>　
 170：[国联人寿保险](http://www.guolian-life.com "江苏银保监局")<sup>股份有限公司 </sup>　
 171：[上海人寿保险](http://www.shanghailife.com.cn "上海银保监局")<sup>股份有限公司 </sup>　
-172：中华联合人寿保险<sup>股份有限公司</sup>　
-173：泰康人寿保险<sup>有限责任公司</sup>　
-174：横琴人寿保险<sup>有限公司</sup>　
-175：和泰人寿保险<sup>股份有限公司</sup>　
-176：华贵人寿保险<sup>股份有限公司</sup>　
-177：信美人寿相互保险社<sup></sup>　
-178：爱心人寿保险<sup>股份有限公司</sup>　
-179：招商局仁和人寿保险<sup>股份有限公司</sup>　
-180：[三峡人寿保险](http://www.tg-life.com.cn "重庆银保监局")<sup>股份有限公司 </sup>　
-181：北京人寿保险<sup>股份有限公司</sup>　
-182：国宝人寿保险<sup>股份有限公司</sup>　
-183：海保人寿保险<sup>股份有限公司</sup>　
+172：[中华联合人寿保险](http://life.cic.cn/redirect/1617959393466823.html "北京银保监局")<sup>股份有限公司 中华保险集团</sup>　
+173：[泰康人寿保险](https://www.taikanglife.com/about/companyinfo.html "银保监会")<sup>有限责任公司 泰康保险集团</sup>　
+174：[横琴人寿保险](https://www.hqins.cn/enterHengqinLife/understandUs "广东银保监局")<sup>有限公司 横琴粤澳深度合作区</sup>　
+175：[和泰人寿保险](https://www.htlic.com/aboutHt/COMPANY_INTRO "山东银保监局")<sup>股份有限公司 </sup>　
+176：[华贵人寿保险](https://www.huaguilife.cn/gyhg/ "贵州银保监局")<sup>股份有限公司 贵州茅台参股</sup>　
+177：[信美人寿相互保险社](https://www.trustlife.com/trustIntro.html "银保监会")<sup> 蚂蚁集团参股</sup>　
+178：[爱心人寿保险](https://www.aixin-ins.com/gsjs/index.jhtml "北京银保监局")<sup>股份有限公司 </sup>　
+179：[招商局仁和人寿保险](https://www.cmrh.com/html/aboutCompany.shtml "深圳银保监局")<sup>股份有限公司 央企控股</sup>　
+180：[三峡人寿保险](https://www.tg-life.com.cn/company/2.html "重庆银保监局")<sup>股份有限公司 </sup>　
+181：[北京人寿保险](https://www.beijinglife.com.cn/c/2018-10-23/485006.html "北京银保监局")<sup>股份有限公司 </sup>　
+182：[国宝人寿保险](https://www.panda-assets.com/Home/AboutUs "四川银保监局")<sup>股份有限公司 🐼</sup>　
+183：[海保人寿保险](https://www.haibao-life.com/gsjs/ "海南银保监局")<sup>股份有限公司 </sup>　
 184：国富人寿保险<sup>股份有限公司</sup>　
 185：[平安养老保险](http://annuity.pingan.com "银保监会")<sup>股份有限公司 </sup>　
 186：[太平养老保险](http://tppension.cntaiping.com "银保监会")<sup>股份有限公司 </sup>　
-187：[中国人寿养老保险](https://www.clpc.com.cn "银保监会")<sup>股份有限公司 </sup>　
-188：[长江养老保险](https://www.cj-pension.com.cn "银保监会")<sup>股份有限公司 太平洋保险</sup>　
+187：[中国人寿养老保险](https://www.clpc.com.cn/chinalifepension/gywm/gsjj/index.html "银保监会")<sup>股份有限公司 </sup>　
+188：[长江养老保险](https://www.cj-pension.com.cn/cjyl/Channel/348208/ "银保监会")<sup>股份有限公司 太平洋保险</sup>　
 189：[泰康养老保险](http://www.taikang.com/tkyl "银保监会")<sup>股份有限公司 </sup>　
 190：[大家养老保险](https://annuity.djbx.com/ "银保监会")<sup>股份有限公司 </sup>　
-191：[新华养老保险](https://www.newchinapension.com "银保监会")<sup>股份有限公司 新华人寿</sup>　
-192：[中国人民养老保险](https://www.picc-pension.com.cn "银保监会")<sup>有限责任公司 </sup>　
-193：[恒安标准养老保险](https://www.haslpension.com "银保监会")<sup>有限责任公司 恒安标准人寿</sup>　
-194：[国民养老保险](https://www.guominpension.com "银保监会")<sup>股份有限公司 %Fx</sup>　
+191：[新华养老保险](https://www.newchinapension.com/xhylbx/_300480/_301070/index.html "银保监会")<sup>股份有限公司 新华人寿</sup>　
+192：[中国人民养老保险](https://www.picc-pension.com.cn/html1/folder/23022/98-1.htm "银保监会")<sup>有限责任公司 </sup>　
+193：[恒安标准养老保险](https://www.haslpension.com/henganyanglao/gywm/gsjj/ "银保监会")<sup>有限责任公司 恒安标准人寿</sup>　
+194：[国民养老保险](https://www.guominpension.com/AboutUs "银保监会")<sup>股份有限公司 %Fx</sup>　
 195：[平安健康保险](http://health.pingan.com "银保监会")<sup>股份有限公司 </sup>　
 196：[中国人民健康保险](http://www.picchealth.com "银保监会")<sup>股份有限公司 </sup>　
 197：[昆仑健康保险](http://www.kunlunhealth.com "银保监会")<sup>股份有限公司 </sup>　
