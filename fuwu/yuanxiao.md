@@ -1,26 +1,26 @@
-高等院校三千所 👨‍🎓 <sub>俺只取一瓢饮之</sub>
+高等院校三千所 👨‍🎓 <sub>只取一瓢饮</sub>
 ================
-大萌	　202305	<base target="_blank">
+大萌	　202305 草稿	<base target="_blank">
 
 		大学，大概学学 —— 佚名
 
-　　高等院校俗称‘大学’，是普通家庭通过普通高考/成人自考可以进入求学的高等学府。每年高考，各高校排名都是家长与考生的热议话题。本页面尝试列出所有高校名单和网址。
+　　高等院校俗称‘大学’，是普通家庭通过普通高考/成人自考可以进入求学的高等学府。每年高考，各高校排名都是家长与考生的热议话题。本页面列出所有高校名单和网址，并尝试客观性排序。
 
-　　我国已有高等院校约三千所，主要由普通高等院校构成，约2700所，加上少数成人高等院校，由教育部公布名单。另有44所军事院校，大部分不设公开网站，有27所面向普通高考招生（2022年）。
+　　我国高等院校有约三千所，主要由普通高等院校构成，约2700所，加上少数成人高等院校，由教育部公布名单。另有44所军事院校，大部分不设公开网站，其中27所面向普通高考招生（2022年）。
 
-　　在九年义务制教育之后、高等教育之前，青少年可参与高中/职高/中专/技校等中等教育。大萌初步考察，这类学校数量大约在九千所。是否收录，尚在考虑。哪里有名单呢？
+　　本页面暂时按‘从中央到地方’的顺序给高校排名。页面设计中，欢迎提出意见。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/高等院校三千所
 </div>
 
-简目：LSIP进度、中央及部委直属本科114所、军事院校名单、本科院校名单、[图例与统计](#D3){:target="_top"}、[大专与高职院校](#D5){:target="_top"}、成人高校名单、[参考文献](#D6){:target="_top"}
+简目：LSIP进度、部委直属本科114所、军事院校44所、本科院校 1270-114、[图例与统计](#D3){:target="_top"}、[大专与高职院校名单](#D5){:target="_top"}、成人高校名单、[参考文献](#D6){:target="_top"}
 
 
 高校三千LSIP进度
 ----------------
 
-		v0.0.1 LC = 1907	
+		v0.0.3 LC = 1907	
 		　设计 LC = 3057　
 		　 完成率 ≈ 　62.3%
 
@@ -28,13 +28,14 @@
 改革近况
 --------
 
+*	2022年6月，教育部公布《[全国高等学校名单](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202206/t20220617_638352.html)》，分普通高校和成人高校两个文件，pdf格式。
 *	2021年5月至7月，[十九届中央第七轮巡视](https://www.ccdi.gov.cn/specialn/19zyxsgz/yw19zyxsgz/202104/t20210428_153257.html)对教育部和31所中管高校(标记❗)党组织开展常规巡视，并于2021年9月反馈了巡视情况。
 
 
 中国高等院校体系
 ----------------
 
-*	普通高等院校，2759所，本科/专科（大专/高职）
+*	普通高等院校，2759所，本科1270所 / 专科1489所（大专/高职）
 *	成人高等院校， 254所，高升专/高升本/专升本
 *	军事院校，44所，其中27所面向普通高考招生（2022年）  
 	以上合计3507所。
@@ -46,122 +47,40 @@
 --------------------
 计114所，截至2022年5月
 
-　
+　在中央及部委的直属高校中，有31所‘中管高校’，标记❗，指该校书记/校长为副部级干部，列入《中共中央管理的干部职务名称表》。
 
-1	北京大学　　
-2	中国人民大学　　
-3	清华大学　
-4	北京交通大学　
-6	北京航空航天大学　
-7	北京理工大学　
-8	北京科技大学　
-10	北京化工大学　
-13	北京邮电大学　
-17	北京电子科技学院　
-18	中国农业大学　
-20	北京林业大学　
-21	北京协和医学院　
-23	北京中医药大学　
-24	北京师范大学　
-27	北京外国语大学　
-29	北京语言大学　
-30	中国传媒大学　
-31	中央财经大学　
-32	对外经济贸易大学　
-35	中国消防救援学院　
-36	外交学院　
-37	中国人民公安大学　
-38	国际关系学院　
-39	北京体育大学　
-40	中央音乐学院　
-42	中央美术学院　
-43	中央戏剧学院　
-47	中央民族大学　
-48	中国政法大学　
-49	华北电力大学　
-50	中华女子学院　
-52	中国矿业大学（北京）　
-53	中国石油大学（北京）　
-54	中国地质大学（北京）　
-57	中国青年政治学院　
-59	中国劳动关系学院　
-66	中国科学院大学　
-67	中国社会科学院大学　
-93	南开大学　
-94	天津大学　
-97	中国民航大学　
-175	华北科技学院　
-176	中国人民警察大学　
-180	防灾科技学院　
-182	中央司法警官学院　
-410	大连理工大学　
-414	东北大学　
-420	大连海事大学　
-438	中国刑事警察学院　
-449	大连民族大学　
-523	吉林大学　
-532	东北师范大学　
-590	哈尔滨工业大学　
-592	哈尔滨工程大学　
-598	东北林业大学　
-667	复旦大学　
-668	同济大学　
-669	上海交通大学　
-670	华东理工大学　
-673	东华大学　
-679	华东师范大学　
-681	上海外国语大学　
-682	上海财经大学　
-684	上海海关学院　
-731	南京大学　
-733	东南大学　
-734	南京航空航天大学　
-735	南京理工大学　
-737	中国矿业大学　
-741	河海大学　
-742	江南大学　
-748	南京农业大学　
-752	中国药科大学　
-776	南京森林警察学院　
-899	浙江大学　
-1009	中国科学技术大学　
-1010	合肥工业大学　
-1129	厦门大学　
-1130	华侨大学　
-1324	山东大学　
-1325	中国海洋大学　
-1327	中国石油大学（华东）　
-1514	铁道警察学院　
-1633	武汉大学　
-1634	华中科技大学　
-1638	中国地质大学（武汉）　
-1641	武汉理工大学　
-1643	华中农业大学　
-1645	华中师范大学　
-1652	中南财经政法大学　
-1655	中南民族大学　
-1765	湖南大学　
-1766	中南大学　
-1893	中山大学　
-1894	暨南大学　
-1896	华南理工大学　
-2159	重庆大学　
-2163	西南大学　
-2229	四川大学　
-2230	西南交通大学　
-2231	电子科技大学　
-2238	中国民用航空飞行学院　
-2252	西南财经大学　
-2255	西南民族大学　
-2528	西安交通大学　
-2529	西北工业大学　
-2531	西安电子科技大学　
-2538	长安大学　
-2539	西北农林科技大学　
-2541	陕西师范大学　
-2624	兰州大学　
-2635	西北民族大学　
-2688	北方民族大学
+1 ❗ <b>[北京大学](http://www.pku.edu.cn)</b>	<sup>教育部</sup> PKU 北京	[机构页](http://www.pku.edu.cn/group.html)	[院系页](http://www.pku.edu.cn/department.html)	[招生办](www.pku.edu.cn/recruit.html)	[图书馆](https://www.lib.pku.edu.cn/)	[校园网](http://cc.pku.edu.cn/service.jsp)	[未名BBS](https://bbs.pku.edu.cn/)，北大[第六医院](https://www.pkuh6.cn/)	  
+2 ❗ <b>[清华大学](http://www.tsinghua.edu.cn)</b>	<sup>教育部</sup> Tsinghua 北京	[机构页](http://www.tsinghua.edu.cn/xxgk/zzjg.htm)	[院系页](http://www.tsinghua.edu.cn/yxsz.htm)	[招生办](www.tsinghua.edu.cn/zsjy.htm)	[图书馆](https://lib.tsinghua.edu.cn/)	[校园网](https://www.itc.tsinghua.edu.cn/)	[CERNET](https://www.cernet.edu.cn/)核心机房，[长庚医院](http://www.btch.edu.cn/)	  
+3 ❗ <b>[中国人民大学](http://www.ruc.edu.cn)</b>	<sup>教育部</sup> RUC 北京	[机构页](http://www.ruc.edu.cn/organization)	[院系页](http://www.ruc.edu.cn/department)	[招生办](https://rdzs.ruc.edu.cn/)	[图书馆](http://www.lib.ruc.edu.cn/)	[校园网](https://it.ruc.edu.cn/)	[国家版权贸易基地](http://www.copyrightruc.com/)	  
+4 ❗ <b>[北京师范大学](http://www.bnu.edu.cn)</b>	<sup>教育部</sup> BNU 北京	[机构页](http://www.bnu.edu.cn/zzjg/)	[院系页](http://www.bnu.edu.cn/xbyx/)	[招生办](https://admission.bnu.edu.cn/)	[图书馆](http://www.lib.bnu.edu.cn/)	[校园网](https://info.bnu.edu.cn/)	珠海分院、第三附属中学	  
+5 ❗ <b>[复旦大学](http://www.fudan.edu.cn)</b>	<sup>教育部</sup> Fudan 上海	[机构页](http://www.fudan.edu.cn/492/list.htm)	[院系页](http://www.fudan.edu.cn/489/list.htm)	--- 	[图书馆](http://www.library.fudan.edu.cn/)	[校园网](https://ecampus.fudan.edu.cn/)		  
+6 ❗ <b>[上海交通大学](http://www.sjtu.edu.cn)</b>	<sup>教育部</sup>  上海	--- 	--- 	--- 	--- 	--- 		  
+7 ❗ <b>[西安交通大学](http://www.xjtu.edu.cn)</b>	<sup>教育部</sup>  陕西	--- 	--- 	--- 	--- 	--- 		  
+8 ❗ <b>[中国科学技术大学](http://www.ustc.edu.cn)</b>	<sup>中国科学院</sup>  安徽	--- 	--- 	--- 	--- 	--- 		  
+9 ❗ <b>[中国农业大学](http://www.cau.edu.cn)</b>	<sup>教育部</sup> CAU 北京	--- 	[院系页](http://www.cau.edu.cn/xybm/)	[招生办](https://jwzs.cau.edu.cn/)	[图书馆](http://www.lib.cau.edu.cn/)	[校园网](https://io.cau.edu.cn/)	[饲料博物馆](http://www.feedmuseum.com/)、[成都研究院](http://sc.cau.edu.cn/)、[三亚研究院](http://sanya.cau.edu.cn/)	  
+10 ❗ <b>[北京理工大学](http://bit.edu.cn)</b>	<sup>工业和信息化部</sup> BIT 北京	[机构页](http://bit.edu.cn/gbxxgk/xxld_sjb/)	[院系页](http://bit.edu.cn/gbxxgk/gbgljg/)	[招生办](https://admission.bit.edu.cn/)	[图书馆](https://lib.bit.edu.cn/)	[校园网](https://itc.bit.edu.cn/)	[徐特立学院](https://xuteli.bit.edu.cn/)	  
+11 ❗ <b>[北京航空航天大学](http://www.buaa.edu.cn)</b>	<sup>工业和信息化部</sup> BUAA 北京	[机构页](http://www.buaa.edu.cn/jgsz/dzjg_new.htm)	[院系页](http://www.buaa.edu.cn/jgsz/jxkyjg.htm)	[招生办](www.buaa.edu.cn/zsjy1/bkszs.htm)	--- 	--- 	图书馆与网络中心网站不对外开放	  
+12 ❗ <b>[西北工业大学](http://www.nwpu.edu.cn)</b>	<sup>工业和信息化部</sup>  陕西	--- 	--- 	--- 	--- 	--- 		  
+13 ❗ <b>[哈尔滨工业大学](http://www.hit.edu.cn)</b>	<sup>工业和信息化部</sup> HIT 黑龙江	[机构页](http://www.hit.edu.cn/11588/list.htm)	[院系页](http://www.hit.edu.cn/11589/list.htm)	[招生办](https://zsb.hit.edu.cn/)	[图书馆](https://lib.hit.edu.cn/)	[校园网](http://ca.hit.edu.cn/)	卓越工程师学院	  
+14 ❗ <b>[浙江大学](http://www.zju.edu.cn)</b>	<sup>教育部</sup>  浙江	--- 	--- 	--- 	--- 	--- 		  
+15 ❗ <b>[南京大学](http://www.nju.edu.cn)</b>	<sup>教育部</sup>  江苏	--- 	--- 	--- 	--- 	--- 		  
+16 ❗ <b>[四川大学](http://www.scu.edu.cn)</b>	<sup>教育部</sup>  四川	--- 	--- 	--- 	--- 	--- 		  
+17 ❗ <b>[南开大学](https://www.nankai.edu.cn)</b>	<sup>教育部</sup>  天津	--- 	--- 	--- 	--- 	--- 		  
+18 ❗ <b>[天津大学](http://www.tju.edu.cn)</b>	<sup>教育部</sup> TJU 天津	[机构页](http://www.tju.edu.cn/tdgk/jgsz/jgbcs.htm)	[院系页](http://www.tju.edu.cn/tdgk/jgsz/xy_b_.htm)	[招生办](http://zs.tju.edu.cn/)	[图书馆](http://www.lib.tju.edu.cn/)	--- 	北洋大学，[十家医院](http://www.tju.edu.cn/tdgk/jgsz/fsjhzgjyy.htm)	  
+19 ❗ <b>[武汉大学](http://www.whu.edu.cn)</b>	<sup>教育部</sup>  湖北	--- 	--- 	--- 	--- 	--- 		  
+20 ❗ <b>[中山大学](http://www.nsysu.edu.tw/bin/home.php)</b>	<sup>教育部</sup>  广东	--- 	--- 	--- 	--- 	--- 		  
+21 ❗ <b>[西北农林科技大学](http://www.nwsuaf.edu.cn)</b>	<sup>教育部</sup>  陕西	--- 	--- 	--- 	--- 	--- 		  
+22 ❗ <b>[吉林大学](http://www.jlu.edu.cn)</b>	<sup>教育部</sup> JLU 吉林	[机构页](http://www.jlu.edu.cn/jgsz/gl_fwyywjg.htm)	[院系页](http://www.jlu.edu.cn/jgsz/yxsz.htm)	[招生办](http://zsb.jlu.edu.cn/)	[图书馆](http://lib.jlu.edu.cn/)	[校园网](https://nic.jlu.edu.cn/)	白求恩医学部、黄大年纪念馆	  
+23 ❗ <b>[华中科技大学](http://www.hust.edu.cn)</b>	<sup>教育部</sup>  湖北	--- 	--- 	--- 	--- 	--- 		  
+24 ❗ <b>[山东大学](http://www.sdu.edu.cn)</b>	<sup>教育部</sup>  山东	--- 	--- 	--- 	--- 	--- 		  
+25 ❗ <b>[东南大学](http://www.seu.edu.cn)</b>	<sup>教育部</sup>  江苏	--- 	--- 	--- 	--- 	--- 		  
+26 ❗ <b>[厦门大学](http://www.xmu.edu.cn)</b>	<sup>教育部</sup>  福建	--- 	--- 	--- 	--- 	--- 		  
+27 ❗ <b>[同济大学](http://www.tongji.edu.cn)</b>	<sup>教育部</sup> Tongji 上海	[机构页](http://www.tongji.edu.cn/yxjg111/dzbm.htm)	[院系页](http://www.tongji.edu.cn/yxjg111/ybshe_zhi/ybsz_.htm)	[招生办](https://bkzs.tongji.edu.cn/)	[图书馆](https://www.lib.tongji.edu.cn/)	[校园网](https://nic.tongji.edu.cn/)		  
+28 ❗ <b>[中南大学](http://www.csu.edu.cn)</b>	<sup>教育部</sup>  湖南	--- 	--- 	--- 	--- 	--- 		  
+29 ❗ <b>[大连理工大学](http://www.dlut.edu.cn)</b>	<sup>教育部</sup> DLUT 辽宁	[机构页](http://www.dlut.edu.cn/xxgk/zzjg.htm)	[院系页](http://www.dlut.edu.cn/xbyx/dllszxq.htm)	[招生办](https://zs.dlut.edu.cn/)	[图书馆](http://www.lib.dlut.edu.cn/)	[校园网](https://its.dlut.edu.cn/)		  
+30 ❗ <b>[重庆大学](https://cqu.edu.cn/)</b>	<sup>教育部</sup>  重庆	--- 	--- 	--- 	--- 	--- 		  
+31 ❗ <b>[兰州大学](http://www.lzu.edu.cn)</b>	<sup>教育部</sup>  甘肃	--- 	--- 	--- 	--- 	--- 		  
+
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
@@ -2909,12 +2828,11 @@
 <h2 id='D5'>教育部常用网址</h2>
 
 　教育部 [MOE官网](http://www.moe.gov.cn)：
-	[机构概况](http://www.sasac.gov.cn/n2588020/index.html)、
-	  
-　教育部[新闻中心](http://www.sasac.gov.cn/n2588020/n2877938/n2879597/)：
-	  
-　官方微博：[xxxx](https://weibo.com/guozixiaoxin) 微博粉丝超500万，
+	[直属单位](http://www.moe.gov.cn/jyb_zzjg/moe_349/)（国家开放大学/中国教育电视台/中国教育报社……）  
+　官方微博：[微言教育](https://weibo.com/jybxwb) 微博粉丝超800万、
+	[中国大学生在线](https://weibo.com/univs) 微博粉丝250万……  
 
+　[国家智慧教育公共服务平台](https://www.smartedu.cn/)
 
 　32个省级[地方教育厅]()
 
@@ -2928,12 +2846,14 @@
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
+　　在高等教育之前、九年义务制教育之后，青少年可参与高中/职高/中专/技校等中等教育。大萌初步考察，后三类学校数量大约在九千所。再做一个‘中等职校九千所’？哪里有名单呢？
+
 　　节约您的搜寻时间，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，如[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
 
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	高等院校三千所 version alpha	202305
+	高等院校三千所 Version Beta	202305
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
