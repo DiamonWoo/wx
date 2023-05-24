@@ -4,9 +4,9 @@
 
 		一所精心布置的‘迷宫’，学生需要尽早决定自己将要去哪个出口 —— 《金榜题名之后》
 
-　　高等院校俗称‘大学’，是普通家庭通过 普通**高考**/**职教高考**/成人**自考** 可以进入求学的高等学府。每年高考，各大学排名都是家长与考生的热议话题。本页面列出全部中国高校名单和网址，并尝试客观性排序。目前暂时按‘先中央后地方、先本科后专科’的大致顺序给高校排名。
+　　高等院校俗称‘大学’，是普通家庭通过 普通**高考**/**职教高考**/成人**自考** 可以进入求学的高等学府。每年高考，各大学排名都是家长与考生的热议话题。本页面将收录中国高校名单全集和网址，并尝试**客观性排序**。暂时按‘先中央后地方、先本科后专科’的大致顺序给列出高校。
 
-　　我国高等院校有约三千所，其中一半是专科（高职/大专），还有约250所成人高校，剩下的就是1000多所本科院校，这些学校都由教育部公布名单。另有44所军事院校，大部分不设公开网站，其中27所（2022年）面向普通高考招生。经过十几年的大学合并潮、2017年的军改，这些数字不会再有剧烈变化。港澳台也有部分高校面向大陆招生，大约100所，本页一并收录。
+　　我国高等院校有约三千所，其中一半是专科（高职/大专），还有约250所成人高校，剩下的就是1000多所本科院校，这些学校都由教育部公布名单。另有44所军事院校，大部分不设公开网站，其中27所（2022年）面向普通高考招生。经过十几年的大学合并潮、2017年的军改，这些数字不会再有剧烈变化。港澳台高校合计不足200所，大约有一半面向大陆招生，本页一并收录。
 
 　　本页面仍在设计中，欢迎提出意见。页内网址尚未验证，有少量网址过期，待更新。请善用浏览器页内查找功能；可统计各省院校数，可查某个学校是否民办。
 
@@ -27,7 +27,7 @@ LSIP进度
 		　设计 LC = 3057　
 		　 完成率 ≈ 　61.7%
 
-*	202305，已收录全部高校名单3057所，上线。v0.3.2 增补港澳台在陆招生院校112所。
+*	202305，已收录全部高校名单3057所，v0.3.0上线。v0.3.6 增补港澳台院校全集180所。
 
 改革近况
 --------
@@ -322,18 +322,154 @@ LSIP进度
 
 台湾(149所高校，其中91所2019年面向大陆普通高考招生，标记🕊️)：
 
-　　公立台湾海洋大学、公立台北大学、公立台湾艺术大学、辅仁大学、淡江大学、真理大学、圣约翰科技大学、景文科技大学、
-东南科技大学、醒吾科技大学、公立政治大学、公立台湾大学、公立台湾师范大学、公立阳明大学、公立台湾科技大学、公立台北科技大学、
-公立台北艺术大学、公立台北教育大学、公立台北商业大学、公立台湾戏曲学院、东吴大学、中国文化大学、世新大学、铭传大学、实践大学、
-大同大学、台北医学大学、中国科技大学、公立宜兰大学、佛光大学、公立中央大学、公立体育大学、中原大学、
-长庚大学、元智大学、龙华科技大学、开南大学、长庚科技大学、公立清华大学、公立交通大学、中华大学、
-玄奘大学、明新科技大学、公立联合大学、公立中兴大学、公立台中教育大学、公立勤益科技大学、公立台湾体育运动大学、公立台中科技大学、
-东海大学、逢甲大学、静宜大学、朝阳科技大学、中山医学大学、中国医药大学、岭东科技大学、中台科技大学、
-亚洲大学、修平科技大学、公立彰化师范大学、大叶大学、公立云林科技大学、公立虎尾科技大学、公立暨南国际大学、公立嘉义大学、
-公立中正大学、南华大学、公立成功大学、公立台南艺术大学、公立台南大学、南台科技大学、崑山科技大学、长荣大学、
-台南应用科技大学、台湾首府大学、中信金融管理学院、公立中山大学、公立高雄师范大学、公立高雄大学、公立高雄科技大学、义守大学、
-高雄医学大学、树德科技大学、文藻外语大学、东方设计大学、公立屏东科技大学、公立屏东大学、公立东华大学、慈济大学、
-公立台东大学、公立金门大学、铭传大学(金门校区)
+　0001 [公立政治大学](http://www.nccu.edu.tw) 	🕊️	<sup>台北市 </sup>
+　0002 [公立清华大学](http://www.nthu.edu.tw) 	🕊️	<sup>新竹市 </sup>
+　0003 [公立台湾大学](http://www.ntu.edu.tw) 	🕊️	<sup>台北市 </sup>
+　0004 [公立台湾师范大学](http://www.ntnu.edu.tw) 	🕊️	<sup>台北市 </sup>
+　0005 [公立成功大学](http://www.ncku.edu.tw) 	🕊️	<sup>台南市 </sup>
+　0006 [公立中兴大学](http://www.nchu.edu.tw) 	🕊️	<sup>台中市 </sup>
+　0007 [公立阳明交通大学](http://www.nycu.edu.tw) 		<sup>新竹市 </sup>
+　0008 [公立中央大学](http://www.ncu.edu.tw) 	🕊️	<sup>桃园市 </sup>
+　0009 [公立中山大学](http://www.nsysu.edu.tw) 	🕊️	<sup>高雄市 </sup>
+　0012 [公立台湾海洋大学](http://www.ntou.edu.tw) 	🕊️	<sup>基隆市 </sup>
+　0013 [公立中正大学](http://www.ccu.edu.tw) 	🕊️	<sup>嘉义县 </sup>
+　0014 [公立高雄师范大学](http://www.nknu.edu.tw) 	🕊️	<sup>高雄市 </sup>
+　0015 [公立彰化师范大学](http://www.ncue.edu.tw) 	🕊️	<sup>彰化县 </sup>
+　0017 [公立台北大学](http://new.ntpu.edu.tw) 	🕊️	<sup>新北市 </sup>
+　0018 [公立嘉义大学](http://www.ncyu.edu.tw) 	🕊️	<sup>嘉义市 </sup>
+　0019 [公立高雄大学](http://www.nuk.edu.tw) 	🕊️	<sup>高雄市 </sup>
+　0020 [公立东华大学](http://www.ndhu.edu.tw) 	🕊️	<sup>花莲县 </sup>
+　0021 [公立暨南国际大学](http://www.ncnu.edu.tw) 	🕊️	<sup>南投县 </sup>
+　0022 [公立台湾科技大学](http://www.ntust.edu.tw) 	🕊️	<sup>台北市 </sup>
+　0023 [公立云林科技大学](http://www.yuntech.edu.tw) 	🕊️	<sup>云林县 </sup>
+　0024 [公立屏东科技大学](http://www.npust.edu.tw) 	🕊️	<sup>屏东县 </sup>
+　0025 [公立台北科技大学](http://www.ntut.edu.tw) 	🕊️	<sup>台北市 </sup>
+　0028 [公立台北艺术大学](http://www.tnua.edu.tw) 	🕊️	<sup>台北市 </sup>
+　0029 [公立台湾艺术大学](http://www.ntua.edu.tw) 	🕊️	<sup>新北市 </sup>
+　0030 [公立台东大学](http://www.nttu.edu.tw) 	🕊️	<sup>台东县 </sup>
+　0031 [公立宜兰大学](http://www.niu.edu.tw) 	🕊️	<sup>宜兰县 </sup>
+　0032 [公立联合大学](http://www.nuu.edu.tw) 	🕊️	<sup>苗栗县 </sup>
+　0033 [公立虎尾科技大学](http://www.nfu.edu.tw) 	🕊️	<sup>云林县 </sup>
+　0035 [公立台南艺术大学](http://www.tnnua.edu.tw) 	🕊️	<sup>台南市 </sup>
+　0036 [公立台南大学](http://web.nutn.edu.tw) 	🕊️	<sup>台南市 </sup>
+　0037 [公立台北教育大学](http://www.ntue.edu.tw) 	🕊️	<sup>台北市 </sup>
+　0039 [公立台中教育大学](http://www.ntcu.edu.tw) 	🕊️	<sup>台中市 </sup>
+　0042 [公立澎湖科技大学](http://www.npu.edu.tw) 		<sup>澎湖县 </sup>
+　0043 [公立勤益科技大学](http://www.ncut.edu.tw) 	🕊️	<sup>台中市 </sup>
+　0044 [公立体育大学](http://www.ntsu.edu.tw) 	🕊️	<sup>桃园市 </sup>
+　0046 [公立台北护理健康大学](http://www.ntunhs.edu.tw) 		<sup>台北市 </sup>
+　0047 [公立高雄餐旅大学](https://www.nkuht.edu.tw) 		<sup>高雄市 </sup>
+　0048 #[公立金门大学](http://www.nqu.edu.tw) 	🕊️	<sup>金门县 </sup>
+　0049 #[公立台湾体育运动大学](https://www.ntus.edu.tw/) 	🕊️	<sup>台中市 </sup>
+　0050 [公立台中科技大学](https://www.nutc.edu.tw/) 	🕊️	<sup>台中市 </sup>
+　0051 [公立台北商业大学](http://www.ntub.edu.tw) 	🕊️	<sup>台北市 </sup>
+　0052 [公立屏东大学](http://www.nptu.edu.tw) 	🕊️	<sup>屏东县 </sup>
+　0053 [公立高雄科技大学](http://www.nkust.edu.tw) 	🕊️	<sup>高雄市 </sup>
+　0144 [公立台湾戏曲学院](http://www.tcpa.edu.tw) 	🕊️	<sup>台北市 </sup>
+　0221 [公立台南护理专科学校](http://www.ntin.edu.tw) 		<sup>台南市 </sup>
+　0222 [公立台东专科学校](http://www.ntc.edu.tw) 		<sup>台东县 </sup>
+　1001 [东海大学](https://www.thu.edu.tw/) 私立	🕊️	<sup>台中市 </sup>
+　1002 [辅仁大学](http://www.fju.edu.tw) 私立	🕊️	<sup>新北市 </sup>
+　1003 [东吴大学](http://www.scu.edu.tw) 私立	🕊️	<sup>台北市 </sup>
+　1004 [中原大学](http://www.cycu.edu.tw) 私立	🕊️	<sup>桃园市 </sup>
+　1005 [淡江大学](http://www.tku.edu.tw) 私立	🕊️	<sup>新北市 </sup>
+　1006 [中国文化大学](http://www.pccu.edu.tw) 私立	🕊️	<sup>台北市 </sup>
+　1007 [逢甲大学](http://www.fcu.edu.tw) 私立	🕊️	<sup>台中市 </sup>
+　1008 [静宜大学](http://www.pu.edu.tw) 私立	🕊️	<sup>台中市 </sup>
+　1009 [长庚大学](http://www.cgu.edu.tw) 私立	🕊️	<sup>桃园市 </sup>
+　1010 [元智大学](http://www.yzu.edu.tw) 私立	🕊️	<sup>桃园市 </sup>
+　1011 [中华大学](http://www.chu.edu.tw) 私立	🕊️	<sup>新竹市 </sup>
+　1012 [大叶大学](http://www.dyu.edu.tw) 私立	🕊️	<sup>彰化县 </sup>
+　1013 [华梵大学](http://www.hfu.edu.tw) 私立		<sup>新北市 </sup>
+　1014 [义守大学](http://www.isu.edu.tw) 私立	🕊️	<sup>高雄市 </sup>
+　1015 [世新大学](http://www.shu.edu.tw) 私立	🕊️	<sup>台北市 </sup>
+　1016 [铭传大学](http://www.mcu.edu.tw) 私立	🕊️	<sup>台北市 </sup>
+　1017 [实践大学](https://www.usc.edu.tw/) 私立	🕊️	<sup>台北市 </sup>
+　1018 [朝阳科技大学](http://www.cyut.edu.tw) 私立	🕊️	<sup>台中市 </sup>
+　1019 [高雄医学大学](http://www2.kmu.edu.tw) 私立	🕊️	<sup>高雄市 </sup>
+　1020 [南华大学](http://www.nhu.edu.tw) 私立	🕊️	<sup>嘉义县 </sup>
+　1021 [真理大学](http://www.au.edu.tw) 私立	🕊️	<sup>新北市 </sup>
+　1022 [大同大学](http://www.ttu.edu.tw) 私立	🕊️	<sup>台北市 </sup>
+　1023 [南台科技大学](http://www.stust.edu.tw) 私立	🕊️	<sup>台南市 </sup>
+　1024 [崑山科技大学](http://www.ksu.edu.tw) 私立	🕊️	<sup>台南市 </sup>
+　1025 [嘉南药理大学](http://www.cnu.edu.tw) 私立		<sup>台南市 </sup>
+　1026 [树德科技大学](http://www.stu.edu.tw) 私立	🕊️	<sup>高雄市 </sup>
+　1027 [慈济大学](http://www.tcu.edu.tw) 私立	🕊️	<sup>花莲县 </sup>
+　1028 [台北医学大学](http://www.tmu.edu.tw) 私立	🕊️	<sup>台北市 </sup>
+　1029 [中山医学大学](http://www.csmu.edu.tw) 私立	🕊️	<sup>台中市 </sup>
+　1030 [龙华科技大学](http://www.lhu.edu.tw) 私立	🕊️	<sup>桃园市 </sup>
+　1031 [辅英科技大学](https://www.fy.edu.tw/) 私立		<sup>高雄市 </sup>
+　1032 [明新科技大学](http://www.must.edu.tw) 私立	🕊️	<sup>新竹县 </sup>
+　1033 [长荣大学](http://www.cjcu.edu.tw) 私立	🕊️	<sup>台南市 </sup>
+　1034 [弘光科技大学](http://www.hk.edu.tw) 私立		<sup>台中市 </sup>
+　1035 [中国医药大学](http://www.cmu.edu.tw) 私立	🕊️	<sup>台中市 </sup>
+　1036 [健行科技大学](http://www.uch.edu.tw) 私立		<sup>桃园市 </sup>
+　1037 #[正修科技大学](http://www.csu.edu.tw) 私立		<sup>高雄市 </sup>
+　1038 [万能科技大学](http://www.vnu.edu.tw) 私立		<sup>桃园市 </sup>
+　1039 [玄奘大学](http://www.hcu.edu.tw) 私立	🕊️	<sup>新竹市 </sup>
+　1040 [建国科技大学](http://www.ctu.edu.tw) 私立		<sup>彰化县 </sup>
+　1041 [明志科技大学](http://www.mcut.edu.tw) 私立		<sup>新北市 </sup>
+　1042 [高苑科技大学](http://www.kyu.edu.tw) 私立		<sup>高雄市 </sup>
+　1043 [大仁科技大学](http://www.tajen.edu.tw) 私立		<sup>屏东县 </sup>
+　1044 [圣约翰科技大学](https://www.sju.edu.tw/) 私立	🕊️	<sup>新北市 </sup>
+　1045 [岭东科技大学](http://www.ltu.edu.tw) 私立	🕊️	<sup>台中市 </sup>
+　1046 [中国科技大学](http://www.cute.edu.tw) 私立	🕊️	<sup>台北市 </sup>
+　1047 [中台科技大学](http://www.ctust.edu.tw) 私立	🕊️	<sup>台中市 </sup>
+　1048 [亚洲大学](http://www.asia.edu.tw) 私立	🕊️	<sup>台中市 </sup>
+　1049 [开南大学](http://www.knu.edu.tw) 私立	🕊️	<sup>桃园市 </sup>
+　1050 [佛光大学](http://www.fgu.edu.tw) 私立	🕊️	<sup>宜兰县 </sup>
+　1051 [台南应用科技大学](http://www.tut.edu.tw) 私立	🕊️	<sup>台南市 </sup>
+　1052 [远东科技大学](http://www.feu.edu.tw) 私立		<sup>台南市 </sup>
+　1053 [元培医事科技大学](http://www.ypu.edu.tw) 私立		<sup>新竹市 </sup>
+　1054 [景文科技大学](http://www.just.edu.tw) 私立	🕊️	<sup>新北市 </sup>
+　1055 [中华医事科技大学](http://www.hwai.edu.tw) 私立		<sup>台南市 </sup>
+　1056 [东南科技大学](http://www.tnu.edu.tw) 私立	🕊️	<sup>新北市 </sup>
+　1057 [德明财经科技大学](http://www.takming.edu.tw) 私立		<sup>台北市 </sup>
+　1058 [明道大学](http://www.mdu.edu.tw) 私立		<sup>彰化县 </sup>
+　1060 [南开科技大学](http://www.nkut.edu.tw) 私立		<sup>南投县 </sup>
+　1061 [中华科技大学](http://www.cust.edu.tw) 私立		<sup>台北市 </sup>
+　1062 [侨光科技大学](http://www.ocu.edu.tw) 私立		<sup>台中市 </sup>
+　1063 [育达科技大学](http://www.ydu.edu.tw) 私立		<sup>苗栗县 </sup>
+　1064 [美和科技大学](https://www.meiho.edu.tw/) 私立		<sup>屏东县 </sup>
+　1065 [吴凤科技大学](http://www.wfu.edu.tw) 私立		<sup>嘉义县 </sup>
+　1066 [环球科技大学](http://www.twu.edu.tw) 私立		<sup>云林县 </sup>
+　1067 [台湾首府大学](https://web.tsu.edu.tw/) 私立	🕊️	<sup>台南市 </sup>
+　1068 [中州科技大学](http://www.ccut.edu.tw) 私立		<sup>彰化县 </sup>
+　1069 [修平科技大学](http://www.hust.edu.tw) 私立	🕊️	<sup>台中市 </sup>
+　1070 [长庚科技大学](http://www.cgust.edu.tw) 私立	🕊️	<sup>桃园市 </sup>
+　1071 [台北城市科技大学](https://www.tpcu.edu.tw/) 私立		<sup>台北市 </sup>
+　1072 [敏实科技大学](https://www.mitust.edu.tw/) 私立		<sup>新竹县 </sup>
+　1073 [醒吾科技大学](http://www.hwu.edu.tw) 私立	🕊️	<sup>新北市 </sup>
+　1075 [文藻外语大学](http://www.wzu.edu.tw) 私立	🕊️	<sup>高雄市 </sup>
+　1076 [华夏科技大学](http://www.hwh.edu.tw) 私立		<sup>新北市 </sup>
+　1077 [慈济科技大学](http://www.tcust.edu.tw) 私立		<sup>花莲县 </sup>
+　1078 [致理科技大学](http://www.chihlee.edu.tw) 私立		<sup>新北市 </sup>
+　1079 [康宁大学](http://www.ukn.edu.tw) 私立		<sup>台北市 </sup>
+　1080 [宏国德霖科技大学](http://www.hdut.edu.tw) 私立		<sup>新北市 </sup>
+　1081 [东方设计大学](http://www.tf.edu.tw) 私立	🕊️	<sup>高雄市 </sup>
+　1082 [崇右影艺科技大学](http://www.cufa.edu.tw/) 私立		<sup>基隆市 </sup>
+　1083 [台北海洋科技大学](https://www.tumt.edu.tw/) 私立		<sup>新北市 </sup>
+　1084 [亚东科技大学](https://www.aeust.edu.tw/) 私立		<sup>新北市 </sup>
+　1125 [中信金融管理学院](https://www.ctbc.edu.tw/) 私立	🕊️	<sup>台南市 </sup>
+　1148 [大汉技术学院](http://www.dahan.edu.tw) 私立		<sup>花莲县 </sup>
+　1159 [和春技术学院](http://www.fotech.edu.tw) 私立		<sup>高雄市 </sup>
+　1168 [南亚技术学院](http://www.nanya.edu.tw) 私立		<sup>桃园市 </sup>
+　1183 [黎明技术学院](http://www.lit.edu.tw) 私立		<sup>新北市 </sup>
+　1185 [经国管理暨健康学院](http://www.cku.edu.tw) 私立		<sup>基隆市 </sup>
+　1188 [大同技术学院](http://www.ttc.edu.tw) 私立		<sup>嘉义市 </sup>
+　1195 [马偕医学院](http://www.mmc.edu.tw) 私立		<sup>新北市 </sup>
+　1196 [法鼓文理学院](http://www.dila.edu.tw) 私立		<sup>新北市 </sup>
+　1282 [马偕医护管理专科学校](http://www.mkc.edu.tw) 私立		<sup>台北市 </sup>
+　1283 [仁德医护管理专科学校](http://www.jente.edu.tw) 私立		<sup>苗栗县 </sup>
+　1284 [树人医护管理专科学校](http://www.szmc.edu.tw) 私立		<sup>高雄市 </sup>
+　1285 [慈惠医护管理专科学校](http://www.tzuhui.edu.tw) 私立		<sup>屏东县 </sup>
+　1286 [耕莘健康管理专科学校](http://www.ctcn.edu.tw) 私立		<sup>新北市 </sup>
+　1287 [敏惠医护管理专科学校](https://www.mhchcm.edu.tw/) 私立		<sup>台南市 </sup>
+　1289 [育英医护管理专科学校](https://www.yuhing.edu.tw/) 私立		<sup>高雄市 </sup>
+　1291 [圣母医护管理专科学校](http://www.smc.edu.tw) 私立		<sup>宜兰县 </sup>
+　1292 [新生医护管理专科学校](http://ccwpress.hsc.edu.tw) 私立		<sup>桃园市 </sup>
+　1293 [崇仁医护管理专科学校](http://www.cjc.edu.tw) 私立		<sup>嘉义县 </sup>
+　3002 [台北市立大学](http://www.uTaipei.edu.tw) 		<sup>台北市 </sup>
 
 <div align="right" id="D6"><a href="#" target="_top">↑ Top</a></div>
 
@@ -681,7 +817,7 @@ LSIP进度
 ```
 	老生常谈© 2019-2023 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	高等院校三千所	Version 0.3.5	202305
+	高等院校三千所	Version 0.3.6	202305
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
