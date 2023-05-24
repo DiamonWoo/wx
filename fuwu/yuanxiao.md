@@ -179,53 +179,52 @@ LSIP进度
 
 军事院校名单
 ------------
-44所(有27所面向普通高考招生)
+44所（有27所面向普通高考招生，标记⭐）
 
 　 国防大学 	<sup>北京市/西安市/上海市/石家庄 中国人民解放军国防大学</sup>
-　 [国防科技大学](http://www.nudt.edu.cn)	普招<sup>长沙市/南京市/武汉市/合肥市 [wb](https://m.weibo.cn/u/7127745503)</sup>
+　 [国防科技大学](http://www.nudt.edu.cn)	⭐<sup>长沙市/南京市/武汉市/合肥市 [wb](https://m.weibo.cn/u/7127745503)</sup>
 　1 陆军指挥学院 	<sup>南京市 </sup>
-　2 [陆军工程大学](http://www.aeu.edu.cn)	普招<sup>南京市/石家庄/重庆市/武汉市/徐州市 </sup>
-　3 陆军步兵学院 	普招<sup>南昌市/石家庄 </sup>
-　4 陆军装甲兵学院 	普招<sup>北京市/蚌埠市/长春市 </sup>
-　5 陆军炮兵防空兵学院 	普招<sup>合肥市/南京市/郑州市/沈阳市 </sup>
+　2 [陆军工程大学](http://www.aeu.edu.cn)	⭐<sup>南京市/石家庄/重庆市/武汉市/徐州市 </sup>
+　3 陆军步兵学院 	⭐<sup>南昌市/石家庄 </sup>
+　4 陆军装甲兵学院 	⭐<sup>北京市/蚌埠市/长春市 </sup>
+　5 陆军炮兵防空兵学院 	⭐<sup>合肥市/南京市/郑州市/沈阳市 </sup>
 　6 陆军航空兵学院 	<sup> </sup>
-　7 陆军特种作战学院 	普招<sup>桂林市/广州市 </sup>
-　8 陆军边海防学院 	普招<sup>西安市/乌鲁木齐/昆明市 [军网简介](http://www.81.cn/jx_208569/10162387.html)</sup>
-　9 陆军防化学院 	普招<sup>北京市 </sup>
-　10 [陆军军医大学](http://www.tmmu.edu.cn)	普招<sup>重庆市 第三军医大学</sup>
-　11 陆军军事交通学院 	普招<sup>天津市/镇江市/蚌埠市 </sup>
-　12 陆军勤务学院 	普招<sup>重庆市/武汉市 [军网简介](http://www.81.cn/jwzl/2017-06/10/content_7748196.htm)</sup>
+　7 陆军特种作战学院 	⭐<sup>桂林市/广州市 </sup>
+　8 陆军边海防学院 	⭐<sup>西安市/乌鲁木齐/昆明市 [军网简介](http://www.81.cn/jx_208569/10162387.html)</sup>
+　9 陆军防化学院 	⭐<sup>北京市 </sup>
+　10 [陆军军医大学](http://www.tmmu.edu.cn)	⭐<sup>重庆市 第三军医大学</sup>
+　11 陆军军事交通学院 	⭐<sup>天津市/镇江市/蚌埠市 </sup>
+　12 陆军勤务学院 	⭐<sup>重庆市/武汉市 [军网简介](http://www.81.cn/jwzl/2017-06/10/content_7748196.htm)</sup>
 　13 海军指挥学院 	<sup>南京市 </sup>
-　14 [海军工程大学](http://www.nue.edu.cn)	普招<sup>武汉市/天津市 </sup>
-　15 海军大连舰艇学院 	普招<sup>大连市 [军网简介](http://www.81.cn/jx_208569/10162405.html)</sup>
-　16 [海军潜艇学院](http://www.qtxy.mil.cn)	普招<sup>青岛市 </sup>
-　17 海军航空大学 	普招<sup>烟台市/青岛市 [军网简介](http://www.81.cn/jwzl/2017-06/04/content_7748184.htm)</sup>
-　18 [海军军医大学](http://ao.smmu.edu.cn)	普招<sup>上海市 第二军医大学</sup>
+　14 [海军工程大学](http://www.nue.edu.cn)	⭐<sup>武汉市/天津市 </sup>
+　15 海军大连舰艇学院 	⭐<sup>大连市 [军网简介](http://www.81.cn/jx_208569/10162405.html)</sup>
+　16 [海军潜艇学院](http://www.qtxy.mil.cn)	⭐<sup>青岛市 </sup>
+　17 海军航空大学 	⭐<sup>烟台市/青岛市 [军网简介](http://www.81.cn/jwzl/2017-06/04/content_7748184.htm)</sup>
+　18 [海军军医大学](http://ao.smmu.edu.cn)	⭐<sup>上海市 第二军医大学</sup>
 　19 海军勤务学院 	<sup> </sup>
 　20 海军士官学校 	<sup>蚌埠市 </sup>
 　21 空军指挥学院 	<sup> </sup>
-　22 [空军工程大学](http://afeu.cn)	普招<sup>西安市 [wb](https://m.weibo.cn/u/5193807838)</sup>
-　23 空军航空大学 	普招<sup>长春市/蚌埠市 [军网简介](http://www.81.cn/kj/2015-08/06/content_6617753.htm)</sup>
-　24 空军预警学院 	普招<sup>武汉市 </sup>
+　22 [空军工程大学](http://afeu.cn)	⭐<sup>西安市 [wb](https://m.weibo.cn/u/5193807838)</sup>
+　23 空军航空大学 	⭐<sup>长春市/蚌埠市 [军网简介](http://www.81.cn/kj/2015-08/06/content_6617753.htm)</sup>
+　24 空军预警学院 	⭐<sup>武汉市 </sup>
 　25 空军哈尔滨飞行学院 	<sup>哈尔滨市 [wb](https://weibo.com/hafeiyuan)</sup>
 　26 空军石家庄飞行学院 	<sup>石家庄市 </sup>
 　27 空军西安飞行学院 	<sup>西安市 </sup>
-　28 [空军军医大学](http://www.fmmu.edu.cn)	普招<sup>西安市 第四军医大学</sup>
+　28 [空军军医大学](http://www.fmmu.edu.cn)	⭐<sup>西安市 第四军医大学</sup>
 　29 空军勤务学院 	<sup>徐州市 </sup>
 　30 空军通信士官学校 	<sup>大连市 </sup>
 　31 火箭军指挥学院 	<sup>武汉市 </sup>
-　32 火箭军工程大学 	普招<sup>西安市 [军网简介](http://www.81.cn/jx_208569/10162462.html)、[wb](https://m.weibo.cn/u/6977918761)</sup>
+　32 火箭军工程大学 	⭐<sup>西安市 [军网简介](http://www.81.cn/jx_208569/10162462.html)、[wb](https://m.weibo.cn/u/6977918761)</sup>
 　33 火箭军士官学校 	<sup>青州市 </sup>
-　34 战略支援部队航天工程大学 	普招<sup>北京市 </sup>
-　35 战略支援部队信息工程大学 	普招<sup>郑州市/洛阳市 </sup>
+　34 战略支援部队航天工程大学 	⭐<sup>北京市 </sup>
+　35 战略支援部队信息工程大学 	⭐<sup>郑州市/洛阳市 </sup>
 　1 武警指挥学院 	<sup> </sup>
-　2 武警工程大学 	普招<sup>西安市 [军网简介](http://www.81.cn/rdzt/2014/0421bkjx/2014-05/20/content_5910963.htm)</sup>
-　3 武警警官学院 	普招<sup>成都市/福州市 </sup>
-　4 武警特种警察学院 	普招<sup>北京市 [军网简介](http://www.81.cn/jwzl/2017-06/08/content_7748187.htm)</sup>
+　2 武警工程大学 	⭐<sup>西安市 [军网简介](http://www.81.cn/rdzt/2014/0421bkjx/2014-05/20/content_5910963.htm)</sup>
+　3 武警警官学院 	⭐<sup>成都市/福州市 </sup>
+　4 武警特种警察学院 	⭐<sup>北京市 [军网简介](http://www.81.cn/jwzl/2017-06/08/content_7748187.htm)</sup>
 　5 武警后勤学院 	<sup> </sup>
 　6 武警士官学院 	<sup>杭州市/福州市 </sup>
-　7 武警海警学院 	普招<sup>宁波市 有微信公众号</sup>
-
+　7 武警海警学院 	⭐<sup>宁波市 有微信公众号</sup>
 <div align="right" id="D3"><a href="#" target="_top">↑ Top</a></div>
 
 本科院校统计
@@ -283,32 +282,46 @@ LSIP进度
 
 　　港澳台教育制度与大陆(内地)有差异，请注意称呼上的区别和最新政策变化。受疫情影响，2020年起教育部暂停了陆生赴台就读试点工作，新的招生政策请见[海峡两岸招生服务中心](https://hxla.gatzs.com.cn/)。
 
-香港(15所)：　
-1 [香港大学](www.hku.hk)、
-2 [香港中文大学](www.cuhk.edu.hk)、
-3 [香港科技大学](www.ust.hk)、
-4 [香港理工大学](www.polyu.edu.hk)、
-5 [香港浸会大学](www.hkbu.edu.hk)、
-6 [香港城市大学](www.cityu.edu.hk)、
-7 [岭南大学](www.ln.edu.hk)、
-8 [香港教育大学](www.eduhk.hk)、
-9 [香港都会大学](www.hkmu.edu.hk)自资营运、
-10 [香港树仁大学](www.hksyu.edu)自资营运、
-11 [香港恒生大学](www.hsu.edu.hk)自资营运、
- [香港演艺学院](www.hkapa.edu)、
- [香港高等教育科技学院](www.thei.edu.hk)自资营运、
- [香港珠海学院](www.chuhai.edu.hk)自资营运、
- [东华学院](www.twc.edu.hk)自资营运、
+香港(22所高校，其中15所面向大陆普通高考招生，标记🔖)：
 
-澳门(6所)：　
-1 [澳门大学](www.um.edu.mo)、
-2 [澳门理工大学](www.ipm.edu.mo)、
-3 [澳门旅游学院](www.iftm.edu.mo)、
-4 [澳门科技大学](www.must.edu.mo)私立、
-5 [澳门城市大学](cityu.edu.mo)私立、
-6 [澳门镜湖护理学院](www.kwnc.edu.mo)私立、
+　1 $[香港大学](http://www.hku.hk/about/c_index.html) 	🔖	<sup>教资委</sup>
+　2 [香港中文大学](http://www.cuhk.edu.hk/chinese/aboutus/message.html) 	🔖	<sup>教资委</sup>
+　3 $[香港科技大学](http://www.ust.hk/zh-hans/about?cn=1) 	🔖	<sup>教资委</sup>
+　4 [香港理工大学](http://www.polyu.edu.hk/sc/about-polyu/) 	🔖	<sup>教资委</sup>
+　5 [香港浸会大学](http://www.hkbu.edu.hk) 	🔖	<sup>教资委</sup>
+　6 $[香港城市大学](http://www.cityu.edu.hk) 	🔖	<sup>教资委</sup>
+　7 $[岭南大学](http://www.ln.edu.hk) 	🔖	<sup>教资委</sup>
+　8 $[香港教育大学](http://www.eduhk.hk) 	🔖	<sup>教资委</sup>
+　9 [香港都会大学](http://www.hkmu.edu.hk) 自资营运	🔖	<sup></sup>
+　10 [香港树仁大学](http://www.hksyu.edu) 自资营运	🔖	<sup></sup>
+　11 [香港恒生大学](http://www.hsu.edu.hk) 自资营运	🔖	<sup></sup>
+　12 $[香港演艺学院](http://www.hkapa.edu) 	🔖	<sup>公帑</sup>
+　13 [香港珠海学院](http://www.chuhai.edu.hk) 自资营运	🔖	<sup></sup>
+　14 $[香港高等教育科技学院](http://www.thei.edu.hk) 自资营运	🔖	<sup></sup>
+　15 [东华学院](http://www.twc.edu.hk) 自资营运	🔖	<sup></sup>
+　16 [明爱专上学院](http://www.cihe.edu.hk) 		<sup></sup>
+　17 $[明德学院](http://www.centennialcollege.hku.hk) 		<sup></sup>
+　18 $[宏恩基督教学院](http://www.gcc.edu.hk) 		<sup></sup>
+　19 [港专学院](http://www.hkct.edu.hk) 		<sup></sup>
+　20 $[香港能仁专上学院](http://www.ny.edu.hk) 		<sup></sup>
+　21 [香港伍伦贡学院](http://www.cccu.edu.hk) 		<sup></sup>
+　22 [耀中幼教学院](http://www.yccece.edu.hk) 		<sup></sup>
 
-台湾（2019年91所）：
+澳门(10所高校，其中6所面向大陆普通高考招生，标记🔖)：
+
+　1 [澳门大学](http://www.um.edu.mo) 	🔖	<sup></sup>
+　2 [澳门理工大学](http://www.ipm.edu.mo) 	🔖	<sup></sup>
+　3 [澳门旅游学院](http://www.iftm.edu.mo) 	🔖	<sup></sup>
+　4 [澳门科技大学](http://www.must.edu.mo) 私立	🔖	<sup></sup>
+　5 [澳门城市大学](http://cityu.edu.mo) 私立	🔖	<sup></sup>
+　6 [澳门镜湖护理学院](http://www.kwnc.edu.mo) 私立	🔖	<sup></sup>
+　7 [澳门保安部队高等学校](http://www.fsm.gov.mo/ESFSM) 		<sup></sup>
+　8 [圣若瑟大学](http://www.usj.edu.mo) 		<sup></sup>
+　9 [澳门管理学院](http://www.mim.edu.mo) 		<sup></sup>
+　10 [中西创新学院](http://www.mmc.edu.mo) 		<sup></sup>
+
+台湾(149所高校，其中91所2019年面向大陆普通高考招生，标记🕊️)：
+
 　　公立台湾海洋大学、公立台北大学、公立台湾艺术大学、辅仁大学、淡江大学、真理大学、圣约翰科技大学、景文科技大学、
 东南科技大学、醒吾科技大学、公立政治大学、公立台湾大学、公立台湾师范大学、公立阳明大学、公立台湾科技大学、公立台北科技大学、
 公立台北艺术大学、公立台北教育大学、公立台北商业大学、公立台湾戏曲学院、东吴大学、中国文化大学、世新大学、铭传大学、实践大学、
@@ -668,7 +681,7 @@ LSIP进度
 ```
 	老生常谈© 2019-2023 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	高等院校三千所	Version 0.3.4	202305
+	高等院校三千所	Version 0.3.5	202305
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
