@@ -37,9 +37,9 @@ LSIP进度
 	* [省属本科](#D2){:target="_top"}高校，739所 <sup>（含4所合作办学）</sup>
 	* 　　[民办本科](#D3){:target="_top"}，417所，省教育厅主管 <sup>（含5所合作办学）</sup>
 	* 　 [专科院校](#D4){:target="_top"}，1489所（大专/高职）：  
-			部属 4所，省属 1132所，民办 350所 (省教育厅主管)
-*	成人高等院校，　 [254所](#D6){:target="_top"}，高升专/专升本/高升本  
-	以上合计3057所
+	　　　　　部属 4所，省属 1132所，民办 350所 (省教育厅主管)
+*	[成人高等院校](#D6){:target="_top"}，254所，高升专/专升本/高升本  
+　以上合计3057所
 *	[港澳台普通高校](#D5){:target="_top"}，约200所，本页收录全部名单，不列入统计。
 *	党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)
 *	宗教院校，近100所，学历只在宗教体系内有效，本页不收录。[外链](https://www.sara.gov.cn/gjzjswj/zjjcxxcxxt/zjyxjbxx/)
@@ -159,9 +159,91 @@ LSIP进度
 30 <sup>教育部</sup>❗ <b>[重庆大学](https://cqu.edu.cn/)</b>	  重庆 <sub></sub>	--- 	--- 	--- 	--- 	--- 		  
 31 <sup>教育部</sup>❗ <b>[兰州大学](http://www.lzu.edu.cn)</b>	  甘肃 <sub>兰州市</sub>	--- 	--- 	--- 	--- 	--- 		  
 
-其余83所部委直属高校()：
+　其余83所部委直属本科高校，按行政区划排序：
 
-北京：	[北京交通大学](http://www.njtu.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京科技大学](http://www.ustb.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京化工大学](http://www.buct.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京邮电大学](http://www.bupt.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京电子科技学院](http://www.besti.edu.cn)	<sup>中央办公厅</sup> 北京市	--- 	--- 	---　 　	[北京林业大学](http://www.bjfu.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京协和医学院](http://www.cams.ac.cn)	<sup>国家卫健委</sup> 北京市	--- 	--- 	---清华大学医学部　 　	[北京中医药大学](http://www.bucm.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京外国语大学](http://www.bfsu.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京语言大学](http://www.blcu.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中国传媒大学](http://www.cuc.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中央财经大学](http://www.cufe.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[对外经济贸易大学](http://www.uibe.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中国消防救援学院](https://www.cfri.edu.cn/)	<sup>应急管理部</sup> 北京市	--- 	--- 	---　 　	[外交学院](http://www.cfau.edu.cn)	<sup>外交部</sup> 北京市	--- 	--- 	---　 　	[中国人民公安大学](http://www.cppsu.edu.cn)	<sup>公安部</sup> 北京市	--- 	--- 	---　 　	[国际关系学院](http://www.uir.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京体育大学](http://www.bsu.edu.cn)	<sup>国家体育总局</sup> 北京市	--- 	--- 	---　 　	[中央音乐学院](http://www.ccom.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中央美术学院](http://www.cafa.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中央戏剧学院](http://www.chntheatre.edu.cn)	<sup>教育部</sup> 东城区/昌平区	--- 	--- 	---　 　	[中央民族大学](http://www.muc.edu.cn)	<sup>国家民委</sup> 北京市	--- 	--- 	---国家民族事务委员会　 　	[中国政法大学](http://www.cupl.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[华北电力大学](http://www.ncepu.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中华女子学院](http://www.cwu.edu.cn)	<sup>中华妇女联合会</sup> 北京市	--- 	--- 	---　 　	[中国矿业大学（北京）](https://www.cumtb.edu.cn/)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中国石油大学（北京）](https://www.cup.edu.cn/)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中国地质大学（北京）](https://www.cugb.edu.cn/)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中国青年政治学院](http://www.cyu.edu.cn)	<sup>共青团中央</sup> 北京市	--- 	--- 	---　 　	[中国劳动关系学院](http://www.ciir.edu.cn)	<sup>中华全国总工会</sup> 北京市	--- 	--- 	---　 　	[中国科学院大学](https://www.ucas.ac.cn/)	<sup>中国科学院</sup> 北京市	--- 	--- 	---　 　	[中国社会科学院大学](https://www.ucass.edu.cn/)	<sup>中国社会科学院</sup> 北京市	--- 	--- 	---　 　天津：	[中国民航大学](https://www.cauc.edu.cn)	<sup>交通部/民航局</sup> 天津市	--- 	--- 	---交通运输部（中国民用航空局）　 　河北：	[华北科技学院](http://www.ncist.edu.cn)	<sup>应急管理部</sup> 廊坊市	--- 	--- 	---　 　	[中国人民警察大学](https://www.cppu.edu.cn/)	<sup>公安部</sup> 廊坊市	--- 	--- 	---　 　	[防灾科技学院](http://www.fzxy.edu.cn)	<sup>中国地震局</sup> 廊坊市	--- 	--- 	---　 　	[中央司法警官学院](http://www.cicp.edu.cn)	<sup>司法部</sup> 保定市	--- 	--- 	---　 　辽宁：	[东北大学](http://www.neu.edu.cn)	<sup>教育部</sup> 沈阳市	--- 	--- 	---　 　	[大连海事大学](http://www.dlmu.edu.cn)	<sup>交通部</sup> 大连市	--- 	--- 	---交通运输部　 　	[中国刑事警察学院](http://www.ccpc.edu.cn)	<sup>公安部</sup> 沈阳市	--- 	--- 	---　 　	[大连民族大学](https://new.dlnu.edu.cn/)	<sup>国家民委</sup> 大连市	--- 	--- 	---　 　	[东北师范大学](http://www.nenu.edu.cn)	<sup>教育部</sup> 长春市	--- 	--- 	---　 　黑龙江：	[哈尔滨工程大学](http://www.hrbeu.edu.cn)	<sup>工业和信息化部</sup> 哈尔滨市	--- 	--- 	---　 　	[东北林业大学](http://www.nefu.edu.cn)	<sup>教育部</sup> 哈尔滨市	--- 	--- 	---　 　上海：	[华东理工大学](http://www.ecust.edu.cn)	<sup>教育部</sup> 上海市	--- 	--- 	---　 　	[东华大学](http://www.dhu.edu.cn)	<sup>教育部</sup> 上海市	--- 	--- 	---　 　	[华东师范大学](http://www.ecnu.edu.cn)	<sup>教育部</sup> 上海市	--- 	--- 	---　 　	[上海外国语大学](http://www.shisu.edu.cn)	<sup>教育部</sup> 上海市	--- 	--- 	---　 　	[上海财经大学](http://www.shufe.edu.cn)	<sup>教育部</sup> 上海市	--- 	--- 	---　 　	[上海海关学院](http://www.shcc.edu.cn)	<sup>海关总署</sup> 上海市	--- 	--- 	---旧域名 shanghai_edu.customs.gov.cn　 　江苏：	[南京航空航天大学](http://www.nuaa.edu.cn)	<sup>工业和信息化部</sup> 南京市	--- 	--- 	---　 　	[南京理工大学](http://www.njust.edu.cn)	<sup>工业和信息化部</sup> 南京市	--- 	--- 	---　 　	[中国矿业大学](http://www.cumt.edu.cn)	<sup>教育部</sup> 徐州市	--- 	--- 	---　 　	[河海大学](http://www.hhu.edu.cn)	<sup>教育部</sup> 南京市	--- 	--- 	---　 　	[江南大学](http://www.sytu.edu.cn)	<sup>教育部</sup> 无锡市	--- 	--- 	---　 　	[南京农业大学](http://www.njau.edu.cn)	<sup>教育部</sup> 南京市	--- 	--- 	---　 　	[中国药科大学](http://www.cpu.edu.cn)	<sup>教育部</sup> 南京市	--- 	--- 	---　 　	[南京森林警察学院](http://www.forestpolice.net)	<sup>公安部</sup> 南京市	--- 	--- 	---　 　安徽：	[合肥工业大学](http://www.hfut.edu.cn)	<sup>教育部</sup> 合肥市	--- 	--- 	---　 　福建：	[华侨大学](http://www.hqu.edu.cn)	<sup>中央统战部</sup> 泉州市	--- 	--- 	---　 　山东：	[中国海洋大学](http://www.ouc.edu.cn)	<sup>教育部</sup> 青岛市	--- 	--- 	---　 　	[中国石油大学（华东）](https://www.upc.edu.cn/)	<sup>教育部</sup> 青岛市	--- 	--- 	---　 　河南：	[铁道警察学院](http://www.rpc.edu.cn)	<sup>公安部</sup> 郑州市	--- 	--- 	---　 　湖北：	[中国地质大学（武汉）](https://www.cug.edu.cn/)	<sup>教育部</sup> 武汉市	--- 	--- 	---　 　	[武汉理工大学](http://www.whut.edu.cn)	<sup>教育部</sup> 武汉市	--- 	--- 	---　 　	[华中农业大学](http://www.hzau.edu.cn)	<sup>教育部</sup> 武汉市	--- 	--- 	---　 　	[华中师范大学](http://www.ccnu.edu.cn)	<sup>教育部</sup> 武汉市	--- 	--- 	---　 　	[中南财经政法大学](http://www.znufe.edu.cn)	<sup>教育部</sup> 武汉市	--- 	--- 	---　 　	[中南民族大学](http://www.scuec.edu.cn)	<sup>国家民委</sup> 武汉市	--- 	--- 	---　 　湖南：	[湖南大学](http://www.hnu.cn)	<sup>教育部</sup> 长沙市	--- 	--- 	---　 　广东：	[暨南大学](http://www.jnu.edu.cn)	<sup>中央统战部</sup> 广州市	--- 	--- 	---　 　	[华南理工大学](http://www.scut.edu.cn)	<sup>教育部</sup> 广州市	--- 	--- 	---　 　重庆：	[西南大学](http://www.swu.edu.cn)	<sup>教育部</sup> 重庆市	--- 	--- 	---　 　四川：	[西南交通大学](http://www.swjtu.edu.cn)	<sup>教育部</sup> 成都市	--- 	--- 	---　 　	[电子科技大学](http://www.uestc.edu.cn)	<sup>教育部</sup> 成都市	--- 	--- 	---　 　	[中国民用航空飞行学院](http://www.cafuc.edu.cn)	<sup>交通部/民航局</sup> 德阳市	--- 	--- 	---　 　	[西南财经大学](http://www.swufe.edu.cn)	<sup>教育部</sup> 成都市	--- 	--- 	---　 　	[西南民族大学](http://www.swun.edu.cn)	<sup>国家民委</sup> 成都市	--- 	--- 	---　 　陕西：	[西安电子科技大学](http://www.xidian.edu.cn)	<sup>教育部</sup> 西安市	--- 	--- 	---　 　	[长安大学](http://www.chd.edu.cn)	<sup>教育部</sup> 西安市	--- 	--- 	---　 　	[陕西师范大学](http://www.snnu.edu.cn)	<sup>教育部</sup> 西安市	--- 	--- 	---　 　甘肃：	[西北民族大学](http://www.xbmu.edu.cn)	<sup>国家民委</sup> 兰州市	--- 	--- 	---　 　宁夏：	[北方民族大学](http://www.nwsni.edu.cn)	<sup>国家民委</sup> 银川市	--- 	--- 	---　 　
+<sup>教育部</sup> <b>[北京交通大学](http://www.njtu.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[北京科技大学](http://www.ustb.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[北京化工大学](http://www.buct.edu.cn)</b>	 北京 <sub>朝阳区</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[北京邮电大学](http://www.bupt.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 		　
+<sup>中央办公厅</sup> <b>[北京电子科技学院](http://www.besti.edu.cn)</b>	 北京 <sub>丰台区</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[北京林业大学](http://www.bjfu.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 		　
+<sup>国家卫健委</sup> <b>[北京协和医学院](http://www.cams.ac.cn)</b>	 北京 <sub>东城区</sub>	--- 	--- 	--- 	清华大学医学部	　
+<sup>教育部</sup> <b>[北京中医药大学](http://www.bucm.edu.cn)</b>	 北京 <sub>朝阳区</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[北京外国语大学](http://www.bfsu.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[北京语言大学](http://www.blcu.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[中国传媒大学](http://www.cuc.edu.cn)</b>	 北京 <sub>朝阳区</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[中央财经大学](http://www.cufe.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[对外经济贸易大学](http://www.uibe.edu.cn)</b>	 北京 <sub>朝阳区</sub>	--- 	--- 	--- 		　
+<sup>应急管理部</sup> <b>[中国消防救援学院](https://www.cfri.edu.cn/)</b>	 北京 <sub>昌平区</sub>	--- 	--- 	--- 		　
+<sup>外交部</sup> <b>[外交学院](http://www.cfau.edu.cn)</b>	 北京 <sub>西城区</sub>	--- 	--- 	--- 		　
+<sup>公安部</sup> <b>[中国人民公安大学](http://www.cppsu.edu.cn)</b>	 北京 <sub>西城区</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[国际关系学院](http://www.uir.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 		　
+<sup>国家体育总局</sup> <b>[北京体育大学](http://www.bsu.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[中央音乐学院](http://www.ccom.edu.cn)</b>	 北京 <sub>西城区</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[中央美术学院](http://www.cafa.edu.cn)</b>	 北京 <sub>朝阳区</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[中央戏剧学院](http://www.chntheatre.edu.cn)</b>	 北京 <sub>东城区/昌平区</sub>	--- 	--- 	--- 		　
+<sup>国家民委</sup> <b>[中央民族大学](http://www.muc.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	国家民族事务委员会	　
+<sup>教育部</sup> <b>[中国政法大学](http://www.cupl.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[华北电力大学](http://www.ncepu.edu.cn)</b>	 北京 <sub>昌平区</sub>	--- 	--- 	--- 		　
+<sup>中华妇女联合会</sup> <b>[中华女子学院](http://www.cwu.edu.cn)</b>	 北京 <sub>朝阳区</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[中国矿业大学（北京）](https://www.cumtb.edu.cn/)</b>	 北京 <sub>海淀/昌平</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[中国石油大学（北京）](https://www.cup.edu.cn/)</b>	 北京 <sub>海淀/昌平</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[中国地质大学（北京）](https://www.cugb.edu.cn/)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 		　
+<sup>共青团中央</sup> <b>[中国青年政治学院](http://www.cyu.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 		　
+<sup>中华全国总工会</sup> <b>[中国劳动关系学院](http://www.ciir.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 		　
+<sup>中国科学院</sup> <b>[中国科学院大学](https://www.ucas.ac.cn/)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 		　
+<sup>中国社会科学院</sup> <b>[中国社会科学院大学](https://www.ucass.edu.cn/)</b>	 北京 <sub>朝阳区</sub>	--- 	--- 	--- 		　
+<sup>交通部/民航局</sup> <b>[中国民航大学](https://www.cauc.edu.cn)</b>	 天津 <sub></sub>	--- 	--- 	--- 	交通运输部（中国民用航空局）	　
+<sup>应急管理部</sup> <b>[华北科技学院](http://www.ncist.edu.cn)</b>	 河北 <sub>廊坊市</sub>	--- 	--- 	--- 		　
+<sup>公安部</sup> <b>[中国人民警察大学](https://www.cppu.edu.cn/)</b>	 河北 <sub>廊坊市</sub>	--- 	--- 	--- 		　
+<sup>中国地震局</sup> <b>[防灾科技学院](http://www.fzxy.edu.cn)</b>	 河北 <sub>廊坊市</sub>	--- 	--- 	--- 		　
+<sup>司法部</sup> <b>[中央司法警官学院](http://www.cicp.edu.cn)</b>	 河北 <sub>保定市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[东北大学](http://www.neu.edu.cn)</b>	 辽宁 <sub>沈阳市</sub>	--- 	--- 	--- 		　
+<sup>交通部</sup> <b>[大连海事大学](http://www.dlmu.edu.cn)</b>	 辽宁 <sub>大连市</sub>	--- 	--- 	--- 	交通运输部	　
+<sup>公安部</sup> <b>[中国刑事警察学院](http://www.ccpc.edu.cn)</b>	 辽宁 <sub>沈阳市</sub>	--- 	--- 	--- 		　
+<sup>国家民委</sup> <b>[大连民族大学](https://new.dlnu.edu.cn/)</b>	 辽宁 <sub>大连市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[东北师范大学](http://www.nenu.edu.cn)</b>	 吉林 <sub>长春市</sub>	--- 	--- 	--- 		　
+<sup>工业和信息化部</sup> <b>[哈尔滨工程大学](http://www.hrbeu.edu.cn)</b>	 黑龙江 <sub>哈尔滨市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[东北林业大学](http://www.nefu.edu.cn)</b>	 黑龙江 <sub>哈尔滨市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[华东理工大学](http://www.ecust.edu.cn)</b>	 上海 <sub></sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[东华大学](http://www.dhu.edu.cn)</b>	 上海 <sub></sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[华东师范大学](http://www.ecnu.edu.cn)</b>	 上海 <sub></sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[上海外国语大学](http://www.shisu.edu.cn)</b>	 上海 <sub></sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[上海财经大学](http://www.shufe.edu.cn)</b>	 上海 <sub></sub>	--- 	--- 	--- 		　
+<sup>海关总署</sup> <b>[上海海关学院](http://www.shcc.edu.cn)</b>	 上海 <sub></sub>	--- 	--- 	--- 	旧域名 shanghai_edu.customs.gov.cn	　
+<sup>工业和信息化部</sup> <b>[南京航空航天大学](http://www.nuaa.edu.cn)</b>	 江苏 <sub>南京市</sub>	--- 	--- 	--- 		　
+<sup>工业和信息化部</sup> <b>[南京理工大学](http://www.njust.edu.cn)</b>	 江苏 <sub>南京市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[中国矿业大学](http://www.cumt.edu.cn)</b>	 江苏 <sub>徐州市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[河海大学](http://www.hhu.edu.cn)</b>	 江苏 <sub>南京市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[江南大学](http://www.sytu.edu.cn)</b>	 江苏 <sub>无锡市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[南京农业大学](http://www.njau.edu.cn)</b>	 江苏 <sub>南京市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[中国药科大学](http://www.cpu.edu.cn)</b>	 江苏 <sub>南京市</sub>	--- 	--- 	--- 		　
+<sup>公安部</sup> <b>[南京森林警察学院](http://www.forestpolice.net)</b>	 江苏 <sub>南京市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[合肥工业大学](http://www.hfut.edu.cn)</b>	 安徽 <sub>合肥市</sub>	--- 	--- 	--- 		　
+<sup>中央统战部</sup> <b>[华侨大学](http://www.hqu.edu.cn)</b>	 福建 <sub>泉州市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[中国海洋大学](http://www.ouc.edu.cn)</b>	 山东 <sub>青岛市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[中国石油大学（华东）](https://www.upc.edu.cn/)</b>	 山东 <sub>青岛市</sub>	--- 	--- 	--- 		　
+<sup>公安部</sup> <b>[铁道警察学院](http://www.rpc.edu.cn)</b>	 河南 <sub>郑州市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[中国地质大学（武汉）](https://www.cug.edu.cn/)</b>	 湖北 <sub>武汉市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[武汉理工大学](http://www.whut.edu.cn)</b>	 湖北 <sub>武汉市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[华中农业大学](http://www.hzau.edu.cn)</b>	 湖北 <sub>武汉市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[华中师范大学](http://www.ccnu.edu.cn)</b>	 湖北 <sub>武汉市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[中南财经政法大学](http://www.znufe.edu.cn)</b>	 湖北 <sub>武汉市</sub>	--- 	--- 	--- 		　
+<sup>国家民委</sup> <b>[中南民族大学](http://www.scuec.edu.cn)</b>	 湖北 <sub>武汉市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[湖南大学](http://www.hnu.cn)</b>	 湖南 <sub>长沙市</sub>	--- 	--- 	--- 		　
+<sup>中央统战部</sup> <b>[暨南大学](http://www.jnu.edu.cn)</b>	 广东 <sub>广州市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[华南理工大学](http://www.scut.edu.cn)</b>	 广东 <sub>广州市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[西南大学](http://www.swu.edu.cn)</b>	 重庆 <sub></sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[西南交通大学](http://www.swjtu.edu.cn)</b>	 四川 <sub>成都市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[电子科技大学](http://www.uestc.edu.cn)</b>	 四川 <sub>成都市</sub>	--- 	--- 	--- 		　
+<sup>交通部/民航局</sup> <b>[中国民用航空飞行学院](http://www.cafuc.edu.cn)</b>	 四川 <sub>德阳市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[西南财经大学](http://www.swufe.edu.cn)</b>	 四川 <sub>成都市</sub>	--- 	--- 	--- 		　
+<sup>国家民委</sup> <b>[西南民族大学](http://www.swun.edu.cn)</b>	 四川 <sub>成都市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[西安电子科技大学](http://www.xidian.edu.cn)</b>	 陕西 <sub>西安市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[长安大学](http://www.chd.edu.cn)</b>	 陕西 <sub>西安市</sub>	--- 	--- 	--- 		　
+<sup>教育部</sup> <b>[陕西师范大学](http://www.snnu.edu.cn)</b>	 陕西 <sub>西安市</sub>	--- 	--- 	--- 		　
+<sup>国家民委</sup> <b>[西北民族大学](http://www.xbmu.edu.cn)</b>	 甘肃 <sub>兰州市</sub>	--- 	--- 	--- 		　
+<sup>国家民委</sup> <b>[北方民族大学](http://www.nwsni.edu.cn)</b>	 宁夏 <sub>银川市</sub>	--- 	--- 	--- 		　
 
 <div align="right" id="D2"><a href="#tixi" target="_top">↑ Top</a></div>
 
