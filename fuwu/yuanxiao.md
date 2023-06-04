@@ -4,25 +4,18 @@
 
 		一所精心布置的‘迷宫’，学生需要尽早决定自己将要去哪个出口 —— 《金榜题名之后》
 
-　　高等院校俗称‘大学’，是青年学子通过 普通**高考**/**职教高考**/成人**自考** 可以进入求学的高等学府。每年高考，各大学排名都是家长与考生的热议话题。国内常见的排名发布方有：软科(上海交大)、中管院(武书连)、艾瑞深(校友会)等等，这些排名会根据很多参数（论文引用数据、科研项目数据）加权计算总分来给大学排名。但是，这些参数会时刻变化，除非是高教研究者，普通家庭要想记住这么多数据和结论，会非常辛苦。大萌想探索一个**相对稳定**、简单明了的中国高校排名。
+　　高等院校俗称‘大学’，是青年学子通过 普通**高考**/**职教高考**/成人**自考** 可以进入求学的高等学府。每年高考，各大学排名都是家长与考生的热议话题。国内常见的排名发布方有：软科(上海)、中管院(武书连)、艾瑞深(校友会)等等，这些排名会根据很多参数（论文引用数据、科研项目数据）加权计算总分来给大学排名。但是，这些参数会时刻变化，除非是高教研究者，普通家庭要想记住这么多数据和结论，会非常辛苦。大萌想探索一个**相对稳定**、简单明了的中国高校排名。
 
 　　我国大陆高等院校有约三千所，其中一半是专科（高职/大专），还有约250所成人高校，余下的就是1200多所本科院校，这些学校都由教育部公布名单。另有44所军事院校，其中27所（2022年）面向普通高考招生，大部分不设公开网站。经过十几年的大学合并潮、2017年的军改，这些数字不会再有大的变化。
 
-　　‘高等院校三千所’网页（简称‘高校所’），将收录中国高校名单全集和网址，并尝试建立高校体系图谱，形成相对稳定的大学排名。目前大体上按照‘先本科后专科’的高考录取顺序和‘先中央后地方’的主管顺序。本页面仍在设计中，欢迎提出意见。页内有少量网址过期，待更新。请善用浏览器页内查找功能；可统计各省院校数，可查某个学校是否民办。
+　　‘高等院校三千所’网页（简称‘高校所’），将以‘[大规模集成网页(LSIP)](https://diamonwoo.github.io/wx/LSIP)’形式收录中国高校名单全集和网址，并尝试建立高校体系图谱，形成相对稳定的大学排名。目前大体上按照‘先本科后专科’的高考录取顺序和‘先中央后地方’的主管顺序。本页面仍在设计中，欢迎提出意见。页内有少量网址过期，待更新。请善用浏览器页内查找功能；可统计各省院校数，可查某个学校是否民办。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/高等院校三千所
 </div>
 
-简目：高校体系、[军事院校](#D81){:target="_top"}、普通本科统计、  
-[部属本科](#D1){:target="_top"}、[省属本科](#D2){:target="_top"}、[民办本科](#D3){:target="_top"}、
-[大专与高职](#D4){:target="_top"}、普通专科统计、[港澳台在陆招生](#D5){:target="_top"}、
-[成人高校名单](#D6){:target="_top"}、[数据来源](#D7){:target="_top"}
-
-
 LSIP进度
 --------
-
 		v0.3.0 LC = 1887	
 		　设计 LC = 3057　
 		　 完成率 ≈ 　61.7%
@@ -30,39 +23,45 @@ LSIP进度
 *	202306，正在补全所有本科院校网址。
 *	202305，已收录全部高校名单3057所，v0.3.0上线。v0.3.6 增补港澳台院校全集180所。
 
-改革近况
---------
+<h3>改革近况</h3>
 
-*	2022年6月，教育部公布《[全国高等学校名单](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202206/t20220617_638352.html)》，分普通高校和成人高校两个文件，pdf格式。
+*	2022年12月，中办国办印发[《关于深化现代职业教育体系建设改革的意见》](http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202212/t20221222_1035691.html)，教育部举行专题[新闻发布会](http://www.moe.gov.cn/fbh/live/2022/55031/)。
 *	2021年5月至7月，十九届中央第七轮巡视对教育部和[31所中管高校](https://www.ccdi.gov.cn/specialn/19zyxsgz/yw19zyxsgz/202104/t20210428_153257.html)（标记❗）党组织开展常规巡视。
 
 
-中国高等院校体系 <sup>简目</sup>
-----------------
+<h2 id='tixi' title='兼做本页简目'>中国高等院校体系<sup>简目</sup></h2>
 
-*	军事院校，44所，其中27所面向普通高考招生（2022年）
-*	普通高等院校， 2759所，本科1270所 / 专科1489所（大专/高职）
-	* 部属本科高校，114所
-	* 省属本科高校，739所 <sup>（含4所合作办学）</sup>
-	* 　　民办本科，417所，省教育厅主管 <sup>（含5所合作办学）</sup>
-	* 部属专科院校，  4所
-	* 省属专科院校，1132所
-	* 　　民办专科， 350所，省教育厅主管
-*	成人高等院校，   254所，高升专/专升本/高升本
+*	[军事院校](#D81){:target="_top"}，44所，其中27所面向普通高考招生（2022年）
+*	普通高等院校， 2759所，其中本科1270所
+	* [部属本科](#D1){:target="_top"}高校，114所
+	* [省属本科](#D2){:target="_top"}高校，739所 <sup>（含4所合作办学）</sup>
+	*　　 [民办本科](#D3){:target="_top"}，417所，省教育厅主管 <sup>（含5所合作办学）</sup>
+	*　　[专科院校](#D4){:target="_top"}，1489所（大专/高职）  
+			（部属 4所，省属 1132所，民办 350所 省教育厅主管）
+*	成人高等院校，   [254所](#D6){:target="_top"}，高升专/专升本/高升本
 
-	以上合计3057所。
-*	港澳台普通高校，约200所，本页收录全部名单，不列入统计。
+	以上合计3057所
+*	[港澳台普通高校](#D5){:target="_top"}，约200所，本页收录全部名单，不列入统计。
 *	党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)
 *	宗教院校，近100所，学历只在宗教体系内有效，本页不收录。[外链](https://www.sara.gov.cn/gjzjswj/zjjcxxcxxt/zjyxjbxx/)
+*	本页[数据来源](#D7){:target="_top"}
 
 	（这里缺个中考升学分流图）
 
-<div align="right" id="D81"><a href="#" target="_top">↑ Top</a></div>
+<h3>高考志愿填报参考网站</h3>
 
+*	教育部[全国高等学校名单查询](https://hudong.moe.gov.cn/qggxmd/)，分普通与成人两大类，提供最新大学名单搜索。
+*	教育部[国家智慧教育](https://www.smartedu.cn/)公共服务平台，考生可以提前了解专业课程内容。
+*	(上海)[软科](https://shanghairanking.cn/)，提供全国范围内[大学专业分类](https://shanghairanking.cn/rankings/bcmr/2022)，是本页面的很好补充。(%部分内容要求登录)
+*	(广东)[艾瑞深](http://www.chinaxy.com/)校友会大学排名，‘360度全景数据平台’提供各种大学荣誉榜。
+*	(北京)中国教育在线/高考网的[模拟志愿填报](https://mnzy.gaokao.cn/)，可以提前熟悉高考志愿填写，查看院校往年录取分数。
+*	[国防部](http://www.mod.gov.cn/gfbw/gffw/zs/)网站招生栏目每年会发布军校招生简章
+
+<div align="right" id="D81"><a href="#tixi" target="_top">↑ Top</a></div>
 
 军事院校名单
-------------
-44所（有27所面向普通高考招生，标记⭐）
+-----------
+　44所（有27所面向普通高考招生，标记⭐）
 
 　 国防大学 	<sup>北京市/西安市/上海市/石家庄 中国人民解放军国防大学</sup>
 　 [国防科技大学](http://www.nudt.edu.cn)	⭐<sup>长沙市/南京市/武汉市/合肥市 [wb](https://m.weibo.cn/u/7127745503)</sup>
@@ -117,12 +116,13 @@ LSIP进度
 
 	院校主业	计数	　	　	办学层次　	计数
 
-<div align="right" id="D1"><a href="#" target="_top">↑ Top</a></div>
 
+
+<div align="right" id="D1"><a href="#tixi" target="_top">↑ Top</a></div>
 
 部属本科院校
 -----------
-中央部委直属本科院校，计114所，截至2022年5月
+　114所，中央部委直属本科院校，计截至2022年5月
 
 　在中央及部委的直属高校中，有31所‘中管高校’，指该校书记/校长为副部级干部，列入《中共中央管理的干部职务名称表》，以下按官方新闻排序。
 
@@ -162,13 +162,13 @@ LSIP进度
 
 北京：	[北京交通大学](http://www.njtu.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京科技大学](http://www.ustb.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京化工大学](http://www.buct.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京邮电大学](http://www.bupt.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京电子科技学院](http://www.besti.edu.cn)	<sup>中央办公厅</sup> 北京市	--- 	--- 	---　 　	[北京林业大学](http://www.bjfu.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京协和医学院](http://www.cams.ac.cn)	<sup>国家卫健委</sup> 北京市	--- 	--- 	---清华大学医学部　 　	[北京中医药大学](http://www.bucm.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京外国语大学](http://www.bfsu.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京语言大学](http://www.blcu.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中国传媒大学](http://www.cuc.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中央财经大学](http://www.cufe.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[对外经济贸易大学](http://www.uibe.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中国消防救援学院](https://www.cfri.edu.cn/)	<sup>应急管理部</sup> 北京市	--- 	--- 	---　 　	[外交学院](http://www.cfau.edu.cn)	<sup>外交部</sup> 北京市	--- 	--- 	---　 　	[中国人民公安大学](http://www.cppsu.edu.cn)	<sup>公安部</sup> 北京市	--- 	--- 	---　 　	[国际关系学院](http://www.uir.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[北京体育大学](http://www.bsu.edu.cn)	<sup>国家体育总局</sup> 北京市	--- 	--- 	---　 　	[中央音乐学院](http://www.ccom.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中央美术学院](http://www.cafa.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中央戏剧学院](http://www.chntheatre.edu.cn)	<sup>教育部</sup> 东城区/昌平区	--- 	--- 	---　 　	[中央民族大学](http://www.muc.edu.cn)	<sup>国家民委</sup> 北京市	--- 	--- 	---国家民族事务委员会　 　	[中国政法大学](http://www.cupl.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[华北电力大学](http://www.ncepu.edu.cn)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中华女子学院](http://www.cwu.edu.cn)	<sup>中华妇女联合会</sup> 北京市	--- 	--- 	---　 　	[中国矿业大学（北京）](https://www.cumtb.edu.cn/)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中国石油大学（北京）](https://www.cup.edu.cn/)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中国地质大学（北京）](https://www.cugb.edu.cn/)	<sup>教育部</sup> 北京市	--- 	--- 	---　 　	[中国青年政治学院](http://www.cyu.edu.cn)	<sup>共青团中央</sup> 北京市	--- 	--- 	---　 　	[中国劳动关系学院](http://www.ciir.edu.cn)	<sup>中华全国总工会</sup> 北京市	--- 	--- 	---　 　	[中国科学院大学](https://www.ucas.ac.cn/)	<sup>中国科学院</sup> 北京市	--- 	--- 	---　 　	[中国社会科学院大学](https://www.ucass.edu.cn/)	<sup>中国社会科学院</sup> 北京市	--- 	--- 	---　 　天津：	[中国民航大学](https://www.cauc.edu.cn)	<sup>交通部/民航局</sup> 天津市	--- 	--- 	---交通运输部（中国民用航空局）　 　河北：	[华北科技学院](http://www.ncist.edu.cn)	<sup>应急管理部</sup> 廊坊市	--- 	--- 	---　 　	[中国人民警察大学](https://www.cppu.edu.cn/)	<sup>公安部</sup> 廊坊市	--- 	--- 	---　 　	[防灾科技学院](http://www.fzxy.edu.cn)	<sup>中国地震局</sup> 廊坊市	--- 	--- 	---　 　	[中央司法警官学院](http://www.cicp.edu.cn)	<sup>司法部</sup> 保定市	--- 	--- 	---　 　辽宁：	[东北大学](http://www.neu.edu.cn)	<sup>教育部</sup> 沈阳市	--- 	--- 	---　 　	[大连海事大学](http://www.dlmu.edu.cn)	<sup>交通部</sup> 大连市	--- 	--- 	---交通运输部　 　	[中国刑事警察学院](http://www.ccpc.edu.cn)	<sup>公安部</sup> 沈阳市	--- 	--- 	---　 　	[大连民族大学](https://new.dlnu.edu.cn/)	<sup>国家民委</sup> 大连市	--- 	--- 	---　 　	[东北师范大学](http://www.nenu.edu.cn)	<sup>教育部</sup> 长春市	--- 	--- 	---　 　黑龙江：	[哈尔滨工程大学](http://www.hrbeu.edu.cn)	<sup>工业和信息化部</sup> 哈尔滨市	--- 	--- 	---　 　	[东北林业大学](http://www.nefu.edu.cn)	<sup>教育部</sup> 哈尔滨市	--- 	--- 	---　 　上海：	[华东理工大学](http://www.ecust.edu.cn)	<sup>教育部</sup> 上海市	--- 	--- 	---　 　	[东华大学](http://www.dhu.edu.cn)	<sup>教育部</sup> 上海市	--- 	--- 	---　 　	[华东师范大学](http://www.ecnu.edu.cn)	<sup>教育部</sup> 上海市	--- 	--- 	---　 　	[上海外国语大学](http://www.shisu.edu.cn)	<sup>教育部</sup> 上海市	--- 	--- 	---　 　	[上海财经大学](http://www.shufe.edu.cn)	<sup>教育部</sup> 上海市	--- 	--- 	---　 　	[上海海关学院](http://www.shcc.edu.cn)	<sup>海关总署</sup> 上海市	--- 	--- 	---旧域名 shanghai_edu.customs.gov.cn　 　江苏：	[南京航空航天大学](http://www.nuaa.edu.cn)	<sup>工业和信息化部</sup> 南京市	--- 	--- 	---　 　	[南京理工大学](http://www.njust.edu.cn)	<sup>工业和信息化部</sup> 南京市	--- 	--- 	---　 　	[中国矿业大学](http://www.cumt.edu.cn)	<sup>教育部</sup> 徐州市	--- 	--- 	---　 　	[河海大学](http://www.hhu.edu.cn)	<sup>教育部</sup> 南京市	--- 	--- 	---　 　	[江南大学](http://www.sytu.edu.cn)	<sup>教育部</sup> 无锡市	--- 	--- 	---　 　	[南京农业大学](http://www.njau.edu.cn)	<sup>教育部</sup> 南京市	--- 	--- 	---　 　	[中国药科大学](http://www.cpu.edu.cn)	<sup>教育部</sup> 南京市	--- 	--- 	---　 　	[南京森林警察学院](http://www.forestpolice.net)	<sup>公安部</sup> 南京市	--- 	--- 	---　 　安徽：	[合肥工业大学](http://www.hfut.edu.cn)	<sup>教育部</sup> 合肥市	--- 	--- 	---　 　福建：	[华侨大学](http://www.hqu.edu.cn)	<sup>中央统战部</sup> 泉州市	--- 	--- 	---　 　山东：	[中国海洋大学](http://www.ouc.edu.cn)	<sup>教育部</sup> 青岛市	--- 	--- 	---　 　	[中国石油大学（华东）](https://www.upc.edu.cn/)	<sup>教育部</sup> 青岛市	--- 	--- 	---　 　河南：	[铁道警察学院](http://www.rpc.edu.cn)	<sup>公安部</sup> 郑州市	--- 	--- 	---　 　湖北：	[中国地质大学（武汉）](https://www.cug.edu.cn/)	<sup>教育部</sup> 武汉市	--- 	--- 	---　 　	[武汉理工大学](http://www.whut.edu.cn)	<sup>教育部</sup> 武汉市	--- 	--- 	---　 　	[华中农业大学](http://www.hzau.edu.cn)	<sup>教育部</sup> 武汉市	--- 	--- 	---　 　	[华中师范大学](http://www.ccnu.edu.cn)	<sup>教育部</sup> 武汉市	--- 	--- 	---　 　	[中南财经政法大学](http://www.znufe.edu.cn)	<sup>教育部</sup> 武汉市	--- 	--- 	---　 　	[中南民族大学](http://www.scuec.edu.cn)	<sup>国家民委</sup> 武汉市	--- 	--- 	---　 　湖南：	[湖南大学](http://www.hnu.cn)	<sup>教育部</sup> 长沙市	--- 	--- 	---　 　广东：	[暨南大学](http://www.jnu.edu.cn)	<sup>中央统战部</sup> 广州市	--- 	--- 	---　 　	[华南理工大学](http://www.scut.edu.cn)	<sup>教育部</sup> 广州市	--- 	--- 	---　 　重庆：	[西南大学](http://www.swu.edu.cn)	<sup>教育部</sup> 重庆市	--- 	--- 	---　 　四川：	[西南交通大学](http://www.swjtu.edu.cn)	<sup>教育部</sup> 成都市	--- 	--- 	---　 　	[电子科技大学](http://www.uestc.edu.cn)	<sup>教育部</sup> 成都市	--- 	--- 	---　 　	[中国民用航空飞行学院](http://www.cafuc.edu.cn)	<sup>交通部/民航局</sup> 德阳市	--- 	--- 	---　 　	[西南财经大学](http://www.swufe.edu.cn)	<sup>教育部</sup> 成都市	--- 	--- 	---　 　	[西南民族大学](http://www.swun.edu.cn)	<sup>国家民委</sup> 成都市	--- 	--- 	---　 　陕西：	[西安电子科技大学](http://www.xidian.edu.cn)	<sup>教育部</sup> 西安市	--- 	--- 	---　 　	[长安大学](http://www.chd.edu.cn)	<sup>教育部</sup> 西安市	--- 	--- 	---　 　	[陕西师范大学](http://www.snnu.edu.cn)	<sup>教育部</sup> 西安市	--- 	--- 	---　 　甘肃：	[西北民族大学](http://www.xbmu.edu.cn)	<sup>国家民委</sup> 兰州市	--- 	--- 	---　 　宁夏：	[北方民族大学](http://www.nwsni.edu.cn)	<sup>国家民委</sup> 银川市	--- 	--- 	---　 　
 
-<div align="right" id="D2"><a href="#" target="_top">↑ Top</a></div>
+<div align="right" id="D2"><a href="#tixi" target="_top">↑ Top</a></div>
 
 
 省属本科院校
 -----------
 
-　739所，省或直辖市主管普通本科院校
+　739所，省或直辖市主管普通本科院校，不含民办
 
 <big>北京</big>(22所)：	　[北京工业大学](http://www.bjut.edu.cn) ,　[北方工业大学](http://www.ncut.edu.cn) ,　[北京工商大学](http://www.btbu.edu.cn) ,　[北京服装学院](http://www.bift.edu.cn) ,　[北京印刷学院](http://www.bigc.edu.cn) ,　[北京建筑大学](https://www.bucea.edu.cn/) ,　[北京石油化工学院](http://www.bipt.edu.cn) ,　[北京农学院](http://www.bac.edu.cn) ,　[首都医科大学](http://www.ccmu.edu.cn) ,　[首都师范大学](http://www.cnu.edu.cn) ,　[首都体育学院](http://www.cipe.net.cn) ,　[北京第二外国语学院](http://www.bisu.edu.cn) ,　[北京物资学院](http://www.bwu.edu.cn) ,　[首都经济贸易大学](http://www.cueb.edu.cn) ,　[中国音乐学院](http://www.ccmusic.edu.cn) ,　[中国戏曲学院](http://www.nacta.edu.cn) ,　[北京电影学院](http://www.bfa.edu.cn) ,　[北京舞蹈学院](http://www.bda.edu.cn) ,　[北京信息科技大学](http://www.bistu.edu.cn) ,　[北京联合大学](http://www.buu.edu.cn) ,　[首钢工学院](http://www.sgit.edu.cn) ,　[北京警察学院](http://www.bjpc.edu.cn) 	<br><br>
 <big>天津</big>(16所)：	　[天津科技大学](https://www.tust.edu.cn) ,　[天津工业大学](https://www.tiangong.edu.cn) ,　[天津理工大学](https://www.tjut.edu.cn) ,　[天津农学院](https://www.tjau.edu.cn) ,　[天津医科大学](http://www.tmu.edu.cn) ,　[天津中医药大学](https://www.tjutcm.edu.cn) ,　[天津师范大学](https://www.tjnu.edu.cn) ,　[天津职业技术师范大学](https://www.tute.edu.cn) ,　[天津外国语大学](http://www.tjfsu.edu.cn) ,　[天津商业大学](https://www.tjcu.edu.cn) ,　[天津财经大学](https://www.tjufe.edu.cn) ,　[天津体育学院](http://www.tjus.edu.cn) ,　[天津音乐学院](https://www.tjcm.edu.cn) ,　[天津美术学院](http://www.tjarts.edu.cn/) ,　[天津城建大学](https://www.tcu.edu.cn) ,　[天津中德应用技术大学](https://www.tsguas.edu.cn) 	<br><br>
@@ -202,13 +202,13 @@ LSIP进度
 <big>宁夏</big>(3所)：	　[宁夏大学](http://www.nxu.edu.cn) ,　[宁夏医科大学](http://www.nxmu.edu.cn) ,　[宁夏师范学院](http://www.nxtu.cn) 	<br><br>
 <big>新疆</big>(17所)：	　[新疆大学](http://www.xju.edu.cn) ,　[塔里木大学](http://www.taru.edu.cn) ,　[新疆农业大学](http://www.xjau.edu.cn) ,　[石河子大学](https://www.shzu.edu.cn/) ,　[新疆医科大学](http://www.xjmu.edu.cn) ,　[新疆师范大学](http://www.xjnu.edu.cn) ,　[喀什大学](http://www.ksu.edu.cn) ,　[伊犁师范大学](http://www.ylnu.edu.cn) ,　[新疆财经大学](http://www.xjufe.edu.cn) ,　[新疆艺术学院](http://www.xjart.edu.cn) ,　[新疆工程学院](http://www.xjie.edu.cn) ,　[昌吉学院](http://219.247.64.111/) ,　新疆警察学院 ,　[新疆理工学院](https://xjit.edu.cn/) ,　[新疆第二医学院](http://www.xjsmc.edu.cn) ,　[新疆科技学院](http://www.xjust.edu.cn) ,　[新疆政法学院](http://www.xjzfu.edu.cn) 	<br><br>
 
-<div align="right" id="D3"><a href="#" target="_top">↑ Top</a></div>
+<div align="right" id="D3"><a href="#tixi" target="_top">↑ Top</a></div>
 
 
 民办本科
 -------
 
-417所，民办本科院校均由省教育厅(直辖市的市教委)主管。
+　417所，民办本科院校均由省教育厅(直辖市的市教委)主管，包含5所中外合作办学。
 
 <big>北京</big>(6所)：	　[北京城市学院](http://www.bcu.edu.cn) 民办,　[首都师范大学科德学院](http://www.kdcnu.com) 民办,　[北京工商大学嘉华学院](http://www.canvard.com.cn) 民办,　[北京邮电大学世纪学院](http://www.ccbupt.cn) 民办,　[北京工业大学耿丹学院](http://www.gengdan.cn) 民办,　[北京第二外国语学院中瑞酒店管理学院](http://www.bhi.edu.cn) 民办	<br><br>
 <big>天津</big>(11所)：	　[天津天狮学院](https://www.tianshi.edu.cn) 民办,　天津外国语大学滨海外事学院 民办,　[天津传媒学院](http://www.tjcma.edu.cn) 民办,　[天津商业大学宝德学院](http://www.boustead.edu.cn) 民办,　[天津医科大学临床医学院](http://www.tmucmc.edu.cn) 民办,　[南开大学滨海学院](http://binhai.nankai.edu.cn) 民办,　天津师范大学津沽学院 民办,　[天津理工大学中环信息学院](https://www.tjzhic.edu.cn) 民办,　[北京科技大学天津学院](http://tj.ustb.edu.cn) 民办,　[天津仁爱学院](http://www.tjrac.edu.cn) 民办,　[天津财经大学珠江学院](http://zhujiang.tjufe.edu.cn) 民办	<br><br>
@@ -241,15 +241,13 @@ LSIP进度
 <big>宁夏</big>(4所)：	　[宁夏理工学院](http://www.nxist.com) 民办,　[宁夏大学新华学院](http://xinhua.nxu.edu.cn) 民办,　银川能源学院 民办,　银川科技学院 民办	<br><br>
 <big>新疆</big>(2所)：	　[新疆农业大学科学技术学院](http://www.xjstc.net) 民办,　[新疆天山职业技术大学](http://www.xjtsxy.cn) 民办	<br><br>
 
-<div align="right" id="D4"><a href="#" target="_top">↑ Top</a></div>
+<div align="right" id="D4"><a href="#tixi" target="_top">↑ Top</a></div>
 
 
-大专与高职院校名单
-----------------
+专科院校
+--------
 
-1489所
-
-　按地方排序，数字为教育部确定的学校标识码。
+　1489所，大专与高职院校，有部属和民办，主体公办有一千多所。按地方排序，数字为教育部确定的学校标识码。
 
 <big>北京</big>(25所)：	　[北京工业职业技术学院](http://www.bgy.org.cn) 4111010853,　[北京信息职业技术学院](http://www.bitc.edu.cn) 4111010857,　[北京电子科技职业学院](http://www.dky.bjedu.cn) 4111010858,　[北京京北职业技术学院](http://www.jbzy.com.cn) 4111011090,　[北京交通职业技术学院](http://www.jtxy.com.cn) 4111011092,　[北京青年政治学院](http://www.bjypc.edu.cn) 4111011626,　[北京农业职业学院](http://www.bvca.edu.cn) 4111012448,　[北京政法职业学院](http://www.bcpl.cn) 4111012451,　[北京财贸职业学院](http://www.bjczy.edu.cn) 4111012561,　北京北大方正软件职业技术学院 4111012564民办,　[北京经贸职业学院](http://www.csuedu.com) 4111012565民办,　[北京经济技术职业学院](http://www.tangedu.cn) 4111012566民办,　[北京戏曲艺术职业学院](http://www.bjxx.com.cn) 4111012567,　[北京汇佳职业学院](http://www.hju.net.cn) 4111012568民办,　[北京科技经营管理学院](http://www.bjjsy1985.cn) 4111012733民办,　[北京科技职业学院](http://www.5aaa.com) 4111013703民办,　[北京培黎职业学院](http://www.bjpldx.edu.cn) 4111013728民办,　[北京经济管理职业学院](http://www.biem.edu.cn) 4111014073,　[北京劳动保障职业学院](http://www.bvclss.cn) 4111014075,　[北京社会管理职业学院](http://sgy.mca.gov.cn) 4111014139,　[北京艺术传媒职业学院](http://www.bjamu.cn) 4111014140民办,　[北京体育职业学院](http://www.bjtzhy.org) 4111014215,　[北京交通运输职业学院](http://www.bjjtxx.com) 4111014279,　北京卫生职业学院 4111014395,　[北京网络职业学院](https://bjwlxy.org.cn/) 4111014588民办	<br><br>
 <big>天津</big>(26所)：	　天津市职业大学 4112011032,　[天津滨海职业学院](http://www.tjbpi.com) 4112012484,　天津工程职业技术学院 4112012487,　天津渤海职业技术学院 4112012719,　[天津电子信息职业技术学院](https://www.tjdz.net) 4112012720,　[天津机电职业技术学院](https://www.suoyuan.com.cn) 4112012721,　[天津现代职业技术学院](https://www.xdxy.com.cn) 4112012722,　[天津公安警官职业学院](https://www.tjjingyuan.cn) 4112012723,　[天津轻工职业技术学院](https://www.tjlivtc.edu.cn) 4112012732,　[天津商务职业学院](https://www.tcc1955.edu.cn) 4112012788,　天津国土资源和房屋职业学院 4112012803,　[天津医学高等专科学校](https://www.tjyzh.cn) 4112012880,　天津开发区职业技术学院 4112012881,　[天津艺术职业学院](http://www.arttj.cn) 4112012882,　[天津交通职业学院](https://www.tttc.edu.cn) 4112012883,　天津工业职业学院 4112013700,　天津石油职业技术学院 4112013701,　天津城市职业学院 4112013702,　[天津铁道职业技术学院](https://www.tjtdxy.cn) 4112013863,　[天津工艺美术职业学院](https://www.gmtj.com) 4112013911,　[天津城市建设管理职业技术学院](https://www.tjchengjian.com) 4112014020,　[天津生物工程职业技术学院](https://www.tjbio.cn) 4112014021,　[天津海运职业学院](https://www.tjmc.edu.cn) 4112014022,　[天津广播影视职业学院](http://www.tjgbys.com) 4112014102,　天津体育职业学院 4112014599,　天津滨海汽车工程职业学院 4112014600民办	<br><br>
@@ -293,7 +291,7 @@ LSIP进度
 	⚡ 电力	8	🛰	2	本科	公办	1
 	🏭 钢铁	6	🚢	2	专科	民办	1
 
-<div align="right" id="D5"><a href="#" target="_top">↑ Top</a></div>
+<div align="right" id="D5"><a href="#tixi" target="_top">↑ Top</a></div>
 
 
 港澳台普通本科院校
@@ -491,7 +489,7 @@ LSIP进度
 　3002 [台北市立大学](http://www.uTaipei.edu.tw) 		<sup>台北市 </sup>
 
 
-<div align="right" id="D6"><a href="#" target="_top">↑ Top</a></div>
+<div align="right" id="D6"><a href="#tixi" target="_top">↑ Top</a></div>
 
 
 成人高校名单
@@ -552,14 +550,15 @@ LSIP进度
 　251、喀什教育学院	　252、新疆生产建设兵团教育学院	　253、和田地区教育学院	　254、阿克苏教育学院
 
 
-<div align="right" id="D7"><a href="#" target="_top">↑ Top</a></div>
+<div align="right" id="D7"><a href="#tixi" target="_top">↑ Top</a></div>
 
 数据来源
 --------
 
-* [高考]()，2023-01-31：《》
-* [双一流]()，2021-08-29：《》
-* [军事院校]()，2021/09 - 2022/03：《》
+*	2022年6月，教育部公布《[全国高等学校名单](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202206/t20220617_638352.html)》，分普通高校和成人高校两个文件，pdf格式。
+*	教育部批准在内地招生的[香港高等院校](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A20/202109/t20210923_566126.html)202109
+*	教育部批准在内地招生的[澳门高等院校](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A20/202203/t20220310_606145.html)202203
+*	人民网：国防部公布43所调整改革后[军队院校名称](http://military.people.com.cn/n1/2017/0629/c1011-29372347.html)，201706
 
 　　在高等教育之前、九年义务制教育之后，青少年可参与高中/职高/中专/技校等中等教育。大萌初步考察，后三类学校数量大约在九千所。再做一个‘中等职校九千所’？哪里有名单呢？
 
@@ -567,13 +566,9 @@ LSIP进度
 
 　教育部 [MOE官网](http://www.moe.gov.cn)：
 	[直属单位](http://www.moe.gov.cn/jyb_zzjg/moe_349/)（国家开放大学/中国教育电视台/中国教育报社……）  
-	国家智慧教育[公共服务平台](https://www.smartedu.cn/)  
+
 　官方微博：[微言教育](https://weibo.com/jybxwb) 微博粉丝超800万、
 	[中国大学生在线](https://weibo.com/univs) 微博粉丝250万……  
-
-　全国[高等学校名单查询](https://hudong.moe.gov.cn/qggxmd/)  
-　教育部批准在内地招生的[香港高等院校](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A20/202109/t20210923_566126.html)202109  
-　教育部批准在内地招生的[澳门高等院校](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A20/202203/t20220310_606145.html)202203  
 
 　32个省级地方教育厅
 
@@ -584,7 +579,7 @@ LSIP进度
 ```
 	老生常谈© 2019-2023 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	高等院校三千所	Version 0.3.7	202306
+	高等院校三千所	Version 0.3.8	202306
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
