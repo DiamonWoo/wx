@@ -58,8 +58,9 @@ LSIP进度
 
 <div align="right" id="D81"><a href="#tixi" target="_top">↑ Top</a></div>
 
+
 军事院校名单
------------
+------------
 　44所（有27所面向普通高考招生，标记⭐）
 
 　 国防大学 	<sub>北京市/西安市/上海市/石家庄</sub> 中国人民解放军国防大学
@@ -107,20 +108,11 @@ LSIP进度
 　6 武警士官学院 	<sub>杭州市/福州市</sub> 
 　7 ⭐武警海警学院 	<sub>宁波市</sub> 有微信公众号
 
-
-普通本科院校统计
----------------
-
-　待统计……（不含港澳台）……
-
-	院校主业	计数	　	　	办学层次　	计数
-
-
-
 <div align="right" id="D1"><a href="#tixi" target="_top">↑ Top</a></div>
 
+
 部属本科院校 🥇
------------
+------------
 　114所，中央部委直属本科院校，计截至2022年5月
 
 　在中央及部委的直属高校中，有31所‘中管高校’，指该校书记/校长为副部级干部，列入《中共中央管理的干部职务名称表》，以下按官方新闻排序。
@@ -186,7 +178,7 @@ LSIP进度
 省属本科院校 🥈
 -----------
 
-　739所，省或直辖市主管普通本科院校，不含民办
+　739所，省或直辖市主管普通本科院校，校领导正职为正厅级，不含民办。
 
 <big>北京</big> (22所省属本科)：	　[北京工业大学](http://www.bjut.edu.cn) ,　[北方工业大学](http://www.ncut.edu.cn) ,　[北京工商大学](http://www.btbu.edu.cn) ,　[北京服装学院](http://www.bift.edu.cn) ,　[北京印刷学院](http://www.bigc.edu.cn) ,　[北京建筑大学](https://www.bucea.edu.cn/) ,　[北京石油化工学院](http://www.bipt.edu.cn) ,　[北京农学院](http://www.bac.edu.cn) ,　[首都医科大学](http://www.ccmu.edu.cn) ,　[首都师范大学](http://www.cnu.edu.cn) ,　[首都体育学院](http://www.cipe.net.cn) ,　[北京第二外国语学院](http://www.bisu.edu.cn) ,　[北京物资学院](http://www.bwu.edu.cn) ,　[首都经济贸易大学](http://www.cueb.edu.cn) ,　[中国音乐学院](http://www.ccmusic.edu.cn) ,　[中国戏曲学院](http://www.nacta.edu.cn) <sup>2000年划转北京市，2014年与文旅部共建</sup>,　[北京电影学院](http://www.bfa.edu.cn) ,　[北京舞蹈学院](http://www.bda.edu.cn) ,　[北京信息科技大学](http://www.bistu.edu.cn) ,　[北京联合大学](http://www.buu.edu.cn) ,　[首钢工学院](http://www.sgit.edu.cn) ,　[北京警察学院](http://www.bjpc.edu.cn) 	<br>  
 <big>天津</big> (16所省属本科)：	　[天津科技大学](https://www.tust.edu.cn) ,　[天津工业大学](https://www.tiangong.edu.cn) ,　[天津理工大学](https://www.tjut.edu.cn) ,　[天津农学院](https://www.tjau.edu.cn) ,　[天津医科大学](http://www.tmu.edu.cn) ,　[天津中医药大学](https://www.tjutcm.edu.cn) ,　[天津师范大学](https://www.tjnu.edu.cn) ,　[天津职业技术师范大学](https://www.tute.edu.cn) ,　[天津外国语大学](http://www.tjfsu.edu.cn) ,　[天津商业大学](https://www.tjcu.edu.cn) ,　[天津财经大学](https://www.tjufe.edu.cn) ,　[天津体育学院](http://www.tjus.edu.cn) ,　[天津音乐学院](https://www.tjcm.edu.cn) ,　[天津美术学院](http://www.tjarts.edu.cn) ,　[天津城建大学](https://www.tcu.edu.cn) ,　[天津中德应用技术大学](https://www.tsguas.edu.cn) 	<br>  
@@ -224,7 +216,7 @@ LSIP进度
 
 
 民办本科 🥉
--------
+--------
 
 　417所，民办本科院校均由省教育厅(直辖市的市教委)主管，包含5所中外合作办学。
 
@@ -301,16 +293,6 @@ LSIP进度
 <big>新疆</big> (36所专科院校)：	　 [和田师范专科学校](http://www.htszedu.cn) 4165010765,　 [新疆农业职业技术学院](http://www.xjnzy.edu.cn) 4165010995,　 [乌鲁木齐职业大学](http://www.uvu.edu.cn) 4165011565,　 [新疆维吾尔医学专科学校](http://www.xjumc.cn) 4165011818,　 [克拉玛依职业技术学院](http://www.kzjsxy.net) 4165012482,　 [新疆机电职业技术学院](http://www.xjjd.com.cn) 4165012513,　 [新疆轻工职业技术学院](http://www.xjqg.edu.cn) 4165012514,　民办 [新疆能源职业技术学院](http://www.xjnyedu.com) 4165012570,　 [昌吉职业技术学院](http://www.cjpt.cn) 4165012838,　 [伊犁职业技术学院](http://www.ylzyjs.cn) 4165012975,　 [阿克苏职业技术学院](http://www.akszy.com) 4165013093,　 [巴音郭楞职业技术学院](http://www.xjbyxy.cn) 4165013094,　 [新疆建设职业技术学院](http://www.xjjszy.net/) 4165013562,　民办 [新疆现代职业技术学院](http://www.xjxiandai.net/) 4165013726,　 [新疆交通职业技术学院](http://www.xjjtedu.com) 4165013926,　 [新疆石河子职业技术学院](http://www.xjshzzy.com) 4165013956,　 [新疆职业大学](http://www.xjvu.edu.cn) 4165014138,　 新疆体育职业技术学院 4165014416,　 新疆应用职业技术学院 4165014417,　 新疆师范高等专科学校 4165014421,　 新疆铁道职业技术学院 4165014489,　 新疆生产建设兵团兴新职业技术学院 4165014523,　 哈密职业技术学院 4165014524,　民办 新疆科技职业技术学院 4165014525,　 吐鲁番职业技术学院 4165014585,　 博尔塔拉职业技术学院 4165014622,　 和田职业技术学院 4165014652,　 石河子工程职业技术学院 4165014661,　 喀什职业技术学院 4165014677,　 克孜勒苏职业技术学院 4165014678,　民办 新疆科信职业技术学院 4165014679,　 阿勒泰职业技术学院 4165014680,　 塔城职业技术学院 4165014740,　 塔里木职业技术学院 4165014741,　 新疆工业职业技术学院 4265051060,　 铁门关职业技术学院 4165014660	<br>  
 
 </small>
-
-普通专科院校统计
---------------
-
-　待统计……（不含港澳台）……
-
-	院校主业	计数	　	　	办学层次　	计数
-	⚡ 电力	8	🛰	2	本科	公办	1
-	🏭 钢铁	6	🚢	2	专科	民办	1
-
 <div align="right" id="D5"><a href="#tixi" target="_top">↑ Top</a></div>
 
 
@@ -508,7 +490,6 @@ LSIP进度
 　1293 [崇仁医护管理专科学校](http://www.cjc.edu.tw) 私立		<sup>嘉义县 </sup>
 　3002 [台北市立大学](http://www.uTaipei.edu.tw) 		<sup>台北市 </sup>
 
-
 <div align="right" id="D6"><a href="#tixi" target="_top">↑ Top</a></div>
 
 
@@ -569,9 +550,10 @@ LSIP进度
 　241、西安开放大学	　242、兰州铁路工程职工大学	　243、甘肃核工业职工大学	　244、银光化学材料厂职工大学	　245、甘肃开放大学	
 　246、青海省联合职工大学	　247、青海开放大学	　248、宁夏开放大学	　249、新疆生产建设兵团开放大学	　250、新疆开放大学	
 　251、喀什教育学院	　252、新疆生产建设兵团教育学院	　253、和田地区教育学院	　254、阿克苏教育学院
-</small>
 
+</small>
 <div align="right" id="D7"><a href="#tixi" target="_top">↑ Top</a></div>
+
 
 数据来源
 --------
@@ -630,12 +612,13 @@ LSIP进度
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
+
 　　节约您的搜寻时间，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，如[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
 
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	高等院校三千所	Version 0.4.3	202306
+	高等院校三千所	Version 0.4.4	202306
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
