@@ -34,7 +34,7 @@ LSIP进度
 <h2 id='tupu'>中国高校层级图谱</h2>
 
 *	[军事院校](#D81){:target="_top"}，44所，其中27所⭐面向普通高考招生，[2023年各省计划](http://www.81.cn/jx_208569/16229889.html)
-*	[各省普通高校 🏫](#mulu){:target="_top"}，2820所 ▽，其中本科1275所
+*	[各省普通高校 🧳](#mulu){:target="_top"}，2820所 ▽，其中本科1275所
 	* 部属本科高校， 114所🥇 含[中管高校](#D1){:target="_top"}❗31所，一般部本❕83所
 	* 省属本科高校， 737所🥈
 	* 　　民办本科， 424所 ¥，省教育厅主管 <sup>（含11所合作办学）</sup>
@@ -45,47 +45,6 @@ LSIP进度
 *	党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)
 *	宗教院校，近100所，学历只在宗教体系内有效，本页不收录。[外链](https://www.sara.gov.cn/gjzjswj/zjjcxxcxxt/zjyxjbxx/)
 
-　教育部官网[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)专题；
-　指定[阳光高考网](https://gaokao.chsi.com.cn/)，[各省招生办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)。
-
-<h3 id="mulu">各省高校索引 <sup>及 省招办官网</sup></h3>
-
-<a href="#11" target="_top">11-北京</a>	<sup>[招考办](https://www.bjeea.cn)</sup>　
-<a href="#12" target="_top">12-天津</a>	<sup>[招考办](http://www.zhaokao.net)</sup>　
-<a href="#13" target="_top">13-河北</a>	<sup>[招考办](http://www.hebeea.edu.cn)</sup>　
-<a href="#14" target="_top">14-山西</a>	<sup>[招考办](http://www.sxkszx.cn)</sup>　
-<a href="#15" target="_top">15-内蒙古</a>	<sup>[招考办](https://www.nm.zsks.cn)</sup>　
-<a href="#21" target="_top">21-辽宁</a>	<sup>[招考办](https://www.lnzsks.com)</sup>　
-<a href="#22" target="_top">22-吉林</a>	<sup>[招考办](http://www.jleea.edu.cn)</sup>　
-<a href="#23" target="_top">23-黑龙江</a>	<sup>[招考办](https://www.lzk.hl.cn)</sup>　
-<a href="#31" target="_top">31-上海</a>	<sup>[招考办](https://www.shmeea.edu.cn)</sup>　
-<a href="#32" target="_top">32-江苏</a>	<sup>[招考办](https://www.jseea.cn)</sup>　
-<a href="#33" target="_top">33-浙江</a>	<sup>[招考办](https://www.zjzs.net)</sup>　
-<a href="#34" target="_top">34-安徽</a>	<sup>[招考办](https://www.ahzsks.cn)</sup>　
-<a href="#35" target="_top">35-福建</a>	<sup>[招考办](https://www.eeafj.cn)</sup>　
-<a href="#36" target="_top">36-江西</a>	<sup>[招考办](http://www.jxeea.cn)</sup>　
-<a href="#37" target="_top">37-山东</a>	<sup>[招考办](https://www.sdzk.cn)</sup>　
-<a href="#41" target="_top">41-河南</a>	<sup>[招考办](http://www.heao.com.cn)</sup>　
-<a href="#42" target="_top">42-湖北</a>	<sup>[招考办](http://www.hbea.edu.cn)</sup>　
-<a href="#43" target="_top">43-湖南</a>	<sup>[招考办](http://www.hneao.edu.cn)</sup>　
-<a href="#44" target="_top">44-广东</a>	<sup>[招考办](http://eea.gd.gov.cn)</sup>　
-<a href="#45" target="_top">45-广西</a>	<sup>[招考办](http://www.gxeea.cn)</sup>　
-<a href="#46" target="_top">46-海南</a>	<sup>[招考办](http://ea.hainan.gov.cn)</sup>　
-<a href="#50" target="_top">50-重庆</a>	<sup>[招考办](https://www.cqksy.cn)</sup>　
-<a href="#51" target="_top">51-四川</a>	<sup>[招考办](http://www.sceea.cn)</sup>　
-<a href="#52" target="_top">52-贵州</a>	<sup>[招考办](http://zsksy.guizhou.gov.cn)</sup>　
-<a href="#53" target="_top">53-云南</a>	<sup>[招考办](http://www.ynzs.cn)</sup>　
-<a href="#54" target="_top">54-西藏</a>	<sup>[招考办](http://zsks.edu.xizang.gov.cn)</sup>　
-<a href="#61" target="_top">61-陕西</a>	<sup>[招考办](http://www.sneac.com)</sup>　
-<a href="#62" target="_top">62-甘肃</a>	<sup>[招考办](http://www.ganseea.cn)</sup>　
-<a href="#63" target="_top">63-青海</a>	<sup>[招考办](http://www.qhjyks.com)</sup>　
-<a href="#64" target="_top">64-宁夏</a>	<sup>[招考办](http://www.nxjyks.cn)</sup>　
-<a href="#65" target="_top">65-新疆</a>	<sup>[招考办](http://www.xjzk.gov.cn)</sup>　
-各省按身份证号前两位排序　▼
-
-　网址清查已完成前18+1省，修正了180多个错误网址。虽然占比不到一成（分母是三千），但绝对数量不小，正在紧张进行后续清查。
-　主要是专科院校升级域名到 *.edu.cn 后，旧域名没有做跳转，被人挪作他用，这其实造成了学校的无形资产流失。
-　为避免打开错误网址耽误考生时间，未完成清查的省份暂时关闭专科学校的网址。
 
 <div align="right" id="D81"><a href="#" target="_top">↑ Top</a></div>
 
@@ -182,8 +141,50 @@ LSIP进度
 
 <div align="right" id="DS"><a href="#tupu" target="_top">↑ Top</a></div>
 
-各省普通高等院校 🏫
+各省普通高等院校 🧳
 ----------------
+
+　教育部官网[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)专题；
+　指定[阳光高考网](https://gaokao.chsi.com.cn/)，[各省招生办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)。
+
+<h3 id="mulu">各省高校索引 <sup>及 省招办官网</sup></h3>
+
+<a href="#11" target="_top">11-北京</a>	<sup>[招考办](https://www.bjeea.cn)</sup>　
+<a href="#12" target="_top">12-天津</a>	<sup>[招考办](http://www.zhaokao.net)</sup>　
+<a href="#13" target="_top">13-河北</a>	<sup>[招考办](http://www.hebeea.edu.cn)</sup>　
+<a href="#14" target="_top">14-山西</a>	<sup>[招考办](http://www.sxkszx.cn)</sup>　
+<a href="#15" target="_top">15-内蒙古</a>	<sup>[招考办](https://www.nm.zsks.cn)</sup>　
+<a href="#21" target="_top">21-辽宁</a>	<sup>[招考办](https://www.lnzsks.com)</sup>　
+<a href="#22" target="_top">22-吉林</a>	<sup>[招考办](http://www.jleea.edu.cn)</sup>　
+<a href="#23" target="_top">23-黑龙江</a>	<sup>[招考办](https://www.lzk.hl.cn)</sup>　
+<a href="#31" target="_top">31-上海</a>	<sup>[招考办](https://www.shmeea.edu.cn)</sup>　
+<a href="#32" target="_top">32-江苏</a>	<sup>[招考办](https://www.jseea.cn)</sup>　
+<a href="#33" target="_top">33-浙江</a>	<sup>[招考办](https://www.zjzs.net)</sup>　
+<a href="#34" target="_top">34-安徽</a>	<sup>[招考办](https://www.ahzsks.cn)</sup>　
+<a href="#35" target="_top">35-福建</a>	<sup>[招考办](https://www.eeafj.cn)</sup>　
+<a href="#36" target="_top">36-江西</a>	<sup>[招考办](http://www.jxeea.cn)</sup>　
+<a href="#37" target="_top">37-山东</a>	<sup>[招考办](https://www.sdzk.cn)</sup>　
+<a href="#41" target="_top">41-河南</a>	<sup>[招考办](http://www.heao.com.cn)</sup>　
+<a href="#42" target="_top">42-湖北</a>	<sup>[招考办](http://www.hbea.edu.cn)</sup>　
+<a href="#43" target="_top">43-湖南</a>	<sup>[招考办](http://www.hneao.edu.cn)</sup>　
+<a href="#44" target="_top">44-广东</a>	<sup>[招考办](http://eea.gd.gov.cn)</sup>　
+<a href="#45" target="_top">45-广西</a>	<sup>[招考办](http://www.gxeea.cn)</sup>　
+<a href="#46" target="_top">46-海南</a>	<sup>[招考办](http://ea.hainan.gov.cn)</sup>　
+<a href="#50" target="_top">50-重庆</a>	<sup>[招考办](https://www.cqksy.cn)</sup>　
+<a href="#51" target="_top">51-四川</a>	<sup>[招考办](http://www.sceea.cn)</sup>　
+<a href="#52" target="_top">52-贵州</a>	<sup>[招考办](http://zsksy.guizhou.gov.cn)</sup>　
+<a href="#53" target="_top">53-云南</a>	<sup>[招考办](http://www.ynzs.cn)</sup>　
+<a href="#54" target="_top">54-西藏</a>	<sup>[招考办](http://zsks.edu.xizang.gov.cn)</sup>　
+<a href="#61" target="_top">61-陕西</a>	<sup>[招考办](http://www.sneac.com)</sup>　
+<a href="#62" target="_top">62-甘肃</a>	<sup>[招考办](http://www.ganseea.cn)</sup>　
+<a href="#63" target="_top">63-青海</a>	<sup>[招考办](http://www.qhjyks.com)</sup>　
+<a href="#64" target="_top">64-宁夏</a>	<sup>[招考办](http://www.nxjyks.cn)</sup>　
+<a href="#65" target="_top">65-新疆</a>	<sup>[招考办](http://www.xjzk.gov.cn)</sup>　
+各省按身份证号前两位排序　▼
+
+　网址清查已完成前18+1省，修正了180多个错误网址。虽然占比不到一成（分母是三千），但绝对数量不小，正在紧张进行后续清查。
+　主要是专科院校升级域名到 *.edu.cn 后，旧域名没有做跳转，被人挪作他用，这其实造成了学校的无形资产流失。
+　为避免打开错误网址耽误考生时间，未完成清查的省份暂时关闭专科学校的网址。
 
 　2820所，教育部2023年6月19日公布数据。较2022年新增61所院校，有一半已开通网站；新增本科院校4所：郑州美术学院、香港科技大学（广州）、海南比勒费尔德应用科学大学、重庆中医药学院。
 
@@ -282,7 +283,7 @@ LSIP进度
 　受新冠疫情影响，2020年起教育部暂停了陆生赴台就读试点工作，新的招生政策请见[海峡两岸招生服务中心](https://hxla.gatzs.com.cn/)。  
 　本页不收录台湾地区的军警院校(10所)、宗教院校(40所)。  
 
-高等教育体系（一般大学与师范教育）：  
+台湾高等教育体系（一般大学与师范教育）：  
 <small>
 　0001、🔸[公立政治大学](http://www.nccu.edu.tw)🕊️ 台北市
 　0002、🔸[公立清华大学](http://www.nthu.edu.tw)🕊️ 新竹市
@@ -352,11 +353,11 @@ LSIP进度
 　0015、[公立彰化师范大学](http://www.ncue.edu.tw)🕊️ 彰化县
 　0037、[公立台北教育大学](http://www.ntue.edu.tw)🕊️ 台北市
 　0039、[公立台中教育大学](http://www.ntcu.edu.tw)🕊️ 台中市
-　0022、[公立台湾科技大学](http://www.ntust.edu.tw)🕊️ 台北市
 </small>
 
-技职教育体系（科技大学与技术学院）：  
+台湾技职教育体系（科技大学与技术学院）：  
 <small>
+　0022、[公立台湾科技大学](http://www.ntust.edu.tw)🕊️ 台北市
 　0023、[公立云林科技大学](http://www.yuntech.edu.tw)🕊️ 云林县
 　0024、[公立屏东科技大学](http://www.npust.edu.tw)🕊️ 屏东县
 　0025、[公立台北科技大学](http://www.ntut.edu.tw)🕊️ 台北市
