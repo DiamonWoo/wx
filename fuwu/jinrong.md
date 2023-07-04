@@ -44,6 +44,7 @@
 
 Finance⠀人行、总局、证监会
 
+　**中央金融委员会、中央金融工作委员会**
 
 **中国人民银行**　[PBC.gov.cn](http://www.pbc.gov.cn/)　人行  
 	国家中央银行、央妈，主管：外汇/黄金/货币政策
@@ -63,11 +64,12 @@ Finance⠀人行、总局、证监会
 	* 3000多家地方银行（农商行/村镇银行……）、100多家外资银行或外国银行的中国分行……
 *	保险机构 Insurance 200多家，总资产约20万亿（财险/寿险）
 	* [保险集团与保险公司](#Dbao){:target="_top"}：保险集团 13家、保险公司 224家
+	* 保险代理公司
 *	信托机构 Fiduciary  68家，总资产约30万亿。　[全体名单](http://xtxh.net/xtxh/memberslist/index.htm)
 *	其他非银行金融机构 400多家（资管公司、财务公司、租赁公司……）
 <sup>各分业市值默认货币单位为￥人民币元</sup>  
 
-[**证监会**　CSRC.gov.cn](http://www.csrc.gov.cn/)　中国证券监督管理委员会  
+**证监会**　[CSRC.gov.cn](http://www.csrc.gov.cn/)　中国证券监督管理委员会  
 监管以下机构（3+5+x）：
 * 【[上交所](http://www.sse.com.cn)】📈 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)
 * 【[深交所](https://www.szse.cn/)】📈 深圳证券交易所 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
@@ -776,7 +778,7 @@ Insurance 237家，银保监会发布的2022年12月数据
 	链接有效性待检查
 
 
-<div id="Dcan" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
+<div id="Dcan" align="right"><a href="#" target="_top">↑ Top</a></div>
 
 参考文献
 --------
@@ -788,7 +790,7 @@ Insurance 237家，银保监会发布的2022年12月数据
 **更多金融业有关部门** Relevant Departments
 
 * 国务院
-  * 金融稳定发展委员会 [201711成立](http://www.gov.cn/guowuyuan/2017-11/08/content_5238161.htm)
+  * <del>金融稳定发展委员会</del> [201711成立](http://www.gov.cn/guowuyuan/2017-11/08/content_5238161.htm)
   * [发改委](https://www.ndrc.gov.cn/) / [国资委](http://www.sasac.gov.cn/)
   * [财政部](http://www.mof.gov.cn/) / [商务部](http://www.mofcom.gov.cn/)
   * [国务院其他部门](zhongyang)：税务总局 / 海关总署 / 市场监管总局 / 国家统计局 / 中国贸促会
