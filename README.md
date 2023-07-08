@@ -6,7 +6,7 @@
 ------
 
 *	/falv/　 　	　☸️ [大萌望海楼](falv/fahai)，找法不用愁
-*	/fuwu/yanxiao	　👨‍🎓 [高等院校三千所](fuwu/yuanxiao)，快速看懂中国大学层次
+*	/fuwu/yanxiao	　👨‍🎓 [高等院校三千所](fuwu/yuanxiao)，快速看懂中国大学层级图谱
 *	/fly/waixuan	　🔥 [中央外宣云媒体](fly/waixuan)，文明古国在崛起
 *	/ydyl/nations	　[世界国别速查表](ydyl/nations) 🗺，世界各国的代码与国情速查
 <!-- *	/fuwu/jujia	　[新冠居家指引](fuwu/jujia)文件速查，中医药康复治疗方法😷 -->
@@ -29,6 +29,8 @@
 *	一带一路云媒体 🌞
 *	中国新闻云媒体 ☁
 *	央企股票全家福 🧧
+
+　　服务器[运行状态](https://www.githubstatus.com){:target="_blank"}
 
 
 衍生项目
