@@ -9,7 +9,7 @@
 　　央企是中国经济高质量发展的中坚力量，了解**央企股**就是了解中国经济。大萌用[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)形式收录 国资委监管的(实业类)央企相关网址，做成‘央企股票全家福’网页，争取成为央企网址全集，为股民了解‘央企股’节约时间。
 　‘央企股’具体收录：近百家央企官网、网站群导航、官方微博、新闻出版机构/免费的数字报📰；以及央企旗下大约四百家上市公司的 股票简称、代码与行情页📈、公司全名与官网。网页数据密集，请善用浏览器页内搜索。
 
-　　在上述国资委监管的实业类央企外，还有文化类央企3家（出版/对外/广电）、行政类央企4家（国铁/邮政/烟草/北大荒）、金融类央企26家（工行/中信/人保……），请见**中央企业四大类**段落 和 大萌编纂的 [个人理财金融圈](jinrong) 页面。
+　　在上述国资委监管的实业类央企外，还有文化类央企3家（出版/对外/广电）、行政类央企4家（国铁/邮政/烟草/北大荒）、金融类央企26家（工行/中信/人保……），请见**中央企业四大类**段落 和 大萌编纂的 [个人理财金融圈](https://Laosheng.top/fuwu/jinrong) 页面。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/央企股票全家福
@@ -630,7 +630,7 @@
 [98▲](#98){:target="_top"}{:id="G98"}⠀			<sub>⠀⠀⠀	⠀待定连接	⠀[]()</sub>  
 。*
 
-<div id="D5" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
+<div id="D5" align="right"><a href="#" target="_top">↑ Top</a></div>
 
 中央企业四大类
 --------------
@@ -651,7 +651,7 @@
 　农业部　X4	[北大荒集团](https://www.chinabdh.com){:id="X4"} 	⠀　　	<small>[网站群](https://www.chinabdh.com/GroupIndustry.html)	⠀哈尔滨  	⠀北大荒农垦集团有限公司  	⠀wx：北大荒日报</small>
 
 
-<div id="D6" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
+<div id="D6" align="right"><a href="#" target="_top">↑ Top</a></div>
 
 央企网站群补充
 --------------
