@@ -36,7 +36,7 @@
 
 <h2 id='tupu'>中央企业分类图谱</h2>
 
-　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企（2022年98家），也是数量最多的央企。广义的央企还包括：金融央企、行政央企、文化央企，分类图谱如下：
+　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企，也是数量最多的央企。广义的央企还包括：金融央企、行政央企、文化央企，分类图谱如下：
 
 *	中央文化企业 🌻，3家
 	* [中国出版集团](http://cn.cnpubg.com)有限公司⠀CPG 北京　[网站群⇗](http://cn.cnpubg.com/overview/sites/)，[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)
@@ -49,10 +49,10 @@
 	* [中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群▼](#X3){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
 	* [北大荒农垦集团](https://www.chinabdh.com)有限公司 BDH 哈尔滨　[网站群⇗](https://www.chinabdh.com/GroupIndustry.html)，wx：北大荒日报
 
-*	中央金融企业 🥯，27家，2022年财政部公布名单：工行/中信/人保……
+*	中央金融企业 🥯，27家，2022年**财政部**公布名单：工行/中信/人保……
 	* [个人理财金融圈⇗](jinrong)：财政部金融央企名录、主要商业银行、保险集团、各省证券公司……
 
-*	中央实业企业 🧧，98家，2022年国资委公布名单：中核/电信/中粮……
+*	中央实业企业 🧧，98家，2022年**国资委**公布名单：中核/电信/中粮……
 	* [国资委央企名录▼](#GZ){:target="_top"}
 	* [图例与统计](#tuli){:target="_top"}
 	* 国资委央企发行股票 及 旗下上市公司
@@ -66,7 +66,7 @@
 
 　　部分央企官网没有为集团子公司网站群提供独立页面，本段将这些央企网站群收录如下，方便读者查找。
 
-国务院 / [广电总局](https://www.nrta.gov.cn)：<b>中国广电集团</b>
+<b>中国广电集团</b>，业务有关部门：国务院/[国家广电总局](https://www.nrta.gov.cn)
 
 *	下属公司网站：
 　[中国有线](http://www.cncatv.com)电视网络有限公司
@@ -120,7 +120,7 @@
 
 <div align="right" id="X1"><a href="#tupu" target="_top">↑ Top</a></div>
 
-国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)：<b>中国邮政集团</b>
+<b>中国邮政集团</b>，业务有关部门：国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)
 
 *	控股公司与EMS：
 <a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
@@ -145,7 +145,7 @@
 
 <div align="right" id="X2"><a href="#tupu" target="_top">↑ Top</a></div>
 
-国务院 / [交通运输部](https://www.mot.gov.cn) / [国家铁道局](https://www.nra.gov.cn)：<b>国铁集团</b>
+<b>国家铁路集团</b>，业务有关部门：国务院/[交通运输部](https://www.mot.gov.cn)/[国家铁道局](https://www.nra.gov.cn)
 
 *	国铁所属企业：<small>  
 	* 铁路局集团公司（18个）：
@@ -175,7 +175,7 @@
 
 <div align="right" id="X3"><a href="#tupu" target="_top">↑ Top</a></div>
 
-国务院 / [工业和信息化部](https://www.miit.gov.cn) / [国家烟草专卖局](http://www.tobacco.gov.cn/)：<b>中国烟草集团</b>
+<b>中国烟草集团</b>，业务有关部门：国务院/[工业和信息化部](https://www.miit.gov.cn)/[国家烟草专卖局](http://www.tobacco.gov.cn/)
 
 *	直属机构：
 　[南通醋纤](http://www.ncfcinfo.com)
