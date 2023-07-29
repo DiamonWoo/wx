@@ -39,27 +39,29 @@
 *	2021-01，对外文化整体划转至紫荆文化集团。
 
 
-<h2 id='tupu'>中央企业四大类</h2>
+<h2 id='tupu'>中央企业分类图谱</h2>
 
 　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企（2022年98家），也是数量最多的央企。广义的央企还包括：金融央企、行政央企、文化央企，分类图谱如下：
 
 *	中央文化企业，3家
-	* W1 [中国出版集团](http://cn.cnpubg.com)有限公司⠀CPG 北京　[网站群⇗](http://cn.cnpubg.com/overview/sites/)，[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)
-	* W2 [中国广电集团](http://www.cbn.cn '中国广播电视网络集团')有限公司 BroadNet 北京　[网站群▼](#D6){:target="_top"}
-	* W3 紫荆文化集团[]()有限公司 BCHL 香港　<del>网站群</del> 主要企业：
+	* [中国出版集团](http://cn.cnpubg.com)有限公司⠀CPG 北京　[网站群⇗](http://cn.cnpubg.com/overview/sites/)，[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)
+	* [中国广电集团](http://www.cbn.cn '中国广播电视网络集团')有限公司 BroadNet 北京　[网站群▼](#D6){:target="_top"}
+	* 紫荆文化集团[]()有限公司 BCHL 香港　<del>网站群</del> 主要企业：[对外文化](http://www.caeg.cn)、中国基金报[📰](http://www.chinapostnews.com.cn/)、[凤凰卫视](https://phtv.ifeng.com)
 
 *	中央行政企业，4家
-	* X1 [中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京　[网站群⇗](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)，中国邮政报[📰](http://www.chinapostnews.com.cn/)
-	* X2 中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京　[网站群▼](#D6){:target="_top"}，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)，[媒体矩阵](http://www.china-railway.com.cn/wnfw/jzlm/)；[国铁客运12306](https://www.12306.cn)、[国铁货运95306](http://www.95306.cn "招商、采购")
-	* X3 [中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群▼](#D6){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
-	* X4 [北大荒农垦集团](https://www.chinabdh.com)有限公司 BDH 哈尔滨　[网站群⇗](https://www.chinabdh.com/GroupIndustry.html)，wx：北大荒日报
+	* [中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京　[网站群▼](#X1){:target="_top"}，[三大业务](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)，中国邮政报[📰](http://www.chinapostnews.com.cn/)
+	* 中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京　[网站群▼](#D6){:target="_top"}，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)，[媒体矩阵](http://www.china-railway.com.cn/wnfw/jzlm/)；[国铁客运12306](https://www.12306.cn)、[国铁货运95306](http://www.95306.cn "招商、采购")
+	* [中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群▼](#X3){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
+	* [北大荒农垦集团](https://www.chinabdh.com)有限公司 BDH 哈尔滨　[网站群⇗](https://www.chinabdh.com/GroupIndustry.html)，wx：北大荒日报
 
 *	[中央金融企业⇗](jinrong '个人理财金融圈')，27家，2022年财政部公布名单：工行/中信/人保……
 
-*	[中央实业企业▼](#GZ){:target="_top"}，98家，2022年国资委公布名单：中核/电信/中粮……
+*	中央实业企业，98家，2022年国资委公布名单：中核/电信/中粮……
+	* [国资委央企名录▼](#GZ){:target="_top"}
+	* [图例与统计](#D3){:target="_top"}
+	* 国资委央企发行股票 及 旗下上市公司
 
-
-<div id="D6" align="right"><a href="#" target="_top">↑ Top</a></div>
+<div id="D6" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
 
 央企网站群补充
 -------------
@@ -68,7 +70,7 @@
 
 国务院 / [广电总局](https://www.nrta.gov.cn)：<b>中国广电集团</b>
 
-　　下属公司网站：
+*	下属公司网站：
 　[中国有线](http://www.cncatv.com)电视网络有限公司
 　中广传播[](http://www.cbc.cn)集团有限公司
 　[中广电传媒](http://www.cbn-cbm.com)有限公司  
@@ -85,7 +87,7 @@
 　[中广联合会](http://www.carft.cn)
 　[中广国际总公司](http://www.crtv.com.cn)
 
-　　各省网公司网站：
+*	各省网公司网站：
 　[北京广电](http://www.bgctv.com.cn)
 　[天津广电](https://www.tjbtn.net)
 　[河北广电](http://www.hbgdwl.com)
@@ -118,18 +120,18 @@
 　[宁夏广电](http://www.nx96200.cn)
 　[新疆广电](http://www.xjgdj.gov.cn)
 
-<div align="right"><a href="#X1" target="_top">↑ Top</a></div>
+<div align="right" id="X1"><a href="#tupu" target="_top">↑ Top</a></div>
 
 国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)：<b>中国邮政集团</b>
 
-　　控股公司与EMS：
+*	控股公司与EMS：
 <a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
 <a href="https://www.chinapost-life.com">中邮人寿保险</a>、
 <a href="http://www.cnpsec.com.cn/">中邮证券</a>、
 <a href="http://cpcm.chinapost.com.cn/">中邮资本管理</a>、
 <a href="http://www.ems.com.cn/">寄递事业部</a>
 
-　　直属单位与工会：<small>
+*	直属单位与工会：<small>
 <a href="http://www.cptu.org.cn/">中国邮政集团工会</a>、
 <a href="http://cpi.chinapost.com.cn/">中国集邮总公司</a>、
 <a href="http://cpri.chinapost.com.cn/">邮政科学研究规划院</a>、
@@ -143,23 +145,23 @@
 <a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
 </small>
 
-<div align="right"><a href="#X2" target="_top">↑ Top</a></div>
+<div align="right" id="X2"><a href="#tupu" target="_top">↑ Top</a></div>
 
 国务院 / [交通运输部](https://www.mot.gov.cn) / [国家铁道局](https://www.nra.gov.cn)：<b>国铁集团</b>
 
-　　国铁所属企业：<small>  
-　　铁路局集团公司（18个）：
+*	国铁所属企业：<small>  
+	* 铁路局集团公司（18个）：
 哈尔滨局、沈阳局、北京局、太原局、呼和浩特局、
 郑州局、武汉局、西安局、济南局、上海局、南昌局、
 [国铁广州局](http://www.gzrailway.com.cn "中国铁路广州局集团有限公司")、
 [国铁南宁局](http://www.nntlj.com "中国铁路南宁局集团有限公司")、
 成都局、昆明局、兰州局、乌鲁木齐局、青藏  
-　　川藏铁路有限公司  
-　　专业运输公司（3个）：
+	* 川藏铁路有限公司  
+	* 专业运输公司（3个）：
 [中铁集装箱](http://www.crct.com "中铁集装箱运输有限责任公司")
 [中铁特货](http://www.crscsc.com.cn "中铁特货运输有限责任公司")、
 [中铁快运95572](http://www.95572.com "中铁快运股份有限公司")  
-　　非运输企业（11个）：
+	* 非运输企业（11个）：
 中国铁路投资有限公司、
 [铁道科学研究院](http://www.rails.cn "中国铁道科学研究院集团有限公司")、
 [铁路经济规划研究院](http://www.crecc.com.cn "中国铁路经济规划研究院有限公司")、
@@ -168,22 +170,22 @@
 [铁道出版社](http://www.tdpress.com "中国铁道出版社有限公司")、
 《人民铁道》报业有限公司、
 中国铁路专运中心、中国铁路文工团有限公司。</small>  
-　　所属事业单位（3个）：<small>
+	* 所属事业单位（3个）：<small>
 铁道党校、
 中国铁道博物馆、
 铁道战备舟桥处。</small>
 
-<div align="right"><a href="#X3" target="_top">↑ Top</a></div>
+<div align="right" id="X3"><a href="#tupu" target="_top">↑ Top</a></div>
 
 国务院 / [工业和信息化部](https://www.miit.gov.cn) / [国家烟草专卖局](http://www.tobacco.gov.cn/)：<b>中国烟草集团</b>
 
-　　直属机构：
+*	直属机构：
 　[南通醋纤](http://www.ncfcinfo.com)
 　[昆明醋纤](http://www.ynkcfc.com)
 　[珠海醋纤](https://www.zcfc.com)
 　[郑州烟草研究院](https://www.ztri.com.cn)？
 　[职工进修学院](https://www.ctt.cn)  
-　　工业企业：
+*	工业企业：
 　[河北中烟工业](http://hegy.tobacco.com.cn)
 　[江苏中烟工业](http://jsgy.tobacco.com.cn)
 　[浙江中烟工业](http://zjgy.tobacco.com.cn)
@@ -202,7 +204,7 @@
 　[云南中烟工业](http://yngy.tobacco.com.cn)
 　[陕西中烟工业](https://sxgy.tobacco.com.cn)
 
-　　省级单位：
+*	省级单位：
 　[北京中烟](http://bj.tobacco.gov.cn)
 　[天津中烟](http://tj.tobacco.gov.cn)
 　[河北中烟](http://he.tobacco.gov.cn)
@@ -376,7 +378,7 @@
 
 <div id="GP" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
 
-央企上市公司名单
+国资委央企发行股票
 ----------------
 已收录436支股票，202302
 
