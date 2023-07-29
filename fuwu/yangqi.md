@@ -36,34 +36,35 @@
 *	2023-03-27，二十届中央第一轮巡视将对中国电科/中国移动等[30家中管企业](https://www.ccdi.gov.cn/toutiaon/202303/t20230327_255227.html)(标记🚩)党组开展常规巡视。
 *	2022-12-31，中国南水北调集团有限公司(48) 列入国资委履行出资人职责企业名单（直接监管）。
 *	2022-12-21，[中钢集团](http://www.sinosteel.com)整体划入⠀中国宝武(35)，不再由国资委直接监管。
+*	2021-01，对外文化整体划转至紫荆文化集团。
 
 
-<div id="tupu" align="right"><a href="#" target="_top">↑ Top</a></div>
+<h2 id='tupu'>中央企业四大类</h2>
 
-中央企业四大类
--------------
+　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企（2022年98家），也是数量最多的央企。广义的央企还包括：金融央企、行政央企、文化央企，分类图谱如下：
 
-　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企（2022年98家），也是数量最多的央企。广义的央企还包括：金融央企、行政央企、文化央企，如下：
+*	中央文化企业，3家
+	* W1 [中国出版集团](http://cn.cnpubg.com)有限公司⠀CPG 北京　[网站群⇗](http://cn.cnpubg.com/overview/sites/)，[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)
+	* W2 [中国广电集团](http://www.cbn.cn '中国广播电视网络集团')有限公司 BroadNet 北京　[网站群▼](#D6){:target="_top"}
+	* W3 紫荆文化集团[]()有限公司 BCHL 香港　<del>网站群</del> 主要企业：
 
-* 文化央企3家：中国出版/对外文化/中国广电。
-* 行政央企4家：中国铁路/中国邮政；中国烟草；北大荒。
-* 金融央企27家，2022年财政部公布名单：工行/中信/人保……
-* 实业央企98家，2022年国资委公布名单：中核/电信/中粮……
+*	中央行政企业，4家
+	* X1 [中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京　[网站群⇗](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)，中国邮政报[📰](http://www.chinapostnews.com.cn/)
+	* X2 中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京　[网站群▼](#D6){:target="_top"}，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)，[媒体矩阵](http://www.china-railway.com.cn/wnfw/jzlm/)；[国铁客运12306](https://www.12306.cn)、[国铁货运95306](http://www.95306.cn "招商、采购")
+	* X3 [中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群▼](#D6){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
+	* X4 [北大荒农垦集团](https://www.chinabdh.com)有限公司 BDH 哈尔滨　[网站群⇗](https://www.chinabdh.com/GroupIndustry.html)，wx：北大荒日报
 
-　文旅部　W1	[中国出版](http://cn.cnpubg.com){:id="W1"} 	⠀CPG	<small>[网站群](http://cn.cnpubg.com/overview/sites/)	⠀北京  	⠀中国出版集团有限公司 	⠀[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)</small>  
-　文旅部　W2	[中外文化](http://www.caeg.cn){:id="W2"} 	⠀CAEG	<small>[网站群](http://www.caeg.cn/whjtgs/ppxm/events.shtml)	⠀北京  	⠀中国对外文化集团有限公司 	⠀2021年1月整体划转至紫荆文化集团</small>  
-广电总局　W3	[中国广电](http://www.cbn.cn){:id="W3"} 	⠀BroadNet	- - - <small>	⠀北京  	⠀中国广播电视网络集团有限公司 	⠀网站群见[下方▼](#D6){:target="_top"}</small>  
-　交通部　X1	[国铁集团](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	- - - <small>	⠀北京  	⠀中国国家铁路集团有限公司 	⠀网站群见[下方▼](#D6){:target="_top"}；《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)，[媒体矩阵](http://www.china-railway.com.cn/wnfw/jzlm/)；[国铁客运12306](https://www.12306.cn)、[国铁货运95306](http://www.95306.cn "招商、采购")</small>  
-　交通部　X2	[中国邮政](http://www.chinapost.com.cn){:id="X2"} 	⠀POST	<small>[网站群](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)	⠀北京  	⠀中国邮政集团有限公司 	⠀中国邮政报[📰](http://www.chinapostnews.com.cn/)</small>  
-　工信部　X3	[中国烟草](http://www.tobacco.gov.cn){:id="X3"} 	⠀TOBACCO	- - - <small>	⠀北京  	⠀中国烟草总公司 	⠀网站群见[下方▼](#D6){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)</small>  
-　农业部　X4	[北大荒集团](https://www.chinabdh.com){:id="X4"} 	⠀　　	<small>[网站群](https://www.chinabdh.com/GroupIndustry.html)	⠀哈尔滨  	⠀北大荒农垦集团有限公司  	⠀wx：北大荒日报</small>
+*	[中央金融企业⇗](jinrong '个人理财金融圈')，27家，2022年财政部公布名单：工行/中信/人保……
+
+*	[中央实业企业▼](#GZ){:target="_top"}，98家，2022年国资委公布名单：中核/电信/中粮……
 
 
 <div id="D6" align="right"><a href="#" target="_top">↑ Top</a></div>
 
 央企网站群补充
---------------
-　　有少数央企（广电、国铁等）官网没有为集团子公司网站群提供独立页面，本段将这些央企网站群收录如下，方便读者查找。
+-------------
+
+　　部分央企官网没有为集团子公司网站群提供独立页面，本段将这些央企网站群收录如下，方便读者查找。
 
 国务院 / [广电总局](https://www.nrta.gov.cn)：<b>中国广电集团</b>
 
@@ -117,6 +118,33 @@
 　[宁夏广电](http://www.nx96200.cn)
 　[新疆广电](http://www.xjgdj.gov.cn)
 
+<div align="right"><a href="#X1" target="_top">↑ Top</a></div>
+
+国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)：<b>中国邮政集团</b>
+
+　　控股公司与EMS：
+<a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
+<a href="https://www.chinapost-life.com">中邮人寿保险</a>、
+<a href="http://www.cnpsec.com.cn/">中邮证券</a>、
+<a href="http://cpcm.chinapost.com.cn/">中邮资本管理</a>、
+<a href="http://www.ems.com.cn/">寄递事业部</a>
+
+　　直属单位与工会：<small>
+<a href="http://www.cptu.org.cn/">中国邮政集团工会</a>、
+<a href="http://cpi.chinapost.com.cn/">中国集邮总公司</a>、
+<a href="http://cpri.chinapost.com.cn/">邮政科学研究规划院</a>、
+<a href="http://www.chnppmuseum.com/">中国邮政文史中心</a>、
+<a href="http://www.chinapostnews.com.cn/newspaper/"></a>新闻宣传中心、
+<a href="http://stampprint.chinapost.com.cn">邮票印制局</a>、
+<a href="http://www.sjzpc.edu.cn/">石家庄邮电职业技术学院</a>、
+<a href="http://cped.chinapost.com.cn">中邮电子商务有限公司</a>、
+<a href="http://cpac.chinapost.com.cn/">中国邮政广告传媒公司</a>、
+<a href="http://soft.chinapost.com.cn/">中邮信息科技（北京）有限公司</a>、
+<a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
+</small>
+
+<div align="right"><a href="#X2" target="_top">↑ Top</a></div>
+
 国务院 / [交通运输部](https://www.mot.gov.cn) / [国家铁道局](https://www.nra.gov.cn)：<b>国铁集团</b>
 
 　　国铁所属企业：<small>  
@@ -145,30 +173,7 @@
 中国铁道博物馆、
 铁道战备舟桥处。</small>
 
-<div align="right"><a href="#D5" target="_top">↑ Top</a></div>
-
-国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)：<b>中国邮政集团</b>
-
-　　控股公司与EMS：
-<a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
-<a href="https://www.chinapost-life.com">中邮人寿保险</a>、
-<a href="http://www.cnpsec.com.cn/">中邮证券</a>、
-<a href="http://cpcm.chinapost.com.cn/">中邮资本管理</a>、
-<a href="http://www.ems.com.cn/">寄递事业部</a>
-
-　　直属单位与工会：<small>
-<a href="http://www.cptu.org.cn/">中国邮政集团工会</a>、
-<a href="http://cpi.chinapost.com.cn/">中国集邮总公司</a>、
-<a href="http://cpri.chinapost.com.cn/">邮政科学研究规划院</a>、
-<a href="http://www.chnppmuseum.com/">中国邮政文史中心</a>、
-<a href="http://www.chinapostnews.com.cn/newspaper/"></a>新闻宣传中心、
-<a href="http://stampprint.chinapost.com.cn">邮票印制局</a>、
-<a href="http://www.sjzpc.edu.cn/">石家庄邮电职业技术学院</a>、
-<a href="http://cped.chinapost.com.cn">中邮电子商务有限公司</a>、
-<a href="http://cpac.chinapost.com.cn/">中国邮政广告传媒公司</a>、
-<a href="http://soft.chinapost.com.cn/">中邮信息科技（北京）有限公司</a>、
-<a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
-</small>
+<div align="right"><a href="#X3" target="_top">↑ Top</a></div>
 
 国务院 / [工业和信息化部](https://www.miit.gov.cn) / [国家烟草专卖局](http://www.tobacco.gov.cn/)：<b>中国烟草集团</b>
 
