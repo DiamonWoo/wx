@@ -157,7 +157,7 @@
 成都局、昆明局、兰州局、乌鲁木齐局、青藏  
 	* 川藏铁路有限公司  
 	* 专业运输公司（3个）：
-[中铁集装箱](http://www.crct.com "中铁集装箱运输有限责任公司")
+[中铁集装箱](http://www.crct.com "中铁集装箱运输有限责任公司")、
 [中铁特货](http://www.crscsc.com.cn "中铁特货运输有限责任公司")、
 [中铁快运95572](http://www.95572.com "中铁快运股份有限公司")  
 	* 非运输企业（11个）：
@@ -323,10 +323,10 @@
 72⠀🚉	[中国中铁](http://www.crecg.com){:id="72"} 	⠀CREC <small>[网站群](http://www.crecg.com/web/10089489/10089662/10089668/index.html)	⠀北京  	⠀[<b>3</b>家上市▼](#G72){:target="_top"}	⠀中国铁路工程集团有限公司 	⠀[wb](https://weibo.com/n/中国中铁)	</small>  
 73⠀⛑️	[中国铁建](http://www.crcc.cn){:id="73"} 	⠀CRCC <small>[网站群](http://www.crcc.cn/col/col541/)	⠀北京  	⠀[<b>2</b>家上市▽](#G73){:target="_top"}	⠀中国铁道建筑集团有限公司 	⠀[wb](https://weibo.com/n/中国铁建)	⠀《中国铁道建筑报》[📰](http://paper.crcc.cn/)</small>  
 74⠀🛣️	[中交集团](http://www.ccccltd.cn){:id="74"} 	⠀CCCC <small>[网站群](http://www.ccccltd.cn/aboutus/zzjg/zgs/)	⠀北京  	⠀[<b>3</b>家上市▼](#G74){:target="_top"}	⠀中国交通建设集团有限公司 	⠀[wb](https://weibo.com/n/中国交建)	⠀《[交通建设报](http://www.cccnews.cn/dzbz/jtjsb/page_1/)📰》，多语言</small>  
-75⠀✡	[中国信科](http://www.cict.com){:id="75"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>7</b>家上市▽](#G75){:target="_top"}	⠀中国信息通信科技集团有限公司 	⠀[wb](https://weibo.com/n/信科视界)	</small>  
-76⠀🌾	[中国农发集团](http://www.cnadc.com.cn){:id="76"} 	⠀　　 - - - <small>	⠀武汉市  	⠀[<b>3</b>家上市▼](#G76){:target="_top"}	⠀中国农业发展集团有限公司 	⠀- -	</small>  
-77⠀🌲	[中林集团](http://www.cfgc.cn){:id="77"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>0</b>家上市▽](#G77){:target="_top"}	⠀中国林业集团有限公司 	⠀[wb](https://weibo.com/n/中林集团)	</small>  
-78⠀💊	[国药集团](http://www.sinopharm.com){:id="78"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>6</b>家上市▼](#G78){:target="_top"}	⠀中国医药集团有限公司 	⠀- -	</small>  
+75⠀✡	[中国信科](http://www.cict.com){:id="75"} 	⠀CICT - - - <small>	⠀北京  	⠀[<b>7</b>家上市▽](#G75){:target="_top"}	⠀中国信息通信科技集团有限公司 	⠀[wb](https://weibo.com/n/信科视界)	⠀大萌202307：网站空白，微博无更。[中信科移动](https://www.cictmobile.com)</small>  
+76⠀🌾	[中国农发集团](http://www.cnadc.com.cn){:id="76"} 	⠀CNADC <small>[网站群](http://www.cnadc.com.cn/jtwzq/index.jhtml)	⠀武汉市  	⠀[<b>3</b>家上市▼](#G76){:target="_top"}	⠀中国农业发展集团有限公司 	⠀- -	</small>  
+77⠀🌲	[中林集团](http://www.cfgc.cn){:id="77"} 	⠀CFGC - - - <small>	⠀北京  	⠀[<b>0</b>家上市▽](#G77){:target="_top"}	⠀中国林业集团有限公司 	⠀[wb](https://weibo.com/n/中林集团)	⠀页底找[网站群](https://www.cfgc.cn/g4413.aspx)</small>  
+78⠀💊	[国药集团](http://www.sinopharm.com){:id="78"} 	⠀SinoPharm <small>[网站群](http://www.sinopharm.com/structure.html)	⠀北京  	⠀[<b>6</b>家上市▼](#G78){:target="_top"}	⠀中国医药集团有限公司 	⠀- -	⠀非遗与[国药老字号](http://www.sinopharm.com/ichproducts.html)</small>  
 79⠀　	[保利集团](https://www.poly.com.cn){:id="79"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>7</b>家上市▽](#G79){:target="_top"}	⠀中国保利集团有限公司 	⠀- -	⠀👥原属军委总参，官网非全天候开放</small>  
 80⠀🏗	[中国建科](http://www.cadreg.com.cn){:id="80"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>0</b>家上市▼](#G80){:target="_top"}	⠀中国建设科技有限公司 	⠀- -	</small>  
 81⠀🏭	[冶金地质总局](http://www.cmgb.com.cn){:id="81"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>1</b>家上市▽](#G81){:target="_top"}	⠀中国冶金地质总局 	⠀- -	</small>  
@@ -340,7 +340,7 @@
 89⠀⛑️	[中国安能](https://www.china-an.cn){:id="89"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>0</b>家上市▽](#G89){:target="_top"}	⠀中国安能建设集团有限公司 	⠀- -	</small>  
 90⠀💰	[中国黄金](http://www.chinagoldgroup.com){:id="90"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>1</b>家上市▼](#G90){:target="_top"}	⠀中国黄金集团有限公司 	⠀[wb](https://weibo.com/n/中国黄金ChinaGold)	</small>  
 91⠀☢️	[中广核](http://www.cgnpc.com.cn){:id="91"} 	⠀　　 - - - <small>	⠀深圳市  	⠀[<b>3</b>家上市▽](#G91){:target="_top"}	⠀中国广核集团有限公司 	⠀[wb](https://weibo.com/n/中国广核集团)	</small>  
-92⠀📼	[华录集团](http://www.hualu.com.cn){:id="92"} 	⠀　　 - - - <small>	⠀大连市  	⠀[<b>1</b>家上市▼](#G92){:target="_top"}	⠀中国华录集团有限公司 	⠀- -	</small>  
+92⠀📼	[华录集团](http://www.hualu.com.cn){:id="92"} 	⠀HuaLu - - - <small>	⠀大连市  	⠀[<b>1</b>家上市▼](#G92){:target="_top"}	⠀中国华录集团有限公司 	⠀- -	⠀首页底部找‘华录群站’，[出版传媒](https://www.hualupm.com.cn)有限公司</small>  
 93⠀🎠	[华侨城集团](https://www.chinaOCT.com){:id="93"} 	⠀OCT <small>[网站群](https://www.chinaOCT.com/hqc/gyhqc/hqczzg/)	⠀深圳市  	⠀[<b>4</b>家上市▽](#G93){:target="_top"}	⠀华侨城集团有限公司 	⠀[wb](https://weibo.com/n/OCT华侨城)	⠀[上市公司名单](https://www.chinaoct.com/hqc/gyhqc/tzzzq/)</small>  
 94⠀🛢️	[南光集团](http://www.namkwong.com.mo){:id="94"} 	⠀Nam Kwong <small>[网站群](http://www.namkwong.com.mo/col/col1887/)	⠀中国澳门  	⠀[<b>0</b>家上市▼](#G94){:target="_top"}	⠀南光(集团)有限公司／中国南光集团有限公司 	⠀- -	</small>  
 95⠀✡	[中国电气装备](http://www.cee-group.cn){:id="95"} 	⠀CEE - - - <small>	⠀上海市  	⠀[<b>4</b>家上市▽](#G95){:target="_top"}	⠀中国电气装备集团有限公司 	⠀- -	⠀[行业期刊](http://www.cee-group.cn/fwpt/xyqk1.htm)：《[电瓷避雷器](http://www.dcblq.com)》等，网站建设中…</small>  
