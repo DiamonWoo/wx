@@ -21,7 +21,7 @@
 		设计 LC ≈ 1264　= 98×4 + 436×2　（4为预期值）
 		 完成率 ≈ 　87.7%
 
-+	202307：补充文化类与行政类央企7家与网站群。v0.4.7~v0.4.9
++	202307：补充文化类与行政类央企7家与网站群。v0.4.7~v0.5.0
 +	202304：收录国资委主管央企98家，尚有一半网站群待收录；收录央企上市公司400余支股票，名称与网址均接近完成。v0.2.0~v0.4.6
 
 
@@ -41,14 +41,21 @@
 
 *	中央文化企业 🌻，3家
 	* [中国出版集团](http://cn.cnpubg.com)有限公司⠀CPG 北京　[网站群⇗](http://cn.cnpubg.com/overview/sites/)，[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)
-	* [中国广电集团](http://www.cbn.cn '中国广播电视网络集团')有限公司 BroadNet 北京　[网站群▼](#W2){:target="_top"}
-	* 紫荆文化集团[]()有限公司 BCHL 香港　[网站群▽](#W3){:target="_top"} 主要企业：[对外文化](http://www.caeg.cn)、中国基金报[📰](http://www.chinapostnews.com.cn/)、[凤凰卫视](https://phtv.ifeng.com)
+	　有关部门：国务院/[文化旅游部](https://www.mct.gov.cn)
+	* [中国广电集团](http://www.cbn.cn '中国广播电视网络集团')有限公司 BroadNet 北京　[网站群▼](#W2){:target="_top"}，中国电视报[📰](https://zgdsb.cctv.com/paper/)
+	　有关部门：国务院/[国家广电总局](https://www.nrta.gov.cn)
+	* 紫荆文化集团[]()有限公司 BCHL 香港　[网站群▽](#W3){:target="_top"}，《[紫荆](https://bau.com.hk)》杂志、[wb](https://weibo.com/u/6457605594)
+	　有关部门：中共中央/宣传部[]()
 
 *	中央行政企业 👔，4家
-	* [中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京　[网站群▼](#X1){:target="_top"}，[三大业务](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)，中国邮政报[📰](http://www.chinapostnews.com.cn/)
-	* 中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京　[网站群▽](#X2){:target="_top"}，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)，[媒体矩阵](http://www.china-railway.com.cn/wnfw/jzlm/)；[国铁客运12306](https://www.12306.cn)、[国铁货运95306](http://www.95306.cn "招商、采购")
+	* [中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京　[网站群▼](#X1){:target="_top"}，中国邮政报[📰](http://www.chinapostnews.com.cn/)[三大业务](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)
+	　有关部门：国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)
+	* 中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京　[网站群▽](#X2){:target="_top"}，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)，[媒体矩阵](http://www.china-railway.com.cn/wnfw/jzlm/)
+	　有关部门：国务院/[交通运输部](https://www.mot.gov.cn)/[国家铁道局](https://www.nra.gov.cn)
 	* [中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群▼](#X3){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
+	　有关部门：国务院/[工业和信息化部](https://www.miit.gov.cn)/[国家烟草专卖局](http://www.tobacco.gov.cn/)
 	* [北大荒农垦集团](https://www.chinabdh.com)有限公司 BDH 哈尔滨　[网站群⇗](https://www.chinabdh.com/GroupIndustry.html)，wx：北大荒日报
+	　有关部门：国务院/[农业农村部](http://www.moa.gov.cn)
 
 *	中央金融企业 🥯，27家，2022年**财政部**公布名单：工行/中信/人保……
 	* [个人理财金融圈⇗](https://Laosheng.top/fuwu/jinrong)：财政部金融央企名录、主要商业银行、保险集团、各省证券公司……
@@ -66,15 +73,14 @@
 
 　　部分央企官网没有为集团子公司网站群提供独立页面，本段将这些央企网站群收录如下，方便读者查找。
 
-<div id="W2" >
-🌻 <b>中国广电集团</b>，业务有关部门：国务院/[国家广电总局](https://www.nrta.gov.cn)
-　　<a href="#tupu" target="_top">▲</a></div>
+<div id="W2"><a href="#tupu" target="_top">▲</a>　
+🌻 <b>中国广电集团</b></div>
 
-*	下属公司网站：
+*	下属公司：
 　[中国有线](http://www.cncatv.com)电视网络有限公司
 　中广传播[](http://www.cbc.cn)集团有限公司
 　[中广电传媒](http://www.cbn-cbm.com)有限公司  
-　　总局直属机构网站：
+*	总局直属机构：
 　[广播电视卫星直播管理中心](http://www.huhutv.com.cn)
 　[广播科学研究院](http://www.abs.ac.cn)
 　[广播电视规划院](http://www.abp2003.cn)
@@ -86,8 +92,7 @@
 　中国广播影视出版社[](http://www.crtp.com.cn)
 　[中广联合会](http://www.carft.cn)
 　[中广国际总公司](http://www.crtv.com.cn)
-
-*	各省网公司网站：
+*	各省网公司：
 　[北京广电](http://www.bgctv.com.cn)
 　[天津广电](https://www.tjbtn.net)
 　[河北广电](http://www.hbgdwl.com)
@@ -120,18 +125,19 @@
 　[宁夏广电](http://www.nx96200.cn)
 　[新疆广电](http://www.xjgdj.gov.cn)
 
+<div id="W3"><a href="#tupu" target="_top">△</a>　
+🌻 <b>紫荆文化集团</b></div>
 
-<div id="W3">
-🌻 <b>紫荆文化集团</b>，业务有关部门：国务院/[文化和旅游部](https://www.mct.gov.cn/)
-　　<a href="#tupu" target="_top">△</a></div>
+*	下属或控股企业：
+	* 中国[对外文化集团](http://www.caeg.cn)有限公司：[活动品牌](http://www.caeg.cn/whjtgs/ppxm/events.shtml)
+	* 中国基金报社/[📰](http://www.chinapostnews.com.cn/)
+	* [联合出版](https://www.sup.com.hk)（集团）有限公司，旗下香港三联书店、香港中华书局、香港商务印书馆等多家知名出版机构服务香港已逾百年。
+	* 香港[银都机构](http://www.sil-metropole.com)有限公司，著名电影：1982年《少林寺》、1992年《秋菊打官司》、2005年《头文字D》、《窃听风云》1/2/3、2013年《一代宗师》
+	* 香港联艺机构有限公司，从事内地与香港文化交流的文化机构
+	* [凤凰卫视](https://phtv.ifeng.com)投资（控股）有限公司（占股份21％）
 
-
-
-
-
-<div id="X1">
-👔 <b>中国邮政集团</b>，业务有关部门：国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)
-　　<a href="#tupu" target="_top">▲</a></div>
+<div id="X1"><a href="#tupu" target="_top">▲</a>　　
+👔 <b>中国邮政集团</b></div>
 
 *	控股公司与EMS：
 <a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
@@ -154,9 +160,10 @@
 <a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
 </small>
 
-<div id="X2">
-👔 <b>国家铁路集团</b>，业务有关部门：国务院/[交通运输部](https://www.mot.gov.cn)/[国家铁道局](https://www.nra.gov.cn)
-　　<a href="#tupu" target="_top">△</a></div>
+<div id="X2">　<a href="#tupu" target="_top">△</a>
+👔 <b>国家铁路集团</b></div>
+
+[国铁客运12306](https://www.12306.cn)、[国铁货运95306](http://www.95306.cn "招商、采购")
 
 *	国铁所属企业：<small>
 	* 铁路局集团公司（18个）：
@@ -185,9 +192,8 @@
 中国铁道博物馆、
 铁道战备舟桥处。</small>
 
-<div id="X3">
-👔 <b>中国烟草集团</b>，业务有关部门：国务院/[工业和信息化部](https://www.miit.gov.cn)/[国家烟草专卖局](http://www.tobacco.gov.cn/)
-　　<a href="#tupu" target="_top">▲</a></div>
+<div id="X3"><a href="#tupu" target="_top">▲</a>　
+👔 <b>中国烟草集团</b></div>
 
 *	直属机构：
 　[南通醋纤](http://www.ncfcinfo.com)
