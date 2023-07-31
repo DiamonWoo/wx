@@ -32,7 +32,7 @@
 *	2023-03-27，二十届中央第一轮巡视将对中国电科/中国移动等[30家中管企业](https://www.ccdi.gov.cn/toutiaon/202303/t20230327_255227.html)(标记🚩)党组开展常规巡视。
 *	2022-12-31，中国南水北调集团有限公司(48) 列入国资委履行出资人职责企业名单（直接监管）。
 *	2022-12-21，[中钢集团](http://www.sinosteel.com)整体划入⠀中国宝武(35)，不再由国资委直接监管。
-*	2021-01，对外文化整体划转至紫荆文化集团。
+*	2021-01-　，对外文化集团整体划转至紫荆文化集团。
 
 
 <h2 id='tupu'>中央企业分类图谱 🧧</h2>
@@ -71,7 +71,7 @@
 部分央企网站群
 -------------
 
-　　部分央企官网没有为集团子公司网站群提供独立页面，本段将这些央企网站群收录如下，方便读者查找。初始网址来自官方，有个别失效。
+　　部分央企官网没有为子公司网站群提供独立页面，本段将这些网站群收录如下，方便读者查找。初始网址来自官方，有个别失效。
 
 <div id="W2"><a href="#tupu" target="_top">▲</a>　
 🌻 <b>中国广电集团</b></div>
@@ -139,55 +139,53 @@
 👔 <b>中国邮政集团</b></div>
 
 *	控股公司与EMS：
-<a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
-<a href="https://www.chinapost-life.com">中邮人寿保险</a>、
-<a href="http://www.cnpsec.com.cn/">中邮证券</a>、
-<a href="http://cpcm.chinapost.com.cn/">中邮资本管理</a>、
-<a href="http://www.ems.com.cn/">寄递事业部</a>
+	<a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
+	<a href="https://www.chinapost-life.com">中邮人寿保险</a>、
+	<a href="http://www.cnpsec.com.cn/">中邮证券</a>、
+	<a href="http://cpcm.chinapost.com.cn/">中邮资本管理</a>、
+	<a href="http://www.ems.com.cn/">寄递事业部</a>
 *	直属单位与工会：<small>
-<a href="http://www.cptu.org.cn/">中国邮政集团工会</a>、
-<a href="http://cpi.chinapost.com.cn/">中国集邮总公司</a>、
-<a href="http://cpri.chinapost.com.cn/">邮政科学研究规划院</a>、
-<a href="http://www.chnppmuseum.com/">中国邮政文史中心</a>、
-<a href="http://www.chinapostnews.com.cn/newspaper/"></a>新闻宣传中心、
-<a href="http://stampprint.chinapost.com.cn">邮票印制局</a>、
-<a href="http://www.sjzpc.edu.cn/">石家庄邮电职业技术学院</a>、
-<a href="http://cped.chinapost.com.cn">中邮电子商务有限公司</a>、
-<a href="http://cpac.chinapost.com.cn/">中国邮政广告传媒公司</a>、
-<a href="http://soft.chinapost.com.cn/">中邮信息科技（北京）有限公司</a>、
-<a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
+	<a href="http://www.cptu.org.cn/">中国邮政集团工会</a>、
+	<a href="http://cpi.chinapost.com.cn/">中国集邮总公司</a>、
+	<a href="http://cpri.chinapost.com.cn/">邮政科学研究规划院</a>、
+	<a href="http://www.chnppmuseum.com/">中国邮政文史中心</a>、
+	<a href="http://www.chinapostnews.com.cn/newspaper/"></a>新闻宣传中心、
+	<a href="http://stampprint.chinapost.com.cn">邮票印制局</a>、
+	<a href="http://www.sjzpc.edu.cn/">石家庄邮电职业技术学院</a>、
+	<a href="http://cped.chinapost.com.cn">中邮电子商务有限公司</a>、
+	<a href="http://cpac.chinapost.com.cn/">中国邮政广告传媒公司</a>、
+	<a href="http://soft.chinapost.com.cn/">中邮信息科技（北京）有限公司</a>、
+	<a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
 </small>
 
-<div id="X2">　<a href="#tupu" target="_top">△</a>　
-👔 <b>国家铁路集团</b>　[国铁客运12306](https://www.12306.cn)、[国铁货运95306](http://www.95306.cn "招商、采购")、
-[媒体矩阵](http://www.china-railway.com.cn/wnfw/jzlm/)</div>
+<div id="X2"><a href="#tupu" target="_top">△</a>　
+👔 <b>国家铁路集团</b></div>
 
+*	[国铁客运12306](https://www.12306.cn)、　[国铁货运95306](http://www.95306.cn)、　[媒体矩阵](http://www.china-railway.com.cn/wnfw/jzlm/)
 *	国铁所属企业：<small>
 	* 铁路局集团公司（18个）：
-哈尔滨局、沈阳局、北京局、太原局、呼和浩特局、
-郑州局、武汉局、西安局、济南局、上海局、南昌局、
-[国铁广州局](http://www.gzrailway.com.cn "中国铁路广州局集团有限公司")、
-[国铁南宁局](http://www.nntlj.com "中国铁路南宁局集团有限公司")、
-成都局、昆明局、兰州局、乌鲁木齐局、青藏  
+	哈尔滨局、沈阳局、北京局、太原局、呼和浩特局、
+	郑州局、武汉局、西安局、济南局、上海局、南昌局、
+	[国铁广州局](http://www.gzrailway.com.cn "中国铁路广州局集团有限公司")、
+	[国铁南宁局](http://www.nntlj.com "中国铁路南宁局集团有限公司")、
+	成都局、昆明局、兰州局、乌鲁木齐局、青藏  
 	* 川藏铁路有限公司  
 	* 专业运输公司（3个）：
-[中铁集装箱](http://www.crct.com "中铁集装箱运输有限责任公司")、
-[中铁特货](http://www.crscsc.com.cn "中铁特货运输有限责任公司")、
-[中铁快运95572](http://www.95572.com "中铁快运股份有限公司")  
+	[中铁集装箱](http://www.crct.com "中铁集装箱运输有限责任公司")、
+	[中铁特货](http://www.crscsc.com.cn "中铁特货运输有限责任公司")、
+	[中铁快运95572](http://www.95572.com "中铁快运股份有限公司")  
 	* 非运输企业（11个）：
-中国铁路投资有限公司、
-[铁道科学研究院](http://www.rails.cn "中国铁道科学研究院集团有限公司")、
-[铁路经济规划研究院](http://www.crecc.com.cn "中国铁路经济规划研究院有限公司")、
-中国铁路信息科技有限责任公司、
-中国铁路设计集团有限公司、中国铁路国际有限公司、铁总服务有限公司、
-[铁道出版社](http://www.tdpress.com "中国铁道出版社有限公司")、
-《人民铁道》报业有限公司、
-中国铁路专运中心、中国铁路文工团有限公司。</small>
-
+	中国铁路投资有限公司、
+	[铁道科学研究院](http://www.rails.cn "中国铁道科学研究院集团有限公司")、
+	[铁路经济规划研究院](http://www.crecc.com.cn "中国铁路经济规划研究院有限公司")、
+	中国铁路信息科技有限责任公司、
+	中国铁路设计集团有限公司、中国铁路国际有限公司、铁总服务有限公司、
+	[铁道出版社](http://www.tdpress.com "中国铁道出版社有限公司")、
+	《人民铁道》报业有限公司、
+	中国铁路专运中心、中国铁路文工团有限公司。</small>
 *	所属事业单位（3个）：<small>
-铁道党校、
-中国铁道博物馆、
-铁道战备舟桥处。</small>
+	铁道党校、
+	[中国铁道博物馆](http://www.china-rail.org.cn)、铁道战备舟桥处。</small>
 
 <div id="X3"><a href="#tupu" target="_top">▲</a>　
 👔 <b>中国烟草集团</b></div>
@@ -257,7 +255,7 @@
 ----------------
 计98家，截至2022年底
 
-　按国资委官网排序，点击 上市公司数▽/▼，跳转到页面下方 上市公司名单。网站群与数字报仍在收录，已过半。
+　按国资委官网排序，点击 上市公司数▽/▼，跳转到页面下方 上市公司名单。网站群与数字报仍在收录，已过八成。
 
 1⠀☢️	[中核集团](http://www.cnnc.com.cn){:id="1"} 	⠀CNNC <small>[网站群](http://www.cnnc.com.cn/cnnc/xxgk/gkml/qyjbxx/cydw55/index.html)	⠀北京 🚩 	⠀[<b>5</b>家上市▽](#G1){:target="_top"}	⠀中国核工业集团有限公司 	⠀[wb](https://weibo.com/cnnc#中核集团)	⠀👥[报刊订阅](https://www.cnnc.com.cn/cnnc/xwzx65/bzqk/index.html)</small>  
 2⠀🛰	[航天科技](http://www.spacechina.com){:id="2"} 	⠀CASC <small>[网站群](http://www.spacechina.com/n25/n150/)	⠀北京 🚩 	⠀[<b>14</b>家上市▼](#G2){:target="_top"}	⠀中国航天科技集团有限公司 	⠀[wb](https://weibo.com/n/中国航天科技集团)	⠀[国际交流](http://www.htgjjl.com/)：[期刊平台](http://www.zghtqk.com/SKY/)、[中国航天报](http://www.csn.spacechina.com)/[📰](http://szb.htgjjl.com/)</small>  
@@ -846,7 +844,7 @@
 [96▲](#96){:target="_top"}{:id="G96"}⠀	中储股份	[600787](http://webapi.cninfo.com.cn/#/company?companyid=600787)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接	⠀[中储发展股份有限公司](http://www.cmstd.com.cn)</sub>  
 [97△](#97){:target="_top"}{:id="G97"}⠀	国新健康	[000503](http://webapi.cninfo.com.cn/#/company?companyid=000503)	<sub>⠀深市⠀主板⠀A股	⠀待定连接	⠀[国新健康保障服务集团股份有限公司](http://www.crhms.cn)</sub>  
 [98▲](#98){:target="_top"}{:id="G98"}⠀			<sub>⠀⠀⠀	⠀待定连接	⠀[]()</sub>  
-。*ST替换为xST
+。  * ST替换为xST
 
 
 <div id='D7' align="right"><a href="#" target="_top">↑ Top</a></div>
