@@ -41,13 +41,13 @@
 
 *	中央文化企业 🌻，3家
 	* [中国出版集团](http://cn.cnpubg.com)有限公司⠀CPG 北京　[网站群⇗](http://cn.cnpubg.com/overview/sites/)，[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)
-	* [中国广电集团](http://www.cbn.cn '中国广播电视网络集团')有限公司 BroadNet 北京　[网站群▽](#D6){:target="_top"}
-	* 紫荆文化集团[]()有限公司 BCHL 香港　<del>网站群</del> 主要企业：[对外文化](http://www.caeg.cn)、中国基金报[📰](http://www.chinapostnews.com.cn/)、[凤凰卫视](https://phtv.ifeng.com)
+	* [中国广电集团](http://www.cbn.cn '中国广播电视网络集团')有限公司 BroadNet 北京　[网站群▼](#W2){:target="_top"}
+	* 紫荆文化集团[]()有限公司 BCHL 香港　[网站群▽](#W3){:target="_top"} 主要企业：[对外文化](http://www.caeg.cn)、中国基金报[📰](http://www.chinapostnews.com.cn/)、[凤凰卫视](https://phtv.ifeng.com)
 
 *	中央行政企业 👔，4家
-	* [中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京　[网站群▽](#X1){:target="_top"}，[三大业务](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)，中国邮政报[📰](http://www.chinapostnews.com.cn/)
+	* [中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京　[网站群▼](#X1){:target="_top"}，[三大业务](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)，中国邮政报[📰](http://www.chinapostnews.com.cn/)
 	* 中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京　[网站群▽](#X2){:target="_top"}，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)，[媒体矩阵](http://www.china-railway.com.cn/wnfw/jzlm/)；[国铁客运12306](https://www.12306.cn)、[国铁货运95306](http://www.95306.cn "招商、采购")
-	* [中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群▽](#X3){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
+	* [中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群▼](#X3){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
 	* [北大荒农垦集团](https://www.chinabdh.com)有限公司 BDH 哈尔滨　[网站群⇗](https://www.chinabdh.com/GroupIndustry.html)，wx：北大荒日报
 
 *	中央金融企业 🥯，27家，2022年**财政部**公布名单：工行/中信/人保……
@@ -60,14 +60,15 @@
 
 *	[参考文献](#D7){:target="_top"}与国资委网址
 
-<div id="D6" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
 
 部分央企网站群
 -------------
 
 　　部分央企官网没有为集团子公司网站群提供独立页面，本段将这些央企网站群收录如下，方便读者查找。
 
-<b>中国广电集团</b>，业务有关部门：国务院/[国家广电总局](https://www.nrta.gov.cn)
+<div id="W2" >
+🌻 <b>中国广电集团</b>，业务有关部门：国务院/[国家广电总局](https://www.nrta.gov.cn)
+　　<a href="#tupu" target="_top">▲</a></div>
 
 *	下属公司网站：
 　[中国有线](http://www.cncatv.com)电视网络有限公司
@@ -119,9 +120,18 @@
 　[宁夏广电](http://www.nx96200.cn)
 　[新疆广电](http://www.xjgdj.gov.cn)
 
-<div align="right" id="X1"><a href="#tupu" target="_top">△</a></div>
 
-<b>中国邮政集团</b>，业务有关部门：国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)
+<div id="W3">
+🌻 <b>紫荆文化集团</b>，业务有关部门：国务院/[文化和旅游部](https://www.mct.gov.cn/)
+　　<a href="#tupu" target="_top">△</a></div>
+
+
+
+
+
+<div id="X1">
+👔 <b>中国邮政集团</b>，业务有关部门：国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)
+　　<a href="#tupu" target="_top">▲</a></div>
 
 *	控股公司与EMS：
 <a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
@@ -144,9 +154,9 @@
 <a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
 </small>
 
-<div align="right" id="X2"><a href="#tupu" target="_top">△</a></div>
-
-<b>国家铁路集团</b>，业务有关部门：国务院/[交通运输部](https://www.mot.gov.cn)/[国家铁道局](https://www.nra.gov.cn)
+<div id="X2">
+👔 <b>国家铁路集团</b>，业务有关部门：国务院/[交通运输部](https://www.mot.gov.cn)/[国家铁道局](https://www.nra.gov.cn)
+　　<a href="#tupu" target="_top">△</a></div>
 
 *	国铁所属企业：<small>
 	* 铁路局集团公司（18个）：
@@ -175,9 +185,9 @@
 中国铁道博物馆、
 铁道战备舟桥处。</small>
 
-<div align="right" id="X3"><a href="#tupu" target="_top">△</a></div>
-
-<b>中国烟草集团</b>，业务有关部门：国务院/[工业和信息化部](https://www.miit.gov.cn)/[国家烟草专卖局](http://www.tobacco.gov.cn/)
+<div id="X3">
+👔 <b>中国烟草集团</b>，业务有关部门：国务院/[工业和信息化部](https://www.miit.gov.cn)/[国家烟草专卖局](http://www.tobacco.gov.cn/)
+　　<a href="#tupu" target="_top">▲</a></div>
 
 *	直属机构：
 　[南通醋纤](http://www.ncfcinfo.com)
@@ -185,6 +195,40 @@
 　[珠海醋纤](https://www.zcfc.com)
 　[郑州烟草研究院](https://www.ztri.com.cn)？
 　[职工进修学院](https://www.ctt.cn)
+*	省级单位（烟草专卖局/公司）：
+　[北京](http://bj.tobacco.gov.cn)
+　[天津](http://tj.tobacco.gov.cn)
+　[河北](http://he.tobacco.gov.cn)
+　[山西](http://sx.tobacco.gov.cn)
+　[内蒙古](http://nm.tobacco.gov.cn)
+　[辽宁](http://ln.tobacco.gov.cn)
+　[吉林](http://www.jltobacco.com.cn)
+　[黑龙江](https://hlj.tobacco.gov.cn)
+　<i>[大连](http://dl.tobacco.gov.cn)</i>
+　[上海](http://www.sh.tobacco.gov.cn)
+　[江苏](http://js.tobacco.gov.cn)
+　[浙江](https://zjyc.tobacco.gov.cn)
+　[安徽](http://ah.tobacco.gov.cn)
+　[福建](http://fj.tobacco.gov.cn)
+　[江西](http://jx.tobacco.gov.cn)
+　[山东](https://sd.tobacco.gov.cn)
+　[河南](https://ha.tobacco.gov.cn)
+　[湖北](https://hb.tobacco.gov.cn)
+　[湖南](http://hn.tobacco.gov.cn)
+　[广东](http://gd.tobacco.gov.cn)
+　[广西](http://gx.tobacco.gov.cn)
+　[海南](https://hi.tobacco.gov.cn)
+　<i>[深圳](https://sz.tobacco.gov.cn)</i>
+　[重庆](http://cq.tobacco.gov.cn)
+　[四川](http://sc.tobacco.gov.cn)
+　[贵州](http://gz.tobacco.gov.cn)
+　[云南](https://www.yn-tobacco.com)
+　[西藏](http://www.tobacco.gov.cn/gjyc/xzycgsjj/sjzz_tt.shtml)
+　[陕西](http://sn.tobacco.gov.cn)
+　[甘肃](http://gs.tobacco.gov.cn)
+　[青海](http://qh.tobacco.gov.cn)
+　[宁夏](https://nx.tobacco.gov.cn)
+　[新疆](http://www.tobacco.gov.cn/gjyc/xjycgsjj/sjzz_tt.shtml)
 *	工业企业：
 　[河北中烟工业](http://hegy.tobacco.com.cn)
 　[江苏中烟工业](http://jsgy.tobacco.com.cn)
@@ -203,40 +247,6 @@
 　[贵州中烟工业](http://gzgy.tobacco.com.cn)
 　[云南中烟工业](http://yngy.tobacco.com.cn)
 　[陕西中烟工业](https://sxgy.tobacco.com.cn)
-*	省级单位：
-　[北京中烟](http://bj.tobacco.gov.cn)
-　[天津中烟](http://tj.tobacco.gov.cn)
-　[河北中烟](http://he.tobacco.gov.cn)
-　[山西中烟](http://sx.tobacco.gov.cn)
-　[内蒙古中烟](http://nm.tobacco.gov.cn)
-　[辽宁中烟](http://ln.tobacco.gov.cn)
-　[吉林中烟](http://www.jltobacco.com.cn)
-　[黑龙江中烟](https://hlj.tobacco.gov.cn)
-　<i>[大连中烟](http://dl.tobacco.gov.cn)</i>
-　[上海中烟](http://www.sh.tobacco.gov.cn)
-　[江苏中烟](http://js.tobacco.gov.cn)
-　[浙江中烟](https://zjyc.tobacco.gov.cn)
-　[安徽中烟](http://ah.tobacco.gov.cn)
-　[福建中烟](http://fj.tobacco.gov.cn)
-　[江西中烟](http://jx.tobacco.gov.cn)
-　[山东中烟](https://sd.tobacco.gov.cn)
-　[河南中烟](https://ha.tobacco.gov.cn)
-　[湖北中烟](https://hb.tobacco.gov.cn)
-　[湖南中烟](http://hn.tobacco.gov.cn)
-　[广东中烟](http://gd.tobacco.gov.cn)
-　[广西中烟](http://gx.tobacco.gov.cn)
-　[海南中烟](https://hi.tobacco.gov.cn)
-　<i>[深圳中烟](https://sz.tobacco.gov.cn)</i>
-　[重庆中烟](http://cq.tobacco.gov.cn)
-　[四川中烟](http://sc.tobacco.gov.cn)
-　[贵州中烟](http://gz.tobacco.gov.cn)
-　[云南中烟](https://www.yn-tobacco.com)
-　[西藏中烟](http://www.tobacco.gov.cn/gjyc/xzycgsjj/sjzz_tt.shtml)
-　[陕西中烟](http://sn.tobacco.gov.cn)
-　[甘肃中烟](http://gs.tobacco.gov.cn)
-　[青海中烟](http://qh.tobacco.gov.cn)
-　[宁夏中烟](https://nx.tobacco.gov.cn)
-　[新疆中烟](http://www.tobacco.gov.cn/gjyc/xjycgsjj/sjzz_tt.shtml)
 
 	链接有效性待检查
 
@@ -874,7 +884,7 @@
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	央企股票全家福 version 0.4.9	202307
+	央企股票全家福 version 0.5.0	202307
 	https://Laosheng.top/fuwu/yangqi
 ```
 
