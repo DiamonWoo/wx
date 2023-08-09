@@ -7,7 +7,6 @@
 
 *	/falv/　 　	　☸️ [大萌望海楼](falv/fahai)，找法不用愁
 *	/fuwu/yanxiao	　👨‍🎓 [高等院校三千所](fuwu/yuanxiao)，快速看懂中国大学层级图谱
-*	/fuwu/yangqi	　🧧 [央企股票全家福](fuwu/yangqi)
 *	/fly/waixuan	　🔥 [中央外宣云媒体](fly/waixuan)，文明古国在崛起
 *	/ydyl/jiaoyihui	　[交易会和电影节](ydyl/jiaoyihui) 💫，主要国际交易会、每个月都有的电影节
 <!-- *	/fuwu/jujia	　[新冠居家指引](fuwu/jujia)文件速查，中医药康复治疗方法😷 -->
