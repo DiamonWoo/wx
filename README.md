@@ -1,4 +1,5 @@
 <!-- # wx 同名标题会被合并 -->
+<link rel="canonical" href="https://Laosheng.top" />
 
 为低版本微信转发 Laosheng.top 设置的镜像页
 
@@ -38,4 +39,3 @@
 --------
 
 *	LSIP [大规模集成网页](https://diamonwoo.github.io/LSIP ) 集成超过1000个超链接的网页
-
