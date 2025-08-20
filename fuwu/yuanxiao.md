@@ -439,7 +439,7 @@
 　　国防七子是指由1961年原国防科委直属、现由**工信部**（加挂[国防科工局](https://www.sastind.gov.cn/)牌子）直属的七所国防工业类院校：哈工大、哈工程、西工大、北航、南航、北理工、南理工。
 
 　　2020年5月、12月，美国商务部[工业与安全局(BIS)](https://www.commerce.gov/bureaus-and-offices/bis)分两批将110个中国机构列入被制裁的‘实体清单’(Entity List)，不许从美国购买商品、软件和技术。这份清单中包含18所中国高校，上面的国防七子全部在列。  
-　　这份名单是动态调整的，后来，美国的国防部、财政部、国土安全部也推出了各种制裁清单，名单上已超过一千家，比如：中国航天科工的研究所和工厂、中国电科集团的研究所和公司、华为在世界各地的分公司、克拉玛依市公安局������……在美国[电子联邦法规](https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C)(eCFR)网站，点击最下方：Part 774  The Commerce Control List，可以查到一份很长很长的汇总清单。
+　　这份名单是动态调整的，后来，美国的国防部、财政部、国土安全部也推出了各种制裁清单，名单上已超过一千家，比如：中国航天科工的研究所和工厂、中国电科集团的研究所和公司、华为在世界各地的分公司、克拉玛依市公安局������……在美国[电子联邦法规](https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C)(eCFR)网站，点击最下方：Part 774  The Commerce Control List，可以查到一份很长很长的汇总清单。
 
 <div align="right" id="D43">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
 
@@ -589,3 +589,4 @@
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 点击二维码，“在浏览器打开” https://Laosheng.top  
+
