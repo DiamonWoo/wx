@@ -1,7 +1,9 @@
 <!-- # wx 同名标题会被合并 -->
 <link rel="canonical" href="https://Laosheng.top" />
 
-为低版本微信转发 Laosheng.top 设置的镜像页
+**这里将作为 老生常谈网 的外宣材料仓库。**
+
+此前原为低版本微信转发 Laosheng.top 设置的测试镜像页，随着各方面软件的升级，已不再必要。
 
 镜像页
 ------
